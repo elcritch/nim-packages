@@ -109,24 +109,6 @@
       ]
     },
     {
-      "v": "1.10.1@cd60b254a0700b0daac7a6cb2c0c48860b57c539",
-      "r": [
-        "nimcrypto >= 0.6.0 & < 0.7.0",
-        "dnsclient >= 0.3.0 & < 0.4.0",
-        "bearssl >= 0.2.5",
-        "chronicles >= 0.10.2",
-        "chronos >= 4.0.3",
-        "metrics",
-        "secp256k1",
-        "stew >= 0.4.0",
-        "websock",
-        "unittest2",
-        "results",
-        "gh:status-im/nim-quic #a6c30263c95fc5ddb2ef4d197c09b282555c06b0"
-      ],
-      "m": "1.6.0"
-    },
-    {
       "v": "1.10.0@c1a91761a4c65bffab93912579376f006e5c8b27",
       "r": [
         "nimcrypto >= 0.6.0 & < 0.7.0",
@@ -311,7 +293,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-30T18:34:30Z",
+  "generatedAt": "2026-05-31T00:50:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -381,16 +363,16 @@
       "httputils <= 1.13.0",
       "json_serialization <= 1.13.0",
       "metrics <= 1.13.0",
-      "ngtcp2 > 1.10.1 & <= 1.13.0",
+      "ngtcp2 > 1.10.0 & <= 1.13.0",
       "nimcrypto <= 1.13.0",
-      "quic > 1.10.1 & <= 1.13.0",
+      "quic > 1.10.0 & <= 1.13.0",
       "results <= 1.13.0",
       "secp256k1 <= 1.13.0",
       "serialization <= 1.13.0",
       "stew <= 1.13.0",
       "testutils <= 1.13.0",
       "unittest2 <= 1.13.0",
-      "upraises > 1.10.1 & <= 1.13.0",
+      "upraises > 1.10.0 & <= 1.13.0",
       "websock <= 1.13.0",
       "zlib <= 1.13.0"
     ],

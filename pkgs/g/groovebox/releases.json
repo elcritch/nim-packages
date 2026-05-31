@@ -14,16 +14,6 @@
   ],
   "releases": [
     {
-      "v": "0.1.2@619093e3d495717b56285278be56be2c6845d062",
-      "r": [
-        "kapsis #head",
-        "libevent #head",
-        "rtmp #head",
-        "malebolgia #head",
-        "nyml #head"
-      ]
-    },
-    {
       "v": "0.1.1@7a888ab7f41dbc27e4419333bf7be08c61718395",
       "r": [
         "kapsis #head",
@@ -46,7 +36,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-30T18:33:07Z",
+  "generatedAt": "2026-05-31T00:49:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

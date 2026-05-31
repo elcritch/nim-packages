@@ -303,18 +303,6 @@
       "m": "1.4.0"
     },
     {
-      "v": "3.1.0@21d00222d4dc9f61c3f6e4697cfeb1647a9e7e77",
-      "r": [
-        "vmath >= 1.1.0",
-        "chroma >= 0.2.5",
-        "zippy >= 0.6.2",
-        "flatty >= 0.2.2",
-        "nimsimd >= 1.0.0",
-        "bumpy >= 1.0.3"
-      ],
-      "m": "1.4.0"
-    },
-    {
       "v": "3.0.4@c92fe9f3e3e10fc2020a97a6631c3e9a9401eeac",
       "r": [
         "vmath >= 1.1.0",
@@ -817,7 +805,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-30T18:37:17Z",
+  "generatedAt": "2026-05-31T00:53:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
