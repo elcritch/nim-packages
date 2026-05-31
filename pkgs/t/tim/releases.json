@@ -2,10 +2,10 @@
   "cv": 19,
   "name": "tim",
   "fqn": "tim.openpeeps.github.com",
-  "current": "0f446f81ae850a6cc23ebfd0edc1c3560bc4ccb8",
+  "current": "a38028b0af0bb970e91fd8cee1508c56faf1d465",
   "author": "OpenPeeps",
   "description": "A super fast template engine for cool kids!",
-  "license": "LGPLv3",
+  "license": "LGPL-3.0-or-later",
   "nim": "2.0.0",
   "srcDir": "src",
   "binDir": "bin",
@@ -22,6 +22,31 @@
   ],
   "releases": [
     {
+      "v": "0.2.2@a38028b0af0bb970e91fd8cee1508c56faf1d465^",
+      "r": [
+        "kapsis >= 0.3.3",
+        "vancode >= 0.1.1",
+        "flatty >= 0.4.0",
+        "checksums >= 0.2.2",
+        "voodoo >= 0.1.9",
+        "watchout >= 0.2.2",
+        "openparser >= 0.1.2",
+        "semver >= 1.2.3"
+      ]
+    },
+    {
+      "v": "0.2.1@be443a6d1f8b4ecc32486f6d0a5e8a70d8047670",
+      "r": [
+        "kapsis >= 0.3.3",
+        "vancode >= 0.1.1",
+        "flatty >= 0.4.0",
+        "checksums >= 0.2.2",
+        "voodoo >= 0.1.9",
+        "watchout >= 0.2.2",
+        "openparser >= 0.1.2"
+      ]
+    },
+    {
       "v": "0.2.0@ab83a314e4217bddffc9b45ed1f1272d7af11ed3",
       "r": [
         "kapsis #head",
@@ -36,7 +61,8 @@
         "libffi",
         "gccjit",
         "watchout #head"
-      ]
+      ],
+      "l": "LGPLv3"
     },
     {
       "v": "0.1.3@7d430f496c16a6a5347a4124f94d3b56020943b1",
@@ -56,7 +82,8 @@
         "genny >= 0.1.0",
         "htmlparser",
         "httpbeast #head"
-      ]
+      ],
+      "l": "LGPLv3"
     },
     {
       "v": "0.1.2@76b383aa3c1119d8b8999d973acaa94f04cbf567",
@@ -120,7 +147,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:37:51Z",
+  "generatedAt": "2026-05-31T12:50:16Z",
   "allDeps": {
     "packages": [
       "ansiparse",
@@ -128,7 +155,7 @@
       "bigints",
       "blackpaper",
       "checksums",
-      "denim",
+      "denim <= 0.2.0",
       "dotenv > 0.1.2",
       "flatty",
       "floof",
@@ -157,6 +184,7 @@
       "toktok",
       "urlly > 0.1.2 & <= 0.1.3",
       "valido",
+      "vancode > 0.2.0",
       "voodoo",
       "watchout",
       "websocketx",
