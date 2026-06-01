@@ -1,1 +1,1 @@
-{"v":"#head@5eda6712f116ebcbce1f913589d993bf2eb079e1","r":["semver >= 1.2.3","kapsis >= 0.3.4","libevent >= 0.1.1","flatty >= 0.4.0","openparser >= 0.1.2","emitter >= 0.1.0","ozark >= 0.1.4","threading >= 0.1.0","mimedb >= 0.1.0"]}
+{"v":"#head@ce0235dbeeb942f199e8d46fb2459aade26aefe7","r":["semver >= 1.2.3","kapsis >= 0.3.4","libevent >= 0.1.1","flatty >= 0.4.0","openparser >= 0.1.2","emitter >= 0.1.0","ozark >= 0.1.4","threading >= 0.1.0","mimedb >= 0.1.0","checksums >= 0.2.2"]}

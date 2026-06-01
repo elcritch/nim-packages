@@ -77,13 +77,6 @@
       "m": "1.6.0"
     },
     {
-      "v": "0.1.5@a6380730e6b5dd321a39cc803a490e996774c569",
-      "r": [
-        "datamancer"
-      ],
-      "m": "1.2.0"
-    },
-    {
       "v": "0.1.4@d7dbe0e53f423bd7d885905fd435c4d7ccdb3466",
       "r": [],
       "m": "1.2.0"
@@ -106,7 +99,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:29:37Z",
+  "generatedAt": "2026-06-01T14:16:33Z",
   "allDeps": {
     "packages": [
       "arraymancer > 0.1.4 & <= 0.1.10",

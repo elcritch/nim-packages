@@ -37,6 +37,14 @@
       ]
     },
     {
+      "v": "0.1.1@a74498042f52d47879a002a24c7168ef6e680b50",
+      "r": [
+        "cligen >= 1.0.0",
+        "nimquery >= 1.2.2",
+        "tiny_sqlite #0b7c1a59cf7b722d7df3079a90ad84a742942c71"
+      ]
+    },
+    {
       "v": "0.1.0@3138bf7cd4061761b9655c1d5cbcfa99ea1bb296",
       "r": [
         "cligen >= 1.0.0",
@@ -47,7 +55,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-01T08:02:26Z",
+  "generatedAt": "2026-06-01T14:23:31Z",
   "allDeps": {
     "packages": [
       "cligen",
