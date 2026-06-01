@@ -67,6 +67,30 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-4d314b37-waku.nimble\ncannot resolve package name: ffi"
     },
     {
+      "v": "0.37.4@79bc9fd421d0c0de12cf2a9f87a3a77e5b4f5feb",
+      "r": [
+        "chronicles",
+        "confutils",
+        "chronos",
+        "dnsdisc",
+        "eth",
+        "json_rpc",
+        "libbacktrace",
+        "nimcrypto",
+        "serialization",
+        "stew",
+        "stint",
+        "metrics",
+        "libp2p >= 1.14.2",
+        "web3",
+        "presto",
+        "regex",
+        "results",
+        "db_connector",
+        "minilru"
+      ]
+    },
+    {
       "v": "0.37.3@f3852c3a439353d74f3b7175fe3347e4f5aecd32",
       "r": [
         "chronicles",
@@ -760,7 +784,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-01T14:24:51Z",
+  "generatedAt": "2026-06-01T19:55:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -869,10 +893,10 @@
       "httputils",
       "json_rpc",
       "json_serialization",
-      "jwt > 0.37.3",
+      "jwt > 0.37.4",
       "libbacktrace",
       "libp2p",
-      "lsquic > 0.37.3",
+      "lsquic > 0.37.4",
       "metrics",
       "minilru",
       "nat_traversal",
@@ -899,7 +923,7 @@
       "zlib"
     ],
     "urls": [
-      "error://ffi > 0.37.3"
+      "error://ffi > 0.37.4"
     ],
     "unresolved": [
       "gh:status-im/nim-mbedtls",
