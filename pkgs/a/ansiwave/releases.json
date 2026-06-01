@@ -244,20 +244,6 @@
       ]
     },
     {
-      "v": "1.7.7@fb374ce6596ca8824a26933426a134fe753c9156",
-      "r": [
-        "pararules >= 1.1.0",
-        "paramidi >= 0.6.0",
-        "paramidi_soundfonts >= 0.2.0",
-        "parasound >= 1.0.0",
-        "zippy >= 0.7.3",
-        "stb_image >= 2.5",
-        "wavecore >= 0.7.0",
-        "chrono >= 0.3.0",
-        "nimwave >= 0.8.0"
-      ]
-    },
-    {
       "v": "1.7.7@6d7c6fc9c32f0429f1b8fedf897d7d9d29e52e5e",
       "r": [
         "pararules >= 1.1.0",
@@ -712,6 +698,19 @@
     },
     {
       "v": "1.5.0@f7e7b9c042f48b1d4aceb6a50aa8f58647435d17",
+      "r": [
+        "pararules >= 1.0.0",
+        "paramidi >= 0.6.0",
+        "paramidi_soundfonts >= 0.2.0",
+        "parasound >= 1.0.0",
+        "zippy >= 0.5.5",
+        "stb_image >= 2.5",
+        "wavecore >= 0.5.0",
+        "chrono >= 0.3.0"
+      ]
+    },
+    {
+      "v": "1.5.0@31bd8b9f7dc938e9378f46bf48b9f511a57f4c92",
       "r": [
         "pararules >= 1.0.0",
         "paramidi >= 0.6.0",
@@ -1971,7 +1970,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-31T18:31:13Z",
+  "generatedAt": "2026-06-01T00:50:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

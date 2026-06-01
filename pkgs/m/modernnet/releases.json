@@ -10,6 +10,13 @@
   "srcDir": "src",
   "releases": [
     {
+      "v": "3.2.3@f4f0389040a918fe58c573287c0d7aa17513741e",
+      "r": [
+        "zippy >= 0.10.11",
+        "uuids >= 0.1.12"
+      ]
+    },
+    {
       "v": "3.2.2@3968c44a5c8ad80365362eacf7b5027c82798894",
       "r": [
         "zippy >= 0.10.9",
@@ -83,7 +90,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-31T18:34:57Z",
+  "generatedAt": "2026-06-01T00:53:53Z",
   "allDeps": {
     "packages": [
       "graphemes <= 3.0.0",

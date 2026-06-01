@@ -475,6 +475,23 @@
       "p": []
     },
     {
+      "v": "1.91.6.8@17eaa26f44bfd66601f0ce67da6f6d6ed681994e",
+      "r": [
+        "nimgl 1.3.2",
+        "sdl2_nim 2.0.14.3",
+        "tinydialogs 1.1.0",
+        "stb_image 2.5",
+        "glfw 3.4.0.4",
+        "sdl3_nim >= 0.6"
+      ],
+      "x": [
+        "src/img",
+        "src/imguin/private/updater"
+      ],
+      "m": "2.0.14",
+      "p": []
+    },
+    {
       "v": "1.91.6.7@9894e69088f38fa5e649d07a9c93b5d4af16b27a",
       "r": [
         "nimgl 1.3.2",
@@ -1318,7 +1335,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-31T18:34:03Z",
+  "generatedAt": "2026-06-01T00:52:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

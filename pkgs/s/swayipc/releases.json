@@ -19,13 +19,6 @@
       ]
     },
     {
-      "v": "3.1.7@7a454a16888b93deef0a9f766a7ab5019cc40b5b",
-      "r": [
-        "nesm >= 0.4.5",
-        "cligen >= 0.9.40"
-      ]
-    },
-    {
       "v": "3.1.6@18d270e136146f54cd33398ada18909f24c21b78",
       "r": [
         "nesm >= 0.4.5",
@@ -141,7 +134,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-31T18:37:54Z",
+  "generatedAt": "2026-06-01T00:56:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
