@@ -2,13 +2,24 @@
   "cv": 19,
   "name": "sigui",
   "fqn": "sigui.levovix0.github.com",
-  "current": "b337aabcac8058d884b93bc32ca52175360b9f9e",
+  "current": "231dc41cca3ccceae76692a96a6f579d91c9ffa8",
   "author": "levovix0",
   "description": "Flexieble gui framework",
   "license": "MIT",
   "nim": "2.2.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.2.6@231dc41cca3ccceae76692a96a6f579d91c9ffa8^",
+      "r": [
+        "fusion",
+        "siwin >= 1.0.2",
+        "bumpy",
+        "error://rice >= 0.1.4"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/sigui.levovix0.github.com-231dc41c-sigui.nimble\ncannot resolve package name: rice"
+    },
     {
       "v": "0.2.5.1@05e8f39e878ad7c1f8182c1e69614dc4930702cd",
       "r": [
@@ -127,7 +138,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-02T07:58:51Z",
+  "generatedAt": "2026-06-02T13:39:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -140,9 +151,10 @@
       "0.2",
       "0.2.1",
       "0.2.3",
-      "0.2.4"
+      "0.2.4",
+      "0.2.6"
     ],
-    "latest": "0.2.4"
+    "latest": "0.2.6"
   },
   "allDeps": {
     "packages": [
@@ -170,7 +182,9 @@
       "x11",
       "zippy"
     ],
-    "urls": [],
+    "urls": [
+      "error://rice > 0.2.5.1"
+    ],
     "unresolved": [
       "gh:levovix0/rice",
       "gh:planetis-m/vulkan",

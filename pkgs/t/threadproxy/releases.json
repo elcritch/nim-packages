@@ -34,6 +34,10 @@
       "r": []
     },
     {
+      "v": "0.1.0@fd3c4dc09eee41f9b3a894deac4d8a0efaa5c7d8",
+      "r": []
+    },
+    {
       "v": "0.0.2@5d0b550e8f587294fc48d7dbbc234224d126ea67",
       "r": [],
       "d": "Simplify Nim inter-thread Communication"
@@ -46,7 +50,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-02T07:59:59Z",
+  "generatedAt": "2026-06-02T13:40:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
