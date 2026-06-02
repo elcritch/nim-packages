@@ -14,6 +14,10 @@
       "r": []
     },
     {
+      "v": "0.7.0@a3653aba5f537b74ad0fdb1bf42f5715bfee490c",
+      "r": []
+    },
+    {
       "v": "0.6.1@76ba6a3103734a47d5cb755959bd59de39bd77e0",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
@@ -88,7 +92,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-01T19:52:53Z",
+  "generatedAt": "2026-06-02T00:57:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

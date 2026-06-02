@@ -166,6 +166,13 @@
       ]
     },
     {
+      "v": "2022.04.16@5dd925669f11062fce6c50729dd5c3161f5663dc",
+      "r": [],
+      "x": [
+        "examples"
+      ]
+    },
+    {
       "v": "2022.02.02@977cecc0e3eb52f79f4581f4aa618ef3bd9209a1",
       "r": [],
       "x": [
@@ -693,7 +700,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-01T19:54:32Z",
+  "generatedAt": "2026-06-02T00:59:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
