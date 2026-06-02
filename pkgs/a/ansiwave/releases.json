@@ -1666,6 +1666,18 @@
       ]
     },
     {
+      "v": "0.6.0@c84866a1fd6c7aa458bdf56ea153438dba51777b",
+      "r": [
+        "pararules >= 0.18.0",
+        "paramidi >= 0.6.0",
+        "paramidi_soundfonts >= 0.2.0",
+        "parasound >= 0.2.0",
+        "illwill >= 0.2.0",
+        "zippy >= 0.5.5",
+        "stb_image >= 2.5"
+      ]
+    },
+    {
       "v": "0.5.0@06e3af8a7069ca40a7fdbe6a60d47eac58c2ab5f",
       "r": [
         "pararules >= 0.18.0",
@@ -1972,7 +1984,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-02T13:26:50Z",
+  "generatedAt": "2026-06-02T19:25:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

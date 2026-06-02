@@ -31,13 +31,6 @@
       ]
     },
     {
-      "v": "0.4.1@a0ff8082493571a188ebea03e5421594c712689d",
-      "r": [
-        "glm >= 1.1.1",
-        "gh:nimgl/glfw >= 3.3.4"
-      ]
-    },
-    {
       "v": "0.4.0@5a3bbc6e0c102e575b0027ace64d4deda41c0a39",
       "r": [
         "glm >= 1.1.1",
@@ -103,7 +96,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-02T13:26:33Z",
+  "generatedAt": "2026-06-02T19:24:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -128,7 +121,7 @@
   "allDeps": {
     "packages": [
       "cligen <= 0.1.0",
-      "glm <= 0.4.1",
+      "glm <= 0.4.0",
       "graphemes <= 0.1.0",
       "nimterop <= 0.1.0",
       "regex <= 0.1.0",
