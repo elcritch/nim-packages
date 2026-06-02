@@ -311,16 +311,6 @@
       "m": "1.0.4"
     },
     {
-      "v": "1.0.1@d3a65769c923b986bb23722f21f69afa01d11af8",
-      "r": [
-        "sam >= 0.1.11"
-      ],
-      "x": [
-        "examples"
-      ],
-      "m": "1.0.4"
-    },
-    {
       "v": "1.0.0@d52e49f92c04828db48c046aaf558ed9068ad25d",
       "r": [
         "sam >= 0.1.11"
@@ -700,7 +690,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-02T00:59:07Z",
+  "generatedAt": "2026-06-02T07:59:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
