@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "loki",
   "fqn": "loki.beshrkayali.github.com",
-  "current": "c6d8f076cffe29227ba83f54c20d9b2598da2bb3",
+  "current": "1724bf586e4a99fc07f0415a9e08de7b19e8e327",
   "author": "Beshr Kayali",
   "description": "A small library for writing cli programs in Nim.",
   "license": "Zlib",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.3.0@c6d8f076cffe29227ba83f54c20d9b2598da2bb3^",
+      "v": "0.3.0@c6d8f076cffe29227ba83f54c20d9b2598da2bb3",
       "r": []
     },
     {
@@ -28,7 +28,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-02T19:31:23Z",
+  "generatedAt": "2026-06-03T01:02:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

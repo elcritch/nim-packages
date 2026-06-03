@@ -460,6 +460,14 @@
       ]
     },
     {
+      "v": "0.1.6@0caf1fcbeb3cb5509e06c6b40587346bffd5f45e",
+      "r": [
+        "chroma >= 0.1.0",
+        "gh:vindaar/seqmath >= 0.1.3",
+        "cairo"
+      ]
+    },
+    {
       "v": "0.1.5@5d441d1acc805ce03d6ed557654b505537e99b6d",
       "r": [
         "chroma >= 0.1.0",
@@ -502,7 +510,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-02T19:29:13Z",
+  "generatedAt": "2026-06-03T01:00:49Z",
   "allDeps": {
     "packages": [
       "arraymancer > 0.2.12",
