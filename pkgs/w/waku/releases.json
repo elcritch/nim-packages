@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "waku",
   "fqn": "nwaku.waku-org.github.com",
-  "current": "64a0ed7d967454d9c3b345023719e6ca5d73f129",
+  "current": "4099ff26382480ae2946f27087b430323330799e",
   "author": "Status Research & Development GmbH",
   "description": "Waku, Private P2P Messaging for Resource-Restricted Devices",
   "license": "MIT or Apache License 2.0",
@@ -784,7 +784,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-03T14:02:15Z",
+  "generatedAt": "2026-06-03T19:37:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
