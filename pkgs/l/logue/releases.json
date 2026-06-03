@@ -63,38 +63,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-03T07:54:54Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.1.0",
-      "v0.1.2",
-      "v0.1.6",
-      "v0.1.8",
-      "v0.2.0",
-      "v0.2.2",
-      "v0.2.4"
-    ],
-    "tagVersions": {
-      "v0.1.0": "0.1.0",
-      "v0.1.2": "0.1.2",
-      "v0.1.6": "0.1.6",
-      "v0.1.8": "0.1.8",
-      "v0.2.0": "0.2.0",
-      "v0.2.2": "0.2.2",
-      "v0.2.4": "0.2.4"
-    },
-    "latest": "v0.2.4",
-    "prerelease": [
-      "v0.1.0",
-      "v0.1.2",
-      "v0.1.8",
-      "v0.2.0"
-    ]
-  },
+  "generatedAt": "2026-06-03T13:54:11Z",
   "allDeps": {
     "packages": [
       "cligen"

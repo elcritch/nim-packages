@@ -56,11 +56,17 @@
       "r": [],
       "d": "Nim wrapper for the NanoVG antialiased vector graphics rendering library for OpenGL",
       "m": "1.0.6"
+    },
+    {
+      "v": "0.1.0@db67e8bcd29d0df429b4f467260b3b5e531481aa",
+      "r": [],
+      "d": "Nim wrapper for the NanoVG antialiased vector graphics rendering library for OpenGL",
+      "m": "1.0.2"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-03T07:55:33Z",
+  "generatedAt": "2026-06-03T13:55:04Z",
   "allDeps": {
     "packages": [],
     "urls": [],
