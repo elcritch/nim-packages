@@ -10,6 +10,10 @@
   "srcDir": "src",
   "releases": [
     {
+      "v": "0.2.0@a8ab20f4834b44acde4496438c041c89ace38476^",
+      "r": []
+    },
+    {
       "v": "0.1.2@d651a89328e04183cfe20e4fb1c58a6d1bc4c6af",
       "r": []
     },
@@ -28,7 +32,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-03T00:59:43Z",
+  "generatedAt": "2026-06-03T07:52:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

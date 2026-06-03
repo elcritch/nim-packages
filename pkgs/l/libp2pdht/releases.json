@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "libp2pdht",
   "fqn": "nim-codex-dht.codex-storage.github.com",
-  "current": "d02670d6b03f655db2872bee9e3fafe74ecfc8f3",
+  "current": "5ad5ed683ad27dbb12d68998a837d000a1354a38",
   "author": "Status Research & Development GmbH",
   "description": "DHT based on Eth discv5 implementation",
   "license": "MIT",
@@ -15,7 +15,7 @@
   ],
   "releases": [
     {
-      "v": "0.6.3@d02670d6b03f655db2872bee9e3fafe74ecfc8f3^",
+      "v": "0.6.3@d02670d6b03f655db2872bee9e3fafe74ecfc8f3",
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
@@ -192,7 +192,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:29:49Z",
+  "generatedAt": "2026-06-03T07:54:39Z",
   "allDeps": {
     "packages": [
       "asynctest <= 0.5.0",
