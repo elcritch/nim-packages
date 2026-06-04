@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "sqlite3_abi",
   "fqn": "nim-sqlite3-abi.arnetheduck.github.com",
-  "current": "8f9f2dbacb7408bb0b70857ca6aa882bd75624e0",
+  "current": "ec5f6de2e2f214380095b3095dab0726b6e411fd",
   "author": "Status Research & Development GmbH",
   "description": "A wrapper for SQLite",
   "license": "Apache License 2.0 or MIT",
@@ -15,7 +15,11 @@
   ],
   "releases": [
     {
-      "v": "3.53.1.0@8f9f2dbacb7408bb0b70857ca6aa882bd75624e0^",
+      "v": "3.53.2.0@ec5f6de2e2f214380095b3095dab0726b6e411fd^",
+      "r": []
+    },
+    {
+      "v": "3.53.1.0@8f9f2dbacb7408bb0b70857ca6aa882bd75624e0",
       "r": []
     },
     {
@@ -157,7 +161,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:36:54Z",
+  "generatedAt": "2026-06-04T13:27:07Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "metrics",
   "fqn": "nim-metrics.status-im.github.com",
-  "current": "66c6450e5d8cd4754ef1b9a3ad303c1d01b3b4bd",
+  "current": "b4b70a88fe1755d281366cbc3f22d7515240d192",
   "author": "Status Research & Development GmbH",
   "description": "Metrics client library supporting Prometheus",
   "license": "MIT or Apache License 2.0",
@@ -31,7 +31,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-04T07:52:02Z",
+  "generatedAt": "2026-06-04T13:21:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

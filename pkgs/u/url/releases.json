@@ -10,6 +10,14 @@
   "srcDir": "src",
   "releases": [
     {
+      "v": "0.1.8@327e7ed6bdedf4e1e41d389fad190a3a3508e9f9^",
+      "r": [
+        "results >= 0.5.1",
+        "shakar >= 0.1.3",
+        "overdrive >= 0.2.0"
+      ]
+    },
+    {
       "v": "0.1.7@2bc808241b2bf10017e81b4ce68c5ad070aaacf2",
       "r": [
         "results >= 0.5.1",
@@ -65,7 +73,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-04T07:57:10Z",
+  "generatedAt": "2026-06-04T13:28:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -78,9 +86,10 @@
       "0.1.4",
       "0.1.5",
       "0.1.6",
-      "0.1.7"
+      "0.1.7",
+      "0.1.8"
     ],
-    "latest": "0.1.7"
+    "latest": "0.1.8"
   },
   "allDeps": {
     "packages": [

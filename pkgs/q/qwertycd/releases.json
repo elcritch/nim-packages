@@ -21,6 +21,14 @@
       ]
     },
     {
+      "v": "0.1.2@7e362cd06c1b621c70d9187049028d85290b95f7",
+      "r": [
+        "illwill >= 0.2.0",
+        "parsetoml >= 0.5.0"
+      ],
+      "m": "1.2.6"
+    },
+    {
       "v": "0.1.1@f7e962210162c606f1d72c33d601f4fc810b2dff",
       "r": [
         "illwill >= 0.2.0"
@@ -37,7 +45,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-04T07:55:05Z",
+  "generatedAt": "2026-06-04T13:25:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
