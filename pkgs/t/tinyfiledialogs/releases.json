@@ -14,6 +14,11 @@
       "r": []
     },
     {
+      "v": "0.2.0@bdb7b5688f6f5aa87e5521a8f53acef1b5b5b985",
+      "r": [],
+      "m": "0.19.0"
+    },
+    {
       "v": "3.8.8@3d0db15d7d9bf3c3ec68f732cf8b1ca049f7bc41",
       "r": [],
       "m": "1.6.0"
@@ -26,7 +31,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-04T13:27:57Z",
+  "generatedAt": "2026-06-04T19:01:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],

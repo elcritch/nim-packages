@@ -141,6 +141,18 @@
       ]
     },
     {
+      "v": "0.2.11@a5bd3dd680f66b743f5d1a69333d0df84b9844b0",
+      "r": [
+        "stew >= 0.4.0",
+        "chronos >= 4.0.3 & < 5.0.0",
+        "nimcrypto >= 0.6.0 & < 0.7.0",
+        "ngtcp2 >= 0.36.1",
+        "unittest2",
+        "chronicles >= 0.11.0",
+        "bearssl >= 0.2.5"
+      ]
+    },
+    {
       "v": "0.2.10@0c87c1950cfda90f99634dc0c19d997f4dc26d87",
       "r": [
         "stew >= 0.4.0",
@@ -297,7 +309,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-04T13:25:40Z",
+  "generatedAt": "2026-06-04T19:00:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -34,10 +34,26 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-04T13:25:30Z",
+  "generatedAt": "2026-06-04T19:00:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.0.2",
+      "0.0.3",
+      "0.0.4",
+      "0.0.5"
+    ],
+    "latest": "0.0.5",
+    "prerelease": [
+      "0.0.2"
+    ]
   }
 }
