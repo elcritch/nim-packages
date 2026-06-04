@@ -16,6 +16,15 @@
   ],
   "releases": [
     {
+      "v": "10.10.1.0@2b453d3e6240b2081a9379ad15743d798461c13d",
+      "r": [
+        "results",
+        "tempfile",
+        "unittest2 >= 0.2.5"
+      ],
+      "h": true
+    },
+    {
       "v": "10.7.5.0@26fffbcac08f5e18dc9134460e2b2be5654e0823",
       "r": [
         "results",
@@ -72,7 +81,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:35:35Z",
+  "generatedAt": "2026-06-04T07:55:21Z",
   "allDeps": {
     "packages": [
       "results",

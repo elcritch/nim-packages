@@ -575,16 +575,6 @@
       ]
     },
     {
-      "v": "0.3.11@20bd9f15420860ad8c11c945e77737cecb51347f",
-      "r": [
-        "gh:Vindaar/seqmath >= 0.1.11",
-        "ginger >= 0.2.5",
-        "persvector >= 1.0.0",
-        "shell >= 0.2.2",
-        "arraymancer"
-      ]
-    },
-    {
       "v": "0.3.10@f09947109a1cd3d7917db4791a7a20265a0e7026",
       "r": [
         "gh:Vindaar/seqmath >= 0.1.11",
@@ -926,7 +916,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-02T13:31:10Z",
+  "generatedAt": "2026-06-04T07:50:10Z",
   "allDeps": {
     "packages": [
       "arraymancer",
