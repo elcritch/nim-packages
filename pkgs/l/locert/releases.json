@@ -56,14 +56,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-03T19:32:11Z",
-  "allDeps": {
-    "packages": [
-      "nim-sudo > 0.1.5"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-06-04T01:01:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -77,5 +70,12 @@
       "0.1.6"
     ],
     "latest": "0.1.6"
+  },
+  "allDeps": {
+    "packages": [
+      "nim-sudo > 0.1.5"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

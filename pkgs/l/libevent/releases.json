@@ -2,13 +2,17 @@
   "cv": 19,
   "name": "libevent",
   "fqn": "libevent-nim.openpeeps.github.com",
-  "current": "3d6942efb19eade4399d01ac1ef727ea961c2deb",
+  "current": "73d1d5c03d4bb471b444707f796539705359d810",
   "author": "George Lemon",
   "description": "Bindings for Libevent",
   "license": "MIT",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.1.2@73d1d5c03d4bb471b444707f796539705359d810^",
+      "r": []
+    },
     {
       "v": "0.1.1@ed143c000c72b9fc0ba0d101b62712688cc70a1c",
       "r": []
@@ -20,7 +24,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:29:44Z",
+  "generatedAt": "2026-06-04T01:01:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

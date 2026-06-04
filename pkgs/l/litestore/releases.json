@@ -276,32 +276,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-03T19:32:13Z",
-  "allDeps": {
-    "packages": [
-      "bearssl > 1.5.1 & <= 1.12.2",
-      "c2nim > 1.7.0",
-      "db_connector > 1.12.1",
-      "docopt > 1.7.0",
-      "duktape > 1.7.0",
-      "graphemes > 1.7.0",
-      "jwt > 1.5.1 & <= 1.12.2",
-      "nimgen > 1.7.0",
-      "regex > 1.7.0",
-      "segmentation > 1.7.0",
-      "unicodedb > 1.7.0",
-      "unicodeplus > 1.7.0",
-      "unittest2 > 1.5.1 & <= 1.12.2"
-    ],
-    "urls": [
-      "error://nimrod <= 1.1.1"
-    ],
-    "unresolved": [
-      "gh:h3rald/nim-jwt",
-      "gh:yglukhov/bearssl_pkey_decoder",
-      "gh:yglukhov/linktools"
-    ]
-  },
+  "generatedAt": "2026-06-04T01:01:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -368,5 +343,30 @@
       "v1.9.3": "1.9.3"
     },
     "latest": "v1.13.0"
+  },
+  "allDeps": {
+    "packages": [
+      "bearssl > 1.5.1 & <= 1.12.2",
+      "c2nim > 1.7.0",
+      "db_connector > 1.12.1",
+      "docopt > 1.7.0",
+      "duktape > 1.7.0",
+      "graphemes > 1.7.0",
+      "jwt > 1.5.1 & <= 1.12.2",
+      "nimgen > 1.7.0",
+      "regex > 1.7.0",
+      "segmentation > 1.7.0",
+      "unicodedb > 1.7.0",
+      "unicodeplus > 1.7.0",
+      "unittest2 > 1.5.1 & <= 1.12.2"
+    ],
+    "urls": [
+      "error://nimrod <= 1.1.1"
+    ],
+    "unresolved": [
+      "gh:h3rald/nim-jwt",
+      "gh:yglukhov/bearssl_pkey_decoder",
+      "gh:yglukhov/linktools"
+    ]
   }
 }

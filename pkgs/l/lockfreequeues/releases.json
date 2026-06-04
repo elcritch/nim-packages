@@ -98,16 +98,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-03T19:32:12Z",
-  "allDeps": {
-    "packages": [
-      "debra > 3.1.0",
-      "typestates > 3.1.0",
-      "unittest2 > 3.1.0"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-06-04T01:01:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -122,5 +113,14 @@
       "v4.1.0": "4.1.0"
     },
     "latest": "v4.1.0"
+  },
+  "allDeps": {
+    "packages": [
+      "debra > 3.1.0",
+      "typestates > 3.1.0",
+      "unittest2 > 3.1.0"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

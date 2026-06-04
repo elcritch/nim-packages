@@ -346,18 +346,6 @@
       ]
     },
     {
-      "v": "0.6.0@2df2ceee624590d7de7f1ffd3d9476723bc0e296",
-      "r": [
-        "uri3",
-        "checksums",
-        "zippy",
-        "regex",
-        "mustache",
-        "sha1",
-        "chronos"
-      ]
-    },
-    {
       "v": "0.5.91@fa59965b8e3a7ca055a21ab4a1c830127604bccb",
       "r": [
         "uri3",
@@ -624,7 +612,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-03T19:31:52Z",
+  "generatedAt": "2026-06-04T01:00:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
