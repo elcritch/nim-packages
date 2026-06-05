@@ -72,18 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-04T19:00:13Z",
-  "allDeps": {
-    "packages": [
-      "db_connector > 0.1.0",
-      "lowdb > 0.1.0"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:ire4ever1190/lowdb",
-      "gh:PhilippMDoerner/ndb.nim"
-    ]
-  },
+  "generatedAt": "2026-06-05T00:55:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -96,5 +85,16 @@
       "0.3.2"
     ],
     "latest": "0.3.2"
+  },
+  "allDeps": {
+    "packages": [
+      "db_connector > 0.1.0",
+      "lowdb > 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:ire4ever1190/lowdb",
+      "gh:PhilippMDoerner/ndb.nim"
+    ]
   }
 }

@@ -10,6 +10,12 @@
   "srcDir": "src",
   "releases": [
     {
+      "v": "0.5.4@e4442fcf6c9c054b1a6e8ae945785f529579e8c0^",
+      "r": [
+        "zippy >= 0.10.10"
+      ]
+    },
+    {
       "v": "0.5.3@150a73c17c81abb3186da5318a1ac6df30948f85",
       "r": [
         "zippy >= 0.9.7"
@@ -174,7 +180,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-04T18:56:17Z",
+  "generatedAt": "2026-06-05T00:51:35Z",
   "allDeps": {
     "packages": [
       "zippy"

@@ -27,12 +27,6 @@
       ]
     },
     {
-      "v": "0.1.1@2ef3c6f99e1abb95a0c6cd0b5288b14824a32229",
-      "r": [
-        "nimSHA2 >= 0.1.1 & < 0.2.0"
-      ]
-    },
-    {
       "v": "0.1.0@afd980a92e5cfb2e8abdee186409e455d9fdc0f7",
       "r": [
         "nimSHA2 >= 0.1.1 & < 0.2.0"
@@ -41,7 +35,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:30:48Z",
+  "generatedAt": "2026-06-05T00:53:34Z",
   "allDeps": {
     "packages": [
       "nimSHA2"

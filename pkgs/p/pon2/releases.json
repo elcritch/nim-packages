@@ -955,31 +955,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-04T19:00:19Z",
-  "allDeps": {
-    "packages": [
-      "docopt <= 0.4.4",
-      "dotenv <= 0.6.3",
-      "graphemes <= 0.4.4",
-      "karax <= 0.6.3",
-      "nigui <= 0.4.4",
-      "regex <= 0.4.4",
-      "segmentation <= 0.4.4",
-      "suru > 0.6.1 & <= 0.13.2",
-      "tiny_sqlite <= 0.4.4",
-      "unicodedb <= 0.4.4",
-      "unicodeplus <= 0.4.4",
-      "ws <= 0.6.3",
-      "yaml <= 0.4.4"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:hoijui/docopt.nim",
-      "gh:izumiya-keisuke/docopt.nim",
-      "gh:izumiya-keisuke/nazopuyo-core",
-      "gh:izumiya-keisuke/puyo-core"
-    ]
-  },
+  "generatedAt": "2026-06-05T00:55:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -1070,5 +1046,29 @@
       "v1.2.0": "1.2.0"
     },
     "latest": "v1.2.0"
+  },
+  "allDeps": {
+    "packages": [
+      "docopt <= 0.4.4",
+      "dotenv <= 0.6.3",
+      "graphemes <= 0.4.4",
+      "karax <= 0.6.3",
+      "nigui <= 0.4.4",
+      "regex <= 0.4.4",
+      "segmentation <= 0.4.4",
+      "suru > 0.6.1 & <= 0.13.2",
+      "tiny_sqlite <= 0.4.4",
+      "unicodedb <= 0.4.4",
+      "unicodeplus <= 0.4.4",
+      "ws <= 0.6.3",
+      "yaml <= 0.4.4"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:hoijui/docopt.nim",
+      "gh:izumiya-keisuke/docopt.nim",
+      "gh:izumiya-keisuke/nazopuyo-core",
+      "gh:izumiya-keisuke/puyo-core"
+    ]
   }
 }
