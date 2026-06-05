@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@52865d74b4ea4c0315f5c076987ceeaa0fb9cc44",
+      "v": "0.1.0@2c70ff6fe38ec422d773b4af95dd04255124db18",
       "r": [
         "jsony",
         "results"
@@ -19,7 +19,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:31:07Z",
+  "generatedAt": "2026-06-05T13:17:50Z",
   "allDeps": {
     "packages": [
       "jsony",

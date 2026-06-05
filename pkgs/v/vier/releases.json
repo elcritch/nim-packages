@@ -69,13 +69,6 @@
       ]
     },
     {
-      "v": "2023.1230.0@93765d26158e35b181f77af706e7fafb2439b274",
-      "r": [
-        "naylib",
-        "spryvm"
-      ]
-    },
-    {
       "v": "2023.1220.0@3d27f38cbc018d9a5c17a452796fbe0746dffaf2",
       "r": [
         "naylib",
@@ -213,7 +206,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:38:39Z",
+  "generatedAt": "2026-06-05T13:24:29Z",
   "allDeps": {
     "packages": [
       "LimDB > 2023.1212.1",

@@ -807,17 +807,6 @@
       ]
     },
     {
-      "v": "0.2.2@60486f3dddf5144081b4f742eaaf4ea009a4a076",
-      "r": [
-        "patty >= 0.3.4",
-        "vmath >= 1.2.0",
-        "bumpy >= 1.1.0",
-        "macroutils",
-        "print",
-        "pixie"
-      ]
-    },
-    {
       "v": "0.2.1@d3b0de6f782fcf6843d0c23f71c6d87a04d37bdf",
       "r": [
         "patty >= 0.3.4",
@@ -864,7 +853,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-04T18:55:52Z",
+  "generatedAt": "2026-06-05T13:13:03Z",
   "allDeps": {
     "packages": [
       "bumpy",
