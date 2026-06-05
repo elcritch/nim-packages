@@ -11,12 +11,28 @@
   "installExt": [
     "nim"
   ],
-  "releases": [],
+  "releases": [
+    {
+      "v": "0.0.19@11e3afe1ac42810282771af34beb7397300fd3ed",
+      "r": [
+        "jsony >= 1.1.5",
+        "chronos >= 4.0.0"
+      ]
+    }
+  ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-05T00:50:54Z",
+  "generatedAt": "2026-06-05T07:38:51Z",
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "bearssl",
+      "chronos",
+      "httputils",
+      "jsony",
+      "results",
+      "stew",
+      "unittest2"
+    ],
     "urls": [],
     "unresolved": []
   }

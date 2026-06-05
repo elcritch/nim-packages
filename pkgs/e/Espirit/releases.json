@@ -7,17 +7,10 @@
   "description": "Nim parser for Morrowind's .esp/.esm files",
   "license": "MIT Non-AI License",
   "nim": "1.4.0",
-  "releases": [
-    {
-      "v": "1.0.0@cbc62df527d50a4575cf7e3cdc5263944c832805",
-      "r": [
-        "flatty >= 0.3.0"
-      ]
-    }
-  ],
+  "releases": [],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-05T00:49:39Z",
+  "generatedAt": "2026-06-05T07:36:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -32,9 +25,7 @@
     "latest": "v1.0.0"
   },
   "allDeps": {
-    "packages": [
-      "flatty"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

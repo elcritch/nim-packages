@@ -138,6 +138,12 @@
       "y": []
     },
     {
+      "v": "1.5.1@31898860bad3295eead80aa96ac2787a2c8cfb4d",
+      "r": [],
+      "m": "1.0.0",
+      "y": []
+    },
+    {
       "v": "1.5.0@5294b1bd9a05c0cbdf21a95e490a1abb45f3e14a",
       "r": [],
       "m": "0.18.0",
@@ -270,7 +276,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-05T00:53:13Z",
+  "generatedAt": "2026-06-05T07:43:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -340,19 +346,19 @@
   },
   "allDeps": {
     "packages": [
-      "bearssl > 1.5.0 & <= 1.12.2",
+      "bearssl > 1.5.1 & <= 1.12.2",
       "c2nim > 1.7.0",
       "db_connector > 1.12.1",
       "docopt > 1.7.0",
       "duktape > 1.7.0",
       "graphemes > 1.7.0",
-      "jwt > 1.5.0 & <= 1.12.2",
+      "jwt > 1.5.1 & <= 1.12.2",
       "nimgen > 1.7.0",
       "regex > 1.7.0",
       "segmentation > 1.7.0",
       "unicodedb > 1.7.0",
       "unicodeplus > 1.7.0",
-      "unittest2 > 1.5.0 & <= 1.12.2"
+      "unittest2 > 1.5.1 & <= 1.12.2"
     ],
     "urls": [
       "error://nimrod <= 1.1.1"
