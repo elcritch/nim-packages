@@ -1,1 +1,1 @@
-{"v":"#head@0a72799c1c6d7db1ca5c52c9ac3a534f78f87e91","r":["illwill >= 0.4.1","q >= 0.0.8","htmlparser","malebolgia >= 1.3.0","zippy >= 0.10.18"],"g":true}
+{"v":"#head@e301016a6b1429b3c9acfe3b6cb86104fd5b9d6c","r":["illwill >= 0.4.1","q >= 0.0.8","htmlparser","malebolgia >= 1.3.0","zippy >= 0.10.18","nimcrypto >= 0.7.2"],"g":true}
