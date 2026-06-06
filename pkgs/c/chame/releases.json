@@ -82,13 +82,6 @@
       "x": []
     },
     {
-      "v": "0.11.2@f03ebb64733f9826d813a6abb6a78f3c7e07132d",
-      "r": [
-        "srht:bptato/chakasu >= 0.2.1"
-      ],
-      "x": []
-    },
-    {
       "v": "0.11.1@7af6e8bfa191484234c9ad3ced2527d5771c93f8",
       "r": [
         "srht:bptato/chakasu >= 0.2.1"
@@ -143,7 +136,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:24:52Z",
+  "generatedAt": "2026-06-06T07:12:11Z",
   "allDeps": {
     "packages": [],
     "urls": [],

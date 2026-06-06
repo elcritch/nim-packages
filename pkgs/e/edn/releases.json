@@ -32,16 +32,11 @@
       "v": "0.1.1@8100cd9158d54340ffbea87d6f047afb3c7fd47d",
       "r": [],
       "m": "0.20.2"
-    },
-    {
-      "v": "0.1.0@72e24c489ec9e2339bedea1d1f095fd4766d0008",
-      "r": [],
-      "m": "0.20.2"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:26:20Z",
+  "generatedAt": "2026-06-06T07:12:50Z",
   "allDeps": {
     "packages": [],
     "urls": [],

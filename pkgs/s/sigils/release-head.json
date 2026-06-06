@@ -1,1 +1,1 @@
-{"v":"#head@5a516ceb3c7686b6bcb0d6d19564c907016646da","r":["variant >= 0.2.12","threading >= 0.2.1","stack_strings"],"f":{"mummy":["mummy"],"cbor":["cborious"]}}
+{"v":"#head@95119c5fb1bf5fb4508ee701d83c1ec1a902b2fe","r":["variant >= 0.2.12","threading >= 0.2.1","stack_strings"],"f":{"mummy":["mummy"],"cbor":["cborious"]}}
