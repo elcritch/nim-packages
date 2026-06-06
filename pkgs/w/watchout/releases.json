@@ -6,35 +6,41 @@
   "author": "George Lemon",
   "description": "A stupid simple filesystem monitor",
   "license": "MIT",
-  "nim": "1.6.0",
+  "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.2.2@f5dbed379e50dabfde6b8e37c3308965c3b1fa56",
+      "r": []
+    },
     {
       "v": "0.2.1@fef0a2adda4d63e9266549a28b09171841a7bfaf",
       "r": [
         "httpx",
         "websocketx"
-      ]
+      ],
+      "m": "1.6.0"
     },
     {
       "v": "0.2.0@e04f9a50eaf33bf23eb15d81ca81b30edf0b6ea6",
       "r": [
         "httpx",
         "websocketx"
-      ]
+      ],
+      "m": "1.6.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:38:44Z",
+  "generatedAt": "2026-06-06T01:00:31Z",
   "allDeps": {
     "packages": [
-      "httpx",
-      "ioselectors",
-      "timerwheel",
-      "websocketx",
-      "wepoll",
-      "ws"
+      "httpx <= 0.2.1",
+      "ioselectors <= 0.2.1",
+      "timerwheel <= 0.2.1",
+      "websocketx <= 0.2.1",
+      "wepoll <= 0.2.1",
+      "ws <= 0.2.1"
     ],
     "urls": [],
     "unresolved": []

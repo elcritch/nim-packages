@@ -31,6 +31,12 @@
       ]
     },
     {
+      "v": "1.0.2@1128ae46542a1ed6e50b8e7afd7bbe2e142927ea",
+      "r": [
+        "httpbeast >= 0.4.1"
+      ]
+    },
+    {
       "v": "1.0.1@9ad0e3cf961324f184ddca0634cbe71ec72265b6",
       "r": [
         "httpbeast >= 0.4.1"
@@ -45,7 +51,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-05T18:56:52Z",
+  "generatedAt": "2026-06-06T01:00:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
