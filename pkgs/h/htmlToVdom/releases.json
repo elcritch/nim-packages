@@ -17,6 +17,12 @@
       ]
     },
     {
+      "v": "0.1.5@e488e0c7a5f02bb69cc1c7f9d4de42453a751ebe",
+      "r": [
+        "karax 1.2.1"
+      ]
+    },
+    {
       "v": "0.2.0@d9dee8c938b20fa2ecba6471188c4b56e79f4a73",
       "r": [
         "karax #head"
@@ -26,7 +32,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-07T00:52:54Z",
+  "generatedAt": "2026-06-07T07:36:20Z",
   "allDeps": {
     "packages": [
       "dotenv",
