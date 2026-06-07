@@ -28,11 +28,21 @@
       "v": "1.0.3@9a2e61fd4e6196c82eb802250aa59b1fcae5b757",
       "r": [],
       "d": "Transparently declare single-set attributes."
+    },
+    {
+      "v": "1.0.4@21bfdcccd4f26b2d8da04fa35cd72b5fb06e42ff",
+      "r": [],
+      "d": "Transparently declare single-set attributes."
+    },
+    {
+      "v": "1.0.5@769fdd4035b781039d19ea930e23e16cc80c7ced^",
+      "r": [],
+      "d": "Transparently declare single-set attributes."
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-06T18:37:20Z",
+  "generatedAt": "2026-06-07T00:51:55Z",
   "allDeps": {
     "packages": [],
     "urls": [],

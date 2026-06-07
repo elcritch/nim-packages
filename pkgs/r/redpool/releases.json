@@ -2,28 +2,28 @@
   "cv": 19,
   "name": "redpool",
   "fqn": "redpool.zedeus.github.com",
-  "current": "8b7c1db069797300425037c98b825c5d3316f752",
+  "current": "b54d7b1e699e9e8f8fb659cdfe986f070b5edb5c",
   "author": "zedeus",
   "description": "Redis connection pool",
   "license": "MIT",
-  "nim": "1.0.0",
+  "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@8265ee2faa52dcc5ed36a4bb0634a17e46681f27",
+      "v": "0.2.0@b54d7b1e699e9e8f8fb659cdfe986f070b5edb5c^",
       "r": [
-        "redis >= 0.3.0"
+        "gh:zedeus/redis #v0.4.1"
       ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:35:24Z",
+  "generatedAt": "2026-06-07T00:57:04Z",
   "allDeps": {
-    "packages": [
-      "redis"
-    ],
+    "packages": [],
     "urls": [],
-    "unresolved": []
+    "unresolved": [
+      "gh:zedeus/redis"
+    ]
   }
 }

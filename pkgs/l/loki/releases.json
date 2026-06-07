@@ -2,42 +2,51 @@
   "cv": 19,
   "name": "loki",
   "fqn": "loki.beshrkayali.github.com",
-  "current": "954a739242ef7fd3e801ba66ee2d513391a973b4",
-  "author": "Beshr Kayali",
+  "current": "11916352af28dfd84fb65da599595eee542d9cf8",
+  "author": "Beshr Kayali Reinholdsson",
   "description": "A small library for writing cli programs in Nim.",
   "license": "Zlib",
   "nim": "1.0.0",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.3.0@c6d8f076cffe29227ba83f54c20d9b2598da2bb3",
+      "v": "0.4.0@11916352af28dfd84fb65da599595eee542d9cf8^",
       "r": []
+    },
+    {
+      "v": "0.3.0@c6d8f076cffe29227ba83f54c20d9b2598da2bb3",
+      "r": [],
+      "a": "Beshr Kayali"
     },
     {
       "v": "0.2.0@1dd391a18dba76551072fb168e408e3cf26cca79",
-      "r": []
+      "r": [],
+      "a": "Beshr Kayali"
     },
     {
       "v": "0.1.1@151089dac8481810830d2f81ac7cb4dc50a5ad6b",
-      "r": []
+      "r": [],
+      "a": "Beshr Kayali"
     },
     {
       "v": "0.1.0@3496625c79342099b829d56340da712625e489ae",
-      "r": []
+      "r": [],
+      "a": "Beshr Kayali"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-06T18:39:57Z",
+  "generatedAt": "2026-06-07T00:53:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "0.3.0"
+      "0.3.0",
+      "0.4.0"
     ],
-    "latest": "0.3.0"
+    "latest": "0.4.0"
   },
   "allDeps": {
     "packages": [],

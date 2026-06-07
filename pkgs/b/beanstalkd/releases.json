@@ -13,12 +13,14 @@
     },
     {
       "v": "0.1.0@dfffb769b5141a550fd7131d6447bc5ab0f301dd",
-      "r": []
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:20:17Z",
+  "generatedAt": "2026-06-07T00:49:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

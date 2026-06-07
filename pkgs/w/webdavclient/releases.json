@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "webdavclient",
   "fqn": "webdavclient.beshrkayali.github.com",
-  "current": "be79d85e4db0a067a7b6de6704fe1ba107fb3725",
+  "current": "a9ef364d8ae1dc6ba44eaedc7021bf7bf110159d",
   "author": "Beshr Kayali Reinholdsson",
   "description": "WebDAV Client for Nim",
   "license": "MIT",
@@ -24,7 +24,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-06T18:47:16Z",
+  "generatedAt": "2026-06-07T00:59:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

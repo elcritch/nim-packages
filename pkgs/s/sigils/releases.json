@@ -2,13 +2,29 @@
   "cv": 19,
   "name": "sigils",
   "fqn": "sigils.elcritch.github.com",
-  "current": "30daffa4641c05524b9138891cedfa471e9b8e3a",
+  "current": "797c1fdf69f275a3c96014e259d055366306e80a",
   "author": "Jaremy Creechley",
   "description": "A slot and signals implementation for the Nim programming language",
   "license": "MIT",
   "nim": "2.0.2",
   "srcDir": ".",
   "releases": [
+    {
+      "v": "0.23.0@797c1fdf69f275a3c96014e259d055366306e80a^",
+      "r": [
+        "variant >= 0.2.12",
+        "threading >= 0.2.1",
+        "stack_strings"
+      ],
+      "f": {
+        "mummy": [
+          "mummy"
+        ],
+        "cbor": [
+          "cborious"
+        ]
+      }
+    },
     {
       "v": "0.22.3@02765950086dbe3d7a4054edb9827d2d9305be4c",
       "r": [
@@ -667,7 +683,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-06T18:45:07Z",
+  "generatedAt": "2026-06-07T00:57:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
