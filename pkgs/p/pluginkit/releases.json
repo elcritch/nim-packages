@@ -2,23 +2,27 @@
   "cv": 19,
   "name": "pluginkit",
   "fqn": "pluginkit.openpeeps.github.com",
-  "current": "75e5c1fb52071ec597e9e53ab77159006f6f27c2",
+  "current": "d2c269627c541ae4827d19f0cf8d4004471c2f9e",
   "author": "George Lemon",
-  "description": "A plugin kit for Nim. Create and manage plugins in a modular and extensible way.",
+  "description": "Create and manage plugins in a modular way",
   "license": "MIT",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@b18451f32f4231d62b2ac8134900fafa967d6180",
-      "r": []
+      "v": "0.1.0@57761997795a1eb65736176207c69302567f3d85",
+      "r": [
+        "semver"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:34:28Z",
+  "generatedAt": "2026-06-07T18:40:16Z",
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "semver"
+    ],
     "urls": [],
     "unresolved": []
   }
