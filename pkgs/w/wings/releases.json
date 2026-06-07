@@ -81,11 +81,20 @@
         "wings"
       ],
       "m": "1.0.0"
+    },
+    {
+      "v": "0.0.1@dc8e9a9bff0704b3ed508395215a74a80398094e",
+      "r": [],
+      "p": [
+        "wings"
+      ],
+      "m": "0.17.2",
+      "k": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-07T07:44:25Z",
+  "generatedAt": "2026-06-07T12:52:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
