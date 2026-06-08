@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "chalk",
   "fqn": "chalk.crashappsec.github.com",
-  "current": "b2dcf8c947d8da55a069159590bf0752443f599c",
+  "current": "036059e3c23ca38bbc2f28645f2936198c2e98b8",
   "author": "John Viega",
   "license": "GPLv3",
   "nim": "2.0.8",
@@ -11,6 +11,14 @@
     "chalk"
   ],
   "releases": [
+    {
+      "v": "1.1.0@0887203deffc68c9fc7a34c159ed93ab0fda6bbf",
+      "r": [
+        "gh:crashappsec/con4m #cff82de8863e2252c99993c44be76d8633fdbb12",
+        "gh:viega/zippy 0.10.7",
+        "parsetoml 0.7.1"
+      ]
+    },
     {
       "v": "1.0.2@2eb714f920014676e6ba3b8d255656463d273af2",
       "r": [
@@ -393,7 +401,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-08T13:36:56Z",
+  "generatedAt": "2026-06-08T18:59:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -401,7 +409,6 @@
     },
     "releases": [
       "dust-0.0.0",
-      "v0.3.4",
       "v0.3.5",
       "v0.4.0",
       "v0.4.1",
@@ -439,11 +446,11 @@
       "v0.6.8",
       "v1.0.0",
       "v1.0.1",
-      "v1.0.2"
+      "v1.0.2",
+      "v1.1.0"
     ],
     "tagVersions": {
       "dust-0.0.0": "0.0.0",
-      "v0.3.4": "0.3.4",
       "v0.3.5": "0.3.5",
       "v0.4.0": "0.4.0",
       "v0.4.1": "0.4.1",
@@ -481,9 +488,10 @@
       "v0.6.8": "0.6.8",
       "v1.0.0": "1.0.0",
       "v1.0.1": "1.0.1",
-      "v1.0.2": "1.0.2"
+      "v1.0.2": "1.0.2",
+      "v1.1.0": "1.1.0"
     },
-    "latest": "v1.0.2"
+    "latest": "v1.1.0"
   },
   "allDeps": {
     "packages": [

@@ -19,6 +19,12 @@
   ],
   "releases": [
     {
+      "v": "20250805@cca1d42e5f0cf683248b6d967407956ba165a0f2^",
+      "r": [
+        "gh:ehmry/nim-bigints >= 20231006"
+      ]
+    },
+    {
       "v": "20240823@598716d7b47905311cdb6b0ed1cec863bb2bb497",
       "r": [],
       "x": [],
@@ -167,7 +173,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-08T13:36:51Z",
+  "generatedAt": "2026-06-08T18:59:13Z",
   "allDeps": {
     "packages": [
       "bigints > 0.8.0 & <= 20230310",
@@ -175,6 +181,8 @@
       "gmp > 0.7.0 & <= 0.8.0"
     ],
     "urls": [],
-    "unresolved": []
+    "unresolved": [
+      "gh:ehmry/nim-bigints"
+    ]
   }
 }

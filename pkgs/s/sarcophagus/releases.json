@@ -465,6 +465,7 @@
     ],
     "urls": [],
     "unresolved": [
+      "gh:ehmry/nim-bigints",
       "gh:elcritch/nim-cbor-serialization",
       "gh:elcritch/nim-jwt",
       "gh:yglukhov/bearssl_pkey_decoder",

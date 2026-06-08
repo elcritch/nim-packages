@@ -16,188 +16,27 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@86a4e0dc58cd7710faec65ffb429382a756e5d73",
-      "r": [
-        "nimcrypto",
-        "regex"
-      ],
-      "x": [],
-      "y": []
-    },
-    {
-      "v": "0.1.1@5efedeeb00cc24971adad06192615da3d8db7955",
-      "r": [
-        "nimcrypto",
-        "regex"
-      ],
-      "x": [],
-      "y": []
-    },
-    {
-      "v": "0.2.1@45607e66729ec6296d2bfe24750b2ca162ba2f74",
-      "r": [
-        "nimcrypto",
-        "regex"
-      ],
-      "x": [],
-      "y": []
-    },
-    {
-      "v": "0.3.1@8d7e20e3c8802aab8a307251d7094bccd591bc8a",
-      "r": [
-        "nimcrypto",
-        "regex"
-      ],
-      "x": [],
-      "y": []
-    },
-    {
-      "v": "0.3.2@7def48a84caefd7f01ded7819ccc3e126d3e031f",
+      "v": "0.7.6@44ba4c2fd97f388e88e7389895bf427f5c1d9942",
       "r": [
         "nimcrypto",
         "regex",
-        "gh:bung87/zstd"
-      ],
-      "x": []
-    },
-    {
-      "v": "0.3.3@0b08c614f3fc5780833d45b751261577014e1d80",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd"
-      ],
-      "x": []
-    },
-    {
-      "v": "0.3.4@b1c377e1e5eb34e9ce794b606dae9ccb6f4b02e7",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd"
-      ],
-      "x": []
-    },
-    {
-      "v": "0.3.5@b631b6c1e0dc287183a0e28e43bfeef108d9f20a",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd"
-      ],
-      "x": []
-    },
-    {
-      "v": "0.3.6@9fd30162c22d3d4a9aa1bce7f3f9bc6c49a7e7e7",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd"
-      ],
-      "x": []
-    },
-    {
-      "v": "0.3.7@870fb4f63bd96de3f4c24a56136a73fc400c1391",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd",
-        "gh:treeform/uriiy"
-      ],
-      "x": []
-    },
-    {
-      "v": "0.3.8@b48fd923c02b130020db17a79a96297a5553a32b",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd",
-        "gh:treeform/uriiy"
-      ],
-      "x": []
-    },
-    {
-      "v": "0.3.9@09daba8dfc56c556a2a2fe707728ac48a6a7bba8",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd",
-        "urlly"
-      ],
-      "x": []
-    },
-    {
-      "v": "0.4.0@284c9fcab6922066292cf3d64c64ac54e2aa793f",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd",
-        "urlly"
-      ],
-      "x": []
-    },
-    {
-      "v": "0.4.1@9ab857e90d75061315457313e97e19bef4e9ace9",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd",
-        "urlly"
-      ],
-      "x": []
-    },
-    {
-      "v": "0.5.1@b5248064958de65b7bd5143a14862ee7b2e05b26",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd",
-        "urlly"
-      ],
-      "x": []
-    },
-    {
-      "v": "0.6.0@bca14cba2eb19e44ff95c7bd8d252d233a45069e",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd",
+        "zstd",
         "urlly",
         "chronos"
       ]
     },
     {
-      "v": "0.6.1@3e1d6d6dbe21234b62133787681fdc888d065bb1",
+      "v": "0.7.5@cb2b6b429549af719ee1dc288d931b85f58eb103",
       "r": [
         "nimcrypto",
         "regex",
-        "gh:bung87/zstd",
+        "zstd",
         "urlly",
         "chronos"
       ]
     },
     {
-      "v": "0.7.0@0dd88deae3272881c35e24a2ea94151931c6e2f6",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd",
-        "urlly",
-        "chronos"
-      ]
-    },
-    {
-      "v": "0.7.1@2b26b2d4f0661f1376407d709ef159b3eb56cf52",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "gh:bung87/zstd",
-        "urlly",
-        "chronos"
-      ]
-    },
-    {
-      "v": "0.7.2@66e9e4f9739a76e4ed15d10c8b63097bc2571399",
+      "v": "0.7.4@bab64c9ef2ef4e55e1394c6f538ac15b8fb6ea0a",
       "r": [
         "nimcrypto",
         "regex",
@@ -217,7 +56,7 @@
       ]
     },
     {
-      "v": "0.7.4@bab64c9ef2ef4e55e1394c6f538ac15b8fb6ea0a",
+      "v": "0.7.2@66e9e4f9739a76e4ed15d10c8b63097bc2571399",
       "r": [
         "nimcrypto",
         "regex",
@@ -227,29 +66,58 @@
       ]
     },
     {
-      "v": "0.7.5@44ba4c2fd97f388e88e7389895bf427f5c1d9942",
+      "v": "0.7.1@2b26b2d4f0661f1376407d709ef159b3eb56cf52",
       "r": [
         "nimcrypto",
         "regex",
-        "zstd",
+        "gh:bung87/zstd",
         "urlly",
         "chronos"
       ]
     },
     {
-      "v": "0.7.6@c5a1c4e09781a33e23842ccf5f596696b18ec141",
+      "v": "0.7.0@0dd88deae3272881c35e24a2ea94151931c6e2f6",
       "r": [
         "nimcrypto",
         "regex",
-        "zstd",
+        "gh:bung87/zstd",
         "urlly",
         "chronos"
       ]
+    },
+    {
+      "v": "0.6.1@3e1d6d6dbe21234b62133787681fdc888d065bb1",
+      "r": [
+        "nimcrypto",
+        "regex",
+        "gh:bung87/zstd",
+        "urlly",
+        "chronos"
+      ]
+    },
+    {
+      "v": "0.6.0@f8058bba4c8cb922db0d41f1b835a571737ac084",
+      "r": [
+        "nimcrypto",
+        "regex",
+        "gh:bung87/zstd",
+        "urlly",
+        "chronos"
+      ]
+    },
+    {
+      "v": "0.1.0@6273eeacdb008e1d560e61ae28fe41f486737077",
+      "r": [
+        "nimcrypto",
+        "regex"
+      ],
+      "x": [],
+      "y": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-08T13:35:49Z",
+  "generatedAt": "2026-06-08T18:57:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -267,25 +135,24 @@
   },
   "allDeps": {
     "packages": [
-      "bearssl > 0.5.1",
-      "chronos > 0.5.1",
+      "bearssl > 0.1.0",
+      "chronos > 0.1.0",
       "graphemes",
-      "httputils > 0.5.1",
+      "httputils > 0.1.0",
       "nimcrypto",
       "regex",
-      "results > 0.5.1",
+      "results > 0.1.0",
       "segmentation",
-      "stew > 0.5.1",
+      "stew > 0.1.0",
       "unicodedb",
       "unicodeplus",
-      "unittest2 > 0.5.1",
-      "urlly > 0.3.8",
+      "unittest2 > 0.1.0",
+      "urlly > 0.1.0",
       "zstd > 0.7.4"
     ],
     "urls": [],
     "unresolved": [
-      "gh:bung87/zstd",
-      "gh:treeform/uriiy"
+      "gh:bung87/zstd"
     ]
   }
 }

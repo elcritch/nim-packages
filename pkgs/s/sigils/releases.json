@@ -683,7 +683,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-08T13:42:42Z",
+  "generatedAt": "2026-06-08T19:10:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -722,6 +722,7 @@
     ],
     "urls": [],
     "unresolved": [
+      "gh:ehmry/nim-bigints",
       "gh:elcritch/nim-cbor-serialization"
     ]
   }
