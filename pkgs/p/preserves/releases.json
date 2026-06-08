@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "preserves",
   "fqn": "preserves-nim.ehmry.git.syndicate-lang.org",
-  "current": "12036afee702c1818eeb55e87cbfa3b459eb2666",
+  "current": "1a23cc414c0763ffff487b144a9d213ed7aeb9cf",
   "author": "Emery Hemingway",
   "description": "data model and serialization format",
   "license": "Unlicense",
@@ -378,7 +378,7 @@
       "p": []
     },
     {
-      "v": "1.20260606@12036afee702c1818eeb55e87cbfa3b459eb2666",
+      "v": "1.20260608@1a23cc414c0763ffff487b144a9d213ed7aeb9cf",
       "r": [],
       "p": []
     },
@@ -410,10 +410,10 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-07T12:49:14Z",
+  "generatedAt": "2026-06-08T13:42:00Z",
   "allDeps": {
     "packages": [
-      "npeg > 1.20260606 & <= 20240523"
+      "npeg > 1.20260608 & <= 20240523"
     ],
     "urls": [],
     "unresolved": [

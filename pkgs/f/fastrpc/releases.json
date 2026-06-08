@@ -319,7 +319,6 @@
     ],
     "urls": [],
     "unresolved": [
-      "gh:ehmry/nim-bigints",
       "gh:elcritch/mcu_utils",
       "gh:elcritch/nim-cbor-serialization"
     ]

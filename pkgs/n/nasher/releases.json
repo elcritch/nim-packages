@@ -260,12 +260,8 @@
     },
     {
       "v": "0.14.0@5358aa46c3b6314556e6b90a5b9a7fd743944065",
-      "r": [
-        "neverwinter >= 1.4.1",
-        "glob >= 0.10.0",
-        "nwnt >= 1.2.1"
-      ],
-      "m": "1.2.0"
+      "r": [],
+      "p": []
     },
     {
       "v": "0.13.0@af73e0d54997224bed24ba41e6fe3a9ce2ce48fb",
@@ -630,7 +626,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-08T00:57:57Z",
+  "generatedAt": "2026-06-08T13:40:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -678,7 +674,7 @@
       "glob",
       "graphemes",
       "neverwinter",
-      "nwnt > 0.13.0",
+      "nwnt > 0.14.0",
       "regex",
       "segmentation",
       "unicodedb",
