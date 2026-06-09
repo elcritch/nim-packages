@@ -2,13 +2,21 @@
   "cv": 19,
   "name": "nimja",
   "fqn": "nimja.enthus1ast.github.com",
-  "current": "438fc1f6c654c69cd85c9a5d9cbe45a48f507f8c",
+  "current": "9ba076640399467674b78f1b3267a90090505570",
   "author": "David Krause",
   "description": "typed and compiled template engine inspired by jinja2, twig and onionhammer/nim-templates for Nim.",
   "license": "MIT",
   "nim": "1.4.8",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.10.3@9ba076640399467674b78f1b3267a90090505570^",
+      "r": []
+    },
+    {
+      "v": "0.10.2@389d5800f004c1cc344682fb721f8107e9098157",
+      "r": []
+    },
     {
       "v": "0.10.1@b7a25c62e63b459b9bfbef1de05199e4837c67d0",
       "r": []
@@ -32,7 +40,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:32:20Z",
+  "generatedAt": "2026-06-09T18:57:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],

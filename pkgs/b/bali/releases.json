@@ -271,36 +271,6 @@
       "p": []
     },
     {
-      "v": "0.7.2@7fe77962f2f85c842d113606b6ef586e76eb32d2",
-      "r": [
-        "librng >= 0.1.3",
-        "pretty >= 0.1.0",
-        "colored_logger >= 0.1.0",
-        "simdutf >= 6.1.1",
-        "gh:ferus-web/sanchar >= 2.0.2",
-        "jsony >= 1.1.5",
-        "crunchy >= 0.1.11",
-        "results >= 0.5.0",
-        "noise >= 0.1.10",
-        "fuzzy >= 0.1.0",
-        "yaml >= 2.1.1",
-        "kaleidoscope >= 0.1.1",
-        "gh:ferus-web/nim-gmp >= 0.1.0",
-        "ferrite >= 0.1.3",
-        "icu4nim >= 76.1.0.1",
-        "mimalloc >= 0.3.1",
-        "zippy >= 0.10.16",
-        "nimsimd >= 1.3.2",
-        "flatty >= 0.3.4",
-        "ptr_math >= 0.3.0",
-        "libbacktrace >= 0.0.8",
-        "shakar >= 0.1.0",
-        "catnip >= 0.3.0"
-      ],
-      "l": "LGPL3",
-      "p": []
-    },
-    {
       "v": "0.7.1@ee74ebdd6d6815cca757881bd7999b37b7d84f1d",
       "r": [
         "librng >= 0.1.3",
@@ -1013,7 +983,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-09T13:09:25Z",
+  "generatedAt": "2026-06-09T18:52:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
