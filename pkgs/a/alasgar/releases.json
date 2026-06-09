@@ -16,59 +16,7 @@
   ],
   "releases": [
     {
-      "v": "0.3@586a31301ad7069281e9bdc4271d8c05fa03da02",
-      "r": [
-        "sdl2",
-        "chroma",
-        "vmath",
-        "stb_image",
-        "jsbind",
-        "nake",
-        "jnim",
-        "plists",
-        "closure_compiler",
-        "gh:tormund/nester",
-        "gh:yglukhov/android",
-        "darwin"
-      ]
-    },
-    {
-      "v": "0.4@5b80a615a79bbe88cad726a40b26e1c1bb481fcc",
-      "r": [
-        "chroma",
-        "vmath",
-        "stb_image",
-        "nake",
-        "jnim",
-        "plists",
-        "closure_compiler",
-        "gh:tormund/nester",
-        "gh:yglukhov/android",
-        "darwin"
-      ]
-    },
-    {
-      "v": "0.4.1@69541fc188115b1521829207d9f665f76ef07395",
-      "r": [
-        "checksums",
-        "chroma",
-        "stb_image",
-        "jnim",
-        "gh:yglukhov/android"
-      ]
-    },
-    {
-      "v": "0.4.3@1dfd2762af85da202832281f1ae55fa63e910fb2",
-      "r": [
-        "checksums",
-        "chroma",
-        "stb_image",
-        "jnim",
-        "gh:yglukhov/android"
-      ]
-    },
-    {
-      "v": "0.4.4@5c89c479d4547812b9aef0fa1872a98960310141",
+      "v": "0.4.4@766858a8160fa75d57a48730e101639885ba5096^",
       "r": [
         "checksums 0.2.1",
         "chroma 0.2.7",
@@ -80,29 +28,20 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T11:46:55Z",
+  "generatedAt": "2026-06-09T13:08:43Z",
   "allDeps": {
     "packages": [
-      "checksums > 0.4",
+      "checksums",
       "chroma",
       "classy",
-      "closure_compiler <= 0.4",
-      "darwin <= 0.4",
       "jnim",
-      "jsbind <= 0.3",
-      "mddoc <= 0.4",
-      "nake <= 0.4",
       "nimboost",
       "nimfp",
       "patty",
-      "plists <= 0.4",
-      "sdl2 <= 0.3",
-      "stb_image",
-      "vmath <= 0.4"
+      "stb_image"
     ],
     "urls": [],
     "unresolved": [
-      "gh:tormund/nester",
       "gh:yglukhov/android"
     ]
   }
