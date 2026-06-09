@@ -112,6 +112,13 @@
       "p": []
     },
     {
+      "v": "1.8.2@057a1eb12599757834afd2e958fc5f3ff3872824",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "p": []
+    },
+    {
       "v": "1.8@9d7d0a39a184580a84d674748ec6a8d7f9e8e99a",
       "r": [],
       "S": "HasUnknownNimbleFile",
@@ -128,7 +135,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-08T18:58:19Z",
+  "generatedAt": "2026-06-09T00:46:11Z",
   "allDeps": {
     "packages": [
       "docopt > 1.8.3",

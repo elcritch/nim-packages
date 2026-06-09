@@ -20,17 +20,6 @@
   },
   "releases": [
     {
-      "v": "0.12.2@196844f8c93798922dce6490119dc91158f0969c",
-      "r": [
-        "contracts >= 0.2.2",
-        "error://coloredlogger >= 0.1.0",
-        "unittest2"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimalyzer.thindil.github.com-196844f8-nimalyzer.nimble\ncannot resolve package name: coloredlogger",
-      "p": []
-    },
-    {
       "v": "0.12.1@3617124888197e2ba17b847554446bbf8e353a9b",
       "r": [
         "contracts >= 0.2.2",
@@ -181,7 +170,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-08T19:05:49Z",
+  "generatedAt": "2026-06-09T00:52:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

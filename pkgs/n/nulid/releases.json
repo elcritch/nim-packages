@@ -46,10 +46,7 @@
     },
     {
       "v": "0.2.5@5d622e6c8788391fc100012a9fa1b401be09ad59",
-      "r": [
-        "nint128 >= 0.3.2",
-        "crockfordb32 >= 1.0.0"
-      ]
+      "r": []
     },
     {
       "v": "0.2.4@1bf7c9a8a78c0af2b78724f07966c4f4a776f7ce",
@@ -105,7 +102,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:33:26Z",
+  "generatedAt": "2026-06-09T00:54:15Z",
   "allDeps": {
     "packages": [
       "crockfordb32",
