@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "crown",
   "fqn": "crown.nimmer-jp.github.com",
-  "current": "659ca58f8d39d9d044f4a3e10cc9774ac5779cfd",
+  "current": "0fdd448cf9bc3a12c522fcb221f06d1e069ac656",
   "author": "pianopia",
   "description": "Next generation meta-framework for Nim, powered by Basolato and HTMX",
   "license": "MIT",
@@ -20,7 +20,15 @@
   ],
   "releases": [
     {
-      "v": "0.5.8@659ca58f8d39d9d044f4a3e10cc9774ac5779cfd^",
+      "v": "0.6.0@0fdd448cf9bc3a12c522fcb221f06d1e069ac656^",
+      "r": [
+        "gh:itsumura-h/nim-basolato #v0.15.0",
+        "cligen",
+        "tiara >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.5.8@659ca58f8d39d9d044f4a3e10cc9774ac5779cfd",
       "r": [
         "gh:itsumura-h/nim-basolato #v0.15.0",
         "cligen",
@@ -248,7 +256,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-09T00:47:41Z",
+  "generatedAt": "2026-06-09T07:24:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
