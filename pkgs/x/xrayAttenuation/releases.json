@@ -37,15 +37,6 @@
       ]
     },
     {
-      "v": "0.4.1@7cd77470ce1e0b45dec1716293e057c3fb7f8c7f",
-      "r": [
-        "ggplotnim >= 0.5.1",
-        "unchained >= 0.1.9",
-        "numericalnim",
-        "cligen"
-      ]
-    },
-    {
       "v": "0.4.0@fa5d9b821a813527c141030b589d0318dda759f7",
       "r": [
         "ggplotnim >= 0.5.1",
@@ -108,7 +99,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-10T13:26:49Z",
+  "generatedAt": "2026-06-10T19:09:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -429,18 +429,6 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-721ffcb8-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
     },
     {
-      "v": "0.0.8@50a65414da083259786e08b292b32fef916b0457",
-      "r": [
-        "crunchy >= 0.1.8",
-        "stew",
-        "secp256k1 >= 0.6.0.3.1",
-        "gh:alaviss/union >= 0.1.4"
-      ],
-      "m": "1.9.1",
-      "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nmostr.Gruruya.github.com-50a65414-nmostr.nimble\ninvalid 'requires' syntax in nimble file: jsony ^= 1.1"
-    },
-    {
       "v": "0.0.7.5@1cd6473b5ec8194b956b098ef25e9c2b07f8027d",
       "r": [
         "crunchy >= 0.1.8",
@@ -575,7 +563,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-10T13:23:46Z",
+  "generatedAt": "2026-06-10T19:06:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

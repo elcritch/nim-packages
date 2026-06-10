@@ -66,6 +66,14 @@
       ]
     },
     {
+      "v": "1.6.2@b1388b989a2301656c664bf7cc62cdb4e315a625",
+      "r": [
+        "urlly >= 1.1.0",
+        "libcurl >= 1.0.0",
+        "zippy >= 0.10.0"
+      ]
+    },
+    {
       "v": "1.6.1@1efd748b842deb30861ffb8e48b8d4a3e3a6995e",
       "r": [
         "urlly >= 1.0.1",
@@ -266,7 +274,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-10T13:24:37Z",
+  "generatedAt": "2026-06-10T19:07:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -307,8 +315,8 @@
   "allDeps": {
     "packages": [
       "libcurl",
-      "urlly <= 1.6.1",
-      "webby > 1.6.1",
+      "urlly <= 1.6.2",
+      "webby > 1.6.2",
       "winim <= 1.0.3",
       "zippy"
     ],
