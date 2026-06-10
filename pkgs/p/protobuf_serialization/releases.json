@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "protobuf_serialization",
   "fqn": "nim-protobuf-serialization.status-im.github.com",
-  "current": "adb03da5332e145fce074260ef7356246dae4e26",
+  "current": "d9aa950b9d9e8bfc8a201740042b5e8ea5880875",
   "author": "Status",
   "description": "Protobuf implementation compatible with the nim-serialization framework.",
   "license": "MIT",
@@ -11,6 +11,16 @@
     "tests"
   ],
   "releases": [
+    {
+      "v": "0.5.1@d9aa950b9d9e8bfc8a201740042b5e8ea5880875^",
+      "r": [
+        "stew",
+        "faststreams >= 0.3.0",
+        "serialization",
+        "npeg >= 1.3.0",
+        "unittest2"
+      ]
+    },
     {
       "v": "0.5.0@f45476a3c1f4e7bff73845e6450d686be040ddeb",
       "r": [
@@ -34,7 +44,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-10T01:01:37Z",
+  "generatedAt": "2026-06-10T13:24:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -42,13 +52,15 @@
     },
     "releases": [
       "v0.4.0",
-      "v0.5.0"
+      "v0.5.0",
+      "v0.5.1"
     ],
     "tagVersions": {
       "v0.4.0": "0.4.0",
-      "v0.5.0": "0.5.0"
+      "v0.5.0": "0.5.0",
+      "v0.5.1": "0.5.1"
     },
-    "latest": "v0.5.0"
+    "latest": "v0.5.1"
   },
   "allDeps": {
     "packages": [

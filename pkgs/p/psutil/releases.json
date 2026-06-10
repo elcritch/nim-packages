@@ -47,6 +47,15 @@
       "m": "1.0.0"
     },
     {
+      "v": "0.5.8@1b519dab1ddaf9ff4a7581759e79c8d552b25f05",
+      "r": [],
+      "a": "JuanCarlos",
+      "d": "Psutil is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network)",
+      "l": "MIT",
+      "s": "src",
+      "m": "1.2.6"
+    },
+    {
       "v": "0.6.1@4a0223f839038e20f0233e3733335ca79b2a3aa8",
       "r": [],
       "a": "Juan Carlos, John Scillieri, Nim community",
@@ -58,7 +67,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-10T07:42:15Z",
+  "generatedAt": "2026-06-10T13:24:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

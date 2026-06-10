@@ -88,6 +88,13 @@
       ]
     },
     {
+      "v": "0.3.1@cf48f4f67a10fb6fdd6f721e710a9c45a3baaaa6",
+      "r": [
+        "arraymancer >= 0.7.3",
+        "yaml >= 2.0.0"
+      ]
+    },
+    {
       "v": "0.3.0@c6219a5162f1d510266ca3b1b76462dd11417ae2",
       "r": [
         "arraymancer >= 0.7.3",
@@ -142,7 +149,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-10T07:40:58Z",
+  "generatedAt": "2026-06-10T13:23:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
