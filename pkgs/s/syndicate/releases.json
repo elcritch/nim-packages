@@ -312,12 +312,10 @@
     },
     {
       "v": "20230329@53278d8614608aa16bcfe2f480b79393513c5b89",
-      "r": [
-        "nimSHA2 >= 0.1.1",
-        "preserves >= 20221208",
-        "taps >= 20221119"
-      ],
-      "m": "1.4.8"
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "p": []
     },
     {
       "v": "20230323@b1627a491a4bc21b0dbf00e5b1a68ca8e51ab793",
@@ -396,7 +394,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-09T13:21:06Z",
+  "generatedAt": "2026-06-10T07:43:18Z",
   "allDeps": {
     "packages": [
       "getdns > 20221102 & <= 20240522",

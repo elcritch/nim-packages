@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimrm",
   "fqn": "nimrm.blue0x1.github.com",
-  "current": "fad5c5c1601d85c04abf2919e8f0e5b6717ae64f",
+  "current": "a187c4040ac5342324711d2f3127c9a5f337e2c0",
   "author": "Chokri Hammedi (blue0x1)",
   "description": "nimrm interactive WinRM shell client with NTLM and Kerberos auth",
   "license": "MIT",
@@ -26,7 +26,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-10T00:59:52Z",
+  "generatedAt": "2026-06-10T07:41:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
