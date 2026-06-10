@@ -105,19 +105,20 @@
     },
     {
       "v": "1.0.2@e0f3d20b627e7c6616d4fe4d60e0d114095d9d95",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "b": "",
-      "p": []
+      "r": [
+        "climate >= 1.1.3"
+      ],
+      "p": [
+        "nimage"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-09T18:53:36Z",
+  "generatedAt": "2026-06-10T00:54:15Z",
   "allDeps": {
     "packages": [
-      "climate > 1.0.2"
+      "climate"
     ],
     "urls": [],
     "unresolved": []

@@ -9,15 +9,19 @@
   "nim": "0.16.0",
   "releases": [
     {
-      "v": "0.1.0@5493dbc6713effaab477f0ebb9e9728eda6c9604",
-      "r": []
+      "v": "0.1.0@3f2bf37771af09700aaa1a3e5b09f0ffe5c75995",
+      "r": [
+        "sdl2"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:27:32Z",
+  "generatedAt": "2026-06-10T00:55:28Z",
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "sdl2"
+    ],
     "urls": [],
     "unresolved": []
   }
