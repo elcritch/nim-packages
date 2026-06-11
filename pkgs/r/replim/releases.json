@@ -33,11 +33,6 @@
       "a": "gmShiba"
     },
     {
-      "v": "0.2.1@c9fccbbe52f6358ea94677ab3282ca2bcf8ba9db",
-      "r": [],
-      "a": "gmShiba"
-    },
-    {
       "v": "0.2.2@224ee6adc11517a7adf09df8de4d3428fa68b601",
       "r": [],
       "a": "gmShiba"
@@ -50,7 +45,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:35:28Z",
+  "generatedAt": "2026-06-11T00:57:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

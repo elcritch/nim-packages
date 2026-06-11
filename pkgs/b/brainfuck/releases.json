@@ -3,7 +3,7 @@
   "name": "brainfuck",
   "fqn": "nim-brainfuck.def-.github.com",
   "current": "62d0175881b3dbd80d1c48eb36aa0050a07c85dc",
-  "author": "The 'How I Start Nim' Team",
+  "author": "Dennis Felsing",
   "description": "A brainfuck interpreter and compiler",
   "license": "MIT",
   "nim": "0.10.0",
@@ -13,7 +13,7 @@
   ],
   "releases": [
     {
-      "v": "1.0@b1f193ce85b0f296452faf13fdf7c5aba8056352",
+      "v": "1.0@f9bfc082ae51c4f26645ec5a1da481ca8c0b44ce",
       "r": [],
       "p": []
     },
@@ -21,13 +21,12 @@
       "v": "1.1@989b529bd7983b7adb74845b79b1d2e5aa2f159c",
       "r": [
         "docopt >= 0.1.0"
-      ],
-      "a": "Dennis Felsing"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:24:19Z",
+  "generatedAt": "2026-06-11T00:52:05Z",
   "allDeps": {
     "packages": [
       "docopt > 1.0",
