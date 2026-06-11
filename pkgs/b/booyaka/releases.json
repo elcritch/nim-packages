@@ -40,7 +40,6 @@
   "allDeps": {
     "packages": [
       "ansiparse",
-      "asynctools",
       "bag",
       "bigints",
       "blackpaper",
@@ -52,10 +51,8 @@
       "flatty",
       "floof",
       "gccjit",
-      "genny",
       "greskewel",
       "htmlparser",
-      "httpbeast",
       "httpx",
       "illwill",
       "ioselectors",
@@ -87,7 +84,6 @@
       "tim",
       "timerwheel",
       "toktok",
-      "urlly",
       "valido",
       "vancode",
       "voodoo",
@@ -101,10 +97,7 @@
       "error://enimsql"
     ],
     "unresolved": [
-      "gh:georgelemon/parsesql",
-      "gh:iffy/asynctools",
-      "gh:openpeeps/importer",
-      "gh:timotheecour/asynctools"
+      "gh:georgelemon/parsesql"
     ]
   }
 }

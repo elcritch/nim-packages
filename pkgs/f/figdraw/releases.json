@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "figdraw",
   "fqn": "figdraw.elcritch.github.com",
-  "current": "75863a58a2a3b8b38df19163da27a3edebe47abc",
+  "current": "e717a94b9d9d818192d52ba0d6dd26f3453d73f5",
   "author": "Jaremy Creechley",
   "description": "UI Engine for Nim",
   "license": "MIT",
@@ -198,39 +198,6 @@
     },
     {
       "v": "0.7.0@af27694c281634bce5458afabe0df01e516985c7",
-      "r": [
-        "pixie >= 5.0.1",
-        "chroma >= 0.2.7",
-        "bumpy",
-        "stack_strings",
-        "chronicles >= 0.10.3",
-        "sdfy >= 0.7.7",
-        "nimsimd >= 1.2.5",
-        "variant",
-        "patty",
-        "supersnappy"
-      ],
-      "f": {
-        "windex": [
-          "gh:elcritch/windex"
-        ],
-        "reference": [
-          "gh:elcritch/figuro",
-          "fidget"
-        ],
-        "siwin": [
-          "siwin"
-        ],
-        "sdl2": [
-          "sdl2"
-        ],
-        "windy": [
-          "windy"
-        ]
-      }
-    },
-    {
-      "v": "0.7.1@d0dc95bf2ded2678676383a62ced2d01587d015f",
       "r": [
         "pixie >= 5.0.1",
         "chroma >= 0.2.7",
@@ -2243,7 +2210,7 @@
       }
     },
     {
-      "v": "0.23.0@75863a58a2a3b8b38df19163da27a3edebe47abc^",
+      "v": "0.23.0@75863a58a2a3b8b38df19163da27a3edebe47abc",
       "r": [
         "pixie >= 5.0.1",
         "chroma >= 0.2.7",
@@ -2287,7 +2254,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-07T00:51:57Z",
+  "generatedAt": "2026-06-11T19:09:35Z",
   "allDeps": {
     "packages": [
       "bumpy",
