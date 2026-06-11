@@ -28,6 +28,15 @@
       ]
     },
     {
+      "v": "0.2.2@d8967ca834cf4975aceb098f66e6cd53a8a9c724",
+      "r": [
+        "nimterop >= 0.6.13 & < 0.7.0",
+        "sysrandom >= 1.1.0 & < 2.0.0"
+      ],
+      "i": [],
+      "j": []
+    },
+    {
       "v": "0.2.1@6bf84aa83966b836b6529f0c2e6681a5df72de37",
       "r": [
         "nimterop >= 0.6.13 & < 0.7.0",
@@ -78,17 +87,17 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-11T07:51:46Z",
+  "generatedAt": "2026-06-11T13:31:10Z",
   "allDeps": {
     "packages": [
-      "cligen <= 0.2.1",
-      "graphemes <= 0.2.1",
-      "nimterop <= 0.2.1",
-      "regex <= 0.2.1",
-      "segmentation <= 0.2.1",
+      "cligen <= 0.2.2",
+      "graphemes <= 0.2.2",
+      "nimterop <= 0.2.2",
+      "regex <= 0.2.2",
+      "segmentation <= 0.2.2",
       "sysrandom",
-      "unicodedb <= 0.2.1",
-      "unicodeplus <= 0.2.1"
+      "unicodedb <= 0.2.2",
+      "unicodeplus <= 0.2.2"
     ],
     "urls": [],
     "unresolved": []
