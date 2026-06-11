@@ -53,11 +53,16 @@
       "r": [
         "argparse >= 4.0.2"
       ]
+    },
+    {
+      "v": "0.1.1@e0ae03ce9d2af8d40cebe56a1b8309521a713a3e",
+      "r": [],
+      "m": "2.0.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-11T00:52:51Z",
+  "generatedAt": "2026-06-11T07:49:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -87,7 +92,7 @@
   },
   "allDeps": {
     "packages": [
-      "argparse"
+      "argparse > 0.1.1"
     ],
     "urls": [],
     "unresolved": []

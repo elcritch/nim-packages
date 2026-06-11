@@ -6,10 +6,15 @@
   "author": "Andreas Rumpf",
   "description": "Expat wrapper for Nim",
   "license": "MIT",
-  "releases": [],
+  "releases": [
+    {
+      "v": "1.0.0@7b6484ce185e40ad3f976feb6d00df2be41034fd^",
+      "r": []
+    }
+  ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-11T00:53:11Z",
+  "generatedAt": "2026-06-11T07:49:43Z",
   "allDeps": {
     "packages": [],
     "urls": [],
