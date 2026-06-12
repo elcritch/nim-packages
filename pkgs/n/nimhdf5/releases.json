@@ -256,6 +256,13 @@
       "m": "0.18.0"
     },
     {
+      "v": "0.2.14@a26b4e3c2f29d4901016c7918aca0ddf3fa7179f",
+      "r": [
+        "gh:vindaar/seqmath #head"
+      ],
+      "m": "0.18.0"
+    },
+    {
       "v": "0.2.13@88098105eae02752ab2f0eac0fb891cb6e129cf9",
       "r": [
         "gh:vindaar/seqmath #head"
@@ -313,7 +320,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-11T19:12:18Z",
+  "generatedAt": "2026-06-12T01:01:39Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.2.9",
