@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "packedjson",
   "fqn": "packedjson.Araq.github.com",
-  "current": "02e2b1a590a32f6f3ddb25e988045aeb8acf691a",
+  "current": "cd82019e2adb5679964035ae3f4317640d7b0e0b",
   "author": "Araq",
   "description": "packedjson is an alternative Nim implementation for JSON. The JSON is essentially kept as a single string in order to save memory over a more traditional tree representation.",
   "license": "MIT",
@@ -12,6 +12,10 @@
     "bench"
   ],
   "releases": [
+    {
+      "v": "0.2.4@da60edd1838339fd3a9528953fd3b98d6eacca66",
+      "r": []
+    },
     {
       "v": "0.2.2@69686f0345fb01f3c5150b9897ebdbcfa85f5df4",
       "r": []
@@ -28,7 +32,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:33:58Z",
+  "generatedAt": "2026-06-12T13:23:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

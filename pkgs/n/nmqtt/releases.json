@@ -3,7 +3,7 @@
   "name": "nmqtt",
   "fqn": "nmqtt.zevv.github.com",
   "current": "3406d20382123d23fbb198c54728dadfa9155145",
-  "author": "zevv & ThomasTJdev & python36",
+  "author": "zevv & ThomasTJdev",
   "description": "Native MQTT library and binaries for publishing, subscribing and broker",
   "license": "MIT",
   "nim": "1.0.6",
@@ -27,53 +27,41 @@
   ],
   "releases": [
     {
-      "v": "1.0.8@3406d20382123d23fbb198c54728dadfa9155145^",
+      "v": "1.0.7@a704fa997184fcd16fc7043e52518462cf835aed",
       "r": [
         "cligen >= 0.9.45"
       ]
     },
     {
-      "v": "1.0.7@a704fa997184fcd16fc7043e52518462cf835aed",
-      "r": [
-        "cligen >= 0.9.45"
-      ],
-      "a": "zevv & ThomasTJdev"
-    },
-    {
       "v": "1.0.6@3e4157e0193269a3bdef2965b14862a92497853c",
       "r": [
         "cligen >= 0.9.45"
-      ],
-      "a": "zevv & ThomasTJdev"
+      ]
     },
     {
       "v": "1.0.5@2bc6c765471ddd2a134a76345f52288ead32db02",
       "r": [
         "cligen >= 0.9.45"
-      ],
-      "a": "zevv & ThomasTJdev"
+      ]
     },
     {
       "v": "1.0.4@4791cba33a8170e14838b0dbc3e2d6e56059de80",
       "r": [
         "cligen >= 0.9.45"
-      ],
-      "a": "zevv & ThomasTJdev"
+      ]
     },
     {
       "v": "1.0.3@17abe0c52fa478a91ce553cbd18834d0e9eb3edb",
       "r": [
         "cligen >= 0.9.45"
-      ],
-      "a": "zevv & ThomasTJdev"
+      ]
     },
     {
       "v": "1.0.2@cce81d71272d4d5d116d6647867265e3db3bdac4",
       "r": [
         "bcrypt >= 0.2.1",
         "cligen >= 0.9.45"
-      ],
-      "a": "zevv & ThomasTJdev"
+      ]
     },
     {
       "v": "1.0.0@89efd382d31b8585475b508c968b5238fbc4dfba",
@@ -82,7 +70,6 @@
         "cligen >= 0.9.45"
       ],
       "h": true,
-      "a": "zevv & ThomasTJdev",
       "p": [
         "nmqtt",
         "nmqtt_password",
@@ -105,7 +92,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-12T07:53:20Z",
+  "generatedAt": "2026-06-12T13:23:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -19,11 +19,19 @@
         "oldwinapi >= 2.0.0",
         "png >= 0.2.0"
       ]
+    },
+    {
+      "v": "0.1.4@75ab8f2458a0295564899909305183039a932173",
+      "r": [
+        "x11 >= 1.0.0",
+        "oldwinapi >= 2.0.0",
+        "png >= 0.2.0"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-12T07:53:38Z",
+  "generatedAt": "2026-06-12T13:23:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

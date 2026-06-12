@@ -129,6 +129,13 @@
       ]
     },
     {
+      "v": "1.0.0@4bd9d7139ca0a54d5c67ead623d6c4897581073a",
+      "r": [
+        "jsony >= 1.0.3"
+      ],
+      "d": "ISO codes for Nim"
+    },
+    {
       "v": "0.3.1@604389187db4a270c2b5289721a2d33351ec8b50",
       "r": [
         "jsony >= 1.0.3",
@@ -139,7 +146,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-12T07:49:49Z",
+  "generatedAt": "2026-06-12T13:20:37Z",
   "allDeps": {
     "packages": [
       "bump <= 0.3.1",
