@@ -30,27 +30,11 @@
         "stew"
       ],
       "m": "1.4.0"
-    },
-    {
-      "v": "0.1.1@5645b02a746e51a814f6a94515d830de77d03228",
-      "r": [
-        "dnsprotocol",
-        "stew"
-      ],
-      "m": "1.4.0"
-    },
-    {
-      "v": "0.1.0@49f8a0dafca4ffd129a5d59c2e0caf718b0099ac",
-      "r": [
-        "dnsprotocol",
-        "stew"
-      ],
-      "m": "1.4.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-12T13:21:58Z",
+  "generatedAt": "2026-06-12T18:54:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

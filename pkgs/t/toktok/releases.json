@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "toktok",
   "fqn": "toktok.openpeeps.github.com",
-  "current": "5100e0442ee16e0984672d84f946b14e197f9cea",
+  "current": "83d49fafbdd5288a29058b88e042ed464e1b182b",
   "author": "George Lemon",
   "description": "Generic tokenizer written in Nim language 👑 Powered by Nim's Macros",
   "license": "MIT",
@@ -24,7 +24,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-12T13:25:54Z",
+  "generatedAt": "2026-06-12T18:58:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

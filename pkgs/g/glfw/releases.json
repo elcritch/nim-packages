@@ -48,6 +48,18 @@
       "m": "1.4.0"
     },
     {
+      "v": "3.3.0.3@ff919dee823d069af5ebedb573103e41184d40da",
+      "r": [],
+      "a": "Erik Johansson Andersson",
+      "m": "1.0.2"
+    },
+    {
+      "v": "3.3.0.2@347ffb4326ef577eea46363b1d1b5ca688cb2bab",
+      "r": [],
+      "a": "Erik Johansson Andersson",
+      "m": "1.0.2"
+    },
+    {
       "v": "3.3.0.1@a9b152eb7419c14ddc55dda752a9c34b356e44c0",
       "r": [],
       "a": "Erik Johansson Andersson",
@@ -93,7 +105,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-12T13:19:53Z",
+  "generatedAt": "2026-06-12T18:52:54Z",
   "allDeps": {
     "packages": [],
     "urls": [],

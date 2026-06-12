@@ -16,14 +16,6 @@
   },
   "releases": [
     {
-      "v": "0.6.0@1c69e6eea2cd72a419826679b59efb610113466a",
-      "r": [
-        "tinyre",
-        "gh:Pylgos/nim-concurrent #head",
-        "chronos #head"
-      ]
-    },
-    {
       "v": "0.5.0@c0a047460836343898dab466ed1ce8d9f3b965ef",
       "r": [
         "tinyre",
@@ -80,7 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:35:16Z",
+  "generatedAt": "2026-06-12T18:56:50Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.4.1",
