@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "bestfetch",
   "fqn": "bestfetch.Maxb0tbeep.gitlab.com",
-  "current": "6e829746f5149943fdd8b60cd541e2ff749e546b",
+  "current": "0299d1fc6d90a3269429f7d3448e9ee633f6d339",
   "author": "lx12ucy",
   "description": "The bestest sysfetch ever",
   "license": "GPL-3.0-only",
@@ -13,6 +13,16 @@
     "bestfetch"
   ],
   "releases": [
+    {
+      "v": "1.8.0@0299d1fc6d90a3269429f7d3448e9ee633f6d339^",
+      "r": [
+        "termstyle >= 0.1.0",
+        "elvis >= 0.5.0",
+        "yaml >= 2.1.1",
+        "bytesized >= 1.2.0",
+        "plists >= 0.2.0"
+      ]
+    },
     {
       "v": "1.7.0@ca9f1784fd46eb162fe7e546fb64e88d4740df87",
       "r": [
@@ -137,7 +147,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-12T00:54:52Z",
+  "generatedAt": "2026-06-12T07:45:40Z",
   "allDeps": {
     "packages": [
       "bytesized > 1.3.0",
