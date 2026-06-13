@@ -73,12 +73,8 @@
     },
     {
       "v": "0.1.12@61aa573a35c48b4e45383a61db4b65892bc7f461",
-      "r": [
-        "hyperx >= 0.1.40",
-        "protobuf_serialization >= 0.3.0",
-        "zippy >= 0.10.14"
-      ],
-      "m": "2.0.8"
+      "r": [],
+      "x": []
     },
     {
       "v": "0.1.11@19dfc5527bce5dfa75a1d7d85c9c62907bf59f50",
@@ -191,7 +187,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-13T00:55:12Z",
+  "generatedAt": "2026-06-13T07:27:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -245,15 +241,15 @@
   },
   "allDeps": {
     "packages": [
-      "faststreams <= 0.1.12",
+      "faststreams <= 0.1.11",
       "hpack",
       "hyperx",
-      "npeg <= 0.1.12",
-      "protobuf_serialization <= 0.1.12",
-      "results <= 0.1.12",
-      "serialization <= 0.1.12",
-      "stew <= 0.1.12",
-      "unittest2 <= 0.1.12",
+      "npeg <= 0.1.11",
+      "protobuf_serialization <= 0.1.11",
+      "results <= 0.1.11",
+      "serialization <= 0.1.11",
+      "stew <= 0.1.11",
+      "unittest2 <= 0.1.11",
       "zippy"
     ],
     "urls": [],
