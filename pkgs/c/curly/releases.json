@@ -34,6 +34,14 @@
       ]
     },
     {
+      "v": "1.0.0@0fbe9b2f6cb39551f9ddefdb99c91414193c01c3",
+      "r": [
+        "libcurl >= 1.0.0",
+        "zippy >= 0.10.6",
+        "webby >= 0.1.7"
+      ]
+    },
+    {
       "v": "0.1.13@a6b9e15e12b12ad1395b321eea5e476d9b6d3a14",
       "r": [
         "libcurl >= 1.0.0",
@@ -174,7 +182,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-12T18:51:45Z",
+  "generatedAt": "2026-06-13T00:53:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
