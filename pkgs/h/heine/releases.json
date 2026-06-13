@@ -65,6 +65,13 @@
       ]
     },
     {
+      "v": "2023.414.1@ec2ebe6097deb8cc558c89de9b1adf87269236e5",
+      "r": [
+        "cligen >= 1.5.21",
+        "npeg >= 1.2.1"
+      ]
+    },
+    {
       "v": "2023.414.0@d69bb159a2167b6899f987cb5914539577f1f60d",
       "r": [
         "cligen >= 1.5.21",
@@ -193,7 +200,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-13T07:27:27Z",
+  "generatedAt": "2026-06-13T12:45:08Z",
   "allDeps": {
     "packages": [
       "cligen",

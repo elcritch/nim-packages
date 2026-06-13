@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "grpc",
   "fqn": "nim-grpc.nitely.github.com",
-  "current": "b7a8aee2c28e2ba989d51ff4bc619b5854325dcd",
+  "current": "e97aac4310ad18f852fbfffc32334b680c8c296d",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "Pure Nim gRPC client and server",
   "license": "MIT",
@@ -14,7 +14,15 @@
   ],
   "releases": [
     {
-      "v": "0.1.19@b7a8aee2c28e2ba989d51ff4bc619b5854325dcd^",
+      "v": "0.1.20@e97aac4310ad18f852fbfffc32334b680c8c296d^",
+      "r": [
+        "hyperx >= 0.1.50",
+        "protobuf_serialization >= 0.5.2",
+        "zippy >= 0.10.14"
+      ]
+    },
+    {
+      "v": "0.1.19@b7a8aee2c28e2ba989d51ff4bc619b5854325dcd",
       "r": [
         "hyperx >= 0.1.50",
         "gh:nitely/nim-protobuf-serialization #471301dfb583a802768979e287ea2c2e51f203ab",
@@ -73,8 +81,12 @@
     },
     {
       "v": "0.1.12@61aa573a35c48b4e45383a61db4b65892bc7f461",
-      "r": [],
-      "x": []
+      "r": [
+        "hyperx >= 0.1.40",
+        "protobuf_serialization >= 0.3.0",
+        "zippy >= 0.10.14"
+      ],
+      "m": "2.0.8"
     },
     {
       "v": "0.1.11@19dfc5527bce5dfa75a1d7d85c9c62907bf59f50",
@@ -187,7 +199,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-13T07:27:18Z",
+  "generatedAt": "2026-06-13T12:44:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -207,6 +219,7 @@
       "v0.1.18",
       "v0.1.19",
       "v0.1.2",
+      "v0.1.20",
       "v0.1.3",
       "v0.1.4",
       "v0.1.5",
@@ -229,6 +242,7 @@
       "v0.1.18": "0.1.18",
       "v0.1.19": "0.1.19",
       "v0.1.2": "0.1.2",
+      "v0.1.20": "0.1.20",
       "v0.1.3": "0.1.3",
       "v0.1.4": "0.1.4",
       "v0.1.5": "0.1.5",
@@ -237,19 +251,19 @@
       "v0.1.8": "0.1.8",
       "v0.1.9": "0.1.9"
     },
-    "latest": "v0.1.19"
+    "latest": "v0.1.20"
   },
   "allDeps": {
     "packages": [
-      "faststreams <= 0.1.11",
+      "faststreams",
       "hpack",
       "hyperx",
-      "npeg <= 0.1.11",
-      "protobuf_serialization <= 0.1.11",
-      "results <= 0.1.11",
-      "serialization <= 0.1.11",
-      "stew <= 0.1.11",
-      "unittest2 <= 0.1.11",
+      "npeg",
+      "protobuf_serialization",
+      "results",
+      "serialization",
+      "stew",
+      "unittest2",
       "zippy"
     ],
     "urls": [],

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "pls",
   "fqn": "pls.h3rald.github.com",
-  "current": "b86933c01da63ebd83a93b27c94fd4e5d5ca7bee",
+  "current": "51703dcbf5c542f918a949f032df4a3aa7cb58ed",
   "license": "MIT",
   "nim": "0.19.0",
   "srcDir": "src",
@@ -20,7 +20,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-13T07:30:20Z",
+  "generatedAt": "2026-06-13T12:48:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

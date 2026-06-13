@@ -165,6 +165,7 @@
   "allDeps": {
     "packages": [
       "finder > 1.0.8",
+      "zip > 1.0.8",
       "zippy > 1.0.8"
     ],
     "urls": [],

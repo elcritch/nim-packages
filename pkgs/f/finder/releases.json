@@ -26,14 +26,21 @@
       "r": [
         "zippy >= 0.5.4"
       ]
+    },
+    {
+      "v": "0.1.1@b64144c444a3305d8b64e3a36bb087fe0eba9fcd",
+      "r": [
+        "zip"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-13T07:26:39Z",
+  "generatedAt": "2026-06-13T12:44:21Z",
   "allDeps": {
     "packages": [
-      "zippy"
+      "zip <= 0.1.1",
+      "zippy > 0.1.1"
     ],
     "urls": [],
     "unresolved": []
