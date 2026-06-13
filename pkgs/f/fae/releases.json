@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "fae",
   "fqn": "fae.h3rald.github.com",
-  "current": "19479c7091968a79b96bd250a9dd89e579437c39",
+  "current": "2bdbc0f0d1489b1b10b08f919e36cadb5d839fc6",
   "nim": "1.4.0",
   "srcDir": "src",
   "installExt": [
@@ -25,7 +25,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-13T12:44:09Z",
+  "generatedAt": "2026-06-13T18:39:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

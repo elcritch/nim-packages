@@ -22,6 +22,14 @@
       "d": "A library of components for the Polymorph ECS"
     },
     {
+      "v": "0.2.0@6adb996fb76b09dadb7620c471bd2be73e002df5",
+      "r": [
+        "polymorph >= 0.1.0"
+      ],
+      "d": "A library of ready made components covering networking, database queries, graphics, and console IO for use with Polymorph",
+      "m": "1.0.0"
+    },
+    {
       "v": "0.1.1@d844a4faee3de8f8d711bf5ddf00ed2c770db032",
       "r": [
         "polymorph >= 0.1.0"
@@ -38,7 +46,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-13T12:48:41Z",
+  "generatedAt": "2026-06-13T18:46:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
