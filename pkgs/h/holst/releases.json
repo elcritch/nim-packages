@@ -17,11 +17,7 @@
   "releases": [
     {
       "v": "0.1.5@ad0f38727d9f83cc7738381e201a853a1c544c7e",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "k": [],
-      "p": []
+      "r": []
     },
     {
       "v": "0.1.4@4705bd434e68ac8c533de8b44cd77e7d8e311677",
@@ -48,7 +44,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-13T18:40:44Z",
+  "generatedAt": "2026-06-14T00:54:48Z",
   "allDeps": {
     "packages": [],
     "urls": [],

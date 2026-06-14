@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nim_miniz",
   "fqn": "nim-miniz.h3rald.github.com",
-  "current": "b47edf871f2c780b72dcce7da232ef5afee57d56",
+  "current": "3b5039802261c789e658ef8da9ece1f15a001b6f",
   "author": "Fabio Cevasco",
   "description": "Nim wrapper for miniz",
   "license": "MIT",
@@ -17,7 +17,7 @@
   ],
   "releases": [
     {
-      "v": "1.1.0@b47edf871f2c780b72dcce7da232ef5afee57d56^",
+      "v": "1.1.0@b47edf871f2c780b72dcce7da232ef5afee57d56",
       "r": []
     },
     {
@@ -31,7 +31,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-13T18:43:35Z",
+  "generatedAt": "2026-06-14T00:56:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

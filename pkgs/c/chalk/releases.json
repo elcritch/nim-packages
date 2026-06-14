@@ -340,6 +340,15 @@
       "m": "2.0.0"
     },
     {
+      "v": "0.3.0@bbe9915be48016f6b9362ada796fbc71efcc4103",
+      "r": [
+        "gh:crashappsec/con4m #904639b9f51e655b908e221db26fbdd9fff382b3",
+        "gh:viega/zippy 0.10.7"
+      ],
+      "h": true,
+      "m": "2.0.0"
+    },
+    {
       "v": "0.2.2@781dd00f0062e1d3a39d831c8db39d2967f84074",
       "r": [
         "gh:crashappsec/con4m #63def517abc5f4d4efb876d34b7287c9361352cd",
@@ -392,7 +401,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-13T18:37:42Z",
+  "generatedAt": "2026-06-14T00:52:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
