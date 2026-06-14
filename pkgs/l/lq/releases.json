@@ -66,11 +66,18 @@
         "nap >= 1.5.1",
         "parsetoml >= 0.5.0"
       ]
+    },
+    {
+      "v": "1.0.0@a51acae00e01b659f345850b9cb7fb2a1ca9b1e3",
+      "r": [
+        "nap >= 1.5.1",
+        "parsetoml >= 0.5.0"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-14T12:48:55Z",
+  "generatedAt": "2026-06-14T18:41:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
