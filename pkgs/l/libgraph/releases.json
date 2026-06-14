@@ -17,13 +17,17 @@
       "r": []
     },
     {
+      "v": "1.1@7ab7988c457255981759e66da17b058f81472f9c",
+      "r": []
+    },
+    {
       "v": "1.2@7c3696b4683c70686abaa36b8671c9034c2b3c7f",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-14T07:45:46Z",
+  "generatedAt": "2026-06-14T12:48:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

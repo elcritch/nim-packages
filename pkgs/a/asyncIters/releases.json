@@ -52,6 +52,12 @@
       ]
     },
     {
+      "v": "1.2.1@509c480fcae52d1f523e16397ebb9eea8b94d493",
+      "r": [
+        "letUtils >= 1.1.1 & < 2.0.0"
+      ]
+    },
+    {
       "v": "1.2.0@b8d73864daf9c6fa78828155591bf6cb1b15585a",
       "r": [
         "letUtils >= 1.1.1 & < 2.0.0"
@@ -72,7 +78,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-14T07:42:30Z",
+  "generatedAt": "2026-06-14T12:45:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

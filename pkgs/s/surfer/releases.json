@@ -2,13 +2,24 @@
   "cv": 19,
   "name": "surfer",
   "fqn": "surfer.nim-windowing.github.com",
-  "current": "0854ed13784bd33a3d4043b33de84d3b38b32d87",
+  "current": "df5b95732252b7d639652703f459d7197826363b",
   "author": "xTrayambak",
   "description": "A neat, minimal, opinionated windowing library for Nim.",
   "license": "BSD-3-Clause",
   "nim": "2.2.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.2.5@df5b95732252b7d639652703f459d7197826363b^",
+      "r": [
+        "nayland >= 0.2.0",
+        "shakar >= 0.1.3",
+        "xkb >= 1.4.1",
+        "vmath >= 2.0.1",
+        "chroma >= 1.0.0",
+        "gh:nim-windowing/linux_input >= 0.1.0"
+      ]
+    },
     {
       "v": "0.2.4@404c256ee7e07ab37640d4efb9df9ba345daf4cb",
       "r": [
@@ -123,7 +134,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-14T07:49:29Z",
+  "generatedAt": "2026-06-14T12:52:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -140,9 +151,10 @@
       "0.2.1",
       "0.2.2",
       "0.2.3",
-      "0.2.4"
+      "0.2.4",
+      "0.2.5"
     ],
-    "latest": "0.2.4"
+    "latest": "0.2.5"
   },
   "allDeps": {
     "packages": [

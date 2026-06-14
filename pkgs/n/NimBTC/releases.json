@@ -72,14 +72,6 @@
       "d": "A BTC RPC Wrapper for Nim"
     },
     {
-      "v": "11@e4138ffc2d35b95a2b10a7a1dd42284e0a0751cd",
-      "r": [
-        "jsony",
-        "puppy"
-      ],
-      "d": "A BTC RPC Wrapper for Nim"
-    },
-    {
       "v": "12@a32548a17177f2276a21c56ae832e2bcf9af894c",
       "r": [
         "jsony",
@@ -114,7 +106,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T11:39:20Z",
+  "generatedAt": "2026-06-14T12:45:06Z",
   "allDeps": {
     "packages": [
       "jsony",

@@ -39,13 +39,6 @@
       "m": "0.17.0"
     },
     {
-      "v": "0.4@1fcf7a6ac4da1a649ba7a435fdf89e63800349e8",
-      "r": [
-        "sdl2_nim #head"
-      ],
-      "m": "0.16.0"
-    },
-    {
       "v": "0.3@f2ebe20a7aa09a1e00a7e852340745f2013b9c5c",
       "r": [
         "sdl2_nim #head"
@@ -70,7 +63,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:32:11Z",
+  "generatedAt": "2026-06-14T12:49:55Z",
   "allDeps": {
     "packages": [
       "sdl2_nim",

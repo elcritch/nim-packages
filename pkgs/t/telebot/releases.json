@@ -15,7 +15,10 @@
   "releases": [
     {
       "v": "2025.02.22@07532fe70d944a1f770f644ecea554d506913676",
-      "r": []
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "x": []
     },
     {
       "v": "2024.12.17@64f70fda1355517d97d3cf1faa94b754dc0bca86",
@@ -700,7 +703,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-14T07:49:37Z",
+  "generatedAt": "2026-06-14T12:52:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
