@@ -3901,6 +3901,41 @@
       "o": {}
     },
     {
+      "v": "1.0.1@43662be3f8791998718e885cdaa39672bcafa108",
+      "r": [
+        "blscurve",
+        "chronicles",
+        "chronos",
+        "confutils",
+        "eth",
+        "json_rpc",
+        "json_serialization",
+        "libbacktrace",
+        "libp2p",
+        "metrics",
+        "nimcrypto",
+        "normalize",
+        "serialization",
+        "stew",
+        "testutils",
+        "prompt",
+        "unicodedb",
+        "web3",
+        "yaml",
+        "zxcvbn"
+      ],
+      "x": [
+        "nfuzz"
+      ],
+      "p": [
+        "beacon_chain/nimbus_beacon_node",
+        "research/serialized_sizes",
+        "nbench/nbench"
+      ],
+      "b": "",
+      "o": {}
+    },
+    {
       "v": "1@7af0ddd9a2072c2d3aaf1b5274f5f52e3ac99da3",
       "r": [
         "blscurve",
@@ -4180,7 +4215,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-14T00:52:47Z",
+  "generatedAt": "2026-06-14T07:43:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

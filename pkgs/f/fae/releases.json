@@ -12,6 +12,10 @@
   ],
   "releases": [
     {
+      "v": "1.1.0@9682afb0008d0ef053c89ca17b19e92216631f4f",
+      "r": []
+    },
+    {
       "v": "1.0.0@cc3b275099573f97d77f69e5f66cb7595a8cc89d",
       "r": [
         "nifty"
@@ -21,7 +25,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-14T00:53:47Z",
+  "generatedAt": "2026-06-14T07:44:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -39,7 +43,7 @@
   },
   "allDeps": {
     "packages": [
-      "nifty"
+      "nifty <= 1.0.0"
     ],
     "urls": [],
     "unresolved": []
