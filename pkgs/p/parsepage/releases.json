@@ -17,7 +17,7 @@
       "v": "0.1.0@a367a40f76d51bb012a04335f9c8338814e08315",
       "r": [
         "cligen",
-        "gh:thisago/useragent",
+        "gl:lurlo/useragent",
         "scraper"
       ],
       "b": ""
@@ -79,7 +79,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-15T01:00:38Z",
+  "generatedAt": "2026-06-15T08:12:49Z",
   "allDeps": {
     "packages": [
       "cligen",
@@ -96,7 +96,6 @@
     ],
     "unresolved": [
       "gh:thisago/fsafename",
-      "gh:thisago/useragent",
       "gl:lurlo/useragent"
     ]
   }

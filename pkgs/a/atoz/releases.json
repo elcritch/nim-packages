@@ -405,13 +405,6 @@
       ]
     },
     {
-      "v": "1.0.3@9a1ddba1617d1de2ab6d81b9bf553ed66c099c90",
-      "r": [
-        "openapi 1.0.1",
-        "sigv4 >= 1.0.0"
-      ]
-    },
-    {
       "v": "1.0.0@823fe2084fb5398ae9e9cf30cd5caab541e3e87c",
       "r": [
         "openapi >= 1.0.0",
@@ -421,7 +414,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-15T00:54:08Z",
+  "generatedAt": "2026-06-15T08:06:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
