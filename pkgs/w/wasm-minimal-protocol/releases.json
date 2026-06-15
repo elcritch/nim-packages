@@ -39,6 +39,7 @@
     "packages": [
       "cbor_serialization",
       "faststreams",
+      "npeg",
       "results",
       "serialization",
       "stew",

@@ -21,18 +21,11 @@
         "imageman >= 0.6.0"
       ],
       "m": "0.20.0"
-    },
-    {
-      "v": "0.1.0@d6ca91d6bb32bdb33ae101e77bc6055b2d8ef53d",
-      "r": [
-        "imageman >= 0.5.0"
-      ],
-      "m": "0.20.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:24:09Z",
+  "generatedAt": "2026-06-15T19:28:48Z",
   "allDeps": {
     "packages": [
       "imageman",
