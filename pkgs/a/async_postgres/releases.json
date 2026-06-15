@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "async_postgres",
   "fqn": "async-postgres.fox0430.github.com",
-  "current": "aaed6f7fb6f0f203db947122b9b59b82a645623a",
+  "current": "7bc79c8ac9c4754abbd6313b7d157f29f453feac",
   "author": "fox0430",
   "description": "Async PostgreSQL client",
   "license": "MIT",
@@ -33,7 +33,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-15T08:06:19Z",
+  "generatedAt": "2026-06-15T14:16:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

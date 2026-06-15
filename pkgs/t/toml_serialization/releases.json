@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "toml_serialization",
   "fqn": "nim-toml-serialization.status-im.github.com",
-  "current": "4eed91e339e04697463dfb158b837f36b47c7049",
+  "current": "58c40e65b23a8f5bc394224623112c889ef6149c",
   "author": "Status Research & Development GmbH",
   "description": "Flexible TOML serialization [not] relying on run-time type information",
   "license": "Apache License 2.0",
@@ -37,7 +37,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-15T08:14:48Z",
+  "generatedAt": "2026-06-15T14:27:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
