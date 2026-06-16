@@ -368,16 +368,6 @@
       "j": []
     },
     {
-      "v": "0.0.1@d88b6b94f95ddbc4aa7f58dc83547c3188c0bcbe",
-      "r": [
-        "nimpy >= 0.2.1"
-      ],
-      "s": "src",
-      "m": "2.2.4",
-      "i": [],
-      "j": []
-    },
-    {
       "v": "0.0.1@555d9731238fa721fb25cffd37b99998fd009c72",
       "r": [
         "nimpy >= 0.2.1"
@@ -430,7 +420,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-16T13:58:11Z",
+  "generatedAt": "2026-06-16T19:27:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

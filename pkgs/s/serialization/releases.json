@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "serialization",
   "fqn": "nim-serialization.status-im.github.com",
-  "current": "1790d8a931fce125d6722f7ee8432ee8c054d297",
+  "current": "4092500cea76154576539371709ae801afbd2a9d",
   "author": "Status Research & Development GmbH",
   "description": "A modern and extensible serialization framework for Nim",
   "license": "Apache License 2.0",
@@ -11,6 +11,14 @@
     "tests"
   ],
   "releases": [
+    {
+      "v": "0.5.3@4092500cea76154576539371709ae801afbd2a9d^",
+      "r": [
+        "faststreams",
+        "unittest2",
+        "stew"
+      ]
+    },
     {
       "v": "0.5.2@b0f2fa32960ea532a184394b0f27be37bd80248b",
       "r": [
@@ -128,7 +136,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-16T14:00:56Z",
+  "generatedAt": "2026-06-16T19:32:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -141,7 +149,8 @@
       "v0.4.6",
       "v0.5.0",
       "v0.5.1",
-      "v0.5.2"
+      "v0.5.2",
+      "v0.5.3"
     ],
     "tagVersions": {
       "v0.4.0": "0.4.0",
@@ -150,9 +159,10 @@
       "v0.4.6": "0.4.6",
       "v0.5.0": "0.5.0",
       "v0.5.1": "0.5.1",
-      "v0.5.2": "0.5.2"
+      "v0.5.2": "0.5.2",
+      "v0.5.3": "0.5.3"
     },
-    "latest": "v0.5.2"
+    "latest": "v0.5.3"
   },
   "allDeps": {
     "packages": [
