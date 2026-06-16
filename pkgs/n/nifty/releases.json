@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nifty",
   "fqn": "nifty.h3rald.github.com",
-  "current": "d366c729d5dbbf7a3c4053130b9b41b913aea437",
+  "current": "4d6c806c10e5b562d7f64d56a329eec806eb3f64",
   "author": "Fabio Cevasco",
   "description": "A decentralized (pseudo) package manager and script runner.",
   "license": "MIT",
@@ -61,7 +61,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-15T19:33:25Z",
+  "generatedAt": "2026-06-16T01:03:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

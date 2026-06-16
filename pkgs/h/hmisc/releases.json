@@ -713,10 +713,7 @@
     },
     {
       "v": "0.8.2@a9544545a1edc2976885196eb1169387c1ffcd9f",
-      "r": [
-        "sorta"
-      ],
-      "m": "1.4.0",
+      "r": [],
       "b": "",
       "k": [],
       "p": [],
@@ -938,7 +935,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:28:31Z",
+  "generatedAt": "2026-06-16T01:01:56Z",
   "allDeps": {
     "packages": [
       "benchy > 0.11.1",

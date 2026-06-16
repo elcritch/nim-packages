@@ -217,30 +217,6 @@
       }
     },
     {
-      "v": "0.8.0@3736b719a9d73064f05028bae0a36799c5bf1f40",
-      "r": [
-        "mummy",
-        "jwt >= 0.3",
-        "bearssl >= 0.2.8",
-        "gh:yglukhov/bearssl_pkey_decoder #546f8d9b"
-      ],
-      "l": "BSD-2-Clause",
-      "f": {
-        "jsony": [
-          "jsony"
-        ],
-        "msgpack": [
-          "msgpack4nim"
-        ],
-        "cbor": [
-          "cborious"
-        ],
-        "dev": [
-          "karax"
-        ]
-      }
-    },
-    {
       "v": "0.7.0@ca4f19efd649d86abd43b16efa321567276ebc8a",
       "r": [
         "mummy",
@@ -433,7 +409,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:35:46Z",
+  "generatedAt": "2026-06-16T01:06:14Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.4.0",
