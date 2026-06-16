@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "litestore",
   "fqn": "litestore.h3rald.github.com",
-  "current": "d89cc2633622fc3ca8d7595c196e555eb248b2d7",
+  "current": "6e04e8eb2a03202aac9dd6fab7b39c1c8e7396e7",
   "author": "Fabio Cevasco",
   "description": "Self-contained, lightweight, RESTful document store.",
   "license": "MIT",
@@ -23,7 +23,7 @@
   ],
   "releases": [
     {
-      "v": "1.13.0@d89cc2633622fc3ca8d7595c196e555eb248b2d7^",
+      "v": "1.13.0@d89cc2633622fc3ca8d7595c196e555eb248b2d7",
       "r": [
         "db_connector",
         "nimgen",
@@ -276,7 +276,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-16T08:08:53Z",
+  "generatedAt": "2026-06-16T13:57:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

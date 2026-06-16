@@ -162,10 +162,12 @@
     },
     {
       "v": "0.2.0.1@4be05eb7b24a0e0e8271d4d3d22e407a9dfd50e0",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "p": []
+      "r": [
+        "ncurses >= 1.0.2",
+        "unicodedb >= 0.9.0",
+        "parsetoml >= 0.4.0"
+      ],
+      "m": "1.2"
     },
     {
       "v": "0.2.0@c55dbad0de962fab0bbebbb1eae0bea1ac6d5b08",
@@ -408,7 +410,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-16T08:09:19Z",
+  "generatedAt": "2026-06-16T13:58:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

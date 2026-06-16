@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "minline",
   "fqn": "minline.h3rald.github.com",
-  "current": "c138b34bf3c5198c26ecfad5e251fa5d56e5ad48",
+  "current": "386a6f4c8695be5f1bb29bc72c3ccbdc5a158a6c",
   "author": "Fabio Cevasco",
   "description": "A line editing library in pure Nim",
   "license": "MIT",
@@ -14,7 +14,7 @@
   ],
   "releases": [
     {
-      "v": "0.1.2@c138b34bf3c5198c26ecfad5e251fa5d56e5ad48^",
+      "v": "0.1.2@c138b34bf3c5198c26ecfad5e251fa5d56e5ad48",
       "r": []
     },
     {
@@ -28,7 +28,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-16T08:09:14Z",
+  "generatedAt": "2026-06-16T13:58:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

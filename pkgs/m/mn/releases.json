@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "mn",
   "fqn": "mn.h3rald.github.com",
-  "current": "d64ab3e089d58726eaf89b3e38e5ad8d932ee3d3",
+  "current": "4523a27982a5d7a15ffcc723065d34bded63586f",
   "license": "MIT",
   "nim": "1.6.12",
   "installDirs": [
@@ -14,7 +14,7 @@
   ],
   "releases": [
     {
-      "v": "0.4.0@d64ab3e089d58726eaf89b3e38e5ad8d932ee3d3^",
+      "v": "0.4.0@d64ab3e089d58726eaf89b3e38e5ad8d932ee3d3",
       "r": []
     },
     {
@@ -35,7 +35,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-16T08:09:15Z",
+  "generatedAt": "2026-06-16T13:58:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "min",
   "fqn": "min.h3rald.github.com",
-  "current": "872a5e9fb83e8f4dec8201821a541680e28ecd9f",
+  "current": "f65f180ee0bff8fa1ac60012602a754177ec26c7",
   "author": "Fabio Cevasco",
   "description": "A small but practical concatenative programming language and shell.",
   "license": "MIT",
@@ -29,7 +29,7 @@
   ],
   "releases": [
     {
-      "v": "0.48.0@872a5e9fb83e8f4dec8201821a541680e28ecd9f^",
+      "v": "0.48.0@872a5e9fb83e8f4dec8201821a541680e28ecd9f",
       "r": [
         "checksums >= 0.2.1",
         "zippy >= 0.5.6 & < 0.6.0",
@@ -982,7 +982,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-16T08:09:16Z",
+  "generatedAt": "2026-06-16T13:58:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

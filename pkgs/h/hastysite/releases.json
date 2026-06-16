@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "hastysite",
   "fqn": "hastysite.h3rald.github.com",
-  "current": "5ce16addace1d09c10a5d681ef59e579b739cfa6",
+  "current": "ce7c2b5c2c9fcce5aa25b1fd7b88806296fc32c3",
   "author": "Fabio Cevasco",
   "description": "A small but powerful static site generator",
   "license": "MIT",
@@ -148,7 +148,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-16T08:07:57Z",
+  "generatedAt": "2026-06-16T13:56:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
