@@ -22,18 +22,7 @@
       ]
     },
     {
-      "v": "0.1.2@ee201e42781729b339300dfbf00a76dd8294f246",
-      "r": [
-        "sdl2_nim #head",
-        "nimBMP >= 0.1.0",
-        "freetype >= 0.1.0",
-        "polyBool >= 0.1.0",
-        "opengl >= 0.1.0"
-      ],
-      "m": "0.18.1"
-    },
-    {
-      "v": "0.1.3@e75db589497a0aa89774e40b296479d22c116a7e",
+      "v": "0.1.3@0566604c1576517ae25b1d5bc430f896d15bd16f",
       "r": [
         "sdl2_nim #head",
         "nimBMP >= 0.1.0",
@@ -46,7 +35,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-16T01:03:47Z",
+  "generatedAt": "2026-06-16T08:09:40Z",
   "allDeps": {
     "packages": [
       "freetype > 0.1.0",

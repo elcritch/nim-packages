@@ -160,6 +160,15 @@
       "m": "2.0.0"
     },
     {
+      "v": "0.3.9@a2bb33d064619e935ddf08574b187c06a4701c49",
+      "r": [
+        "gh:itsumura-h/nim-basolato",
+        "cligen",
+        "tiara"
+      ],
+      "m": "2.0.0"
+    },
+    {
       "v": "0.3.8@12995b636b7abbd04f55a801ff423e881bc06b9f",
       "r": [
         "gh:itsumura-h/nim-basolato",
@@ -247,7 +256,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-16T01:00:14Z",
+  "generatedAt": "2026-06-16T08:06:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
