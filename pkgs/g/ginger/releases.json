@@ -34,6 +34,18 @@
       ]
     },
     {
+      "v": "0.6.0@71f2384e15cc8b7e0d59647b2fb735df8cbdf83f",
+      "r": [
+        "chroma >= 0.1.0",
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "cairo >= 1.1.1",
+        "latexdsl >= 0.2.0",
+        "pixie >= 4.4.0",
+        "shell",
+        "gh:zetashift/fontim >= 0.2.0"
+      ]
+    },
+    {
       "v": "0.5.3@569d6aa746962e3de9530505181a09c5f2851837",
       "r": [
         "chroma >= 0.1.0",
@@ -498,7 +510,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-17T00:56:05Z",
+  "generatedAt": "2026-06-17T08:01:37Z",
   "allDeps": {
     "packages": [
       "arraymancer > 0.2.12",
