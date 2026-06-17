@@ -10,26 +10,6 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.3.0@5359673f86703b13ef94752a0424b0a4338e9e2a",
-      "r": []
-    },
-    {
-      "v": "0.2.4@c0a93c5352b148e7dd212141cfcc9afd10663914",
-      "r": []
-    },
-    {
-      "v": "0.2.3@c89f653f3dd4cccb212d85b9cfc44f31e8dfe778",
-      "r": []
-    },
-    {
-      "v": "0.2.2@463aa0d05a0969a5d40f12877fd7c479b7d0b8df",
-      "r": []
-    },
-    {
-      "v": "0.2.1@be7f06c5e51293abb9157e30e772a126c4b85ebd",
-      "r": []
-    },
-    {
       "v": "0.2.0@2647176fc95e6511eb22901dac4db818f45b97c2",
       "r": []
     },
@@ -80,7 +60,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-16T19:23:38Z",
+  "generatedAt": "2026-06-17T00:54:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

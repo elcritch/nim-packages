@@ -3,19 +3,30 @@
   "name": "curlies",
   "fqn": "curlies.svenrdz.github.com",
   "current": "7a665b630eabcb23c6dcee1b697277ded1361835",
+  "author": "svenrdz",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "nim": "2.0.0",
+  "srcDir": "src",
   "releases": [
     {
       "v": "0.1.0@7a665b630eabcb23c6dcee1b697277ded1361835^",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
+      "r": [
+        "micros >= 0.1.13",
+        "ast_pattern_matching",
+        "fungus"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-16T19:24:05Z",
+  "generatedAt": "2026-06-17T00:54:50Z",
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "ast_pattern_matching",
+      "fungus",
+      "micros"
+    ],
     "urls": [],
     "unresolved": []
   }
