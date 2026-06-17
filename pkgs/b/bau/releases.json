@@ -13,12 +13,6 @@
   ],
   "releases": [
     {
-      "v": "0.5.3@2e94b343edb8a477db94a420be396db4d5813f1c",
-      "r": [
-        "parsetoml >= 0.6.0"
-      ]
-    },
-    {
       "v": "0.5.2@f94f496be405237ecb62fe8e4e63d54b63169b25",
       "r": [
         "parsetoml >= 0.6.0"
@@ -69,7 +63,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-17T13:24:50Z",
+  "generatedAt": "2026-06-17T18:58:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
