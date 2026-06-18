@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "adix",
   "fqn": "adix.c-blake.github.com",
-  "current": "27a2319646f176141d6c52907313e6bff1179907",
+  "current": "77da911563b1064c6686d9a41011bf7a1b6c83aa",
   "author": "Charles Blake",
   "description": "An Adaptive Index Library for Nim",
   "license": "MIT/ISC",
@@ -14,6 +14,12 @@
     "util/lfreq"
   ],
   "releases": [
+    {
+      "v": "0.7.8@77da911563b1064c6686d9a41011bf7a1b6c83aa^",
+      "r": [
+        "cligen >= 1.9.7"
+      ]
+    },
     {
       "v": "0.7.7@22811ec9d74d5c1ada3d126fa8b964e185209686",
       "r": [
@@ -309,7 +315,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-18T13:16:57Z",
+  "generatedAt": "2026-06-18T18:56:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -350,7 +356,7 @@
       "0.7.5",
       "0.7.6",
       "0.7.7",
-      "v0.4.1",
+      "0.7.8",
       "v0.4.4",
       "v0.4.5",
       "v0.4.6",
@@ -358,14 +364,13 @@
       "v0.4.8"
     ],
     "tagVersions": {
-      "v0.4.1": "0.4.1",
       "v0.4.4": "0.4.4",
       "v0.4.5": "0.4.5",
       "v0.4.6": "0.4.6",
       "v0.4.7": "0.4.7",
       "v0.4.8": "0.4.8"
     },
-    "latest": "0.7.7"
+    "latest": "0.7.8"
   },
   "allDeps": {
     "packages": [

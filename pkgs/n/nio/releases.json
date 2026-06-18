@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nio",
   "fqn": "nio.c-blake.github.com",
-  "current": "52abd3678deb97fcb44a7299b29e794c6b742cd2",
+  "current": "6862fdb1e51460b29173847ce008ddbabd104ec6",
   "author": "Charles Blake",
   "description": "Low Overhead Numerical/Native IO library & tools",
   "license": "MIT/ISC",
@@ -20,6 +20,12 @@
     "utils/nsv"
   ],
   "releases": [
+    {
+      "v": "0.7.11@6862fdb1e51460b29173847ce008ddbabd104ec6^",
+      "r": [
+        "cligen >= 1.10.0"
+      ]
+    },
     {
       "v": "0.7.10@0be97eefd69d41178dd90d80bd1c51ed2bcdefc1",
       "r": [
@@ -447,14 +453,13 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-18T13:24:21Z",
+  "generatedAt": "2026-06-18T19:04:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "0.1.1",
       "0.1.2",
       "0.1.3",
       "0.1.4",
@@ -486,6 +491,7 @@
       "0.7.0",
       "0.7.1",
       "0.7.10",
+      "0.7.11",
       "0.7.2",
       "0.7.3",
       "0.7.4",
@@ -495,7 +501,7 @@
       "0.7.8",
       "0.7.9"
     ],
-    "latest": "0.7.10"
+    "latest": "0.7.11"
   },
   "allDeps": {
     "packages": [

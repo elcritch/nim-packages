@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "fitl",
   "fqn": "fitl.c-blake.github.com",
-  "current": "7d2c21ea35f2690c7ecfb40e7582d4ea1a0fa3a8",
+  "current": "66e4405a363ea2123db557fdc03b6b40d0905a6e",
   "author": "Charles Blake",
   "description": "Self-contained fit of linear models with regression diagnostics",
   "license": "MIT/ISC",
@@ -21,6 +21,13 @@
     "fitl/estMI"
   ],
   "releases": [
+    {
+      "v": "0.6.6@66e4405a363ea2123db557fdc03b6b40d0905a6e^",
+      "r": [
+        "cligen >= 1.9.7",
+        "spfun >= 0.7.7"
+      ]
+    },
     {
       "v": "0.6.5@78ffb807db4305ada4359636311eb34293686837",
       "r": [
@@ -303,7 +310,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-18T13:19:41Z",
+  "generatedAt": "2026-06-18T18:59:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -335,9 +342,10 @@
       "0.6.2",
       "0.6.3",
       "0.6.4",
-      "0.6.5"
+      "0.6.5",
+      "0.6.6"
     ],
-    "latest": "0.6.5"
+    "latest": "0.6.6"
   },
   "allDeps": {
     "packages": [

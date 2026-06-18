@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "lc",
   "fqn": "lc.c-blake.github.com",
-  "current": "47e8738ca84bbbbea1e958e0974583ec7a7c1a38",
+  "current": "bcf0848b491328c0b75d2f6d3842203c441c56a9",
   "author": "Charles Blake",
   "description": "A post-modern, \"multi-dimensional\", configurable, abbreviating, extensible ls/file lister",
   "license": "MIT/ISC",
@@ -18,6 +18,14 @@
     "lc"
   ],
   "releases": [
+    {
+      "v": "0.21.5@bcf0848b491328c0b75d2f6d3842203c441c56a9^",
+      "r": [
+        "cligen >= 1.10.0"
+      ],
+      "h": true,
+      "x": []
+    },
     {
       "v": "0.21.4@1add79d440871ca54525f4e30dc0563477c22843",
       "r": [
@@ -288,7 +296,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-18T13:21:37Z",
+  "generatedAt": "2026-06-18T19:01:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -313,6 +321,7 @@
       "0.21.2",
       "0.21.3",
       "0.21.4",
+      "0.21.5",
       "v0.2",
       "v0.3",
       "v0.4",
@@ -340,7 +349,7 @@
       "v0.9.2": "0.9.2",
       "v0.9.3": "0.9.3"
     },
-    "latest": "0.21.4"
+    "latest": "0.21.5"
   },
   "allDeps": {
     "packages": [

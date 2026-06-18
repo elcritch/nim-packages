@@ -2,13 +2,22 @@
   "cv": 19,
   "name": "nimib",
   "fqn": "nimib.pietroppeter.github.com",
-  "current": "ba4f9c30553b9c2777df61eb79f04a0955036e74",
+  "current": "99ac3477f6a9d421ea65aeda1c9682d343c5bc35",
   "author": "Pietro Peterlongo & Hugo Granström",
   "description": "nimib 🐳 - nim 👑 driven ⛵ publishing ✍",
   "license": "MIT",
   "nim": "1.4.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.4.1@99ac3477f6a9d421ea65aeda1c9682d343c5bc35^",
+      "r": [
+        "fusion >= 1.2",
+        "markdown >= 0.8.1",
+        "parsetoml >= 0.7.0",
+        "jsony >= 1.1.5"
+      ]
+    },
     {
       "v": "0.4.0@216dc33835888df6a4add834f3b33efe048eb630",
       "r": [
@@ -263,7 +272,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-18T13:23:48Z",
+  "generatedAt": "2026-06-18T19:03:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -294,7 +303,8 @@
       "v0.3.7",
       "v0.3.8",
       "v0.3.9",
-      "v0.4.0"
+      "v0.4.0",
+      "v0.4.1"
     ],
     "tagVersions": {
       "v0.1.1": "0.1.1",
@@ -321,9 +331,10 @@
       "v0.3.7": "0.3.7",
       "v0.3.8": "0.3.8",
       "v0.3.9": "0.3.9",
-      "v0.4.0": "0.4.0"
+      "v0.4.0": "0.4.0",
+      "v0.4.1": "0.4.1"
     },
-    "latest": "v0.4.0"
+    "latest": "v0.4.1"
   },
   "allDeps": {
     "packages": [

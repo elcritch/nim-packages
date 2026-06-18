@@ -10,10 +10,10 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.2@4c7db435ef8bb944e59a8b33c6bd51c97be33515",
+      "v": "0.1.2@13106add6eebe4b60c52c4d1995f746cef84235b",
       "r": [
         "classes >= 0.3.17",
-        "db_connector >= 0.1.0"
+        "tiny_sqlite >= 0.2.0"
       ]
     },
     {
@@ -25,12 +25,11 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:33:02Z",
+  "generatedAt": "2026-06-18T19:04:38Z",
   "allDeps": {
     "packages": [
       "classes <= 0.1.2",
-      "db_connector <= 0.1.2",
-      "tiny_sqlite > 0.1.2"
+      "tiny_sqlite"
     ],
     "urls": [],
     "unresolved": []
