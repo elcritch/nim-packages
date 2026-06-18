@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "cbor_serialization",
   "fqn": "nim-cbor-serialization.vacp2p.github.com",
-  "current": "bd367543e89929570c2c40cc760588b96d988815",
+  "current": "63e731f15e5d3c6169373700a43c3370e4d15b78",
   "author": "Status Research & Development GmbH",
   "description": "Flexible CBOR serialization not relying on run-time type information",
   "license": "Apache License 2.0",
@@ -13,7 +13,7 @@
   ],
   "releases": [
     {
-      "v": "0.4.0@bd367543e89929570c2c40cc760588b96d988815^",
+      "v": "0.4.0@bd367543e89929570c2c40cc760588b96d988815",
       "r": [
         "serialization >= 0.4.9",
         "stew >= 0.4.1",
@@ -49,7 +49,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-17T18:58:56Z",
+  "generatedAt": "2026-06-18T00:54:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
