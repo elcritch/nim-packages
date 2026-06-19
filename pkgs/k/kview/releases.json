@@ -17,14 +17,14 @@
     },
     {
       "v": "0.1.0@014467907597375a1d52360199283cecf6c303c4",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
+      "r": [
+        "karax"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-18T19:01:26Z",
+  "generatedAt": "2026-06-19T01:03:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -42,9 +42,9 @@
   },
   "allDeps": {
     "packages": [
-      "dotenv > 0.1.0",
-      "karax > 0.1.0",
-      "ws > 0.1.0"
+      "dotenv",
+      "karax",
+      "ws"
     ],
     "urls": [],
     "unresolved": []
