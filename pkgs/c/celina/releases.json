@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "celina",
   "fqn": "celina.fox0430.github.com",
-  "current": "ba79d85ebb47e9fe8d29f364fc80770f3e08d73d",
+  "current": "e7ae90e7089c29f79609f22affb511a79904a41f",
   "author": "fox0430",
   "description": "A CLI library inspired by Ratatui",
   "license": "MIT",
@@ -29,7 +29,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-19T13:20:19Z",
+  "generatedAt": "2026-06-19T18:44:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
