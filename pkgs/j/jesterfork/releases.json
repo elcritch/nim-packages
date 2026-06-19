@@ -61,11 +61,11 @@
     },
     {
       "v": "0.4.1@542603c2b0bd13846478d630138ce0a627d8a30a",
-      "r": [
-        "httpbeast >= 0.2.0",
-        "asynctools"
-      ],
-      "m": "0.18.1"
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "x": [],
+      "y": []
     },
     {
       "v": "0.4.0@aa4b17be412df716be637a039d2ef578d0605abf",
@@ -74,14 +74,6 @@
         "asynctools"
       ],
       "m": "0.18.1"
-    },
-    {
-      "v": "0.3.0@f957ad4042ec196f5bfb467e5293c2cfcd1f77f4",
-      "r": [
-        "httpbeast",
-        "asynctools"
-      ],
-      "m": "0.18.0"
     },
     {
       "v": "0.2.1@c5d58e9557cdb0c77639387844d3b0e637b6624e",
@@ -108,7 +100,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-19T08:01:55Z",
+  "generatedAt": "2026-06-19T13:22:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

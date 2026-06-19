@@ -130,6 +130,14 @@
       "y": []
     },
     {
+      "v": "1.6.0@bd81a1f99cc3dcb3eb281f13c22aeec8e2807b04",
+      "r": [
+        "jwt"
+      ],
+      "m": "1.0.0",
+      "y": []
+    },
+    {
       "v": "1.5.1@31898860bad3295eead80aa96ac2787a2c8cfb4d",
       "r": [],
       "m": "1.0.0",
@@ -268,7 +276,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-19T08:02:23Z",
+  "generatedAt": "2026-06-19T13:23:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
