@@ -94,11 +94,11 @@
     },
     {
       "v": "0.14.0@fa3ed78c3c6256045cc1bdb2dbdb7a4081242cfe",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "k": [],
-      "p": []
+      "r": [
+        "paravim >= 0.14.0"
+      ],
+      "m": "1.0.6",
+      "k": []
     },
     {
       "v": "0.13.0@a477ffbe9bf03f55777ed468db89216ae8dd448f",
@@ -157,6 +157,14 @@
       "k": []
     },
     {
+      "v": "0.6.0@20e24651c6937d78a49ae0e56d52f8e1ea301f6f",
+      "r": [
+        "paravim >= 0.6.0"
+      ],
+      "m": "1.0.6",
+      "k": []
+    },
+    {
       "v": "0.5.0@beb972bdc88406e2a84bf3abafe186e8caa344be",
       "r": [
         "paravim >= 0.5.0"
@@ -200,7 +208,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-20T00:54:24Z",
+  "generatedAt": "2026-06-20T07:32:03Z",
   "allDeps": {
     "packages": [
       "glm",

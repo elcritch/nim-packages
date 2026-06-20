@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimip",
   "fqn": "nimip.hitblast.github.com",
-  "current": "ac99b5e920345c26b97c1d79ccef4fa8995ed4bd",
+  "current": "242fcc00b25f2ced37677fee3634d258490902c0",
   "author": "HitBlast",
   "description": "Asynchronously lookup IP addresses with this tiny, hybrid Nim application.",
   "license": "MIT",
@@ -57,7 +57,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-20T00:53:02Z",
+  "generatedAt": "2026-06-20T07:30:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
