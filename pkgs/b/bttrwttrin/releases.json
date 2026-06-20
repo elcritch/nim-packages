@@ -10,17 +10,13 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@f89bbfbb08f7a2eb94679a1ba87e0208f79e901c",
-      "r": []
-    },
-    {
-      "v": "1.0.0@c6bafc54d62fcab31af7aa2175c11e4fc89cd7d9",
+      "v": "1.0.0@8e5605496406d619c7a470511ce820251e1fbd77^",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-20T07:26:49Z",
+  "generatedAt": "2026-06-20T12:44:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,12 +2,18 @@
   "cv": 19,
   "name": "celina",
   "fqn": "celina.fox0430.github.com",
-  "current": "e7ae90e7089c29f79609f22affb511a79904a41f",
+  "current": "bd903ccebde5a1420b77d94d1b96045ea00ea166",
   "author": "fox0430",
   "description": "A CLI library inspired by Ratatui",
   "license": "MIT",
   "nim": "2.0.2",
   "releases": [
+    {
+      "v": "0.12.0@bd903ccebde5a1420b77d94d1b96045ea00ea166^",
+      "r": [
+        "unicodedb >= 0.13.2"
+      ]
+    },
     {
       "v": "0.11.0@5358eec1210474c1916a5a6b73f96eef18f30dbc",
       "r": [
@@ -29,7 +35,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-20T07:27:02Z",
+  "generatedAt": "2026-06-20T12:44:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -39,6 +45,7 @@
       "v0.1.1",
       "v0.10.0",
       "v0.11.0",
+      "v0.12.0",
       "v0.2.0",
       "v0.3.0",
       "v0.4.0",
@@ -53,6 +60,7 @@
       "v0.1.1": "0.1.1",
       "v0.10.0": "0.10.0",
       "v0.11.0": "0.11.0",
+      "v0.12.0": "0.12.0",
       "v0.2.0": "0.2.0",
       "v0.3.0": "0.3.0",
       "v0.4.0": "0.4.0",
@@ -63,7 +71,7 @@
       "v0.8.0": "0.8.0",
       "v0.9.0": "0.9.0"
     },
-    "latest": "v0.11.0"
+    "latest": "v0.12.0"
   },
   "allDeps": {
     "packages": [

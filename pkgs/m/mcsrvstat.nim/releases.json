@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "mcsrvstat.nim",
   "fqn": "mcsrvstat.nim.hitblast.github.com",
-  "current": "36f75794da101ab3a66be9d0ba189dfa90194cb4",
+  "current": "e17b6585ece82a99e3794d3e6ff2f647d5085a18",
   "author": "HitBlast",
   "description": "A hybrid and asynchronous Nim wrapper for the Minecraft Server Status API.",
   "license": "MIT",
@@ -97,7 +97,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-20T07:29:47Z",
+  "generatedAt": "2026-06-20T12:49:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
