@@ -320,6 +320,22 @@
       "m": "1.0.0"
     },
     {
+      "v": "0.3.1@9f069d5c033c3e8499dbdebcb9db58034db27194",
+      "r": [
+        "chroma >= 0.0.1",
+        "typography >= 0.2.2",
+        "flippy >= 0.2.0",
+        "vmath >= 0.3.0",
+        "print >= 0.1.0",
+        "opengl >= 1.2.3",
+        "snappy >= 0.1.0",
+        "html5_canvas >= 1.3",
+        "staticglfw >= 4.0.1"
+      ],
+      "a": "treeform",
+      "m": "1.0.0"
+    },
+    {
       "v": "0.3.1@941ceadde03e899cf480dd147307893c19e920be",
       "r": [
         "chroma >= 0.0.1",
@@ -370,7 +386,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-19T18:45:32Z",
+  "generatedAt": "2026-06-20T00:50:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
