@@ -219,13 +219,7 @@
     },
     {
       "v": "1.0.4@8bc684f3b4407a9cd3dd32daf6ee2974547242b3",
-      "r": [
-        "urlly >= 0.2.0",
-        "libcurl >= 1.0.0",
-        "zippy >= 0.5.3"
-      ],
-      "d": "Puppy fetches HTML pages for Nim.",
-      "m": "1.4.4"
+      "r": []
     },
     {
       "v": "1.0.3@0a4f93edeba44c671887ecc5d34614d331c1c0ef",
@@ -274,7 +268,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-21T12:51:16Z",
+  "generatedAt": "2026-06-21T18:44:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -46,14 +46,6 @@
       "d": "This utility prints pictures in your console"
     },
     {
-      "v": "1.2@1610cdedd1534ba26ce12d6c76d684cf4ead2ab1",
-      "r": [
-        "imageman 0.8.2",
-        "argparse 3.0.0"
-      ],
-      "d": "This utility prints pictures in your console"
-    },
-    {
       "v": "1.2.1@3b36738e713db1b1d45c087359f745d980224af1",
       "r": [
         "imageman 0.8.2",
@@ -72,7 +64,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:28:51Z",
+  "generatedAt": "2026-06-21T18:40:55Z",
   "allDeps": {
     "packages": [
       "argparse > 0.1.0",

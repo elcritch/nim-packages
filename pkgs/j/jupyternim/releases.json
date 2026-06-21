@@ -77,6 +77,17 @@
       "h": true
     },
     {
+      "v": "0.5.8@b0cbae12424633d901a62a691cf90157941f6bd1",
+      "r": [
+        "zmq >= 0.3.1",
+        "hmac",
+        "nimSHA2",
+        "nimPNG"
+      ],
+      "h": true,
+      "m": "1.0.0"
+    },
+    {
       "v": "0.5.7@a98a2ff47fd3103c289b1a58ffcbae49520ebbc5",
       "r": [
         "zmq >= 0.3.1",
@@ -207,7 +218,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-21T12:48:35Z",
+  "generatedAt": "2026-06-21T18:41:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
