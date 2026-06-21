@@ -13,6 +13,12 @@
   ],
   "releases": [
     {
+      "v": "2.3.1@e6014afcafc5602da3d0b043e73838284cf136d5",
+      "r": [
+        "taskpools"
+      ]
+    },
+    {
       "v": "2.3.0@562c441d03954378724d5dd37d46fe397bc32b3a",
       "r": [
         "taskpools"
@@ -61,7 +67,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-21T07:47:43Z",
+  "generatedAt": "2026-06-21T12:47:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

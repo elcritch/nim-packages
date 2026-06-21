@@ -75,6 +75,14 @@
       "y": []
     },
     {
+      "v": "0.0.6@e3f020e195a3ed4a3278aa4d8ce74b266c987b8a",
+      "r": [],
+      "a": "Alexander Ivanov",
+      "m": "0.16.1",
+      "x": [],
+      "y": []
+    },
+    {
       "v": "0.0.3@0b4163bb9faf63e89e0f66fb353ea9269e3bf617",
       "r": [],
       "a": "Alexander Ivanov",
@@ -85,7 +93,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-21T07:55:51Z",
+  "generatedAt": "2026-06-21T12:53:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
