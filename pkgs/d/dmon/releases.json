@@ -48,6 +48,13 @@
       ]
     },
     {
+      "v": "0.2.0@55394c037c01906c2faeee0bec23912e375353f7",
+      "r": [
+        "chronicles >= 0.10.0",
+        "macosutils >= 0.3.2"
+      ]
+    },
+    {
       "v": "0.1.2@0ab9cdf05c81db7d965ec59ea43dd1a50a1b4dac",
       "r": [
         "chronicles >= 0.10.0",
@@ -64,7 +71,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-21T18:39:31Z",
+  "generatedAt": "2026-06-22T00:53:46Z",
   "allDeps": {
     "packages": [
       "chronicles <= 0.3.3",

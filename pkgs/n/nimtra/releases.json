@@ -37,6 +37,12 @@
       ]
     },
     {
+      "v": "0.2.1@b847be6737440d83decf1abbd7c6f14a5d9c6638",
+      "r": [
+        "db_connector"
+      ]
+    },
+    {
       "v": "0.2.0@7e5c1548c11f874bd576eac126426238d056c259",
       "r": [
         "db_connector"
@@ -126,7 +132,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-21T18:43:05Z",
+  "generatedAt": "2026-06-22T00:57:54Z",
   "allDeps": {
     "packages": [
       "db_connector > 0.1.2"
