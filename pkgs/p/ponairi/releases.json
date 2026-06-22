@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "ponairi",
   "fqn": "ponairi.ire4ever1190.github.com",
-  "current": "af76bd7989acad236f0ff455ebe2d613c87023e4",
+  "current": "38c7bdf2910cea3a50ff9300f0af25719e27330e",
   "author": "Jake Leahy",
   "description": "Simple ORM for sqlite",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.4.2@af76bd7989acad236f0ff455ebe2d613c87023e4^",
+      "v": "0.4.2@af76bd7989acad236f0ff455ebe2d613c87023e4",
       "r": [
         "lowdb >= 0.3.0"
       ]
@@ -72,7 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-22T00:58:59Z",
+  "generatedAt": "2026-06-22T08:18:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

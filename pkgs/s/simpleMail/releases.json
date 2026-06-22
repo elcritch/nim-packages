@@ -6,11 +6,11 @@
   "author": "up7down8",
   "description": "\"Make sending HTML and file emails easier",
   "license": "MIT",
-  "nim": "1.0.0",
+  "nim": "2.0.2",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@f998fe66e4df9391a8be58ec8d84916b20eb1fba^",
+      "v": "0.1.0@7f5478d67dcd08da49a60b0d55cb2382584446ae",
       "r": [
         "smtp"
       ]
@@ -18,7 +18,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-22T00:59:56Z",
+  "generatedAt": "2026-06-22T08:20:00Z",
   "allDeps": {
     "packages": [
       "smtp"

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "xlsx",
   "fqn": "xlsx.ringabout.github.com",
-  "current": "d354ba4a8cccd283eadc678c00e13d88fbfa559c",
+  "current": "2ca0c9e3f4be49c224ec0aa3016c841f46f7eefb",
   "author": "flywind",
   "description": "Read and parse Excel files",
   "license": "MIT",
@@ -109,7 +109,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-22T01:01:43Z",
+  "generatedAt": "2026-06-22T08:22:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
