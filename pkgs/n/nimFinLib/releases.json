@@ -23,11 +23,6 @@
       "d": "Financial Library for Nim"
     },
     {
-      "v": "0.2.2@f9aba866106af911983094e2802e14778cdd2e1b",
-      "r": [],
-      "d": "Financial Library for Nim"
-    },
-    {
       "v": "0.2.5@41dce9d4cedbf4dbaa63283e6057e2232bd04737",
       "r": [],
       "d": "Financial Library for Nim"
@@ -100,7 +95,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:31:36Z",
+  "generatedAt": "2026-06-22T14:09:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],
