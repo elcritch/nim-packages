@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "fsnotify",
   "fqn": "fsnotify.planety.github.com",
-  "current": "5b1562e4a021c4757b058b6ae353245b2dd4eb32",
+  "current": "8be91a4589f237a4a35bce45e3d6854506c382f8",
   "author": "flywind",
   "description": "A file system monitor in Nim.",
   "license": "Apache-2.0",
@@ -25,7 +25,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-23T00:52:11Z",
+  "generatedAt": "2026-06-23T07:24:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
