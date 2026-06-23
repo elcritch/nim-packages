@@ -1,1 +1,1 @@
-{"v":"#head@51873fc2faac72a0022fd8fc16232c21cad38eff","r":["nimcrypto >= 0.6.0","checksums >= 0.2.0","bearssl >= 0.2.9"]}
+{"v":"#head@f4bcaa7cd5590d1006c8ff321701771f798c9467","r":["nimcrypto >= 0.6.0","checksums >= 0.2.0"]}

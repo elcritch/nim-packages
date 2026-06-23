@@ -12,10 +12,17 @@
     "tests",
     "examples"
   ],
-  "releases": [],
+  "releases": [
+    {
+      "v": "0.1.1@39379574b8faa1a18706275d337ef914cb42dbb0^",
+      "r": [
+        "hyperx >= 0.1.53"
+      ]
+    }
+  ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-23T07:25:01Z",
+  "generatedAt": "2026-06-23T13:08:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -30,7 +37,10 @@
     "latest": "v0.1.1"
   },
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "hpack",
+      "hyperx"
+    ],
     "urls": [],
     "unresolved": []
   }

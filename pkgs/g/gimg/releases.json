@@ -28,12 +28,6 @@
       ]
     },
     {
-      "v": "1.1.1@3b519017661c667e3c207d5681742d5f08e729e7",
-      "r": [
-        "gl:lurlo/useragent"
-      ]
-    },
-    {
       "v": "1.2.2@ed05e7daf6ed58a33546d817bd73b72899a1355a",
       "r": [
         "gl:lurlo/useragent"
@@ -52,7 +46,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-23T07:24:29Z",
+  "generatedAt": "2026-06-23T13:07:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],

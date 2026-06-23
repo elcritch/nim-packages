@@ -1,1 +1,1 @@
-{"v":"#head@5816e15bc4ec449a0605b94e185173797968b421","r":["mummy >= 0.4.0","jwt >= 0.1.0","nimcrypto >= 0.5.4","tiny_sqlite >= 0.2.0"],"g":true}
+{"v":"#head@5197222331a9f4f9ce0b7c0bc843d3974c152619","r":["mummy >= 0.4.0","jwt >= 0.1.0","nimcrypto >= 0.5.4","tiny_sqlite >= 0.2.0"],"g":true}
