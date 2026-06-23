@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "jazzy",
   "fqn": "jazzy-framework.canermastan.github.com",
-  "current": "5197222331a9f4f9ce0b7c0bc843d3974c152619",
+  "current": "81a8e05fcc042f61fce44cf3aa3cdc38ab004bfd",
   "author": "canermastan",
   "description": "Productive, developer-friendly web framework for Nim. Write less code, build more features.",
   "license": "MIT",
@@ -18,6 +18,15 @@
     "jazzy_cli": "jazzy"
   },
   "releases": [
+    {
+      "v": "0.4.1@81a8e05fcc042f61fce44cf3aa3cdc38ab004bfd^",
+      "r": [
+        "mummy >= 0.4.0",
+        "jwt >= 0.1.0",
+        "nimcrypto >= 0.5.4",
+        "tiny_sqlite >= 0.2.0"
+      ]
+    },
     {
       "v": "0.4.0@1bee2e58fc9d395be18f4b1e74f34eb9baa5ab79",
       "r": [
@@ -130,7 +139,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-23T13:08:37Z",
+  "generatedAt": "2026-06-23T18:53:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
