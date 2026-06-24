@@ -2,20 +2,20 @@
   "cv": 19,
   "name": "iori",
   "fqn": "iori.fox0430.github.com",
-  "current": "69b5712abf9c1624d27c5f4d5a6235b674037209",
+  "current": "0d52cb27b0ad86a47d6f78c45602466621876724",
   "author": "fox0430",
   "description": "Async file I/O through io_uring",
   "license": "MIT",
   "nim": "2.0.2",
   "releases": [
     {
-      "v": "0.1.0@6132535244a8c934bc7805ce90eb9720d18e425d",
+      "v": "0.2.0@0d52cb27b0ad86a47d6f78c45602466621876724^",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:29:03Z",
+  "generatedAt": "2026-06-24T12:57:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],
