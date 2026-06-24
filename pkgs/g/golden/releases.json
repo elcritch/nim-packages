@@ -266,10 +266,16 @@
     },
     {
       "v": "2.3.2@eaef3854cb64a51fdcb5926c36059da52f2f311c",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "p": []
+      "r": [
+        "cligen >= 0.9.38",
+        "foreach >= 1.0.2",
+        "nimetry 0.1.2",
+        "msgpack4nim 0.2.9",
+        "lmdb 0.1.1",
+        "terminaltables 0.1.1",
+        "nimgit2 0.1.0"
+      ],
+      "m": "0.20.0"
     },
     {
       "v": "2.3.1@7d5de151f7273035d8b8cae2f6bf5197f2f2c868",
@@ -386,7 +392,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-24T12:56:14Z",
+  "generatedAt": "2026-06-24T18:46:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -425,26 +431,26 @@
       "flatty > 1.1.3 & <= 3.0.12",
       "flippy > 1.1.3 & <= 3.0.12",
       "foreach > 0.0.1",
-      "graphemes > 2.3.2",
+      "graphemes > 2.3.1",
       "lmdb > 1.1.3 & <= 3.0.12",
       "mddoc > 1.1.3 & <= 3.0.12",
       "msgpack4nim > 1.1.3",
       "nimPNG > 1.1.3 & <= 3.0.12",
       "nimetry > 1.1.3 & <= 3.0.12",
-      "nimgit2 > 2.3.2 & <= 3.0.12",
+      "nimgit2 > 2.3.1 & <= 3.0.12",
       "nimsimd > 1.1.3 & <= 3.0.12",
-      "nimterop > 2.3.2",
+      "nimterop > 2.3.1",
       "pixie > 1.1.3 & <= 3.0.12",
       "print > 1.1.3 & <= 3.0.12",
-      "regex > 2.3.2",
-      "segmentation > 2.3.2",
+      "regex > 2.3.1",
+      "segmentation > 2.3.1",
       "snappy > 1.1.3 & <= 3.0.12",
       "stb_image > 1.1.3 & <= 3.0.12",
       "supersnappy > 1.1.3 & <= 3.0.12",
       "terminaltables > 2.1.0",
       "typography > 1.1.3 & <= 3.0.12",
-      "unicodedb > 2.3.2",
-      "unicodeplus > 2.3.2",
+      "unicodedb > 2.3.1",
+      "unicodeplus > 2.3.1",
       "vmath > 1.1.3 & <= 3.0.12",
       "zippy > 1.1.3 & <= 3.0.12"
     ],

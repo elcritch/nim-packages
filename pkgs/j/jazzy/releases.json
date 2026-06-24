@@ -55,15 +55,6 @@
       ]
     },
     {
-      "v": "0.3.1@04914764e4f4f0777305ec958ecac70e9c082d4a",
-      "r": [
-        "mummy >= 0.4.0",
-        "jwt >= 0.1.0",
-        "nimcrypto >= 0.5.4",
-        "tiny_sqlite >= 0.2.0"
-      ]
-    },
-    {
       "v": "0.3.0@63a7decd2f950feb007e184fed94b45d949e244e",
       "r": [
         "mummy >= 0.4.0",
@@ -148,7 +139,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-24T12:57:08Z",
+  "generatedAt": "2026-06-24T18:46:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

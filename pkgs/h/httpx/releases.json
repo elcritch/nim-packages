@@ -16,12 +16,6 @@
       ]
     },
     {
-      "v": "0.3.7@9fab2c3c387e39ecf27129d390ff635eab9d10a3",
-      "r": [
-        "ioselectors >= 0.1.6"
-      ]
-    },
-    {
       "v": "0.3.6@a3a2a9f65ac6fb3a3153e5379d561d99079e0402",
       "r": [
         "ioselectors >= 0.1.6"
@@ -145,7 +139,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-24T12:56:46Z",
+  "generatedAt": "2026-06-24T18:46:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
