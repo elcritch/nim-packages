@@ -208,6 +208,13 @@
       "m": "1.0.0"
     },
     {
+      "v": "0.0.21@2a567423ceeef3890210e5d68e315f609c022d09",
+      "r": [
+        "zfcore >= 1.0.30"
+      ],
+      "m": "1.0.0"
+    },
+    {
       "v": "0.0.20@01bad8844a0fe1639650578b76def429d9ad95d3",
       "r": [
         "zfcore >= 1.0.30"
@@ -245,7 +252,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-24T00:57:06Z",
+  "generatedAt": "2026-06-24T07:33:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
