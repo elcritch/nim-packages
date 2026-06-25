@@ -29,18 +29,11 @@
         "nimgen >= 0.1.4"
       ],
       "h": true
-    },
-    {
-      "v": "0.1.0@00b491bbefd429b1ebf761a0cc0c8f1d201facdc",
-      "r": [
-        "nimgen >= 0.1.0"
-      ],
-      "h": true
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:31:51Z",
+  "generatedAt": "2026-06-25T07:23:15Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.1.3",

@@ -2,13 +2,21 @@
   "cv": 19,
   "name": "lockfreequeues",
   "fqn": "lockfreequeues.elijahr.github.com",
-  "current": "98bc9793d63efffe90c3ea5a7c127d66408804bb",
+  "current": "76513f6cd029abbe2819381b33b16fc908cfe697",
   "author": "Elijah Shaw-Rutschman",
   "description": "Lock-free queue implementations for Nim.",
   "license": "MIT",
   "nim": "2.2.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "4.2.0@922aecedbc55482567b0e7ece9fe245f9f095b03",
+      "r": [
+        "unittest2",
+        "typestates >= 0.7.2",
+        "debra >= 0.7.0"
+      ]
+    },
     {
       "v": "4.1.0@a57eaec642269da98e718b0af60f9f8a59c85b9c",
       "r": [
@@ -98,7 +106,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-25T00:54:16Z",
+  "generatedAt": "2026-06-25T07:22:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -106,13 +114,15 @@
     },
     "releases": [
       "v4.0.0",
-      "v4.1.0"
+      "v4.1.0",
+      "v4.2.0"
     ],
     "tagVersions": {
       "v4.0.0": "4.0.0",
-      "v4.1.0": "4.1.0"
+      "v4.1.0": "4.1.0",
+      "v4.2.0": "4.2.0"
     },
-    "latest": "v4.1.0"
+    "latest": "v4.2.0"
   },
   "allDeps": {
     "packages": [

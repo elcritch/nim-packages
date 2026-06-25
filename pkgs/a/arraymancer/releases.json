@@ -513,6 +513,20 @@
       "m": "1.0.0"
     },
     {
+      "v": "0.6.0@30b294e6ade0bf0affeba4225e2b741286a99c0b",
+      "r": [
+        "nimblas >= 0.2.2",
+        "nimlapack >= 0.1.1",
+        "nimcuda >= 0.1.4",
+        "nimcl >= 0.1.3",
+        "clblast",
+        "stb_image",
+        "zip",
+        "untar"
+      ],
+      "m": "0.20.0"
+    },
+    {
       "v": "0.5.2@651748261f1839e2d32762219e9dd841e548f206",
       "r": [
         "nimblas >= 0.2.2",
@@ -612,7 +626,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-25T00:48:47Z",
+  "generatedAt": "2026-06-25T07:19:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

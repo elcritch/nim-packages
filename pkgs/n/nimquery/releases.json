@@ -37,20 +37,8 @@
     {
       "v": "1.2.1@5f696092764ca0b578cf7d90265d6c2eb79830cf",
       "r": [],
-      "m": "0.19.2",
+      "x": [],
       "y": []
-    },
-    {
-      "v": "1.2.0@f52acfa59f32a832bc726c6ab5a1ef004ab2f3ef",
-      "r": [],
-      "m": "0.19.2",
-      "y": []
-    },
-    {
-      "v": "1.1.2@98184bcefc4d0c3f16f4cbd2ecd853ec4554be7b",
-      "r": [],
-      "m": "0.18.0",
-      "x": []
     },
     {
       "v": "1.1.1@cc8b249c2cbd87634a579cd4223e992bc2a68538",
@@ -81,7 +69,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:32:39Z",
+  "generatedAt": "2026-06-25T07:23:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],
