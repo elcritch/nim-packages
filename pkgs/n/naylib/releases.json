@@ -210,11 +210,6 @@
       }
     },
     {
-      "v": "24.40@fe09fe04e4aa83c3e3963d3cb79ce5834d82f0ee",
-      "r": [],
-      "h": true
-    },
-    {
       "v": "5.1.4@ef9e62a4faccf671c63cc351b91393329ebef927",
       "r": [],
       "h": true
@@ -246,7 +241,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-25T13:02:23Z",
+  "generatedAt": "2026-06-25T18:59:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -307,7 +302,7 @@
   },
   "allDeps": {
     "packages": [
-      "eminim > 24.40"
+      "eminim > 5.1.4"
     ],
     "urls": [],
     "unresolved": []
