@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "gptcli",
   "fqn": "gptcli.jaredmontoya.github.com",
-  "current": "0612ccc141f45e70f766dbe92a748542cb7ad6a2",
+  "current": "a4507f3463d15d2d7c19942192876303bc7993e8",
   "author": "jaredmontoya",
   "description": "OpenAI GPTs cli client written in nim",
   "license": "GPL-3.0-or-later",
@@ -23,7 +23,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-25T07:21:26Z",
+  "generatedAt": "2026-06-25T12:59:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

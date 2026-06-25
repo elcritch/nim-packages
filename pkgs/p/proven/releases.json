@@ -3,7 +3,7 @@
   "name": "proven",
   "subdir": "bindings/nim",
   "fqn": "proven.hyperpolymath.github.com",
-  "current": "c454acb62bf6d14d165c9de09a1fd7449722b0c7",
+  "current": "21c17cdbc7b2760b29cdd65af471c346762a2bb9",
   "author": "Hyperpolymath",
   "description": "Formally verified safety primitives for Nim",
   "license": "PMPL-1.0",
@@ -29,7 +29,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-25T07:24:49Z",
+  "generatedAt": "2026-06-25T13:05:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

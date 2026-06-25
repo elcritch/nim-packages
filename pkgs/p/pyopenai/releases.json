@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "pyopenai",
   "fqn": "pyopenai.jaredmontoya.github.com",
-  "current": "26135201880d6c7b8c68f8917cdeaf233db76b19",
+  "current": "dd86f1bcefabf22acd3ec69614f803300104195a",
   "author": "jaredmontoya",
   "description": "An attempt to reimplement python OpenAI API bindings in nim",
   "license": "GPL-3.0-or-later",
@@ -33,7 +33,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-25T07:24:50Z",
+  "generatedAt": "2026-06-25T13:05:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
