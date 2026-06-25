@@ -17,15 +17,6 @@
   ],
   "releases": [
     {
-      "v": "0.10.2@972e0f2702354747c6b748ed304a15b9aa82a1a7",
-      "r": [
-        "cligen >= 1.5.0",
-        "mustache >= 0.4.3",
-        "parsetoml >= 0.7.2",
-        "semver >= 1.2.0"
-      ]
-    },
-    {
       "v": "0.10.1@4d8f4812df18303da8df4470123c9c8fc8cd7095",
       "r": [
         "cligen >= 1.5.0",
@@ -145,7 +136,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-24T18:43:25Z",
+  "generatedAt": "2026-06-25T00:48:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

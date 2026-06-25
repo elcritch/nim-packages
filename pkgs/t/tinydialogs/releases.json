@@ -13,25 +13,33 @@
   ],
   "releases": [
     {
+      "v": "0.1.1@dfd147eed402937280d86b0dfb182c533001ab3e",
+      "r": []
+    },
+    {
+      "v": "0.1.2@53ed0ee42be840db2957a0aed082766b4b06b7bf",
+      "r": []
+    },
+    {
+      "v": "1.0.0@74fcec7523fd601d54e48950e7bc1f66c0a7e534",
+      "r": []
+    },
+    {
+      "v": "1.1.0@ebff71898331dfa1c16da720ce1829f7fad9ea37",
+      "r": []
+    },
+    {
+      "v": "1.1.1@f81c67f7db6f4211acb62221ad1336dbd1143c2e",
+      "r": []
+    },
+    {
       "v": "1.1.2@c8d2450501a01ef02edd100629e5c716f3cfacba^",
-      "r": []
-    },
-    {
-      "v": "1.1.1@b20fd335b4774dce3fa96d8c115b187314a974a4",
-      "r": []
-    },
-    {
-      "v": "1.1.0@da6c09ca3198b6a167b19e48ff524be055e51fa0",
-      "r": []
-    },
-    {
-      "v": "1.0.0@9d81d71adf818db5a1c614ad51036c266587c705",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-24T18:51:18Z",
+  "generatedAt": "2026-06-25T01:00:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

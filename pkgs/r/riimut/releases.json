@@ -20,15 +20,11 @@
     {
       "v": "1.1.0@13e574f2de29fdcee1b922da02dc0fa38867caf1",
       "r": []
-    },
-    {
-      "v": "1.0.0@410dda94ecb4b2031eaa63fb0426b97734445bc7",
-      "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-24T18:50:10Z",
+  "generatedAt": "2026-06-25T00:58:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

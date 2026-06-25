@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "lockfreequeues",
   "fqn": "lockfreequeues.elijahr.github.com",
-  "current": "b6da7f60272826e01638d5ee9b2f5c3bb3ed60b2",
+  "current": "98bc9793d63efffe90c3ea5a7c127d66408804bb",
   "author": "Elijah Shaw-Rutschman",
   "description": "Lock-free queue implementations for Nim.",
   "license": "MIT",
@@ -88,11 +88,17 @@
       "r": [],
       "d": "Single-producer, single-consumer, lock-free queue implementations for Nim.",
       "m": "1.2.0"
+    },
+    {
+      "v": "0.1.0@9f5bc3059cb1f9e40385df14c5d5b2a54f557cbd",
+      "r": [],
+      "d": "Single-producer, single-consumer, lock-free queue implementations for Nim.",
+      "m": "1.2.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-24T18:47:12Z",
+  "generatedAt": "2026-06-25T00:54:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

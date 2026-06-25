@@ -35,16 +35,11 @@
       "v": "0.1.20@8dc6f921b44becebe7701915703691832e534798",
       "r": [],
       "d": "a collection of useful macro functionalities & enums"
-    },
-    {
-      "v": "0.1.17@155019ff60e185693f09c8f14a90730a0a51c68c",
-      "r": [],
-      "d": "a collection of useful macro functionalities & enums"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-24T18:47:19Z",
+  "generatedAt": "2026-06-25T00:54:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
