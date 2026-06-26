@@ -30,11 +30,17 @@
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
+    },
+    {
+      "v": "0.1@5478024fc06589b50617b9303e9ca4a7bf2a1576",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-26T12:50:35Z",
+  "generatedAt": "2026-06-26T18:44:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -14,14 +14,15 @@
       "r": []
     },
     {
-      "v": "1.0.0@d3663962f8a944cfde52b46ba0c2306f81817a79",
+      "v": "1.0.0@8d8edcbb973f3029ea5341ed99c4ca0b216001ae",
       "r": [],
-      "d": "Bindings to the Webgeolocation Web API"
+      "d": "Bindings to the Webgeolocation Web API",
+      "m": "1.6.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:38:51Z",
+  "generatedAt": "2026-06-26T18:57:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

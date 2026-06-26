@@ -2,64 +2,12 @@
   "cv": 19,
   "name": "waku",
   "fqn": "nwaku.waku-org.github.com",
-  "current": "4ba5710a15271f2dc3a45b2dd66fb06d57a9e3d2",
+  "current": "26098d76cf7a30f00c76dc5a01d0d74614674628",
   "author": "Status Research & Development GmbH",
-  "description": "Logos-delivery, Private P2P Messaging for Resource-Restricted Devices",
+  "description": "Waku, Private P2P Messaging for Resource-Restricted Devices",
   "license": "MIT or Apache License 2.0",
   "nim": "2.2.4",
-  "skipDirs": [
-    "tests",
-    "examples",
-    "tools",
-    "apps",
-    "simulations",
-    "metrics"
-  ],
   "releases": [
-    {
-      "v": "2026.06.25@f2eb2a2f496520022791892643c52f0ed115d37c",
-      "r": [
-        "chronos >= 4.2.0",
-        "taskpools",
-        "chronicles",
-        "confutils",
-        "serialization",
-        "json_serialization",
-        "toml_serialization",
-        "faststreams",
-        "libp2p #v2.0.0",
-        "eth",
-        "nat_traversal",
-        "dnsdisc",
-        "dnsclient",
-        "httputils >= 0.4.1",
-        "websock >= 0.3.0",
-        "nimcrypto 0.6.4",
-        "secp256k1",
-        "bearssl",
-        "json_rpc #v0.6.1",
-        "presto",
-        "web3",
-        "db_connector",
-        "sqlite3_abi",
-        "stew",
-        "stint",
-        "metrics",
-        "regex",
-        "unicodedb",
-        "results",
-        "minilru",
-        "zlib",
-        "testutils",
-        "unittest2",
-        "gh:logos-messaging/nim-ffi #v0.1.3",
-        "gh:logos-messaging/nim-sds #b12f5ee07c5b764303b51fb948b32a4ade1de3b5",
-        "brokers #v3.1.1",
-        "lsquic #v0.5.1",
-        "gh:vacp2p/nim-jwt #057ec95eb5af0eea9c49bfe9025b3312c95dc5f2",
-        "gh:logos-co/nim-libp2p-mix #380513117d556bf8f70066f5e72a7fd74fe36ba6"
-      ]
-    },
     {
       "v": "0.38.1@f757a8eb694fee12aa9e9ca162340ba45bccf3ba",
       "r": [
@@ -86,10 +34,8 @@
         "jwt",
         "error://ffi"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-f757a8eb-waku.nimble\ncannot resolve package name: ffi",
-      "x": []
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-f757a8eb-waku.nimble\ncannot resolve package name: ffi"
     },
     {
       "v": "0.38.0@4d314b376d95e210e938894027bb9267e834e81d",
@@ -117,10 +63,8 @@
         "jwt",
         "error://ffi"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-4d314b37-waku.nimble\ncannot resolve package name: ffi",
-      "x": []
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nwaku.waku-org.github.com-4d314b37-waku.nimble\ncannot resolve package name: ffi"
     },
     {
       "v": "0.37.4@79bc9fd421d0c0de12cf2a9f87a3a77e5b4f5feb",
@@ -144,9 +88,7 @@
         "results",
         "db_connector",
         "minilru"
-      ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "x": []
+      ]
     },
     {
       "v": "0.37.3@f3852c3a439353d74f3b7175fe3347e4f5aecd32",
@@ -170,9 +112,7 @@
         "results",
         "db_connector",
         "minilru"
-      ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "x": []
+      ]
     },
     {
       "v": "0.37.2@b8a97fc4e7c528dc30d2505dc420edb0eddba593",
@@ -196,9 +136,7 @@
         "results",
         "db_connector",
         "minilru"
-      ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "x": []
+      ]
     },
     {
       "v": "0.37.1@d1c830f35d517881e46556c1163b51aa540b8592",
@@ -222,9 +160,7 @@
         "results",
         "db_connector",
         "minilru"
-      ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "x": []
+      ]
     },
     {
       "v": "0.37.1@e049cb1562b1182b9305890670fd8541827a986e",
@@ -248,9 +184,7 @@
         "results",
         "db_connector",
         "minilru"
-      ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "x": []
+      ]
     },
     {
       "v": "0.37.0@1dcd12b2518808d036e2858704c2f843cff53b58",
@@ -274,9 +208,7 @@
         "results",
         "db_connector",
         "minilru"
-      ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "x": []
+      ]
     },
     {
       "v": "0.36.0@ddf454163e9876983662bb0c57df8e4008681a23",
@@ -299,9 +231,7 @@
         "db_connector",
         "minilru",
         "quic"
-      ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "x": []
+      ]
     },
     {
       "v": "0.35.1@2c37c2dabcac1d61f609dd67f30b65170cfbb740",
@@ -324,9 +254,7 @@
         "minilru",
         "quic"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "2.0.8",
-      "x": []
+      "m": "2.0.8"
     },
     {
       "v": "0.35.0@214df95be81f3089824e7ce270f68277aa0ec341",
@@ -349,9 +277,7 @@
         "minilru",
         "quic"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "2.0.8",
-      "x": []
+      "m": "2.0.8"
     },
     {
       "v": "0.34.0@93a06efe580c6b75c016576edc9e884d9c944289",
@@ -372,9 +298,7 @@
         "regex",
         "db_connector"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "2.0.8",
-      "x": []
+      "m": "2.0.8"
     },
     {
       "v": "0.33.1@e994ee2059884de05862d7d0cc44f13cb1c123ba",
@@ -395,9 +319,7 @@
         "regex",
         "db_connector"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "2.0.8",
-      "x": []
+      "m": "2.0.8"
     },
     {
       "v": "0.33.0@07a423a9331db052181d918a8fd7615d738136c6",
@@ -418,9 +340,7 @@
         "regex",
         "db_connector"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "2.0.8",
-      "x": []
+      "m": "2.0.8"
     },
     {
       "v": "0.32.0@bc85b73213bfde7b07e330e1bc65220a4af1ab05",
@@ -441,9 +361,7 @@
         "regex",
         "db_connector"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "2.0.8",
-      "x": []
+      "m": "2.0.8"
     },
     {
       "v": "0.31.0@42fb4a94fbbe601caad2715fec678cde71e1b01b",
@@ -464,9 +382,7 @@
         "regex",
         "db_connector"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "2.0.8",
-      "x": []
+      "m": "2.0.8"
     },
     {
       "v": "0.30.1@6e4ebab0055a5aa8f86d8b966115e5a0eb079954",
@@ -486,9 +402,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.30.0@a54ac3f4c221a04ef465f8ab67ce81e7674ef7f3",
@@ -508,9 +422,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.29.0@39b62e651b92596958c09c45acb856f866dfad70",
@@ -530,9 +442,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.28.0@668e4a70f3ad9000129a915037497f2c83a58eb6",
@@ -552,9 +462,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.22.0@cf802a29b0730a5ae07185569de6fcfd75b469a4",
@@ -574,9 +482,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.21.3@317b686746e336a69ff4debaff3893a81a40f1b2",
@@ -596,9 +502,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.21.2@b0aef374de4d2bb18f784c92c72151bb7afc6a3e",
@@ -618,9 +522,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.21.1@bb488d4ea53601fe63450e0d501db222ebcd53b9",
@@ -640,9 +542,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.21.0@2c69935402f55a3c1e9819802497d6e1b4cc34bb",
@@ -662,9 +562,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.20.0@42308027f8d28bfb53bae31a480218be5bd77bd8",
@@ -684,9 +582,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.18.0@5e634065feaa5204dbd89139337e8ef597452fbd",
@@ -706,9 +602,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.17.0@a06aa390877fe0f207a842842978c5ab721375f0",
@@ -728,9 +622,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.17.0@0c58bf93a69215b6ce59ab3a51c582e509c58beb",
@@ -750,9 +642,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.16.0@736914121f52e2f5d0a13d2e593d269b994ebca2",
@@ -772,9 +662,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.15.0@66237a7f1c412aae44cd606e0cd386df83e30d0e",
@@ -794,9 +682,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.14.0@61f21469f72f7f647aa9892395328c8775ff8c49",
@@ -816,9 +702,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.13.0@a80f1d4779c41dcc4dc26c15bc328bf1b2fe6af9",
@@ -838,9 +722,7 @@
         "presto",
         "regex"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.6.0",
-      "x": []
+      "m": "1.6.0"
     },
     {
       "v": "0.12.0@17772b86e0decf9a5c56f44c0421de8298beafee",
@@ -859,9 +741,7 @@
         "web3",
         "presto"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.2.0",
-      "x": []
+      "m": "1.2.0"
     },
     {
       "v": "0.11@e520d788dc19e89b25ca1fa591123f9b75a6d305",
@@ -880,9 +760,7 @@
         "web3",
         "presto"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.2.0",
-      "x": []
+      "m": "1.2.0"
     },
     {
       "v": "0.10@cc81c364564426aa59ee3a4ff4a514bb2c8ccc98",
@@ -901,14 +779,12 @@
         "web3",
         "presto"
       ],
-      "d": "Waku, Private P2P Messaging for Resource-Restricted Devices",
-      "m": "1.2.0",
-      "x": []
+      "m": "1.2.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-26T12:59:16Z",
+  "generatedAt": "2026-06-26T18:57:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -1005,7 +881,6 @@
   "allDeps": {
     "packages": [
       "bearssl",
-      "brokers > 0.38.1",
       "chronicles",
       "chronos",
       "confutils",
@@ -1018,8 +893,8 @@
       "httputils",
       "json_rpc",
       "json_serialization",
-      "jwt > 0.37.4 & <= 0.38.1",
-      "libbacktrace <= 0.38.1",
+      "jwt > 0.37.4",
+      "libbacktrace",
       "libp2p",
       "lsquic > 0.37.4",
       "metrics",
@@ -1038,9 +913,7 @@
       "sqlite3_abi",
       "stew",
       "stint",
-      "taskpools > 0.38.1",
       "testutils",
-      "toml_serialization > 0.38.1",
       "unicodedb > 0.12.0",
       "unicodeplus > 0.12.0",
       "unittest2",
@@ -1050,12 +923,9 @@
       "zlib"
     ],
     "urls": [
-      "error://ffi > 0.37.4 & <= 0.38.1"
+      "error://ffi > 0.37.4"
     ],
     "unresolved": [
-      "gh:logos-co/nim-libp2p-mix",
-      "gh:logos-messaging/nim-ffi",
-      "gh:logos-messaging/nim-sds",
       "gh:status-im/nim-mbedtls",
       "gh:status-im/nim-quic",
       "gh:vacp2p/nim-boringssl",

@@ -4,7 +4,7 @@
   "fqn": "spectra.ph4mished.github.com",
   "current": "313a5ee74e599d20046defb95b30377eba331a99",
   "author": "Jonathan Botchway Owusu",
-  "description": "Huewheel is a simple text coloring, styling and formatting library",
+  "description": "Spectra is a simple text coloring, styling and formatting library",
   "license": "MIT",
   "nim": "2.2.4",
   "srcDir": "src",
@@ -12,49 +12,40 @@
     "nim"
   ],
   "bin": [
-    "huewheel"
+    "spectra"
   ],
   "releases": [
     {
-      "v": "0.1.1@494cbe304c2107058e05465a5d7019e0943e0121",
+      "v": "0.4.0@5d7ff723e62aeff42d62ff6242875126869b0f63",
       "r": []
     },
     {
-      "v": "0.1.2@b0ede419c8dd615eb055dc49e1fa77e5cc67b41f",
-      "r": [],
-      "d": "Spectra is a simple text coloring, styling and formatting library",
-      "p": [
-        "spectra"
-      ]
-    },
-    {
-      "v": "0.2.0@bbcd95ac29c202ca98af125667aec46da221080f",
-      "r": [],
-      "d": "Spectra is a simple text coloring, styling and formatting library",
-      "p": [
-        "spectra"
-      ]
-    },
-    {
-      "v": "0.2.2@e6505dcf106994c3f8d21c2cd73f06ab4c2f58d1",
-      "r": [],
-      "d": "Spectra is a simple text coloring, styling and formatting library",
-      "p": [
-        "spectra"
-      ]
+      "v": "0.3.0@fcde2b5ed758f582169a5e3e66c99c39394b2747",
+      "r": []
     },
     {
       "v": "0.2.3@f6b5980cc41c147285ff0e9098cbe1398b02283d",
+      "r": []
+    },
+    {
+      "v": "0.2.2@e6505dcf106994c3f8d21c2cd73f06ab4c2f58d1",
+      "r": []
+    },
+    {
+      "v": "0.2.1@0ba7cfd950192b6af3f05da5058be5f6ae940058",
+      "r": []
+    },
+    {
+      "v": "0.1.1@bf483ddfb5f4d497ef56d23e64339e369e4c8732",
       "r": [],
-      "d": "Spectra is a simple text coloring, styling and formatting library",
-      "p": [
-        "spectra"
-      ]
+      "d": "Huewheel is a simple text coloring, styling and formatting library",
+      "k": [],
+      "p": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-26T12:58:05Z",
+  "generatedAt": "2026-06-26T18:55:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
