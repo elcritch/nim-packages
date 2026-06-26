@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "chalk",
   "fqn": "chalk.crashappsec.github.com",
-  "current": "cfd43fc6c8a0ca0c02d85d316b8c565482f82d08",
+  "current": "bf0e390e399e8b5b07aefbd7265b8618e00be3a7",
   "author": "John Viega",
   "license": "GPLv3",
   "nim": "2.0.8",
@@ -11,6 +11,14 @@
     "chalk"
   ],
   "releases": [
+    {
+      "v": "1.1.2@646fe7eb7333b6def8a7c2e08d5636204d469d49",
+      "r": [
+        "gh:crashappsec/con4m #a3134275b4940855583bc8f28b8ae306fe8adcae",
+        "gh:viega/zippy 0.10.7",
+        "parsetoml 0.7.1"
+      ]
+    },
     {
       "v": "1.1.1@abbac67666fdb1284e4e266a2e878682a25c0981",
       "r": [
@@ -409,7 +417,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-25T18:54:17Z",
+  "generatedAt": "2026-06-26T00:50:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
