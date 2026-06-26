@@ -17,11 +17,9 @@
       "v": "0.1.0@a367a40f76d51bb012a04335f9c8338814e08315",
       "r": [
         "cligen",
-        "error://useragent",
+        "gh:thisago/useragent",
         "scraper"
       ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/parsepage.thisago.github.com-a367a40f-parsepage.nimble\ncannot resolve package name: useragent",
       "b": ""
     },
     {
@@ -81,7 +79,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-26T00:55:21Z",
+  "generatedAt": "2026-06-26T07:30:49Z",
   "allDeps": {
     "packages": [
       "cligen",
@@ -94,11 +92,11 @@
       "yaml > 0.1.0"
     ],
     "urls": [
-      "error://findxml",
-      "error://useragent <= 0.1.0"
+      "error://findxml"
     ],
     "unresolved": [
       "gh:thisago/fsafename",
+      "gh:thisago/useragent",
       "gl:lurlo/useragent"
     ]
   }
