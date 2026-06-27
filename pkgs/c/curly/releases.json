@@ -10,6 +10,14 @@
   "srcDir": "src",
   "releases": [
     {
+      "v": "1.1.1@a0f42baacbc48f4e5924b18854c0df9dcc251466^",
+      "r": [
+        "libcurl >= 1.0.0",
+        "zippy >= 0.10.6",
+        "webby >= 0.1.7"
+      ]
+    },
+    {
       "v": "1.1.0@64f884484d560ece48d421c2984512445f655fb8",
       "r": [
         "libcurl >= 1.0.0",
@@ -174,7 +182,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-27T07:12:39Z",
+  "generatedAt": "2026-06-27T12:34:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

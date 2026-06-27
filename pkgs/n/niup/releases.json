@@ -14,11 +14,6 @@
   "backend": "c",
   "releases": [
     {
-      "v": "3.30.7@7574c43350ea7804fb7dd0719342d8b512541736",
-      "r": [],
-      "k": []
-    },
-    {
       "v": "3.30.6@1a8cd0c468d4da5a4eb9223a3ec33f685e959fcd",
       "r": [],
       "k": []
@@ -148,7 +143,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:33:04Z",
+  "generatedAt": "2026-06-27T12:38:14Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -34,13 +34,6 @@
       ]
     },
     {
-      "v": "1.8.30@6c4b09c02f2408f0398172ff0e752e8a44b70668",
-      "r": [
-        "gh:disruptek/cutelog >= 1.1.2 & < 2.0.0",
-        "cligen >= 1.2.2 & < 2.0.0"
-      ]
-    },
-    {
       "v": "1.8.29@f920c9de824a7896fb1718b25c3b0319e697fb1e",
       "r": [
         "gh:disruptek/cutelog >= 1.1.2 & < 2.0.0",
@@ -468,7 +461,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-27T07:12:05Z",
+  "generatedAt": "2026-06-27T12:34:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -520,7 +513,7 @@
   },
   "allDeps": {
     "packages": [
-      "cligen > 1.0.2 & <= 1.8.30"
+      "cligen > 1.0.2 & <= 1.8.29"
     ],
     "urls": [],
     "unresolved": [

@@ -17,20 +17,6 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@79aa4169bd0040c2189c0ecd19807c3fd8436691",
-      "r": [
-        "cligen"
-      ],
-      "k": []
-    },
-    {
-      "v": "1.0.0@5225f4427d59254dc5bd330c2175dc3c5bf7b843",
-      "r": [
-        "cligen"
-      ],
-      "k": []
-    },
-    {
       "v": "1.0.1@dcfd5c55348af2560c30c284eb3f94002d4a1235",
       "r": [
         "cligen"
@@ -86,7 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:25:42Z",
+  "generatedAt": "2026-06-27T12:34:54Z",
   "allDeps": {
     "packages": [
       "cligen"
