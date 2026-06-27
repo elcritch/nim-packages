@@ -38,16 +38,6 @@
       ]
     },
     {
-      "v": "0.4.4@ffcbf4d039adefc88f4c90005c02132240ebc00c",
-      "r": [
-        "vmath >= 0.1.0",
-        "chroma >= 0.0.1",
-        "print >= 0.1.0",
-        "nimPNG >= 0.2.6",
-        "snappy >= 0.1.0"
-      ]
-    },
-    {
       "v": "0.4.3@06c751f3035aba4df29427e6b85765e44c3a3c89",
       "r": [
         "vmath >= 0.1.0",
@@ -99,7 +89,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-26T18:47:48Z",
+  "generatedAt": "2026-06-27T00:50:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

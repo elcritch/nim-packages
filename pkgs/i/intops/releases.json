@@ -10,12 +10,6 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "1.0.8@3f10299c386c3720ebb9809859ddfa6e7eb74870",
-      "r": [
-        "unittest2 >= 0.2.5"
-      ]
-    },
-    {
       "v": "1.0.7@2d1bf3ce3b5b8d26f91e046f6fb345d93b04f98c",
       "r": [
         "unittest2 >= 0.2.5"
@@ -63,7 +57,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:29:00Z",
+  "generatedAt": "2026-06-27T00:51:39Z",
   "allDeps": {
     "packages": [
       "unittest2 > 1.0.2"
