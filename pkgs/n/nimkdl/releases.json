@@ -81,14 +81,27 @@
         "graphemes 0.12.0",
         "unicodedb 0.13.0"
       ]
+    },
+    {
+      "v": "2.0.0@b458649179ad7686a7ac5f66ebb8e2277f91bdaf",
+      "r": [
+        "graphemes 0.12.0",
+        "unicodedb 0.13.0"
+      ],
+      "d": "Production-ready KDL 2.0 document parser for Nim",
+      "y": [
+        "src/kdl/query.nim",
+        "src/kdl/schema.nim"
+      ],
+      "p": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-27T00:54:27Z",
+  "generatedAt": "2026-06-27T07:15:39Z",
   "allDeps": {
     "packages": [
-      "bigints",
+      "bigints > 2.0.0",
       "graphemes",
       "unicodedb"
     ],

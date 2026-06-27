@@ -89,17 +89,6 @@
       "x": []
     },
     {
-      "v": "0.4.1@a85c670b3f33d71809d18861db4fb2b48c9aef28",
-      "r": [
-        "nimBMP >= 0.1.0",
-        "nimPNG >= 0.1.0",
-        "nimSHA2 >= 0.1.0",
-        "nimAES >= 0.1.0",
-        "stb_image >= 2.1"
-      ],
-      "x": []
-    },
-    {
       "v": "0.4.2@e77531c6f3c97a34067d1434b6131eedaeb95b4d",
       "r": [
         "nimBMP >= 0.1.0",
@@ -132,7 +121,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:31:38Z",
+  "generatedAt": "2026-06-27T07:15:18Z",
   "allDeps": {
     "packages": [
       "nimAES > 0.4.0",
