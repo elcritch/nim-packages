@@ -16,12 +16,6 @@
       ]
     },
     {
-      "v": "0.5.3@150a73c17c81abb3186da5318a1ac6df30948f85",
-      "r": [
-        "zippy >= 0.9.7"
-      ]
-    },
-    {
       "v": "0.5.2@f97bed64ec173785191d9942005c412bef410665",
       "r": [
         "zippy >= 0.9.7"
@@ -180,7 +174,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-14T12:47:10Z",
+  "generatedAt": "2026-06-28T18:33:15Z",
   "allDeps": {
     "packages": [
       "zippy"

@@ -15,16 +15,26 @@
       "r": [
         "nimterop >= 0.4.4"
       ]
+    },
+    {
+      "v": "0.1.0@810011bb0e8af9a6548c1de03661b4015b3c1cb0",
+      "r": [
+        "nimgen >= 0.5.0"
+      ],
+      "h": true
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-28T12:42:31Z",
+  "generatedAt": "2026-06-28T18:36:24Z",
   "allDeps": {
     "packages": [
-      "cligen",
+      "c2nim <= 0.1.0",
+      "cligen > 0.1.0",
+      "docopt <= 0.1.0",
       "graphemes",
-      "nimterop",
+      "nimgen <= 0.1.0",
+      "nimterop > 0.1.0",
       "regex",
       "segmentation",
       "unicodedb",
