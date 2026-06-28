@@ -27,13 +27,6 @@
       ]
     },
     {
-      "v": "0.1.3@3ea1f79d3a91e937b5c933f8679f3845fa515797",
-      "r": [
-        "nimSHA2",
-        "dbg"
-      ]
-    },
-    {
       "v": "0.1.4@52fea73854025d6f260a1ca88bb6d920e524ff87",
       "r": [
         "nimSHA2",
@@ -83,7 +76,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:31:39Z",
+  "generatedAt": "2026-06-28T07:31:57Z",
   "allDeps": {
     "packages": [
       "dbg > 0.1.0",

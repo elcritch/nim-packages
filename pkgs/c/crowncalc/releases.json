@@ -43,6 +43,17 @@
       "j": []
     },
     {
+      "v": "0.2.1@f0417e8db557b0128c588e7937f8c2b29e78bfe3",
+      "r": [
+        "noise",
+        "sdl2"
+      ],
+      "p": [
+        "ccalccli"
+      ],
+      "j": []
+    },
+    {
       "v": "0.3.0@48571513165ec6d9269fd7b1a304b23c13541c32",
       "r": [
         "noise",
@@ -89,7 +100,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-28T00:49:13Z",
+  "generatedAt": "2026-06-28T07:28:58Z",
   "allDeps": {
     "packages": [
       "noise",

@@ -6,16 +6,23 @@
   "author": "Vladar",
   "description": "A simple 2D game engine for Nim language.",
   "license": "MIT",
-  "nim": "0.20.0",
+  "nim": "1.4.0",
   "skipDirs": [
     "demos"
   ],
   "releases": [
     {
+      "v": "0.6.2@7ff93f4cda7180bad7eec45bfc53f99c80fe48a7",
+      "r": [
+        "sdl2_nim >= 2.0.14.2"
+      ]
+    },
+    {
       "v": "0.6.1@2ca8087751d2b00ed81018d17504b09e72d2e38e",
       "r": [
         "sdl2_nim #head"
-      ]
+      ],
+      "m": "0.20.0"
     },
     {
       "v": "0.6@ddca35597c04758920a71b73d35ba3fece4a935c",
@@ -63,7 +70,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-28T00:53:17Z",
+  "generatedAt": "2026-06-28T07:32:13Z",
   "allDeps": {
     "packages": [
       "sdl2_nim",
