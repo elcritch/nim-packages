@@ -76,7 +76,7 @@
       }
     },
     {
-      "v": "0.4.3@bd03b2bb7a78cb09d090869a4e38ca8e655d20c8",
+      "v": "0.4.3@fe7bcd031738e4372662b732cc5c2a09f79ec31e",
       "r": [
         "darwin"
       ],
@@ -90,7 +90,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-28T00:47:11Z",
+  "generatedAt": "2026-06-29T18:52:09Z",
   "allDeps": {
     "packages": [
       "bumpy > 0.1.0",
