@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "beacon_chain",
   "fqn": "nimbus-eth2.status-im.github.com",
-  "current": "1cc8c3dbf48126c01ab66921c4596d02ef9d0986",
+  "current": "bb66be44bbf33e0a0f0c3333d9c834c6be6a8ac0",
   "author": "Status Research & Development GmbH",
   "description": "Eth2.0 research implementation of the beacon chain",
   "license": "MIT or Apache License 2.0",
@@ -4262,7 +4262,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-29T00:50:36Z",
+  "generatedAt": "2026-06-29T07:50:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

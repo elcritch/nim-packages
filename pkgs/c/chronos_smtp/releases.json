@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "chronos_smtp",
   "fqn": "chronos-smtp.fox0430.github.com",
-  "current": "8c4fd06e11b2c892eb5d2277a5fb5fa504adc802",
+  "current": "897bd8976f45163502a895be68c373cecded5d44",
   "author": "fox0430",
   "description": "SMTP client implementation using chronos",
   "license": "MIT",
@@ -107,7 +107,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-29T00:51:00Z",
+  "generatedAt": "2026-06-29T07:50:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
