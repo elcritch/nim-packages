@@ -1,1 +1,1 @@
-{"v":"#head@b7494d07ec0f2190afcf2f7f5dbb8244096d98e6","r":["random >= 0.5.7"],"a":"termer","d":"A high-level Nim Argon2 password hashing library","l":"MIT","i":["phc-winner-argon2"],"m":"1.6.2"}
+{"v":"#head@b7494d07ec0f2190afcf2f7f5dbb8244096d98e6","r":["random >= 0.5.7"]}
