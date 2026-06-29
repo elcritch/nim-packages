@@ -261,8 +261,10 @@
     },
     {
       "v": "1.1.2@424ad10d864c37442e34931d50766421aa782722",
-      "r": [],
-      "x": []
+      "r": [
+        "ndb >= 0.19.8"
+      ],
+      "m": "1.0.0"
     },
     {
       "v": "1.1.1@858b8123dbfca17f6a2c7f96bcf3c3bd4c051f3d",
@@ -422,7 +424,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-29T07:54:27Z",
+  "generatedAt": "2026-06-29T13:41:39Z",
   "allDeps": {
     "packages": [
       "chronicles <= 1.0.4",

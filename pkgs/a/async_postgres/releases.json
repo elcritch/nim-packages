@@ -4,29 +4,40 @@
   "fqn": "async-postgres.fox0430.github.com",
   "current": "0f0d4a985118e3dbac4ae393be5038c1774c1db5",
   "author": "fox0430",
-  "description": "Async PostgreSQL client",
+  "description": "Async PostgreSQL client library",
   "license": "MIT",
-  "nim": "2.2.4",
+  "nim": "2.2.0",
   "releases": [
     {
-      "v": "0.2.0@d152c277832672cdf1d24689f4f31e07ffa41d42",
+      "v": "0.1.0@a613a8dc1532d12d71e49cc7d13422d8dcbe2016",
       "r": [
+        "chronos >= 4.0.0",
         "nimcrypto >= 0.6.0",
         "checksums >= 0.2.0"
       ]
     },
     {
-      "v": "0.1.0@8974aa25744eaa7ab2de815548dbb2c5a36b5682",
+      "v": "0.2.0@df334e06f669e4ae3116d3f6b1d6f45d0f803523",
       "r": [
         "nimcrypto >= 0.6.0",
         "checksums >= 0.2.0"
       ],
-      "m": "2.2.0"
+      "d": "Async PostgreSQL client",
+      "m": "2.2.4"
+    },
+    {
+      "v": "0.3.0@42d13f0fa8a36022f9f79d9cdc07c424b991af20",
+      "r": [
+        "nimcrypto >= 0.6.0",
+        "checksums >= 0.2.0"
+      ],
+      "d": "Async PostgreSQL client",
+      "m": "2.2.4"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-29T07:49:51Z",
+  "generatedAt": "2026-06-29T13:36:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -44,8 +55,14 @@
   },
   "allDeps": {
     "packages": [
+      "bearssl <= 0.1.0",
       "checksums",
-      "nimcrypto"
+      "chronos <= 0.1.0",
+      "httputils <= 0.1.0",
+      "nimcrypto",
+      "results <= 0.1.0",
+      "stew <= 0.1.0",
+      "unittest2 <= 0.1.0"
     ],
     "urls": [],
     "unresolved": []
