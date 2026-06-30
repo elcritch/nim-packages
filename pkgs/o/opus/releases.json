@@ -9,15 +9,25 @@
   "nim": "1.4.2",
   "releases": [
     {
-      "v": "0.1.0@d455514e5f6888f1ae1da35462729dcff09a9d7f",
-      "r": []
+      "v": "0.1.0@454a7a474ab9528019ca1adf8973a77b2bcceda2",
+      "r": [
+        "nimterop"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:33:48Z",
+  "generatedAt": "2026-06-30T07:30:39Z",
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "cligen",
+      "graphemes",
+      "nimterop",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
     "urls": [],
     "unresolved": []
   }
