@@ -106,13 +106,6 @@
       "m": "2.0.8"
     },
     {
-      "v": "0.1.42@bf6e87c38a60e72bf33de7af4db23876aadb211d",
-      "r": [
-        "hpack >= 0.4.1"
-      ],
-      "m": "2.0.8"
-    },
-    {
       "v": "0.1.41@f10b3fde344ef051dd9db848e9509be5eeb780c2",
       "r": [
         "hpack >= 0.4.1"
@@ -409,7 +402,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-30T12:53:44Z",
+  "generatedAt": "2026-06-30T18:47:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

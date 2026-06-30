@@ -9,6 +9,12 @@
   "nim": "2.0.2",
   "releases": [
     {
+      "v": "0.12.0@bd903ccebde5a1420b77d94d1b96045ea00ea166",
+      "r": [
+        "unicodedb >= 0.13.2"
+      ]
+    },
+    {
       "v": "0.11.0@5358eec1210474c1916a5a6b73f96eef18f30dbc",
       "r": [
         "unicodedb"
@@ -29,7 +35,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-30T12:50:33Z",
+  "generatedAt": "2026-06-30T18:45:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
