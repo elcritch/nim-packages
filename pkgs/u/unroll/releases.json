@@ -12,15 +12,11 @@
     {
       "v": "0.1.1@0216f30847976da0d67fd905c6b3487e44c45564^",
       "r": []
-    },
-    {
-      "v": "0.1.0@b12f5df38be18a3ff506b71ef44f58fe71d38abb",
-      "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:38:21Z",
+  "generatedAt": "2026-07-01T13:18:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],

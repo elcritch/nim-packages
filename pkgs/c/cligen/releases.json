@@ -689,9 +689,8 @@
     {
       "v": "0.9.22@ba75db4dfd12a1406cb47b6b53222b9af5334ef9",
       "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "x": []
+      "d": "Infer & generate command-line interace/option/argument parser",
+      "m": "0.19.2"
     },
     {
       "v": "0.9.19@7d0e78d5cb873184bd883ccc97191c2107041785",
@@ -771,7 +770,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-01T07:38:08Z",
+  "generatedAt": "2026-07-01T13:07:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

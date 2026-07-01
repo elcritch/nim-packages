@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimsight",
   "fqn": "nimsight.ire4ever1190.github.com",
-  "current": "c04f029f83811f9042d0f77795c23214b57337e4",
+  "current": "37b17e5a47791d3a6d4a80e07379ec541f0d089f",
   "author": "Jake Leahy",
   "description": "Yet another LSP for Nim",
   "license": "MIT",
@@ -31,7 +31,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-01T07:41:30Z",
+  "generatedAt": "2026-07-01T13:13:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

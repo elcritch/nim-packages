@@ -48,12 +48,6 @@
       "m": "1.6.0"
     },
     {
-      "v": "0.4.1@6a2892d523b1fa23632c35687862512f89a09326",
-      "r": [],
-      "d": "A nimble package which provides user-defined types, procedures, etc...",
-      "m": "1.6.0"
-    },
-    {
       "v": "0.4.0@43a4b4eead37a982268d0947a353e9711276bb1e",
       "r": [],
       "d": "A nimble package which provides user-defined types, procedures, etc...",
@@ -92,7 +86,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-02T00:57:39Z",
+  "generatedAt": "2026-07-01T13:14:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],
