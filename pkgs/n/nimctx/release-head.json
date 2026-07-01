@@ -1,1 +1,1 @@
-{"v":"#head@fa99b8cd4b2455fe51234d882cd1481968037c15","r":["nimcp","mummy >= 0.4.0","taskpools >= 0.0.1","tiny_sqlite >= 0.2.0","chronicles >= 0.10.0"],"g":true}
+{"v":"#head@0efd2223a7f49acbd88c54b29113172ce1ebb40b","r":["nimcp","mummy 0.4.6","taskpools >= 0.0.1","tiny_sqlite >= 0.2.0","chronicles >= 0.10.0"],"g":true}
