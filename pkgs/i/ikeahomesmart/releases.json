@@ -8,21 +8,12 @@
   "license": "MIT",
   "nim": "1.6.6",
   "srcDir": "src",
-  "releases": [
-    {
-      "v": "0.1.0@22109a5abb70937dd640e046d4d5f2bd4dbf4b3e^",
-      "r": [
-        "coap"
-      ]
-    }
-  ],
+  "releases": [],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:28:50Z",
+  "generatedAt": "2026-07-02T00:52:11Z",
   "allDeps": {
-    "packages": [
-      "coap"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

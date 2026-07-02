@@ -1,1 +1,1 @@
-{"v":"#head@692eb27e097cffe4b872aea2718c5da80fb41b25","r":[],"S":"HasBrokenNimbleFile","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/l/ladybug/.worktree/ladybug.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0"}
+{"v":"#head@e4528d4d67cba2b6b4c5692a06f598896162f8a3","r":[],"S":"HasBrokenNimbleFile","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/l/ladybug/.worktree/ladybug.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0"}

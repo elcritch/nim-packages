@@ -70,12 +70,6 @@
       ]
     },
     {
-      "v": "0.1.4@e22469ace7999de815d9080d1b5467c984bf7779",
-      "r": [
-        "waterpark >= 0.1.0"
-      ]
-    },
-    {
       "v": "0.1.3@71fdd9955d3178f2bc97a68765af76abdd8d1f04",
       "r": [
         "waterpark >= 0.1.0"
@@ -102,7 +96,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-28T18:38:48Z",
+  "generatedAt": "2026-07-02T00:58:45Z",
   "allDeps": {
     "packages": [
       "db_connector",
