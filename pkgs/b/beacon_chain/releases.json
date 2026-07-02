@@ -3821,72 +3821,24 @@
     },
     {
       "v": "1.0.6@87955f2d37c7b7e8b9f8ae1c47c9d354c59a1c34",
-      "r": [
-        "blscurve",
-        "chronicles",
-        "chronos",
-        "confutils",
-        "eth",
-        "json_rpc",
-        "json_serialization",
-        "libbacktrace",
-        "libp2p",
-        "metrics",
-        "nimcrypto",
-        "normalize",
-        "serialization",
-        "stew",
-        "testutils",
-        "prompt",
-        "unicodedb",
-        "web3",
-        "yaml",
-        "zxcvbn"
-      ],
-      "x": [
-        "nfuzz"
-      ],
-      "p": [
-        "beacon_chain/nimbus_beacon_node",
-        "research/serialized_sizes",
-        "nbench/nbench"
-      ],
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
       "b": "",
+      "x": [],
+      "i": [],
+      "p": [],
       "o": {}
     },
     {
       "v": "1.0.5@7d97228208db770ae5f8b37fb5f47f9f75bb5ee4",
-      "r": [
-        "blscurve",
-        "chronicles",
-        "chronos",
-        "confutils",
-        "eth",
-        "json_rpc",
-        "json_serialization",
-        "libbacktrace",
-        "libp2p",
-        "metrics",
-        "nimcrypto",
-        "normalize",
-        "serialization",
-        "stew",
-        "testutils",
-        "prompt",
-        "unicodedb",
-        "web3",
-        "yaml",
-        "zxcvbn"
-      ],
-      "x": [
-        "nfuzz"
-      ],
-      "p": [
-        "beacon_chain/nimbus_beacon_node",
-        "research/serialized_sizes",
-        "nbench/nbench"
-      ],
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
       "b": "",
+      "x": [],
+      "i": [],
+      "p": [],
       "o": {}
     },
     {
@@ -4309,7 +4261,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-02T00:48:46Z",
+  "generatedAt": "2026-07-02T07:16:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
