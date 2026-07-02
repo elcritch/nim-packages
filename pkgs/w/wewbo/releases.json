@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "wewbo",
   "fqn": "wewbo.upi-0.github.com",
-  "current": "4435a6dc0b032abc3c61d94b366a87cc72733cf5",
+  "current": "231aafa952cc4b94f0c2a4579d5c18e737a21e5f",
   "author": "upi-0",
   "description": "An interactive terminal application for streaming and downloading anime from various streaming sources.",
   "license": "GPL-3.0",
@@ -272,7 +272,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-02T07:28:54Z",
+  "generatedAt": "2026-07-02T12:54:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

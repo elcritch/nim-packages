@@ -2,13 +2,31 @@
   "cv": 19,
   "name": "supranim",
   "fqn": "supranim.supranim.github.com",
-  "current": "f4f9b4f883a82f05c83e7c048eac3721b5d8cd78",
+  "current": "fc104760ea8198713f5051343e2d0dc891f01f8a",
   "author": "OpenPeeps",
   "description": "A full-featured web framework for Nim",
   "license": "LGPL-3.0-or-later",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.1.2@fc104760ea8198713f5051343e2d0dc891f01f8a^",
+      "r": [
+        "semver >= 1.2.3",
+        "kapsis >= 0.3.4",
+        "libevent >= 0.1.1",
+        "error://powpow >= 0.1.0",
+        "flatty >= 0.4.0",
+        "openparser >= 0.1.2",
+        "emitter >= 0.1.0",
+        "ozark >= 0.1.4",
+        "threading >= 0.1.0",
+        "mimedb >= 0.1.0",
+        "checksums >= 0.2.2"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-fc104760-supranim.nimble\ncannot resolve package name: powpow"
+    },
     {
       "v": "0.1.1@ce0235dbeeb942f199e8d46fb2459aade26aefe7",
       "r": [
@@ -41,7 +59,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-25T19:04:54Z",
+  "generatedAt": "2026-07-02T12:53:52Z",
   "allDeps": {
     "packages": [
       "ansiparse",
@@ -76,7 +94,9 @@
       "valido",
       "voodoo"
     ],
-    "urls": [],
+    "urls": [
+      "error://powpow > 0.1.1"
+    ],
     "unresolved": [
       "gh:georgelemon/parsesql"
     ]

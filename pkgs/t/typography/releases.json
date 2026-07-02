@@ -234,17 +234,6 @@
       "m": "1.0.0"
     },
     {
-      "v": "0.3.0@078ec7beb0f4b71bc1b72f7c064eea3797382a76",
-      "r": [
-        "flippy >= 0.4.2",
-        "vmath >= 0.2.0",
-        "chroma >= 0.0.1",
-        "print >= 0.1.0"
-      ],
-      "a": "treeform",
-      "m": "1.0.0"
-    },
-    {
       "v": "0.2.4@c8986f9313dd443c7d4f9351fc154c569e55e441",
       "r": [
         "flippy >= 0.2.0",
@@ -318,7 +307,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-02T07:28:17Z",
+  "generatedAt": "2026-07-02T12:54:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

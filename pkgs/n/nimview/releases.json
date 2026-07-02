@@ -6,50 +6,88 @@
   "author": "Marco Mengelkoch",
   "description": "Nim / Python / C library to run webview with HTML/JS as UI",
   "license": "MIT",
-  "nim": "1.4.8",
+  "nim": "0.17.0",
   "srcDir": "src",
   "bin": [
     "nimview"
   ],
   "releases": [
     {
-      "v": "0.4.2@1c0343f131832b4ea8747768f847d6315ce58ac8",
+      "v": "0.1.0@287e768ca151303a50ccc98e0509793064950d28",
       "r": [
+        "jester >= 0.5.0",
         "nimpy >= 0.1.1",
-        "nake >= 1.9.0",
-        "ws >= 0.4.4"
+        "webview >= 0.1.0"
       ],
       "p": []
     },
     {
-      "v": "0.4.1@dc851ac9c2467279dd9dd44e3c2ff433079e3754",
+      "v": "0.1.1@6ccf4b5010a85e7d55ed2799a529d9f8663688ad",
       "r": [
+        "jester >= 0.5.0",
         "nimpy >= 0.1.1",
-        "nake >= 1.9.0",
-        "ws >= 0.4.4"
+        "webview >= 0.1.0"
       ],
       "p": []
     },
     {
-      "v": "0.4.0@4fd8be6f0d51b0ae50e912a3db5046662b385f84",
+      "v": "0.1.2@e91ad0e656e75703c5101834c9fa86b12c1a22bf",
+      "r": [
+        "jester >= 0.5.0",
+        "nimpy >= 0.1.1",
+        "webview >= 0.1.0",
+        "nake >= 1.9.0"
+      ]
+    },
+    {
+      "v": "0.1.3@8b223cf94bbf6a6b5b5ed4d7d16bfb325d7864f3",
+      "r": [
+        "jester >= 0.5.0",
+        "nimpy >= 0.1.1",
+        "webview >= 0.1.0",
+        "nake >= 1.9.0"
+      ]
+    },
+    {
+      "v": "0.2.0@8ee73e58885fd26d54f456f7ff0fc014aa308064",
       "r": [
         "nimpy >= 0.1.1",
-        "nake >= 1.9.0",
-        "ws >= 0.4.4"
+        "webview >= 0.1.0",
+        "nake >= 1.9.0"
       ],
+      "m": "1.0.0"
+    },
+    {
+      "v": "0.2.1@e46ab41b0e81d0809a19fa56beee9111f23fb1a9",
+      "r": [
+        "nimpy >= 0.1.1",
+        "webview >= 0.1.0",
+        "nake >= 1.9.0"
+      ],
+      "m": "1.0.0",
       "p": []
     },
     {
-      "v": "0.3.3@e45d7a63f1d83ab11cb5f5e3b2ce62fee19e3c3a",
+      "v": "0.2.2@2af4b91fb8c64a1affc5e0b9614a4a2e348eb0f7",
       "r": [
         "nimpy >= 0.1.1",
-        "nake >= 1.9.0",
-        "ws >= 0.4.4"
+        "webview >= 0.1.0",
+        "nake >= 1.9.0"
       ],
+      "m": "1.0.0",
       "p": []
     },
     {
-      "v": "0.3.2@32cdf495c30f216f5eb0f0418b80296400921a54",
+      "v": "0.2.3@bb8c8b47f99140a785afab16d8439fe52f0f4b3d",
+      "r": [
+        "nimpy >= 0.1.1",
+        "nake >= 1.9.0"
+      ],
+      "m": "1.2.10",
+      "p": []
+    },
+    {
+      "v": "0.3.0@2122fc3b296747f1ae0d7cbabb823e464afe9adc",
       "r": [
         "nimpy >= 0.1.1",
         "nake >= 1.9.0",
@@ -69,7 +107,7 @@
       "p": []
     },
     {
-      "v": "0.3.0@a93d95e1d304a8cd15aeff6ec36303eeb1ebc791",
+      "v": "0.3.2@dc4f68eb759716045aaac283a09774bc98c041d5",
       "r": [
         "nimpy >= 0.1.1",
         "nake >= 1.9.0",
@@ -79,67 +117,49 @@
       "p": []
     },
     {
-      "v": "0.2.3@d42ec4198726d228d0d7f30b559433c0648b0234",
+      "v": "0.3.3@2a8ccebef014fa547b6661c756531016c66fab03",
       "r": [
         "nimpy >= 0.1.1",
-        "nake >= 1.9.0"
+        "nake >= 1.9.0",
+        "ws >= 0.4.4"
       ],
-      "m": "1.2.10",
+      "m": "1.6",
       "p": []
     },
     {
-      "v": "0.2.2@522eb32424b915a38f3960441c18a076b38d5a7f",
+      "v": "0.4.0@4fd8be6f0d51b0ae50e912a3db5046662b385f84",
       "r": [
         "nimpy >= 0.1.1",
-        "webview 0.1.0",
-        "nake >= 1.9.0"
+        "nake >= 1.9.0",
+        "ws >= 0.4.4"
       ],
-      "m": "1.2.10",
+      "m": "1.4.8",
       "p": []
     },
     {
-      "v": "0.2.1@7240b29a1811ce7f14273b7978b9823a73121587",
+      "v": "0.4.1@dc851ac9c2467279dd9dd44e3c2ff433079e3754",
       "r": [
         "nimpy >= 0.1.1",
-        "webview >= 0.1.0",
-        "nake >= 1.9.0"
+        "nake >= 1.9.0",
+        "ws >= 0.4.4"
       ],
-      "m": "1.0.0",
+      "m": "1.4.8",
       "p": []
     },
     {
-      "v": "0.2.0@12d5886c89ee226c3bb436521fd0974c6dd6ac40",
+      "v": "0.4.2@41c3e886af80749760632cc054564693e2c73e1e",
       "r": [
         "nimpy >= 0.1.1",
-        "webview >= 0.1.0",
-        "nake >= 1.9.0"
+        "nake >= 1.9.0",
+        "ws >= 0.4.4"
       ],
-      "m": "1.0.0"
-    },
-    {
-      "v": "0.1.2@c58311504877fd3973491fde61029ab75aee1a19",
-      "r": [
-        "jester >= 0.5.0",
-        "nimpy >= 0.1.1",
-        "webview >= 0.1.0",
-        "nake >= 1.9.0"
-      ],
-      "m": "0.17.0"
-    },
-    {
-      "v": "0.1.1@cd7b4737e49e998874e1a38c7c57d932b79aab8a",
-      "r": [
-        "jester >= 0.5.0",
-        "nimpy >= 0.1.1",
-        "webview >= 0.1.0",
-        "nake >= 1.9.0"
-      ],
-      "m": "0.17.0"
+      "m": "1.4.8",
+      "p": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-02T07:23:50Z",
+  "generatedAt": "2026-07-02T12:51:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -168,10 +188,10 @@
   },
   "allDeps": {
     "packages": [
-      "asynctools <= 0.1.2",
-      "httpbeast <= 0.1.2",
-      "jester <= 0.1.2",
-      "nake",
+      "asynctools <= 0.1.3",
+      "httpbeast <= 0.1.3",
+      "jester <= 0.1.3",
+      "nake > 0.1.1",
       "nimpy",
       "webview <= 0.2.2",
       "ws > 0.2.3"

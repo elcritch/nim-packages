@@ -47,6 +47,7 @@
       "db_connector",
       "denim",
       "dotenv",
+      "e2ee",
       "emitter",
       "flatty",
       "floof",
@@ -60,7 +61,6 @@
       "kapsis",
       "libevent",
       "libffi",
-      "libsodium",
       "limiter",
       "malebolgia",
       "marvdown",
@@ -94,7 +94,8 @@
       "zippy"
     ],
     "urls": [
-      "error://enimsql"
+      "error://enimsql",
+      "error://powpow"
     ],
     "unresolved": [
       "gh:georgelemon/parsesql"

@@ -51,11 +51,6 @@
       "m": "1.2.0"
     },
     {
-      "v": "0.0.6@883c7a50ad3b82158e64d074c5578fe33ab3c452",
-      "r": [],
-      "m": "0.19.4"
-    },
-    {
       "v": "0.0.5@da8398c45cafd5bd7772da1fc96e3924a18d3823",
       "r": [],
       "a": "Ștefan Talpalaru",
@@ -88,7 +83,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-02T07:28:19Z",
+  "generatedAt": "2026-07-02T12:54:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

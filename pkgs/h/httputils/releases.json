@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "httputils",
   "fqn": "nim-http-utils.status-im.github.com",
-  "current": "f142cb2e8bd812dd002a6493b6082827bb248592",
+  "current": "d7480e80d18eccef72d29e858f5a82f73e60d1e7",
   "author": "Status Research & Development GmbH",
   "description": "HTTP request/response helpers & parsing procedures",
   "license": "Apache License 2.0",
@@ -12,6 +12,14 @@
     "Nim"
   ],
   "releases": [
+    {
+      "v": "0.4.2@d7480e80d18eccef72d29e858f5a82f73e60d1e7^",
+      "r": [
+        "stew",
+        "results",
+        "unittest2"
+      ]
+    },
     {
       "v": "0.4.1@1876d260f6e4711a5c2f07533c3cc51672edae6d",
       "r": [
@@ -39,19 +47,21 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-02T07:20:03Z",
+  "generatedAt": "2026-07-02T12:49:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "v0.4.1"
+      "v0.4.1",
+      "v0.4.2"
     ],
     "tagVersions": {
-      "v0.4.1": "0.4.1"
+      "v0.4.1": "0.4.1",
+      "v0.4.2": "0.4.2"
     },
-    "latest": "v0.4.1"
+    "latest": "v0.4.2"
   },
   "allDeps": {
     "packages": [

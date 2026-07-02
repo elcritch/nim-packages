@@ -74,7 +74,8 @@
       "zmq"
     ],
     "urls": [
-      "error://enimsql"
+      "error://enimsql",
+      "error://powpow"
     ],
     "unresolved": [
       "gh:georgelemon/parsesql"
