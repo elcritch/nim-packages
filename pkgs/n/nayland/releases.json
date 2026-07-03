@@ -2,13 +2,21 @@
   "cv": 19,
   "name": "nayland",
   "fqn": "nayland.nim-windowing.github.com",
-  "current": "126f19bb515457c10ff089777f21079e82a518ea",
+  "current": "3ff210c342ce03883b26de07ad73425e99617de9",
   "author": "xTrayambak",
   "description": "High-level Nim wrapper around libwayland's client interface",
   "license": "BSD-3-Clause",
   "nim": "2.2.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.3.2@3ff210c342ce03883b26de07ad73425e99617de9^",
+      "r": []
+    },
+    {
+      "v": "0.3.0@1579785a1086f4899080084e4cdd460d64757940",
+      "r": []
+    },
     {
       "v": "0.2.0@97a3277582aeb26995b221d203662e61b02fd8a1",
       "r": []
@@ -40,7 +48,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-03T12:49:05Z",
+  "generatedAt": "2026-07-03T18:38:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -53,12 +61,14 @@
       "0.1.31",
       "0.1.32",
       "0.2.0",
-      "0.2.0-rc.1"
+      "0.2.0-rc.1",
+      "0.3.0",
+      "0.3.2"
     ],
     "tagVersions": {
       "0.2.0-rc.1": "0.2.0"
     },
-    "latest": "0.2.0",
+    "latest": "0.3.2",
     "prerelease": [
       "0.2.0-rc.1"
     ]

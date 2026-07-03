@@ -172,17 +172,18 @@
     },
     {
       "v": "0.1.0@56ba1b8cfe4082ad9c052744c7a5fdd2421f99e2",
-      "r": [
-        "results >= 0.4.0"
-      ]
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "x": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:30:54Z",
+  "generatedAt": "2026-07-03T18:38:41Z",
   "allDeps": {
     "packages": [
-      "results"
+      "results > 0.1.0"
     ],
     "urls": [],
     "unresolved": []
