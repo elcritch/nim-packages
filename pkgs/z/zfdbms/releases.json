@@ -98,6 +98,13 @@
       "m": "1.4.0"
     },
     {
+      "v": "0.0.3@b7d485acc13e02fca8937760152f514844f9dce5",
+      "r": [
+        "stdext >= 0.0.10"
+      ],
+      "m": "1.4.0"
+    },
+    {
       "v": "0.0.2@5f07c857361f7b7d2f230ce44765b756f2ae38a5",
       "r": [
         "stdext >= 0.0.10"
@@ -114,7 +121,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-03T00:48:49Z",
+  "generatedAt": "2026-07-03T07:27:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

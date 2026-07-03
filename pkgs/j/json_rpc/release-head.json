@@ -1,1 +1,1 @@
-{"v":"#head@5140c7b329fc9ad9bba4ca8372b41ef46d17a04e","r":["stew","nimcrypto","stint","chronos >= 4.0.3 & < 5.0.0","httputils >= 0.3.0","chronicles","websock >= 0.2.1 & < 0.5.0","serialization >= 0.4.4","json_serialization >= 0.4.2","unittest2"]}
+{"v":"#head@fc317884984d02a995038e4a67654ad7b84886dc","r":["stew","nimcrypto","stint","chronos >= 4.0.3 & < 5.0.0","httputils >= 0.3.0","chronicles","websock >= 0.2.1 & < 0.5.0","serialization >= 0.4.4","json_serialization >= 0.4.2","unittest2"]}

@@ -31,12 +31,14 @@
     },
     {
       "v": "0.5.2@44800af4eb6631ad9b8beb5981620ad462c7844f",
-      "r": []
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-03T00:43:06Z",
+  "generatedAt": "2026-07-03T07:17:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
