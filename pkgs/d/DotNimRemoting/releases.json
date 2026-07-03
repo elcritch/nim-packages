@@ -2,13 +2,19 @@
   "cv": 19,
   "name": "DotNimRemoting",
   "fqn": "DotNimRemoting.filvyb.github.com",
-  "current": "4dfc82433216099ac2c0c9b4ceb1c17d860ae79e",
+  "current": "02edae201eda8d95613a0b7bde459669fdf741fc",
   "author": "Filip Vybihal",
   "description": "Library for communicating with .NET applications using MS-NRTP",
   "license": "MIT",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.9.9@72607c0369797331de286154d410c240e4b469d7",
+      "r": [
+        "faststreams >= 0.5.1"
+      ]
+    },
     {
       "v": "0.9.6@5b8ab1a0e44f0a7b9d4d93034bc39c026122333e",
       "r": [
@@ -66,7 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-10T00:51:31Z",
+  "generatedAt": "2026-07-03T00:40:11Z",
   "allDeps": {
     "packages": [
       "faststreams",

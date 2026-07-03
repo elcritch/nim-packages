@@ -94,6 +94,7 @@
       "zippy"
     ],
     "urls": [
+      "error://clue",
       "error://enimsql",
       "error://powpow"
     ],

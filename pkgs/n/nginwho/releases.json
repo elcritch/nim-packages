@@ -25,6 +25,12 @@
       "r": []
     },
     {
+      "v": "1.0.0@2cec8f51336d249c85e7d78989422aa6dc92a0bf",
+      "r": [],
+      "d": "nginwho is a lightweight and extremely fast nginx log parser that stores the result into a sqlite3 database for further analysis and actions",
+      "m": "2.0.2"
+    },
+    {
       "v": "0.7.1@0a972c57fd8fd15551c8922ee344ca2902318051",
       "r": [],
       "d": "nginwho is a lightweight and extremely fast nginx log parser that stores the result into a sqlite3 database for further analysis and actions",
@@ -46,7 +52,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-02T12:51:08Z",
+  "generatedAt": "2026-07-03T00:44:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "bearssl",
   "fqn": "nim-bearssl.status-im.github.com",
-  "current": "25197fec8a3988d1153be7a1a79890b70e69d6db",
+  "current": "fd07c5ee4c06e46baeff1889a1307cd2a3aa7252",
   "author": "Status Research & Development GmbH",
   "description": "BearSSL wrapper",
   "license": "MIT or Apache License 2.0",
@@ -12,7 +12,7 @@
   ],
   "releases": [
     {
-      "v": "0.2.10@25197fec8a3988d1153be7a1a79890b70e69d6db^",
+      "v": "0.2.10@25197fec8a3988d1153be7a1a79890b70e69d6db",
       "r": [
         "unittest2"
       ]
@@ -81,7 +81,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-02T12:47:30Z",
+  "generatedAt": "2026-07-03T00:40:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

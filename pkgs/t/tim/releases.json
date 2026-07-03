@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "tim",
   "fqn": "tim.openpeeps.github.com",
-  "current": "032614f405b537425f8b19b7e65e479bd83949cc",
+  "current": "9e1a5ff072901287b6ab66f4b4c0cd4b3d99b759",
   "author": "OpenPeeps",
   "description": "A super fast template engine for cool kids!",
   "license": "LGPL-3.0-or-later",
@@ -21,6 +21,25 @@
     "tim"
   ],
   "releases": [
+    {
+      "v": "0.2.4@9e1a5ff072901287b6ab66f4b4c0cd4b3d99b759^",
+      "r": [
+        "kapsis >= 0.3.3",
+        "vancode >= 0.1.2",
+        "flatty >= 0.4.0",
+        "checksums >= 0.2.2",
+        "voodoo >= 0.1.9",
+        "watchout >= 0.2.2",
+        "openparser >= 0.1.2",
+        "semver >= 1.2.3",
+        "supranim >= 0.1.1",
+        "error://powpow >= 0.1.0",
+        "error://clue #head",
+        "bag >= 0.1.0"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/tim.openpeeps.github.com-9e1a5ff0-tim.nimble\ncannot resolve package name: powpow\ncannot resolve package name: clue"
+    },
     {
       "v": "0.2.3@d88e4dafe80066a47d89fb70b6c1894a9373b5f8",
       "r": [
@@ -80,35 +99,46 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-11T19:15:03Z",
+  "generatedAt": "2026-07-03T00:47:35Z",
   "allDeps": {
     "packages": [
       "ansiparse",
+      "bag > 0.2.3",
       "bigints",
       "blackpaper",
       "checksums",
+      "db_connector > 0.2.3",
       "denim <= 0.2.0",
       "dotenv",
+      "emitter > 0.2.3",
       "flatty",
       "floof",
       "gccjit",
+      "greskewel > 0.2.3",
       "htmlparser",
       "httpx",
       "illwill",
       "ioselectors",
       "jsony",
       "kapsis",
+      "libevent > 0.2.3",
       "libffi",
+      "malebolgia > 0.2.3",
+      "mimedb > 0.2.3",
       "msgpack4nim",
       "nancy",
       "nimsimd",
       "noise",
       "nyml",
       "openparser",
+      "ozark > 0.2.3",
+      "parsesql > 0.2.3",
       "pkginfo",
       "pluginkit",
       "semver",
+      "supranim > 0.2.3",
       "termstyle",
+      "threading > 0.2.3",
       "timerwheel",
       "toktok",
       "valido",
@@ -119,7 +149,12 @@
       "wepoll",
       "ws"
     ],
-    "urls": [],
-    "unresolved": []
+    "urls": [
+      "error://clue > 0.2.3",
+      "error://powpow > 0.2.3"
+    ],
+    "unresolved": [
+      "gh:georgelemon/parsesql"
+    ]
   }
 }
