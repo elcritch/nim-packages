@@ -1,1 +1,1 @@
-{"v":"#head@6e1817598db24a90350be2d58fb0f4f76787732f","r":[],"f":{"benchmark":["gh:elcritch/nim-cbor-serialization","cbor","msgpack4nim"],"test":["stew"]}}
+{"v":"#head@cf5b68f4f63eb067c0df139988d175b17653fc68","r":[],"f":{"benchmark":["gh:elcritch/nim-cbor-serialization","msgpack4nim"],"test":["stew"]}}

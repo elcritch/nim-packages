@@ -13,14 +13,6 @@
   ],
   "releases": [
     {
-      "v": "0.2.18@b5b387e6fb2a7cc75d54a269b07cc6218361bd46",
-      "r": [
-        "faststreams >= 0.5.0",
-        "serialization",
-        "stew"
-      ]
-    },
-    {
       "v": "0.2.16@c8dc4527cc7f27b67f41402451a757668819127c",
       "r": [
         "serialization",
@@ -37,7 +29,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-03T07:25:46Z",
+  "generatedAt": "2026-07-03T12:52:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

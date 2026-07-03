@@ -61,14 +61,6 @@
       "m": "1.0.6"
     },
     {
-      "v": "0.3.1@8e494985014d644e00c0e5822ab74645874071df",
-      "r": [
-        "glm >= 1.1.1",
-        "gh:nimgl/glfw >= 3.3.4"
-      ],
-      "m": "1.0.6"
-    },
-    {
       "v": "0.3.0@252e3edf5d80f9778db782da9691ca82cf187c12",
       "r": [
         "glm >= 1.1.1",
@@ -103,7 +95,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-03T07:13:10Z",
+  "generatedAt": "2026-07-03T12:44:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

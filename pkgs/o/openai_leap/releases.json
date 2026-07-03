@@ -118,6 +118,14 @@
       ]
     },
     {
+      "v": "7.1.0@11785388673d2924d1b35161c159abbf53a8a4f6",
+      "r": [
+        "curly >= 1.1.1",
+        "jsony >= 1.1.5",
+        "webby >= 0.2.1"
+      ]
+    },
+    {
       "v": "7.0.0@f0db60a838c96d76bf7eaf2a82937acb785bae3c",
       "r": [
         "curly >= 1.1.1",
@@ -256,7 +264,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-03T07:22:28Z",
+  "generatedAt": "2026-07-03T12:50:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

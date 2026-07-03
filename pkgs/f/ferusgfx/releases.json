@@ -91,21 +91,11 @@
         "boxy >= 0.4.2",
         "opengl >= 1.2.9"
       ]
-    },
-    {
-      "v": "0.1.2@078cac760e450b7567f63c2eec816fb3c51e07a9",
-      "r": [
-        "windy >= 0.0.0",
-        "vmath >= 1.1.4",
-        "pixie >= 5.0.6",
-        "boxy >= 0.4.2",
-        "opengl >= 1.2.9"
-      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-03T07:16:33Z",
+  "generatedAt": "2026-07-03T12:47:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
