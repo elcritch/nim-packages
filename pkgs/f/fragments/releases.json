@@ -50,11 +50,6 @@
       "a": "fragcolor-xyz"
     },
     {
-      "v": "0.1.30@76983625a9ac3b8cb59233548c30f791021d29e8",
-      "r": [],
-      "a": "fragcolor-xyz"
-    },
-    {
       "v": "0.1.29@70caac9464f8fe25ff83acd722b860810248ca9f",
       "r": [],
       "a": "fragcolor-xyz"
@@ -204,7 +199,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:27:17Z",
+  "generatedAt": "2026-07-04T12:32:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

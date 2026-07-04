@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "tim",
   "fqn": "tim.openpeeps.github.com",
-  "current": "b6b471c2ef25c60aa4692f5d1040653fec504e53",
+  "current": "161f85ca4ccd4564d56179317e84ceb13a2a33ee",
   "author": "OpenPeeps",
   "description": "A super fast template engine for cool kids!",
   "license": "LGPL-3.0-or-later",
@@ -22,7 +22,7 @@
   ],
   "releases": [
     {
-      "v": "0.2.5@b6b471c2ef25c60aa4692f5d1040653fec504e53^",
+      "v": "0.2.5@b6b471c2ef25c60aa4692f5d1040653fec504e53",
       "r": [
         "kapsis >= 0.3.3",
         "vancode >= 0.1.2",
@@ -118,7 +118,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-03T18:42:23Z",
+  "generatedAt": "2026-07-04T12:37:36Z",
   "allDeps": {
     "packages": [
       "ansiparse",
