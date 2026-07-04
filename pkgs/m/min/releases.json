@@ -580,6 +580,20 @@
       "k": []
     },
     {
+      "v": "0.21.1@d5a433beb31018610820978d92181d6829fb4694",
+      "r": [
+        "nifty"
+      ],
+      "h": true,
+      "j": [
+        "core/consts.nim"
+      ],
+      "m": "1.4.0",
+      "y": [],
+      "i": [],
+      "k": []
+    },
+    {
       "v": "0.21.0@2bb6e6f101adf4e477495fdfa9708082ddda913b",
       "r": [
         "nifty"
@@ -968,7 +982,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-04T00:46:02Z",
+  "generatedAt": "2026-07-04T07:13:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -1065,7 +1079,7 @@
       "checksums > 0.39.2",
       "htmlparser > 0.45.0",
       "minline > 0.38.1",
-      "nifty > 0.17.0 & <= 0.21.0",
+      "nifty > 0.17.0 & <= 0.21.1",
       "nimquery > 0.38.1",
       "zippy > 0.34.1"
     ],

@@ -16,6 +16,12 @@
       ]
     },
     {
+      "v": "0.1.8@b1559f0183b6cc17de473859e72d1d459f20dbcb",
+      "r": [
+        "nimsimd >= 1.3.2"
+      ]
+    },
+    {
       "v": "0.1.7@b70869f75e3b3fc04239f1c4624150539a1cd359",
       "r": [
         "nimsimd >= 1.3.2"
@@ -60,7 +66,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-04T00:52:16Z",
+  "generatedAt": "2026-07-04T07:19:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
