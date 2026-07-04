@@ -881,11 +881,16 @@
     },
     {
       "v": "1.3.5@c8af385a23c4ed499ecab0bf4043ed35c40b2c36",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "k": [],
-      "p": []
+      "r": [
+        "pararules >= 1.0.0",
+        "paramidi >= 0.6.0",
+        "paramidi_soundfonts >= 0.2.0",
+        "parasound >= 0.2.0",
+        "zippy >= 0.5.5",
+        "stb_image >= 2.5",
+        "wavecore >= 0.3.7",
+        "chrono >= 0.3.0"
+      ]
     },
     {
       "v": "1.3.4@5cc29e707ad5100ac1ad3cae6426bb511f6ffa9d",
@@ -1979,7 +1984,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-04T12:30:41Z",
+  "generatedAt": "2026-07-04T18:27:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

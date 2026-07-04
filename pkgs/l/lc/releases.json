@@ -249,6 +249,15 @@
       "i": []
     },
     {
+      "v": "0.6@3885c5c34de3873b4c18544f412c7ffe3207ed64",
+      "r": [
+        "cligen #head"
+      ],
+      "d": "A post-modern, \"multi-dimensional\" configurable ls/file lister",
+      "m": "0.19.2",
+      "i": []
+    },
+    {
       "v": "0.5@14ccebcd5b9be22ae9e8f7a8723f4f3d3c00c489",
       "r": [
         "cligen #head"
@@ -287,7 +296,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-04T12:33:45Z",
+  "generatedAt": "2026-07-04T18:32:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

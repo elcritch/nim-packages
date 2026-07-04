@@ -31,6 +31,11 @@
       "d": "A thin asynchronous HTTP server library, API compatible with Nim's built-in asynchttpserver."
     },
     {
+      "v": "0.9.5@dd5884d717ecb5e94fc8e3b2a8c462e2e78e4c84",
+      "r": [],
+      "d": "A thin asynchronous HTTP server library, API compatible with Nim's built-in asynchttpserver."
+    },
+    {
       "v": "0.9.0@77a5badaf786fd627eb77757d1545e41fb1059ce",
       "r": [],
       "d": "A thin asynchronous HTTP server library, API compatible with Nim's built-in asynchttpserver."
@@ -38,7 +43,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-04T12:34:17Z",
+  "generatedAt": "2026-07-04T18:33:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

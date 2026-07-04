@@ -106,6 +106,15 @@
       ]
     },
     {
+      "v": "1.1.2@0121de4d251ccb9037fd84caa0a34cf3a84ba51b",
+      "r": [
+        "progress",
+        "pixie #head",
+        "chroma #head",
+        "commandeer #head"
+      ]
+    },
+    {
       "v": "1.1.1@e493817f31599ae9fc2da36a1c4534f935939527",
       "r": [
         "progress",
@@ -180,7 +189,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-04T12:31:46Z",
+  "generatedAt": "2026-07-04T18:29:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
