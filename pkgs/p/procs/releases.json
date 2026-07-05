@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "procs",
   "fqn": "procs.c-blake.github.com",
-  "current": "135de53d071dc55498afd77a7357a8668fb00be8",
+  "current": "2a8199d62d3cf46afb6b9444f08a1a01a93fdcb3",
   "author": "Charles Blake",
   "description": "Unix process&system query&format lib&multi-command CLI in Nim",
   "license": "MIT/ISC",
@@ -18,7 +18,7 @@
   ],
   "releases": [
     {
-      "v": "0.8.14@135de53d071dc55498afd77a7357a8668fb00be8^",
+      "v": "0.8.14@135de53d071dc55498afd77a7357a8668fb00be8",
       "r": [
         "cligen >= 1.10.0"
       ],
@@ -305,7 +305,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-04T18:36:29Z",
+  "generatedAt": "2026-07-05T00:46:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimchess",
   "fqn": "nimchess.tsoj.github.com",
-  "current": "e3efdb34bee80c750e9e5ddf961a2596afa6206a",
+  "current": "c50aeda3238425db1b2bf24c7ab0ce09a0905c8a",
   "author": "Jost Triller",
   "description": "A chess library for Nim",
   "license": "LGPL-3.0-linking-exception",
@@ -24,7 +24,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-04T18:34:14Z",
+  "generatedAt": "2026-07-05T00:44:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
