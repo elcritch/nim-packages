@@ -11,14 +11,9 @@
   "releases": [
     {
       "v": "0.1.6@a653224e8c8d1f259a728cf9927875349512ff21",
-      "r": [
-        "gccjit >= 0.1.0",
-        "voodoo >= 0.1.9",
-        "openparser >= 0.1.0",
-        "flatty >= 0.4.0",
-        "checksums >= 0.2.2",
-        "semver >= 1.2.3"
-      ]
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
     },
     {
       "v": "0.1.5@8e8146a7a8cb06ed0149aca2abef246a31c3b93f",
@@ -88,23 +83,23 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-04T12:37:55Z",
+  "generatedAt": "2026-07-05T07:20:37Z",
   "allDeps": {
     "packages": [
-      "checksums",
+      "checksums <= 0.1.5",
       "dotenv <= 0.1.0",
-      "flatty",
-      "gccjit",
-      "htmlparser",
+      "flatty <= 0.1.5",
+      "gccjit <= 0.1.5",
+      "htmlparser <= 0.1.5",
       "jsony <= 0.1.0",
-      "libffi",
-      "nimsimd",
+      "libffi <= 0.1.5",
+      "nimsimd <= 0.1.5",
       "nyml <= 0.1.0",
-      "openparser",
+      "openparser <= 0.1.5",
       "pkginfo <= 0.1.0",
-      "semver",
+      "semver <= 0.1.5",
       "toktok <= 0.1.0",
-      "voodoo"
+      "voodoo <= 0.1.5"
     ],
     "urls": [],
     "unresolved": []

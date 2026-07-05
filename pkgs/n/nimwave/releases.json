@@ -45,6 +45,13 @@
       ]
     },
     {
+      "v": "0.7.0@c83d62d45c2092eff3adc6693402da997eee0ef0",
+      "r": [
+        "ansiutils >= 0.1.0",
+        "illwave >= 0.5.0"
+      ]
+    },
+    {
       "v": "0.6.0@7fc4d22b7fb087056a3cf60e4a9a4162e29f7499",
       "r": [
         "ansiutils >= 0.1.0",
@@ -89,7 +96,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-05T00:45:25Z",
+  "generatedAt": "2026-07-05T07:17:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
