@@ -68,14 +68,6 @@
       ]
     },
     {
-      "v": "0.6.7@e0e08bcb32c3344b93ec54c6a58e238344db1c7d",
-      "r": [
-        "gh:crashappsec/con4m #35b0dc53863a24a4f2ef17e72b3b29cb8782c8eb",
-        "gh:viega/zippy 0.10.7",
-        "parsetoml 0.7.1"
-      ]
-    },
-    {
       "v": "0.6.6@535ba18ea127df93cd56233c5722690b50fa06a5",
       "r": [
         "gh:crashappsec/con4m #35b0dc53863a24a4f2ef17e72b3b29cb8782c8eb",
@@ -417,7 +409,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-05T07:13:23Z",
+  "generatedAt": "2026-07-05T12:35:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
