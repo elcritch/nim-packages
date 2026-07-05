@@ -244,6 +244,18 @@
       "e": ""
     },
     {
+      "v": "0.20.0@02235b4334482baaf54d715e977c6f7605759aff",
+      "r": [
+        "dotenv >= 1.1.1"
+      ],
+      "m": "1.2.0",
+      "b": "",
+      "x": [],
+      "k": [],
+      "p": [],
+      "e": ""
+    },
+    {
       "v": "0.19.2@faebaa73f7033c1ba8347a3bbcfd62a882b5cded",
       "r": [
         "dotenv >= 1.1.1"
@@ -490,7 +502,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-05T12:34:41Z",
+  "generatedAt": "2026-07-05T18:28:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -587,7 +599,7 @@
       "checksums > 0.27.0",
       "cligen <= 0.18.1",
       "db_connector > 0.25.1",
-      "dotenv > 0.16.0 & <= 0.19.2",
+      "dotenv > 0.16.0 & <= 0.20.0",
       "progress <= 0.18.1"
     ],
     "urls": [],

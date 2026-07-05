@@ -6,106 +6,127 @@
   "author": "Amru Rosyada",
   "description": "High performance http server (https://tools.ietf.org/html/rfc2616) with persistent connection for nim language",
   "license": "BSD",
-  "nim": "1.4.0",
+  "nim": "2.0.0",
   "srcDir": "zfblast",
   "releases": [
+    {
+      "v": "0.4.5@7e1713957cb313b01505777ab5ce9c63d54dfaf0",
+      "r": [
+        "uri3 >= 0.1.5",
+        "sha1"
+      ]
+    },
     {
       "v": "0.4.4@45ccc9fdd5725f7e68a22d7fc1ff8e8b13b828b1",
       "r": [
         "uri3 >= 0.1.5",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.4.3@d0ec7903147df2c3ef719d5e1c6380fa1fc2211b",
       "r": [
         "uri3 >= 0.1.5",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.4.2@dcab252db573783d702589105c66e8c83ab628fb",
       "r": [
         "uri3 >= 0.1.5",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.4.1@48e4ef974b4a36bc62f7948c4dbf08870475b458",
       "r": [
         "uri3 >= 0.1.5",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.4.0@62ac6aeef834e82c5a5792c1a142412dbd74c691",
       "r": [
         "uri3 >= 0.1.5",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.3.1@01ee0db1548fe5adb0968502ef60c8ebba4f60e0",
       "r": [
         "uri3 >= 0.1.5",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.3.0@bc6bd510fa6893d3b48d6efdb28a0e954e87240b",
       "r": [
         "uri3 >= 0.1.5",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.2.8@c6d64d359fedcb1e726df31b117b63b61d7cbed6",
       "r": [
         "uri3 >= 0.1.5",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.2.7@5698f9e50d21d5c223f3ae1cdf33ef9cc4380bd2",
       "r": [
         "uri3 >= 0.1.5",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.2.6@601a99844663e58aadec969378f926bdcfbb4559",
       "r": [
         "uri3 >= 0.1.5",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.2.5@7c01135153b398b11c441cdc6d585df7d4d56e0a",
       "r": [
         "uri3 >= 0.1.5",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.2.4@ff258b412fcff93688b5f06e5ac0d9e8c5e0a669",
       "r": [
         "uri3 >= 0.1.4",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.2.3@80602cd3b2c496e6763efc896e52ba4a98e0450e",
       "r": [
         "uri3 >= 0.1.4",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.2.3@5750a6c06b7186a62c21e54156d41092c92a8ce3",
       "r": [
         "uri3 >= 0.1.4",
         "sha1"
-      ]
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.2.2@07e02c0c5fb18d9209a5120bbf985c1d7ee0f760",
@@ -113,7 +134,8 @@
         "uri3 >= 0.1.4",
         "sha1"
       ],
-      "s": "src"
+      "s": "src",
+      "m": "1.4.0"
     },
     {
       "v": "0.1.19@f71008da3ea3690da9f5951e98645952673629f5",
@@ -244,7 +266,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-05T12:43:59Z",
+  "generatedAt": "2026-07-05T18:37:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
