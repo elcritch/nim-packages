@@ -3,20 +3,20 @@
   "name": "libdatachannel",
   "fqn": "libdatachannel-nim.openpeeps.github.com",
   "current": "501f95565f001ce3a23b158cae924cb4130ce5b3",
-  "author": "George Lemon",
+  "author": "OpenPeeps",
   "description": "Standalone WebRTC Data Channels, WebRTC Media Transport, and WebSockets",
   "license": "MIT",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@96e2700a663dd90e481bbc8f17d2b94ffccc92ac",
+      "v": "0.1.0@a542187dbb34082e6673439f6c469cc3460bbaf1",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:29:43Z",
+  "generatedAt": "2026-07-06T00:45:00Z",
   "allDeps": {
     "packages": [],
     "urls": [],

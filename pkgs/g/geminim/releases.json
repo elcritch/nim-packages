@@ -5,39 +5,31 @@
   "current": "053883efc9d432b65ba25e7db570487795ef4bb6",
   "author": "IDF",
   "description": "A simple gemini server written in nim",
-  "license": "GPL-3.0",
-  "nim": "1.3.5",
+  "license": "BSD2",
+  "nim": "1.2.6",
   "srcDir": "src",
   "bin": [
     "geminim"
   ],
   "releases": [
     {
-      "v": "0.1.0@47ede2b0053a5cec0c801cf0efa02f71df92fa63",
-      "r": []
-    },
-    {
       "v": "0.1.2@23f46385ed4ad7df668386e323d624bb801078f6",
-      "r": [],
-      "l": "BSD2",
-      "m": "1.2.6"
+      "r": []
     },
     {
       "v": "0.1.4@18389a7e28bfed86ac3d4648ff00ec4e258b8c6f",
       "r": [],
-      "l": "BSD2",
       "m": "1.4.0"
     },
     {
       "v": "0.1.5@7a08b7be19dfe306561f3176572ee613efca6a9e",
       "r": [],
-      "l": "BSD2",
       "m": "1.4.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:27:38Z",
+  "generatedAt": "2026-07-06T00:43:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "ndup",
   "fqn": "ndup.c-blake.github.com",
-  "current": "4c8789350a4e35741d7f708daf75cba65e43c792",
+  "current": "9761382a92113b2e2b0535376753e2211bbeb370",
   "author": "Charles Blake",
   "description": "Near-Duplicate File Detection",
   "license": "MIT/ISC",
@@ -16,7 +16,7 @@
   ],
   "releases": [
     {
-      "v": "0.2.0@4c8789350a4e35741d7f708daf75cba65e43c792^",
+      "v": "0.2.0@4c8789350a4e35741d7f708daf75cba65e43c792",
       "r": [
         "cligen >= 1.10.0",
         "bu >= 0.18.13"
@@ -166,7 +166,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-05T18:33:19Z",
+  "generatedAt": "2026-07-06T00:45:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
