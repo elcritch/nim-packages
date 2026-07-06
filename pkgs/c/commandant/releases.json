@@ -24,14 +24,6 @@
       "m": "0.16.0"
     },
     {
-      "v": "0.13.0@240a967c0a1bb07c10d4510fb52b312d0159e19a",
-      "r": [],
-      "j": [
-        "commandeer.nim"
-      ],
-      "m": "0.16.0"
-    },
-    {
       "v": "0.12.3@47ed703cbf261ce86c3814bda753467d4c1c7bf6",
       "r": [],
       "a": "Guillaume Viger",
@@ -172,7 +164,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-06T00:42:39Z",
+  "generatedAt": "2026-07-06T07:40:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

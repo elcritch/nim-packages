@@ -41,7 +41,9 @@
     },
     {
       "v": "0.2.0@2a965433d9efdeb46a4c980cb574dde3ce594655",
-      "r": []
+      "r": [
+        "asynctools"
+      ]
     },
     {
       "v": "0.1.0@ff8fe095c459d296d96188e4aa2681f202748c85",
@@ -53,7 +55,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-06T00:44:27Z",
+  "generatedAt": "2026-07-06T07:42:35Z",
   "allDeps": {
     "packages": [
       "asynctools"

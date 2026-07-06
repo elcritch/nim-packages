@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "futhark",
   "fqn": "futhark.PMunch.github.com",
-  "current": "52e8794e82484e3aceebaefcb8eebc68d0d29e54",
+  "current": "d97a37e070623188b031aa637ecfbc3d2c2c5b55",
   "author": "PMunch",
   "description": "A package which uses libclang to parse C headers into Nim files for easy interop",
   "license": "MIT",
@@ -435,7 +435,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-06T00:43:49Z",
+  "generatedAt": "2026-07-06T07:41:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

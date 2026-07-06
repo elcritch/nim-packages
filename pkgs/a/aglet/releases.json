@@ -10,13 +10,6 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.4.4@8f8469a50b633d263bd7eaa3c974e06a3bcd963f",
-      "r": [
-        "gh:liquid600pgm/nim-glm >= 1.1.1",
-        "gh:nimgl/glfw >= 3.3.4"
-      ]
-    },
-    {
       "v": "0.4.3@be3bb0fa6d9dea2837f7d6943f59ef3962b7c7d3",
       "r": [
         "gh:liquid600pgm/nim-glm >= 1.1.1",
@@ -103,7 +96,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-06T00:41:14Z",
+  "generatedAt": "2026-07-06T07:39:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
