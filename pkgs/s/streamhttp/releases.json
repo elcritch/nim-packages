@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "streamhttp",
   "fqn": "streamhttp.capocasa.github.com",
-  "current": "484a6b2daa8188b468296184c62040021f5f4adc",
+  "current": "dec86e07761aad395fa10c609c7005230003c38f",
   "author": "capocasa",
   "description": "Tiny synchronous streaming HTTP/1.1 client. Reads chunked bodies as they arrive.",
   "license": "MIT",
@@ -10,7 +10,11 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.4.0@484a6b2daa8188b468296184c62040021f5f4adc^",
+      "v": "0.4.1@dec86e07761aad395fa10c609c7005230003c38f^",
+      "r": []
+    },
+    {
+      "v": "0.4.0@484a6b2daa8188b468296184c62040021f5f4adc",
       "r": []
     },
     {
@@ -44,7 +48,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-06T13:31:12Z",
+  "generatedAt": "2026-07-06T18:57:49Z",
   "allDeps": {
     "packages": [],
     "urls": [],

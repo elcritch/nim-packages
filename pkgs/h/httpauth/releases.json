@@ -18,6 +18,12 @@
       ]
     },
     {
+      "v": "0.2.0@15fd0686dc363075c08976ad897d6c92e1e6283c",
+      "r": [
+        "libsodium"
+      ]
+    },
+    {
       "v": "0.1.3@f368aa3331ce091fe3b701bfb8f3480696029774",
       "r": [
         "libsodium"
@@ -39,7 +45,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-06T13:26:12Z",
+  "generatedAt": "2026-07-06T18:50:43Z",
   "allDeps": {
     "packages": [
       "libsodium"

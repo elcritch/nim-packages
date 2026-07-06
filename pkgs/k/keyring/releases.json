@@ -22,6 +22,12 @@
       ]
     },
     {
+      "v": "0.4.0@2cae1514de9e80ef1a10e419611bed3b1efd23c2",
+      "r": [
+        "dbus >= 0.0.1"
+      ]
+    },
+    {
       "v": "0.3.1@bc9d6e7133c1578f4ceb3e387163aaf43affb472",
       "r": [
         "dbus >= 0.0.1"
@@ -66,7 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-06T13:26:40Z",
+  "generatedAt": "2026-07-06T18:51:28Z",
   "allDeps": {
     "packages": [
       "dbus > 0.1.0"

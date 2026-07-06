@@ -1781,49 +1781,6 @@
       "o": {}
     },
     {
-      "v": "24.1.2@6c63a54a817d2706efa1c784d97a21bbe60a7bb5",
-      "r": [
-        "gh:status-im/NimYAML",
-        "bearssl",
-        "blscurve",
-        "chronicles",
-        "chronos",
-        "confutils",
-        "eth",
-        "faststreams",
-        "httputils",
-        "json_rpc",
-        "json_serialization",
-        "libbacktrace",
-        "libp2p",
-        "metrics",
-        "nat_traversal",
-        "nimcrypto",
-        "normalize",
-        "presto",
-        "secp256k1",
-        "serialization",
-        "snappy",
-        "sqlite3_abi",
-        "ssz_serialization",
-        "stew",
-        "stint",
-        "taskpools",
-        "testutils",
-        "unicodedb >= 0.10",
-        "unittest2",
-        "web3",
-        "zlib",
-        "zxcvbn",
-        "gl:status-im/nimbus-security-resources"
-      ],
-      "d": "The Nimbus beacon chain node is a highly efficient Ethereum 2.0 client",
-      "m": "1.6.12",
-      "i": [],
-      "p": [],
-      "o": {}
-    },
-    {
       "v": "24.1.1@0e63f8fdba66ab3eba28078cc249a97fd584f1e2",
       "r": [
         "gh:status-im/NimYAML",
@@ -4309,7 +4266,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-06T13:24:02Z",
+  "generatedAt": "2026-07-06T18:47:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
