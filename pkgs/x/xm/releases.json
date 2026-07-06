@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "xm",
   "fqn": "xm.c-blake.github.com",
-  "current": "baa68176f06d79d0ef102c0d01585b4eb404689f",
+  "current": "1a53d887681d83d4db2b7fa5d854c1ad8d4071e7",
   "author": "Charles Blake",
   "description": "Nim rewrite of `xzoom` with many new features",
   "license": "MIT/ISC",
@@ -48,7 +48,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-06T07:49:06Z",
+  "generatedAt": "2026-07-06T13:32:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
