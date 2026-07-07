@@ -147,6 +147,14 @@
       "x": []
     },
     {
+      "v": "0.20.3@473bea617edc65e3cc9f4eba641b2d7e69122d28",
+      "r": [
+        "cligen >= 1.6.9"
+      ],
+      "h": true,
+      "x": []
+    },
+    {
       "v": "0.20.2@f4bab7930bf2a0903410cfdf255097ceb8de4a3d",
       "r": [
         "cligen >= 1.6.9"
@@ -288,7 +296,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-07T00:46:07Z",
+  "generatedAt": "2026-07-07T07:22:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
