@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "libbacktrace",
   "fqn": "nim-libbacktrace.status-im.github.com",
-  "current": "af60500cb0383231065f1d6624beeeefa308d085",
+  "current": "57e2de3a97a467a84ce07eec0939bb9ff4a061cf",
   "author": "Status Research & Development GmbH",
   "description": "Nim wrapper for libbacktrace",
   "license": "MIT or Apache License 2.0",
@@ -115,7 +115,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-07T07:22:45Z",
+  "generatedAt": "2026-07-07T13:00:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
