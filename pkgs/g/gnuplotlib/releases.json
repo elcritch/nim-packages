@@ -41,18 +41,11 @@
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file",
       "x": []
-    },
-    {
-      "v": "1.0.0@fd386abddabdee040a24d321251dd7013bb2c8d9",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "x": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:28:02Z",
+  "generatedAt": "2026-07-07T00:45:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],
