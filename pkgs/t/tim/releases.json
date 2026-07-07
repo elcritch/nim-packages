@@ -157,7 +157,7 @@
       "semver",
       "supranim > 0.2.3",
       "termstyle",
-      "threading > 0.2.3",
+      "threading > 0.2.0",
       "timerwheel",
       "toktok",
       "valido",

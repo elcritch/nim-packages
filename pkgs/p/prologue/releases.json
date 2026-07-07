@@ -199,19 +199,6 @@
       "m": "1.2.6"
     },
     {
-      "v": "0.3.4@a66699f124f948fe74c4da424dcd4a0aee84afe6",
-      "r": [
-        "regex >= 0.16.2",
-        "nimcrypto >= 0.5.3",
-        "karax >= 1.1.2",
-        "cookiejar >= 0.2.0",
-        "httpx >= 0.1.0"
-      ],
-      "a": "flywind",
-      "d": "Full-Stack Web Framework.",
-      "m": "1.2.6"
-    },
-    {
       "v": "0.3.2@1d2b10b83d62face945597bc4f07086e3d52aa07",
       "r": [
         "regex >= 0.15.0",
@@ -343,7 +330,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-07T13:03:59Z",
+  "generatedAt": "2026-07-07T18:55:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

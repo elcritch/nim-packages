@@ -2,13 +2,61 @@
   "cv": 19,
   "name": "figdraw",
   "fqn": "figdraw.elcritch.github.com",
-  "current": "df14257ab9079bcbccc92c9128fd4aa9c34c49a3",
+  "current": "a7438109b884beb857fb33cbac90472d7a762d32",
   "author": "Jaremy Creechley",
   "description": "UI Engine for Nim",
   "license": "MIT",
   "nim": "2.2",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.27.0@3bec8aae205635426368fb562f145f4dcab51d9b",
+      "r": [
+        "pixie >= 5.0.1",
+        "chroma >= 0.2.7",
+        "bumpy",
+        "stack_strings",
+        "chronicles >= 0.10.3",
+        "sdfy >= 0.8.1",
+        "nimsimd >= 1.2.5",
+        "variant",
+        "patty",
+        "supersnappy",
+        "opengl",
+        "vmath",
+        "gh:planetis-m/vulkan #b223dc9"
+      ],
+      "f": {
+        "vulkan": [
+          "gh:planetis-m/vulkan #b223dc9"
+        ],
+        "lottie": [
+          "jsony"
+        ],
+        "harfbuzz": [
+          "gh:elcritch/harfbuzzy >= 0.2.2"
+        ],
+        "metal": [
+          "metalx #head"
+        ],
+        "surfer": [
+          "surfer >= 0.2.5",
+          "xkb #b4d50f4cccad1cd9e39d2f5a5e1fef2710edcc31"
+        ],
+        "siwin": [
+          "siwin >= 1.0.1"
+        ],
+        "sharedlib": [
+          "genny #81d9659"
+        ],
+        "sdl2": [
+          "sdl2"
+        ],
+        "windy": [
+          "windy"
+        ]
+      }
+    },
     {
       "v": "0.26.4@8f3d1254780f4fca3820aa73833444bea940f4fe",
       "r": [
@@ -347,7 +395,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-05T12:36:55Z",
+  "generatedAt": "2026-07-07T18:50:54Z",
   "allDeps": {
     "packages": [
       "bumpy",

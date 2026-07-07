@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "testutils",
   "fqn": "nim-testutils.status-im.github.com",
-  "current": "6c011e71b77c4c3cb078a503f729121ea5796f0d",
+  "current": "74588b8b55d116ca057431ae3a0ca359e0825fcd",
   "author": "Status Research & Development GmbH",
   "description": "A unittest framework",
   "license": "Apache License 2.0",
@@ -10,78 +10,99 @@
   "skipDirs": [
     "tests"
   ],
+  "installFiles": [
+    "scripts/install_honggfuzz.sh"
+  ],
   "bin": [
     "ntu"
   ],
   "releases": [
     {
+      "v": "0.8.2@74588b8b55d116ca057431ae3a0ca359e0825fcd^",
+      "r": [
+        "stew",
+        "unittest2"
+      ]
+    },
+    {
       "v": "0.8.1@6ce5e5e2301ccbc04b09d27ff78741ff4d352b4d",
       "r": [
         "unittest2"
-      ]
+      ],
+      "j": []
     },
     {
       "v": "0.8.0@e4d37dc1652d5c63afb89907efb5a5e812261797",
       "r": [
         "unittest2"
-      ]
+      ],
+      "j": []
     },
     {
       "v": "0.7.0@382d740ac9fc0d162a120bb07b1cb8afd17a8c01",
       "r": [
         "unittest2"
-      ]
+      ],
+      "j": []
     },
     {
       "v": "0.6.0@94d68e796c045d5b37cabc6be32d7bfa168f8857",
       "r": [
         "unittest2"
-      ]
+      ],
+      "j": []
     },
     {
       "v": "0.5.3@c43f90a739c8689a70a2dde5e718bba2e66a6599",
       "r": [
         "unittest2"
-      ]
+      ],
+      "j": []
     },
     {
       "v": "0.5.2@e4fb95cbe36ad1e231661c922da04b81e0ffeed9",
       "r": [
         "unittest2"
-      ]
+      ],
+      "j": []
     },
     {
       "v": "0.5.0@dfc4c1b39f9ded9baf6365014de2b4bfb4dafc34",
       "r": [
         "unittest2"
       ],
-      "m": "1.2.0"
+      "m": "1.2.0",
+      "j": []
     },
     {
       "v": "0.4.2@b68262cf2a47ea2dd07eff16f37a0b51943be91b",
       "r": [
         "unittest2 #head"
       ],
-      "m": "1.2.0"
+      "m": "1.2.0",
+      "j": []
     },
     {
       "v": "0.4.1@ad9d9dae96c9bc079f64fabe6852848a1fc379fc",
       "r": [
         "unittest2 #head"
       ],
-      "m": "1.2.0"
+      "m": "1.2.0",
+      "j": []
     },
     {
       "v": "0.4.0@6d76fc5e51ce6580289e872558a3b858775e310f",
       "r": [
         "unittest2 #head"
       ],
-      "m": "1.2.0"
+      "m": "1.2.0",
+      "j": []
     },
     {
       "v": "0.3.0@c449d909a638fca2c3adf141fb93710d882ed988",
       "r": [],
-      "m": "1.0.2"
+      "m": "1.0.2",
+      "j": []
     },
     {
       "v": "0.2.0@481186aa761859a35ceefc1af17c73c5a6bb595f",
@@ -89,7 +110,8 @@
       "p": [
         "testrunner"
       ],
-      "m": "1.0.2"
+      "m": "1.0.2",
+      "j": []
     },
     {
       "v": "0.1.1@b982fc84f35a5c93c965b56ee39ae70f5b809d58",
@@ -97,7 +119,8 @@
       "p": [
         "testrunner"
       ],
-      "m": "1.0.2"
+      "m": "1.0.2",
+      "j": []
     },
     {
       "v": "0.1.0@512bc6afe311f8fe0d1e7d53911ff38791298174",
@@ -105,7 +128,8 @@
       "p": [
         "testrunner"
       ],
-      "m": "1.0.2"
+      "m": "1.0.2",
+      "j": []
     },
     {
       "v": "0.0.2@11d3e2a776ea2435b0764c9cd876d3c3d181c941",
@@ -113,12 +137,13 @@
       "p": [
         "testrunner"
       ],
-      "m": "1.0.2"
+      "m": "1.0.2",
+      "j": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-07T13:05:38Z",
+  "generatedAt": "2026-07-07T18:57:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -133,18 +158,22 @@
       "v0.5.2",
       "v0.6.0",
       "v0.7.0",
-      "v0.8.1"
+      "v0.8.1",
+      "v0.8.2"
     ],
     "tagVersions": {
       "v0.5.2": "0.5.2",
       "v0.6.0": "0.6.0",
       "v0.7.0": "0.7.0",
-      "v0.8.1": "0.8.1"
+      "v0.8.1": "0.8.1",
+      "v0.8.2": "0.8.2"
     },
-    "latest": "v0.8.1"
+    "latest": "v0.8.2"
   },
   "allDeps": {
     "packages": [
+      "results > 0.8.1",
+      "stew > 0.8.1",
       "unittest2 > 0.3.0"
     ],
     "urls": [],
