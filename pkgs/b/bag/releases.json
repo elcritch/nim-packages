@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@1f85ef068e04a99c2df8d336f32d4521a9743be8",
+      "v": "0.1.0@2603e703b8f8bae4bc112661570856fec8d32c25",
       "r": [
         "valido >= 0.1.0"
       ]
@@ -18,7 +18,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-08T00:36:22Z",
+  "generatedAt": "2026-07-08T06:57:53Z",
   "allDeps": {
     "packages": [
       "bigints",
