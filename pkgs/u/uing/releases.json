@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "uing",
   "fqn": "uing.neroist.github.com",
-  "current": "d6c5ca0bf5acd1651b48eb13e7d9469495f43010",
+  "current": "016f7144b2b71e96e6fd0c4de7ab14a116952bdd",
   "author": "Jasmine",
   "description": "Wrapper for libui-ng, a maintained fork of libui.",
   "license": "MIT",
@@ -119,7 +119,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-08T12:49:04Z",
+  "generatedAt": "2026-07-08T18:44:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

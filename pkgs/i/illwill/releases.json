@@ -37,7 +37,7 @@
     {
       "v": "0.3.0@7532f9dcfa91a6c3188a6d55ae333f7037988803",
       "r": [],
-      "m": "1.6.12"
+      "x": []
     },
     {
       "v": "0.2.0@fe6f670c0cac93d525b4fe0b4430f89e4d616d48",
@@ -47,7 +47,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:28:50Z",
+  "generatedAt": "2026-07-08T18:40:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -81,6 +81,12 @@
       ]
     },
     {
+      "v": "0.5.3@099e49f1ac7738cdd909b5ae27560d1d3fc310b3",
+      "r": [
+        "results >= 0.4.0"
+      ]
+    },
+    {
       "v": "0.5.2@4b44aeb28cbe28dbb0f097194bfcc530c05af429",
       "r": [
         "results >= 0.4.0"
@@ -173,7 +179,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-08T12:45:28Z",
+  "generatedAt": "2026-07-08T18:41:21Z",
   "allDeps": {
     "packages": [
       "results"

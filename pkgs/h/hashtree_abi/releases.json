@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "hashtree_abi",
   "fqn": "hashtree.OffchainLabs.github.com",
-  "current": "7cb0a35fd604a58bb5a66c50dfda81c801b66743",
+  "current": "30497cff98a06362eadde897202634f91d504fd8",
   "author": "Prysmatic labs, Status Research and Development GmbH",
   "description": "Low-level ABI package for hashtree, a SHA256 implementation specialized for merkle trees and 64-byte chunks",
   "license": "MIT",
@@ -14,6 +14,14 @@
     "hashtree_abi.nim"
   ],
   "releases": [
+    {
+      "v": "0.2.5@30497cff98a06362eadde897202634f91d504fd8^",
+      "r": []
+    },
+    {
+      "v": "0.2.4@7cb0a35fd604a58bb5a66c50dfda81c801b66743",
+      "r": []
+    },
     {
       "v": "0.2.3@6049f7738e28b7f50db427eb7e89f775315c9274",
       "r": []
@@ -37,7 +45,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-08T12:44:02Z",
+  "generatedAt": "2026-07-08T18:39:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -45,13 +53,17 @@
     },
     "releases": [
       "v0.1.0",
-      "v0.2.0"
+      "v0.2.0",
+      "v0.2.4",
+      "v0.2.5"
     ],
     "tagVersions": {
       "v0.1.0": "0.1.0",
-      "v0.2.0": "0.2.0"
+      "v0.2.0": "0.2.0",
+      "v0.2.4": "0.2.4",
+      "v0.2.5": "0.2.5"
     },
-    "latest": "v0.2.0"
+    "latest": "v0.2.5"
   },
   "allDeps": {
     "packages": [],
