@@ -57,6 +57,12 @@
       "m": "0.19.4"
     },
     {
+      "v": "0.6.2@58f72cfe931f20b927dd2493defc70dcf1f635c4",
+      "r": [],
+      "d": "Wrapper for libui-ng, a maintained fork of libui",
+      "m": "0.19.4"
+    },
+    {
       "v": "0.6.1@7c8dcff9779ced6da5712220113a9ca9fb6f9e05",
       "r": [],
       "d": "Wrapper for libui-ng, a maintained fork of libui",
@@ -113,7 +119,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-08T07:10:12Z",
+  "generatedAt": "2026-07-08T12:49:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
