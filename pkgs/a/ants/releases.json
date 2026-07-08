@@ -50,6 +50,17 @@
       "m": "1.6.10"
     },
     {
+      "v": "0.3.18@04548e45441c85cd4000dbeee74698e9cbbc148c",
+      "r": [
+        "Nimscripter >= 1.0.18",
+        "Nimscripter",
+        "cligen",
+        "msgpack4nim >= 0.4.0",
+        "flatty",
+        "yaml"
+      ]
+    },
+    {
       "v": "0.3.17@37012087f23ee7601c915a4c5e85d8c680bc9c22",
       "r": [
         "gh:elcritch/nimscripter #add-compiler-deps-v2",
@@ -327,7 +338,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-07T18:48:35Z",
+  "generatedAt": "2026-07-08T00:36:01Z",
   "allDeps": {
     "packages": [
       "Nimscripter",

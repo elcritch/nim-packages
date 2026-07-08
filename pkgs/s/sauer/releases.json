@@ -20,12 +20,6 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/sauer.moigagoo.github.com-6eea8a81-sauer.nimble\ninvalid 'requires' syntax in nimble file: climate ~= 1.1.1"
     },
     {
-      "v": "1.1.1@38abcd75cee453f10f0f80485ed96ca33fd82a5c",
-      "r": [],
-      "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/sauer.moigagoo.github.com-38abcd75-sauer.nimble\ninvalid 'requires' syntax in nimble file: climate ~= 1.1.1"
-    },
-    {
       "v": "1.1.0@707c26b5212511693dd1bfe5ddbf68ec17900c4f",
       "r": [],
       "S": "HasBrokenNimbleFile",
@@ -106,7 +100,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:35:46Z",
+  "generatedAt": "2026-07-08T00:42:30Z",
   "allDeps": {
     "packages": [
       "climate <= 1.0.8"

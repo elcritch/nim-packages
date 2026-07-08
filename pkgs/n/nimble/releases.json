@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimble",
   "fqn": "nimble.nim-lang.github.com",
-  "current": "7b98a9db6182aafd1ba545c8aa59d2034d40d372",
+  "current": "075b9ff41ab0cde05a2764b543187eefa8ab09bf",
   "author": "Dominik Picheta",
   "description": "Nim package manager.",
   "license": "BSD",
@@ -253,7 +253,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-07T18:53:55Z",
+  "generatedAt": "2026-07-08T00:40:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

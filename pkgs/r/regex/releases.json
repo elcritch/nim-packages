@@ -171,6 +171,14 @@
       "m": "0.19.6"
     },
     {
+      "v": "0.14.0@636c8165c19cd0ab4728c5749c169134605764a7",
+      "r": [
+        "unicodedb >= 0.7.2",
+        "unicodeplus >= 0.5.0"
+      ],
+      "m": "0.19.6"
+    },
+    {
       "v": "0.13.1@2d96baba2bea1a7c23903149ec551228b516be80",
       "r": [
         "unicodedb >= 0.7.2",
@@ -425,7 +433,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-07T18:55:57Z",
+  "generatedAt": "2026-07-08T00:42:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
