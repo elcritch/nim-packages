@@ -150,6 +150,16 @@
       "d": "Makes using libcurl efficiently easy"
     },
     {
+      "v": "0.1.2@af9c96c83184f5a79ca91578546eedb8af81707f",
+      "r": [
+        "libcurl >= 1.0.0",
+        "zippy >= 0.10.6",
+        "waterpark >= 0.1.1",
+        "webby >= 0.1.3"
+      ],
+      "d": "Makes using libcurl efficiently easy"
+    },
+    {
       "v": "0.1.1@d0e09a7628fd1cf2e6ad041e3a49735ec52cdef6",
       "r": [
         "libcurl >= 1.0.0",
@@ -172,7 +182,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-09T13:03:21Z",
+  "generatedAt": "2026-07-09T13:24:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
