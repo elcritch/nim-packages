@@ -39,6 +39,13 @@
       "m": "0.19.4"
     },
     {
+      "v": "0.1.2@910340df5a597d4ef57b9a02800ebd553c72f03d",
+      "r": [
+        "cligen"
+      ],
+      "m": "0.19.4"
+    },
+    {
       "v": "0.1.1@9a857b7df4176e14d2099399bf6238183d10c1d2",
       "r": [
         "cligen"
@@ -55,7 +62,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-08T18:43:08Z",
+  "generatedAt": "2026-07-09T00:49:07Z",
   "allDeps": {
     "packages": [
       "cligen"
