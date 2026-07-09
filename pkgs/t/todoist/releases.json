@@ -6,23 +6,33 @@
   "author": "Rui Vieira",
   "description": "A Nim client for Todoist's REST API",
   "license": "Apache-2.0",
-  "nim": "1.4.8",
+  "nim": "1.6.6",
   "srcDir": "src",
   "releases": [
     {
+      "v": "0.2.0@c3582aee38dfeeabecea7f995b2ef296b74151b7",
+      "r": [
+        "jsony"
+      ]
+    },
+    {
       "v": "0.1.1@9f5dc6feea72ef8999cf9b7b587b62c9f0ac6414",
-      "r": []
+      "r": [],
+      "m": "1.4.8"
     },
     {
       "v": "0.1.0@bb35b87f5b3f7130f9b11d20dc30ec02f276bb36",
-      "r": []
+      "r": [],
+      "m": "1.4.8"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-09T13:31:42Z",
+  "generatedAt": "2026-07-09T18:50:59Z",
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "jsony > 0.1.1"
+    ],
     "urls": [],
     "unresolved": []
   }

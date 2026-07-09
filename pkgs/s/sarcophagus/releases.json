@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "sarcophagus",
   "fqn": "sarcophagus.elcritch.github.com",
-  "current": "37a0204d38a73fdca58ea3b448e1fe70a59f43d1",
+  "current": "6994396b2a2b33311e31887b97d2686cd51f3e99",
   "author": "Jaremy Creechley",
   "description": "mummy higher level api wrapper",
   "license": "Apache-2.0",
@@ -10,7 +10,34 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.12.1@37a0204d38a73fdca58ea3b448e1fe70a59f43d1^",
+      "v": "0.14.0@6994396b2a2b33311e31887b97d2686cd51f3e99^",
+      "r": [
+        "mummy",
+        "jwt >= 0.3",
+        "bearssl >= 0.2.8",
+        "gh:yglukhov/bearssl_pkey_decoder #546f8d9b",
+        "chroniclers"
+      ],
+      "f": {
+        "jsony": [
+          "jsony"
+        ],
+        "msgpack": [
+          "msgpack4nim"
+        ],
+        "chronicles": [
+          "chroniclers >= 0.2.1"
+        ],
+        "cbor": [
+          "cborious >= 0.7.2"
+        ],
+        "dev": [
+          "karax"
+        ]
+      }
+    },
+    {
+      "v": "0.12.1@37a0204d38a73fdca58ea3b448e1fe70a59f43d1",
       "r": [
         "mummy",
         "jwt >= 0.3",
@@ -487,7 +514,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-09T00:50:13Z",
+  "generatedAt": "2026-07-09T18:50:05Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.4.0",
