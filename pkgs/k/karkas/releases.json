@@ -8,12 +8,23 @@
   "license": "MIT",
   "nim": "2.0.0",
   "srcDir": "src",
-  "releases": [],
+  "releases": [
+    {
+      "v": "1.0.0@d5440920db8efbb69363b17a0e6ad55c93ad9a21",
+      "r": [
+        "karax >= 1.3.0"
+      ]
+    }
+  ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-10T12:58:24Z",
+  "generatedAt": "2026-07-10T18:50:00Z",
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "dotenv",
+      "karax",
+      "ws"
+    ],
     "urls": [],
     "unresolved": []
   }
