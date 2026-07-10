@@ -40,14 +40,6 @@
       "m": "1.6.12"
     },
     {
-      "v": "1.0.7@d60e7c05a6e95828fb137494f673c8fb95d79814",
-      "r": [
-        "climate >= 1.0.3"
-      ],
-      "d": "Scaffolder for Karax.",
-      "m": "1.6.12"
-    },
-    {
       "v": "1.0.6@4b14f5bc9e051eba37567b01ac1466c9ec46b39c",
       "r": [
         "climate >= 1.0.3"
@@ -106,7 +98,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-08T07:08:06Z",
+  "generatedAt": "2026-07-10T13:04:12Z",
   "allDeps": {
     "packages": [
       "climate <= 1.0.8"
