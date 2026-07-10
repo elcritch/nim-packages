@@ -2,13 +2,19 @@
   "cv": 19,
   "name": "scfg_nim",
   "fqn": "scfg-nim.heuer.github.com",
-  "current": "26bde6ccbb24012e01a1c0043815ef27e1b5b2a2",
+  "current": "9c74b2c65672623ecd690a24537ee99da714b800",
   "author": "Lars Heuer",
   "description": "scfg (simple configuration file format) parser",
   "license": "MIT",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.4.0@a246472524d77ebb8ea44e263663deb261275523",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
     {
       "v": "0.3.0@efc050760e75aee4566386d3d86e4ee23f7da30e",
       "r": [],
@@ -36,11 +42,15 @@
     {
       "v": "0.2.0@bd2a0d4d423d4b3b2b653788a0da8ec8fb800a24",
       "r": []
+    },
+    {
+      "v": "0.1.0@3ba7be7e8daa2e4365cac4ee1d93a611b4cc5b23",
+      "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:35:48Z",
+  "generatedAt": "2026-07-10T00:49:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],

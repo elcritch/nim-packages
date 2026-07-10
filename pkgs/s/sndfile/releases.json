@@ -31,11 +31,16 @@
     {
       "v": "0.2.1@98edef3240f294d3b6ef24c299e98fcf3fca2812",
       "r": []
+    },
+    {
+      "v": "0.2.0@e7d052eac391bce2701a3fb65bd785d65851f730",
+      "r": [],
+      "a": "Julien Aubert"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-09T18:50:27Z",
+  "generatedAt": "2026-07-10T00:50:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

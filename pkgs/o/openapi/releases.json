@@ -17,6 +17,14 @@
       ]
     },
     {
+      "v": "4.0.1@ef4652e491d13238c0ecde0f073df1de0d7929c6",
+      "r": [
+        "npeg < 1.0.0",
+        "foreach >= 1.0.1 & < 2.0.0",
+        "gh:disruptek/rest >= 1.0.5 & < 2.0.0"
+      ]
+    },
+    {
       "v": "4.0.0@b22f23de143cc550b4a322bf022893caa8e5bacc",
       "r": [
         "npeg < 1.0.0",
@@ -213,7 +221,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-09T18:49:15Z",
+  "generatedAt": "2026-07-10T00:48:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -244,7 +252,7 @@
   },
   "allDeps": {
     "packages": [
-      "foreach > 1.0.1 & <= 4.0.0",
+      "foreach > 1.0.1 & <= 4.0.1",
       "npeg"
     ],
     "urls": [],
