@@ -349,7 +349,11 @@
     },
     {
       "v": "0.0.3@85f4721f434000c844baeda109c8343cc79bdc1b",
-      "r": [],
+      "r": [
+        "nimpy >= 0.2.1"
+      ],
+      "s": "src",
+      "m": "2.2.4",
       "i": [],
       "j": []
     },
@@ -426,7 +430,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-11T06:55:51Z",
+  "generatedAt": "2026-07-11T12:30:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
