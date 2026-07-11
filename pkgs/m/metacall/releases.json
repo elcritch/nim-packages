@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "metacall",
   "fqn": "core.metacall.github.com",
-  "current": "3db160b92f696aa18efefdac68538df780949e34",
+  "current": "8dbc3c54552b5d4b573f589d2f48a784554e9ee8",
   "author": "Vicente Eduardo Ferrer Garcia",
   "description": "MetaCall Nim Port (library for interoperability between Nim and multiple programming languages)",
   "license": "Apache-2.0",
@@ -285,6 +285,12 @@
     },
     {
       "v": "0.5.20@4f89abb4f92c9b840276a277c960b6e4c64ab811",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "0.5.19@65517f7a91bfa8d3cbc6d0065670ae3d4f860f4d",
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
@@ -1156,7 +1162,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-11T12:29:58Z",
+  "generatedAt": "2026-07-11T18:29:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -11,6 +11,12 @@
   "backend": "js",
   "releases": [
     {
+      "v": "0.1.0@70a8ee0b8a91821b3b462cb02e057183bfd76615",
+      "r": [
+        "karax 1.2.1"
+      ]
+    },
+    {
       "v": "0.1.5@e488e0c7a5f02bb69cc1c7f9d4de42453a751ebe",
       "r": [
         "karax 1.2.1"
@@ -26,7 +32,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-11T12:28:39Z",
+  "generatedAt": "2026-07-11T18:27:55Z",
   "allDeps": {
     "packages": [
       "dotenv",

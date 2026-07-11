@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "moe",
   "fqn": "moe.fox0430.github.com",
-  "current": "69d62d1ed0f60a349d894938167a5a9da8dde18c",
+  "current": "12a2222eadc0ff3af88243378204ebcad4666a4f",
   "author": "fox0430",
   "description": "A command lined based text editor",
   "license": "GPLv3",
@@ -410,7 +410,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-11T12:30:07Z",
+  "generatedAt": "2026-07-11T18:29:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
