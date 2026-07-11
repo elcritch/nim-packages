@@ -240,23 +240,11 @@
       ],
       "m": "2.0.0",
       "x": []
-    },
-    {
-      "v": "0.3.0@921e168e0c16f3c9d2892e649376c8040ae00ae6",
-      "r": [
-        "error://basolato",
-        "cligen",
-        "tiara"
-      ],
-      "m": "2.0.0",
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/crown.nimmer-jp.github.com-921e168e-crown.nimble\ncannot resolve package name: basolato",
-      "x": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-11T00:35:56Z",
+  "generatedAt": "2026-07-11T06:53:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -272,9 +260,7 @@
       "cligen",
       "tiara"
     ],
-    "urls": [
-      "error://basolato <= 0.3.0"
-    ],
+    "urls": [],
     "unresolved": [
       "gh:itsumura-h/nim-basolato"
     ]

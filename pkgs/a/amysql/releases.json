@@ -26,16 +26,6 @@
       ]
     },
     {
-      "v": "0.7.5@cb2b6b429549af719ee1dc288d931b85f58eb103",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "zstd",
-        "urlly",
-        "chronos"
-      ]
-    },
-    {
       "v": "0.7.4@bab64c9ef2ef4e55e1394c6f538ac15b8fb6ea0a",
       "r": [
         "nimcrypto",
@@ -117,7 +107,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-11T00:34:27Z",
+  "generatedAt": "2026-07-11T06:51:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

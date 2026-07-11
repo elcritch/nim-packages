@@ -29,18 +29,6 @@
       "h": true
     },
     {
-      "v": "0.0.8@12566407d923b833dfce58acb1b5e7059fe3179b",
-      "r": [],
-      "h": true,
-      "j": [
-        "libbacktrace_wrapper.c",
-        "libbacktrace_wrapper.cpp",
-        "libbacktrace_wrapper.h",
-        "libbacktrace_wrapper.nim"
-      ],
-      "m": "1.0"
-    },
-    {
       "v": "0.0.7@4cbcd58e34e888c89c5ef57a6f821914d5255c8a",
       "r": [],
       "h": true,
@@ -115,7 +103,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-11T00:37:55Z",
+  "generatedAt": "2026-07-11T06:55:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
