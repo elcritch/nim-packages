@@ -13,14 +13,6 @@
   ],
   "releases": [
     {
-      "v": "0.7.0@2cacf6cc28116e4046e0b67a13545af5c4e756bd^",
-      "r": [
-        "glob >= 0.11.3 & < 0.12.0",
-        "toml_serialization >= 0.2.18 & < 0.3.0",
-        "regex >= 0.26.3 & < 0.27.0"
-      ]
-    },
-    {
       "v": "0.6.2@1c6d7813f9f6d6a4fbcd36dfd1489b18982d0d55",
       "r": [
         "hldiff >= 1.0.7 & < 2",
@@ -72,7 +64,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-10T18:56:30Z",
+  "generatedAt": "2026-07-11T00:39:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -110,12 +102,12 @@
   },
   "allDeps": {
     "packages": [
-      "adix > 0.6.1 & <= 0.6.2",
-      "cligen > 0.6.1 & <= 0.6.2",
+      "adix > 0.6.1",
+      "cligen > 0.6.1",
       "faststreams > 0.6.1",
       "glob > 0.6.1",
       "graphemes > 0.6.1",
-      "hldiff > 0.6.1 & <= 0.6.2",
+      "hldiff > 0.6.1",
       "regex > 0.6.1",
       "results > 0.6.1",
       "segmentation > 0.6.1",
