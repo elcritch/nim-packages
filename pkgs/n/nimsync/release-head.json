@@ -1,1 +1,1 @@
-{"v":"#head@ee993279967dd06eaee89085724ebac04cd628e9","r":["chronos >= 4.0.0"],"d":"Production-ready async runtime with lock-free SPSC channels (615M ops/sec, 31ns P99)"}
+{"v":"#head@ee993279967dd06eaee89085724ebac04cd628e9","r":["chronos >= 4.0.0"]}
