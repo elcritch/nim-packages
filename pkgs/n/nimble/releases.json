@@ -156,6 +156,12 @@
       "k": []
     },
     {
+      "v": "0.8.8@0f265a5ae653ea666a37ba8097b69030539d5a6e",
+      "r": [],
+      "m": "#head",
+      "k": []
+    },
+    {
       "v": "0.8.6@9dcaf6816b149ca8411754b5097d0ecaa95bf03e",
       "r": [],
       "m": "#head",
@@ -252,7 +258,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-12T00:42:03Z",
+  "generatedAt": "2026-07-12T07:07:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

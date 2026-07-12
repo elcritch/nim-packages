@@ -6,10 +6,10 @@
   "author": "Jacek Sieka",
   "description": "Thread-safe MPMC channel for Chronos",
   "license": "MIT",
-  "nim": "2.0.14",
+  "nim": "2.2.4",
   "releases": [
     {
-      "v": "0.1.0@2d657e3131ea132c5192b1c1fca0a0a75d2605b1",
+      "v": "0.1.0@e63ac3634373facf14984433a7a366503ea1d0f7",
       "r": [
         "chronos >= 4.0.4 & < 5.0.0",
         "results >= 0.5.1",
@@ -19,7 +19,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-12T00:36:24Z",
+  "generatedAt": "2026-07-12T07:00:12Z",
   "allDeps": {
     "packages": [
       "bearssl",
