@@ -2,14 +2,14 @@
   "cv": 19,
   "name": "asyncchannels",
   "fqn": "nim-async-channels.status-im.github.com",
-  "current": "f22daeae4ca2c0971bbbbd99d289ff0ea71a56fc",
+  "current": "975a2d5661904d2fef790c75c49b0851f11865c5",
   "author": "Jacek Sieka",
   "description": "Thread-safe MPMC channel for Chronos",
   "license": "MIT",
-  "nim": "2.2.4",
+  "nim": "2.0.14",
   "releases": [
     {
-      "v": "0.1.0@e63ac3634373facf14984433a7a366503ea1d0f7",
+      "v": "0.1.0@2d657e3131ea132c5192b1c1fca0a0a75d2605b1",
       "r": [
         "chronos >= 4.0.4 & < 5.0.0",
         "results >= 0.5.1",
@@ -19,7 +19,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:08:43Z",
+  "generatedAt": "2026-07-12T00:36:24Z",
   "allDeps": {
     "packages": [
       "bearssl",

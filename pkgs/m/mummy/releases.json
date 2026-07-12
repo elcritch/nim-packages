@@ -216,13 +216,6 @@
       ]
     },
     {
-      "v": "0.2.7@b4e18efa4c63299b34d7b61d3ead154fd2492b43",
-      "r": [
-        "zippy >= 0.10.4",
-        "webby >= 0.1.3"
-      ]
-    },
-    {
       "v": "0.2.6@ca2ecaff49289ca848e0911cec4360260405c756",
       "r": [
         "zippy >= 0.10.4",
@@ -279,7 +272,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-11T18:29:27Z",
+  "generatedAt": "2026-07-12T00:41:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

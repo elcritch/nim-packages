@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "windy",
   "fqn": "windy.treeform.github.com",
-  "current": "3030e656126815c52df69989c09ac930ff070395",
+  "current": "aa5f066fddf5a268e0467c4f64e0c28eb30bf5ba",
   "author": "Andre von Houck and Ryan Oldenburg",
   "description": "Windy",
   "license": "MIT",
@@ -129,7 +129,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-11T18:34:27Z",
+  "generatedAt": "2026-07-12T00:46:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
