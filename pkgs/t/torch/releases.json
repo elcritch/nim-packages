@@ -114,19 +114,6 @@
       "m": "0.18.1"
     },
     {
-      "v": "0.1.20@075a79c98f4a47395131eddd541f3f06523f36d2",
-      "r": [
-        "fragments >= 0.1.12"
-      ],
-      "x": [
-        "docker"
-      ],
-      "y": [
-        ".gitlab-ci.yml"
-      ],
-      "m": "0.18.1"
-    },
-    {
       "v": "0.1.19@a595651bbf1d5599bc81dc9804159cf0cbe1437e",
       "r": [
         "fragments >= 0.1.8"
@@ -282,7 +269,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-12T07:12:15Z",
+  "generatedAt": "2026-07-12T12:31:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
