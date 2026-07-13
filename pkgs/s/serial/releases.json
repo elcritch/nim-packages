@@ -52,18 +52,11 @@
       "r": [],
       "l": "BSD3",
       "m": "0.16.0"
-    },
-    {
-      "v": "0.1.0@77e8c970b467726dc79f0277bf3e3c0a2029c353",
-      "r": [],
-      "d": "A library to operate serial ports using pure Nim.",
-      "l": "BSD3",
-      "m": "0.15.2"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-13T07:20:04Z",
+  "generatedAt": "2026-07-13T13:03:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

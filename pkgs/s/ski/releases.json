@@ -23,14 +23,14 @@
       "d": "ski is library for SKI combinator."
     },
     {
-      "v": "1.2.0@7937592ed8f1439cc3bf0c677112381e9b5b9ba1^",
+      "v": "1.2.0@e892100be2f823f34b30723d1c805a659c4ff81d",
       "r": [],
       "d": "ski is library for SKI combinator."
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-13T07:20:14Z",
+  "generatedAt": "2026-07-13T13:03:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],
