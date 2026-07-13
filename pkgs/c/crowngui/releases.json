@@ -116,6 +116,18 @@
       "p": []
     },
     {
+      "v": "0.2.19@89fb69b5f7a807691dc988d6e53be83a805495d2",
+      "r": [
+        "regex",
+        "static_server >= 2.2.1",
+        "jsonschema",
+        "objc_runtime >= 0.1.9",
+        "darwin",
+        "winim"
+      ],
+      "p": []
+    },
+    {
       "v": "0.2.18@37b38bdbf82f9ca4a586a6deab54c14ae4d9b458",
       "r": [
         "regex",
@@ -283,7 +295,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-13T00:37:23Z",
+  "generatedAt": "2026-07-13T07:14:59Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.2.4",
@@ -292,7 +304,7 @@
       "clblast <= 0.2.4",
       "cligen <= 0.2.4",
       "darwin",
-      "finder > 0.2.7 & <= 0.2.18",
+      "finder > 0.2.7 & <= 0.2.19",
       "graphemes > 0.2.4",
       "icon <= 0.2.4",
       "imageman <= 0.2.4",
@@ -310,7 +322,7 @@
       "regex > 0.2.4",
       "sat <= 0.2.4",
       "segmentation > 0.2.4",
-      "static_server > 0.2.7 & <= 0.2.18",
+      "static_server > 0.2.7 & <= 0.2.19",
       "stb_image <= 0.2.4",
       "struct <= 0.2.4",
       "unicodedb > 0.2.4",
@@ -318,8 +330,8 @@
       "untar <= 0.2.4",
       "winim > 0.2.8",
       "xlsx > 0.2.4 & <= 0.2.8",
-      "zip <= 0.2.18",
-      "zippy > 0.2.4 & <= 0.2.18",
+      "zip <= 0.2.19",
+      "zippy > 0.2.4 & <= 0.2.19",
       "zopflipng <= 0.2.4"
     ],
     "urls": [],

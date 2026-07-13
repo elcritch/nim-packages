@@ -56,6 +56,13 @@
       "m": "1.6.0"
     },
     {
+      "v": "0.2.0@713038b27376e9009a8fcecd57fda44577b9ed71",
+      "r": [
+        "lowdb >= 0.1.1"
+      ],
+      "m": "1.6.0"
+    },
+    {
       "v": "0.1.0@b0cc969856fc8164ef810aaca84ffca85c6907fa",
       "r": [
         "gh:PhilippMDoerner/ndb.nim #59043f7"
@@ -65,7 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-13T00:41:41Z",
+  "generatedAt": "2026-07-13T07:19:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
