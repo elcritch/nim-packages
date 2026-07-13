@@ -24,7 +24,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-13T13:03:07Z",
+  "generatedAt": "2026-07-13T18:54:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -52,10 +52,11 @@
       "unicodedb",
       "unicodeplus"
     ],
-    "urls": [],
+    "urls": [
+      "error://findxml"
+    ],
     "unresolved": [
       "gh:iffy/asynctools",
-      "gh:thisago/findxml",
       "gh:timotheecour/asynctools",
       "gl:lurlo/useragent"
     ]

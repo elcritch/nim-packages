@@ -61,11 +61,6 @@
       "x": []
     },
     {
-      "v": "0.2.1@d82efbbd92be3f6b729f891f09255c3716e838d8",
-      "r": [],
-      "x": []
-    },
-    {
       "v": "0.2.0@4d7272cd753b721a0bc79c06a5b1766d5e2c1abd",
       "r": [],
       "x": []
@@ -83,7 +78,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-13T13:04:26Z",
+  "generatedAt": "2026-07-13T18:57:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
