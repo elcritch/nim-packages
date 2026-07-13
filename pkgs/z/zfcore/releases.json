@@ -418,6 +418,16 @@
       "m": "1.0.0"
     },
     {
+      "v": "1.0.15@b222deea4d19ec60a9b232db6620bb0a0f9c98e4",
+      "r": [
+        "zip",
+        "zfblast >= 0.1.14",
+        "uri3 >= 0.1.4"
+      ],
+      "s": "src",
+      "m": "1.0.0"
+    },
+    {
       "v": "1.0.11@186a5e32fb1da608fd9e464f738382e6aeda584e",
       "r": [
         "zfblast >= 0.1.10",
@@ -509,7 +519,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-12T18:38:58Z",
+  "generatedAt": "2026-07-13T00:43:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -608,7 +618,7 @@
       "unicodeplus > 1.0.18",
       "uri3",
       "zfblast > 1.0.1",
-      "zip > 1.1.5"
+      "zip > 1.0.11"
     ],
     "urls": [],
     "unresolved": []

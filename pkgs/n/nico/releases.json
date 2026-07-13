@@ -23,9 +23,10 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@726f0653548071fde754458ac45670a39c4b4739",
+      "v": "0.1.0@d80d48a76189924311be2ab9406ff35b377fff71",
       "r": [
         "sdl2 >= 1.1",
+        "stb_image >= 1.2",
         "gifenc >= 0.1.0"
       ],
       "x": [],
@@ -484,7 +485,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-12T18:32:20Z",
+  "generatedAt": "2026-07-13T00:40:13Z",
   "allDeps": {
     "packages": [
       "ajax > 0.1.0 & <= 0.3.2",
@@ -494,6 +495,7 @@
       "sdl2 <= 0.1.0",
       "sdl2_nim > 0.1.0",
       "sndfile > 0.1.0 & <= 0.2.5",
+      "stb_image <= 0.1.0",
       "webaudio > 0.1.0 & <= 0.3.2",
       "winim > 0.1.0",
       "x11 > 0.1.0",
