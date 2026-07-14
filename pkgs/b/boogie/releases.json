@@ -2,28 +2,33 @@
   "cv": 19,
   "name": "boogie",
   "fqn": "boogie.openpeeps.github.com",
-  "current": "fae7dfac800b0690178d9551d745c1038d35963a",
+  "current": "03ca2f74ce81b6cb7769fb4bfcfb27ea10f2dab6",
   "author": "George Lemon",
-  "description": "A new awesome nimble package",
-  "license": "MIT",
-  "nim": "2.2.0",
+  "description": "A suite of WAL-based data stores",
+  "license": "LGPL-3.0-or-later",
+  "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@b39b0d6edf98e13a523f79f3a64aa53df2118bc7",
+      "v": "0.1.0@0a9356ebb458568751cba8cc20ca527fcaa7c98a",
       "r": [
-        "rbtree",
-        "flatty"
+        "sorta",
+        "flatty",
+        "threading",
+        "openparser"
       ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:24:13Z",
+  "generatedAt": "2026-07-14T00:34:25Z",
   "allDeps": {
     "packages": [
       "flatty",
-      "rbtree"
+      "nimsimd",
+      "openparser",
+      "sorta",
+      "threading"
     ],
     "urls": [],
     "unresolved": []

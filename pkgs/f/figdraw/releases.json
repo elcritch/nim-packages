@@ -2,13 +2,111 @@
   "cv": 19,
   "name": "figdraw",
   "fqn": "figdraw.elcritch.github.com",
-  "current": "22cac0c65222c2024b1971f0cab4ddef796d1da8",
+  "current": "d8e93005d3ee3f8b12b7b4ecf4ee1d66d1d28510",
   "author": "Jaremy Creechley",
   "description": "UI Engine for Nim",
   "license": "MIT",
   "nim": "2.2",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.29.1@5bd2809b5487ed75725f2f90af7c773c25072781",
+      "r": [
+        "pixie >= 5.0.1",
+        "chroma >= 0.2.7",
+        "bumpy",
+        "stack_strings",
+        "chronicles >= 0.10.3",
+        "sdfy >= 0.8.1",
+        "nimsimd >= 1.2.5",
+        "variant",
+        "patty",
+        "supersnappy",
+        "opengl",
+        "vmath",
+        "gh:planetis-m/vulkan #b223dc9"
+      ],
+      "f": {
+        "vulkan": [
+          "gh:planetis-m/vulkan #b223dc9"
+        ],
+        "lottie": [
+          "jsony"
+        ],
+        "harfbuzz": [
+          "gh:elcritch/harfbuzzy >= 0.2.2"
+        ],
+        "metal": [
+          "metalx #head"
+        ],
+        "surfer": [
+          "surfer >= 0.2.5",
+          "xkb #b4d50f4cccad1cd9e39d2f5a5e1fef2710edcc31"
+        ],
+        "siwin": [
+          "siwin >= 1.0.1"
+        ],
+        "sharedlib": [
+          "genny #81d9659",
+          "gh:elcritch/binny >= 0.4.2"
+        ],
+        "sdl2": [
+          "sdl2"
+        ],
+        "windy": [
+          "windy"
+        ]
+      }
+    },
+    {
+      "v": "0.29.0@4ca452dc18c7cb8b86bbcd46e3eea03c705a6ed6",
+      "r": [
+        "pixie >= 5.0.1",
+        "chroma >= 0.2.7",
+        "bumpy",
+        "stack_strings",
+        "chronicles >= 0.10.3",
+        "sdfy >= 0.8.1",
+        "nimsimd >= 1.2.5",
+        "variant",
+        "patty",
+        "supersnappy",
+        "opengl",
+        "vmath",
+        "gh:planetis-m/vulkan #b223dc9"
+      ],
+      "f": {
+        "vulkan": [
+          "gh:planetis-m/vulkan #b223dc9"
+        ],
+        "lottie": [
+          "jsony"
+        ],
+        "harfbuzz": [
+          "gh:elcritch/harfbuzzy >= 0.2.2"
+        ],
+        "metal": [
+          "metalx #head"
+        ],
+        "surfer": [
+          "surfer >= 0.2.5",
+          "xkb #b4d50f4cccad1cd9e39d2f5a5e1fef2710edcc31"
+        ],
+        "siwin": [
+          "siwin >= 1.0.1"
+        ],
+        "sharedlib": [
+          "genny #81d9659",
+          "gh:elcritch/binny >= 0.4.2"
+        ],
+        "sdl2": [
+          "sdl2"
+        ],
+        "windy": [
+          "windy"
+        ]
+      }
+    },
     {
       "v": "0.28.1@9782d19514c82904b888121e8deca598552fad55",
       "r": [
@@ -491,7 +589,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-13T12:58:20Z",
+  "generatedAt": "2026-07-14T00:36:45Z",
   "allDeps": {
     "packages": [
       "bumpy",
@@ -542,6 +640,7 @@
     "urls": [],
     "unresolved": [
       "gh:Chlumsky/msdfgen",
+      "gh:elcritch/binny",
       "gh:elcritch/harfbuzzy",
       "gh:nim-windowing/linux_input",
       "gh:planetis-m/vulkan",

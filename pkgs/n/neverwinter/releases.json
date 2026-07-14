@@ -130,10 +130,11 @@
     },
     {
       "v": "1.6.0@5cee6c662bd0798b4a60caad6c9473ef9381f97e",
-      "r": [
-        "docopt >= 0.6.8"
-      ],
-      "m": "1.6.4"
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "b": "",
+      "i": []
     },
     {
       "v": "1.5.9@35706536038afaf4266c6aa441a41035f4fa98e6",
@@ -353,7 +354,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-13T18:49:39Z",
+  "generatedAt": "2026-07-14T00:40:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
