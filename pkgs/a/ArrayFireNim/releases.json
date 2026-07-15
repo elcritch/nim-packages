@@ -24,14 +24,6 @@
       "m": "1.6.10"
     },
     {
-      "v": "0.2.3@58a61e599d34ad5003b0452cab1a0b1f12744999",
-      "r": [],
-      "d": "Arrayfire wrapper for nim",
-      "l": "BSD",
-      "m": "1.2.0",
-      "e": ""
-    },
-    {
       "v": "0.2.2@c2718ba7424c7b5a53ad3ab09dad980f223cf5cd",
       "r": [],
       "d": "Arrayfire wrapper for nim",
@@ -66,7 +58,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-15T06:51:57Z",
+  "generatedAt": "2026-07-15T12:35:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

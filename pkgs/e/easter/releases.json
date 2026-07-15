@@ -14,14 +14,19 @@
       "r": []
     },
     {
-      "v": "0.1.2@b8c4b796b71d8ddf8b7a4e1de8e91f0e2483cd97",
+      "v": "0.1.1@7240b680934eba63b0a4d2abc269ad5011196eb6",
+      "r": [],
+      "d": "Easter date calculation engine."
+    },
+    {
+      "v": "0.1.2@7853d432d9d1263c0d307e94aecdfd5e7c06afa7",
       "r": [],
       "d": "Easter date calculation engine."
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-15T06:54:45Z",
+  "generatedAt": "2026-07-15T12:37:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],

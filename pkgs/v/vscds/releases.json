@@ -45,7 +45,7 @@
       "d": "<VS Code Data Swapper> Easily manage multiple data folders."
     },
     {
-      "v": "0.3.3@cc3674f1f78ffdedf737c6255cb30bc43b38b549",
+      "v": "0.3.3@58c99dbeee1f4a98ac0de7f9708c77d643e8bbbd",
       "r": [
         "nimlevenshtein >= 0.1.0"
       ],
@@ -54,7 +54,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:38:40Z",
+  "generatedAt": "2026-07-15T12:43:38Z",
   "allDeps": {
     "packages": [
       "nimlevenshtein > 0.3.0"

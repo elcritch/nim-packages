@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "taskpools",
   "fqn": "nim-taskpools.status-im.github.com",
-  "current": "e541bc78ade563955247c46a884476adebade1d4",
+  "current": "f1bc8558cda255c3d54148277a60aee5cc8a8835",
   "author": "Status Research & Development GmbH",
   "description": "lightweight, energy-efficient, easily auditable threadpool",
   "license": "MIT",
@@ -35,7 +35,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-15T07:01:57Z",
+  "generatedAt": "2026-07-15T12:43:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

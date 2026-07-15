@@ -199,16 +199,11 @@
       "v": "0.1.1@6228384d08eff8bcc12157d2db87cd9eb27a227d",
       "r": [],
       "j": []
-    },
-    {
-      "v": "0.0.1@b3534cce520b7a703f9098340cce16a7be01bf15",
-      "r": [],
-      "j": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-15T06:59:21Z",
+  "generatedAt": "2026-07-15T12:41:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

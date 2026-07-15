@@ -2,13 +2,17 @@
   "cv": 19,
   "name": "bytesized",
   "fqn": "bytesized.Maxb0tbeep.gitlab.com",
-  "current": "ce7734568508024dc0837da99e1ec5a4dfddd831",
+  "current": "1551168f8da294d7911d7958a495e37d2ec9b2db",
   "author": "lx12ucy",
   "description": "a library for manipulating data storage units",
   "license": "GPL-3.0-only",
   "nim": "2.0.8",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "1.4.0@1551168f8da294d7911d7958a495e37d2ec9b2db^",
+      "r": []
+    },
     {
       "v": "1.3.1@adf6c8c9669d37531a549589ab438758f0445e14",
       "r": []
@@ -40,7 +44,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-22T14:03:10Z",
+  "generatedAt": "2026-07-15T12:37:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],
