@@ -32,15 +32,6 @@
       ]
     },
     {
-      "v": "1.0.0@df0c65f28707d62ec2c52ab681e5490f3658e9c0",
-      "r": [
-        "progress",
-        "docopt",
-        "fab",
-        "gara"
-      ]
-    },
-    {
       "v": "0.8.0@168fab9431140f35459dfc6adc1f51d4fdc25b7b",
       "r": [
         "progress",
@@ -78,7 +69,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:27:38Z",
+  "generatedAt": "2026-07-15T00:33:41Z",
   "allDeps": {
     "packages": [
       "docopt",

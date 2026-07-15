@@ -78,17 +78,6 @@
       "i": []
     },
     {
-      "v": "3.0.3@7287943fab98adc7c7350c151ab24d42a7b510fa",
-      "r": [
-        "sigv4 1.3.0",
-        "awsSTS >= 1.0.3",
-        "jsony 1.1.5",
-        "nimSHA2",
-        "hmac 0.3.2"
-      ],
-      "i": []
-    },
-    {
       "v": "3.0.2@b6883fb064339417979e27f541d57e8c0f6d9277",
       "r": [
         "sigv4 1.3.0",
@@ -155,7 +144,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-14T18:31:23Z",
+  "generatedAt": "2026-07-15T00:31:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
