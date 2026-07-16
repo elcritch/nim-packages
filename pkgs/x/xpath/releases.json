@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "xpath",
   "fqn": "xpath.blue0x1.github.com",
-  "current": "bb837fcbd3ad4b617d561da9c7b70c1ed3630b2e",
+  "current": "5364d72a9bbc78f492d4bb26354eab8284433008",
   "author": "Chokri Hammedi (blue0x1)",
   "description": "Advanced XPath Injection Vulnerability Scanner",
   "license": "MIT",
@@ -19,7 +19,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-16T07:11:14Z",
+  "generatedAt": "2026-07-16T12:51:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

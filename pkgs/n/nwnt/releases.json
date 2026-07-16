@@ -83,6 +83,14 @@
       "o": {}
     },
     {
+      "v": "1.2.0@fb772d4e244b109a71adb8d7b7522a5965543952",
+      "r": [
+        "neverwinter >= 1.4.0",
+        "docopt >= 0.6.8"
+      ],
+      "o": {}
+    },
+    {
       "v": "1.1.0@19b8de7aeac5e6a01c7c7e286644f34be0c2bc42",
       "r": [
         "neverwinter >= 1.4.0",
@@ -101,7 +109,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-16T07:06:02Z",
+  "generatedAt": "2026-07-16T12:47:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

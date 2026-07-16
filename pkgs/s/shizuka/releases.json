@@ -9,6 +9,10 @@
   "srcDir": "shizuka",
   "releases": [
     {
+      "v": "1.0.0@19b66ff863a65e97117f3494c988c403fe844b30",
+      "r": []
+    },
+    {
       "v": "0.3.0@bb1f0127227bacf6326c56214580c408900e4a98",
       "r": []
     },
@@ -23,7 +27,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-16T07:08:15Z",
+  "generatedAt": "2026-07-16T12:49:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
