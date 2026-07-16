@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "figdraw",
   "fqn": "figdraw.elcritch.github.com",
-  "current": "6038926e31890fc38d58897e42b22fcd3269048e",
+  "current": "d5291e7db3a4cb5a629898c23cd0aa880c73d883",
   "author": "Jaremy Creechley",
   "description": "UI Engine for Nim",
   "license": "MIT",
@@ -10,7 +10,105 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.30.3@6038926e31890fc38d58897e42b22fcd3269048e^",
+      "v": "0.31.1@d5291e7db3a4cb5a629898c23cd0aa880c73d883^",
+      "r": [
+        "pixie >= 5.0.1",
+        "chroma >= 0.2.7",
+        "bumpy",
+        "stack_strings",
+        "chronicles >= 0.10.3",
+        "sdfy >= 0.8.1",
+        "nimsimd >= 1.2.5",
+        "variant",
+        "patty",
+        "supersnappy",
+        "opengl",
+        "vmath",
+        "gh:planetis-m/vulkan #b223dc9"
+      ],
+      "f": {
+        "vulkan": [
+          "gh:planetis-m/vulkan #b223dc9"
+        ],
+        "lottie": [
+          "jsony"
+        ],
+        "harfbuzz": [
+          "gh:elcritch/harfbuzzy >= 0.2.2"
+        ],
+        "metal": [
+          "metalx #head"
+        ],
+        "surfer": [
+          "surfer >= 0.2.5",
+          "xkb #b4d50f4cccad1cd9e39d2f5a5e1fef2710edcc31"
+        ],
+        "siwin": [
+          "siwin >= 1.0.1"
+        ],
+        "sharedlib": [
+          "genny #81d9659",
+          "gh:elcritch/binny >= 0.4.2"
+        ],
+        "sdl2": [
+          "sdl2"
+        ],
+        "windy": [
+          "windy"
+        ]
+      }
+    },
+    {
+      "v": "0.31.0@ca324bf948f00df916eb3c7044baba08a9b7db97",
+      "r": [
+        "pixie >= 5.0.1",
+        "chroma >= 0.2.7",
+        "bumpy",
+        "stack_strings",
+        "chronicles >= 0.10.3",
+        "sdfy >= 0.8.1",
+        "nimsimd >= 1.2.5",
+        "variant",
+        "patty",
+        "supersnappy",
+        "opengl",
+        "vmath",
+        "gh:planetis-m/vulkan #b223dc9"
+      ],
+      "f": {
+        "vulkan": [
+          "gh:planetis-m/vulkan #b223dc9"
+        ],
+        "lottie": [
+          "jsony"
+        ],
+        "harfbuzz": [
+          "gh:elcritch/harfbuzzy >= 0.2.2"
+        ],
+        "metal": [
+          "metalx #head"
+        ],
+        "surfer": [
+          "surfer >= 0.2.5",
+          "xkb #b4d50f4cccad1cd9e39d2f5a5e1fef2710edcc31"
+        ],
+        "siwin": [
+          "siwin >= 1.0.1"
+        ],
+        "sharedlib": [
+          "genny #81d9659",
+          "gh:elcritch/binny >= 0.4.2"
+        ],
+        "sdl2": [
+          "sdl2"
+        ],
+        "windy": [
+          "windy"
+        ]
+      }
+    },
+    {
+      "v": "0.30.3@6038926e31890fc38d58897e42b22fcd3269048e",
       "r": [
         "pixie >= 5.0.1",
         "chroma >= 0.2.7",
@@ -785,7 +883,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-15T12:38:17Z",
+  "generatedAt": "2026-07-16T00:38:24Z",
   "allDeps": {
     "packages": [
       "bumpy",

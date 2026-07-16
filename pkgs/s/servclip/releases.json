@@ -52,11 +52,10 @@
       "unicodedb",
       "unicodeplus"
     ],
-    "urls": [
-      "error://findxml"
-    ],
+    "urls": [],
     "unresolved": [
       "gh:iffy/asynctools",
+      "gh:thisago/findxml",
       "gh:timotheecour/asynctools",
       "gl:lurlo/useragent"
     ]
