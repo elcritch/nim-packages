@@ -1,1 +1,1 @@
-{"v":"#head@2add671c0e27a1ad223826fd766208b483528f3a","r":["libevent","flatty"],"a":"Supranim","d":"Supranim's Event Emitter - Subscribe & listen for events"}
+{"v":"#head@6dfb8ad59f6867da581725d9f6bd1d28d125ab1e","r":["threading >= 0.1.0","openparser >= 0.1.4","libevent >= 0.1.2"],"a":"Supranim","d":"Supranim's Event Emitter - Subscribe & listen for events","m":"2.0.0"}

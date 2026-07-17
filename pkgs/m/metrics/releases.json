@@ -19,19 +19,11 @@
         "results",
         "stew"
       ]
-    },
-    {
-      "v": "0.1.2@11d0cddfb0e711aa2a8c75d1892ae24a64c299fc",
-      "r": [
-        "chronos >= 4.0.3",
-        "results",
-        "stew"
-      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-17T12:38:46Z",
+  "generatedAt": "2026-07-17T18:34:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

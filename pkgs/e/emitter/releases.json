@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "emitter",
   "fqn": "emitter.supranim.github.com",
-  "current": "2add671c0e27a1ad223826fd766208b483528f3a",
+  "current": "6dfb8ad59f6867da581725d9f6bd1d28d125ab1e",
   "author": "George Lemon",
   "description": "Supranim's Event Emitter - Subscribe & listen for various events within your application",
   "license": "MIT",
@@ -27,16 +27,30 @@
       ],
       "a": "Supranim",
       "d": "Supranim's Event Emitter - Subscribe & listen for events"
+    },
+    {
+      "v": "0.2.0@0352ff3f5e00e372d87bca6951ff4e7727ff4b29",
+      "r": [
+        "threading >= 0.1.0",
+        "openparser >= 0.1.4",
+        "libevent >= 0.1.2"
+      ],
+      "a": "Supranim",
+      "d": "Supranim's Event Emitter - Subscribe & listen for events",
+      "m": "2.0.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:26:24Z",
+  "generatedAt": "2026-07-17T18:31:49Z",
   "allDeps": {
     "packages": [
-      "flatty > 0.1.1",
+      "flatty > 0.1.1 & <= 0.1.2",
       "libevent > 0.1.1",
-      "malebolgia > 0.1.0 & <= 0.1.1"
+      "malebolgia > 0.1.0 & <= 0.1.1",
+      "nimsimd > 0.1.2",
+      "openparser > 0.1.2",
+      "threading > 0.1.2"
     ],
     "urls": [],
     "unresolved": []

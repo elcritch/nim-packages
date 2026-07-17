@@ -14,18 +14,11 @@
       "r": [
         "chronos >= 4.0.0"
       ]
-    },
-    {
-      "v": "0.2.1@c62cd71c395f6331b2b828599655f9ff6949dd54",
-      "r": [
-        "chronos >= 4.0.0"
-      ],
-      "d": "Lock-free SPSC channels for Nim (212M+ ops/sec verified)"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-17T12:40:29Z",
+  "generatedAt": "2026-07-17T18:36:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
