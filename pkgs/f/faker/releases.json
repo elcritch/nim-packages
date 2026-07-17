@@ -113,8 +113,9 @@
     {
       "v": "0.5.0@ddc95963d98cafe985b0edc5284b44af68b8292c",
       "r": [],
-      "d": "A new awesome nimble package",
-      "m": "1.0.4"
+      "b": "",
+      "k": [],
+      "p": []
     },
     {
       "v": "0.4.0@f5ea32f55d36da145e83d6d2ea1f4daf434a0b33",
@@ -143,7 +144,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-17T06:55:58Z",
+  "generatedAt": "2026-07-17T12:36:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

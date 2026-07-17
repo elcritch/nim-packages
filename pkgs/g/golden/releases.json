@@ -89,6 +89,20 @@
       "m": "0.20.0"
     },
     {
+      "v": "3.0.9@c7ba4ffcdce9e06db36d8bbda89d5edaf983e24c",
+      "r": [
+        "foreach >= 1.0.2",
+        "bump >= 1.8.11",
+        "nimetry >= 0.4.0",
+        "msgpack4nim 0.2.9",
+        "terminaltables #82ee5890c13e381de0f11c8ba6fe484d7c0c2f19",
+        "nimgit2 >= 0.1.0",
+        "lmdb 0.1.2",
+        "cligen >= 0.9.40"
+      ],
+      "m": "0.20.0"
+    },
+    {
       "v": "3.0.8@293d66806b46796514607e782f1222486c191781",
       "r": [
         "foreach >= 1.0.2",
@@ -378,7 +392,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-17T06:56:43Z",
+  "generatedAt": "2026-07-17T12:37:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

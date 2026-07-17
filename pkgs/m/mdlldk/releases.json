@@ -14,16 +14,11 @@
       "r": [
         "winim >= 3.9.2"
       ]
-    },
-    {
-      "v": "0.1.0@6561f99808542d4b20c77a51a256a12283dcf157",
-      "r": [],
-      "m": "1.4.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-17T06:58:09Z",
+  "generatedAt": "2026-07-17T12:38:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -41,7 +36,7 @@
   },
   "allDeps": {
     "packages": [
-      "winim > 0.1.0"
+      "winim"
     ],
     "urls": [],
     "unresolved": []
