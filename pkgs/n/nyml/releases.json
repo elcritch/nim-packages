@@ -39,6 +39,14 @@
       "d": "A stupid simple YAML Parser. From YAML to stringified JSON (fastest) or JsonNode"
     },
     {
+      "v": "0.1.5@ac503d507dee3aa2c7b26ca69e85c2c2280d6bd1",
+      "r": [
+        "toktok",
+        "pkginfo"
+      ],
+      "d": "A stupid simple YAML Parser. From YAML to stringified JSON (fastest) or JsonNode"
+    },
+    {
       "v": "0.1.4@73513d71847e26df0f09de5f59d9141ef274ac0c",
       "r": [
         "toktok",
@@ -81,14 +89,14 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-17T00:42:34Z",
+  "generatedAt": "2026-07-17T07:00:54Z",
   "allDeps": {
     "packages": [
-      "jsony > 0.1.4 & <= 0.1.8",
+      "jsony > 0.1.5 & <= 0.1.8",
       "nimsimd > 0.1.8",
       "openparser > 0.1.8",
-      "pkginfo <= 0.1.4",
-      "semver <= 0.1.4",
+      "pkginfo <= 0.1.5",
+      "semver <= 0.1.5",
       "toktok"
     ],
     "urls": [],
