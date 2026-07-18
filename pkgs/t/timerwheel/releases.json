@@ -8,10 +8,15 @@
   "license": "Apache-2.0",
   "nim": "1.2.6",
   "srcDir": "src",
-  "releases": [],
+  "releases": [
+    {
+      "v": "0.1.2@53bc0e6dfbfa44e6d3cd824bff6c3919626045b1",
+      "r": []
+    }
+  ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-17T18:39:11Z",
+  "generatedAt": "2026-07-18T00:42:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
