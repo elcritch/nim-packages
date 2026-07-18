@@ -18,9 +18,10 @@
     },
     {
       "v": "0.1.3@aef0e9f63041dacc2784012401d41b2939f78060",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
+      "r": [
+        "multicast >= 0.1.1",
+        "nimcrypto >= 0.3.2"
+      ]
     },
     {
       "v": "0.1.2@9a970f3fecac9da184b2dacaf0e64a51ec418e25",
@@ -41,7 +42,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-18T06:55:37Z",
+  "generatedAt": "2026-07-18T12:32:25Z",
   "allDeps": {
     "packages": [
       "multicast",

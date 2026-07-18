@@ -3,28 +3,20 @@
   "name": "webdavclient",
   "fqn": "webdavclient.beshrkayali.github.com",
   "current": "a9ef364d8ae1dc6ba44eaedc7021bf7bf110159d",
-  "author": "Beshr Kayali Reinholdsson",
+  "author": "Beshr Kayali",
   "description": "WebDAV Client for Nim",
   "license": "MIT",
-  "nim": "2.0.0",
+  "nim": "1.0.0",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.2.0@d88ab0bc0c31a4415d08a6995a730884bdc53b4e",
-      "r": [
-        "puppy >= 2.0.0"
-      ]
-    },
-    {
       "v": "0.1.0@8e32db41a7596a2917045efeaf82921a703dd692",
-      "r": [],
-      "a": "Beshr Kayali",
-      "m": "1.0.0"
+      "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-18T06:55:20Z",
+  "generatedAt": "2026-07-18T12:32:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -36,14 +28,7 @@
     "latest": "0.2.0"
   },
   "allDeps": {
-    "packages": [
-      "libcurl > 0.1.0",
-      "puppy > 0.1.0",
-      "urlly > 0.1.0",
-      "webby > 0.1.0",
-      "winim > 0.1.0",
-      "zippy > 0.1.0"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }
