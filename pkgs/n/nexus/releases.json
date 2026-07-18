@@ -144,6 +144,17 @@
       ]
     },
     {
+      "v": "0.1.2@8fa5cc26df256aa202ebee14e4a1d0ddfa68705a",
+      "r": [
+        "argon2",
+        "chronicles",
+        "jester",
+        "karax",
+        "quickjwt",
+        "yaml"
+      ]
+    },
+    {
       "v": "0.1.1@c0b58dd9caa5296e077fc1a3968a1e89e56a2c95",
       "r": [
         "argon2",
@@ -162,7 +173,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-18T12:28:49Z",
+  "generatedAt": "2026-07-18T18:30:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

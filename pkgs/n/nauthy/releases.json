@@ -16,17 +16,15 @@
       ]
     },
     {
-      "v": "0.1.1@29c8d8cf40f1451420120474d638a10e67b6e072",
+      "v": "0.1.1@1a9f62b4f48604f5e82914a4c38ea047463ab8e0",
       "r": [
         "nimSHA2 >= 0.1.1"
-      ],
-      "a": "cteea",
-      "s": "src"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-18T12:28:39Z",
+  "generatedAt": "2026-07-18T18:30:09Z",
   "allDeps": {
     "packages": [
       "nimSHA2"

@@ -902,6 +902,22 @@
       "m": "1.6.12"
     },
     {
+      "v": "0.20.0@dab38f3591d546ac3d4ecdaa113ecc653ebb4616",
+      "r": [
+        "cligen",
+        "regex",
+        "httpx",
+        "illwill",
+        "nimja",
+        "websocketx"
+      ],
+      "l": "GNU GPLv3",
+      "p": [
+        "hpx"
+      ],
+      "m": "1.6.12"
+    },
+    {
       "v": "0.19.0@16e47645b13ee703d55412cce5fa07fae0b70152",
       "r": [
         "cligen",
@@ -1122,7 +1138,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-18T12:27:26Z",
+  "generatedAt": "2026-07-18T18:28:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
