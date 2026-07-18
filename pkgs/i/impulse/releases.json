@@ -9,15 +9,32 @@
   "nim": "1.6.0",
   "releases": [
     {
+      "v": "0.1.1@db4bec28f6bed9671b96d317863d0273db302db6",
+      "r": [
+        "arraymancer >= 0.7.28"
+      ]
+    },
+    {
       "v": "0.1.0@639129750cdcebc6e893fc6146d7da7e4c575b1f",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-18T00:37:30Z",
+  "generatedAt": "2026-07-18T06:49:21Z",
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "arraymancer > 0.1.0",
+      "clblast > 0.1.0",
+      "nimblas > 0.1.0",
+      "nimcl > 0.1.0",
+      "nimcuda > 0.1.0",
+      "nimlapack > 0.1.0",
+      "opencl > 0.1.0",
+      "stb_image > 0.1.0",
+      "untar > 0.1.0",
+      "zip > 0.1.0"
+    ],
     "urls": [],
     "unresolved": []
   }

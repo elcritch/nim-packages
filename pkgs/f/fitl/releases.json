@@ -263,18 +263,6 @@
       ]
     },
     {
-      "v": "0.3.0@22ad82b92f6e4a5e4c23ddfcc17ee4e107a2eaa9",
-      "r": [
-        "cligen >= 1.5.24",
-        "spfun >= 0.3.0"
-      ],
-      "p": [
-        "fitl",
-        "fitl/qtl",
-        "fitl/gof"
-      ]
-    },
-    {
       "v": "0.2.0@4b977034d7b64ca2f44e12901c5881937bac2cd1",
       "r": [
         "spfun >= 0.3.0",
@@ -310,7 +298,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-18T00:36:26Z",
+  "generatedAt": "2026-07-18T06:48:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

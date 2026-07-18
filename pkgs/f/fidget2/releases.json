@@ -68,13 +68,9 @@
     },
     {
       "v": "0.0.7@e9ed56559c56d14c871edc4d5b0ca9579dc4d854",
-      "r": [
-        "cligen >= 1.0.0",
-        "jsony >= 1.1.5",
-        "puppy >= 2.1.2",
-        "boxy >= 0.6.1"
-      ],
-      "d": "Description of your library"
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
     },
     {
       "v": "0.0.5@942ff265f2b0e49f5546d111bc08426600e1815f",
@@ -149,7 +145,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-18T00:36:21Z",
+  "generatedAt": "2026-07-18T06:48:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
