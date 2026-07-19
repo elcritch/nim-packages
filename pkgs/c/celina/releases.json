@@ -2,40 +2,50 @@
   "cv": 19,
   "name": "celina",
   "fqn": "celina.fox0430.github.com",
-  "current": "0576694717caefa6a8752342368f737b5cb21975",
+  "current": "936060f2abf09a5d4bdce2dcf204129df6b259b6",
   "author": "fox0430",
   "description": "A CLI library inspired by Ratatui",
   "license": "MIT",
-  "nim": "2.0.2",
+  "nim": "2.0.6",
   "releases": [
     {
-      "v": "0.12.0@bd903ccebde5a1420b77d94d1b96045ea00ea166",
+      "v": "0.13.0@936060f2abf09a5d4bdce2dcf204129df6b259b6^",
       "r": [
         "unicodedb >= 0.13.2"
       ]
     },
     {
+      "v": "0.12.0@bd903ccebde5a1420b77d94d1b96045ea00ea166",
+      "r": [
+        "unicodedb >= 0.13.2"
+      ],
+      "m": "2.0.2"
+    },
+    {
       "v": "0.11.0@5358eec1210474c1916a5a6b73f96eef18f30dbc",
       "r": [
         "unicodedb"
-      ]
+      ],
+      "m": "2.0.2"
     },
     {
       "v": "0.10.0@6a10581c8d9139d5595b6cfa7ab1c5428f744ed3",
       "r": [
         "unicodedb"
-      ]
+      ],
+      "m": "2.0.2"
     },
     {
       "v": "0.9.0@472215af92547e57a6d972eb44e9a6f3a3e5137c",
       "r": [
         "unicodedb"
-      ]
+      ],
+      "m": "2.0.2"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-18T18:25:55Z",
+  "generatedAt": "2026-07-19T00:37:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -46,6 +56,7 @@
       "v0.10.0",
       "v0.11.0",
       "v0.12.0",
+      "v0.13.0",
       "v0.2.0",
       "v0.3.0",
       "v0.4.0",
@@ -61,6 +72,7 @@
       "v0.10.0": "0.10.0",
       "v0.11.0": "0.11.0",
       "v0.12.0": "0.12.0",
+      "v0.13.0": "0.13.0",
       "v0.2.0": "0.2.0",
       "v0.3.0": "0.3.0",
       "v0.4.0": "0.4.0",
@@ -71,7 +83,7 @@
       "v0.8.0": "0.8.0",
       "v0.9.0": "0.9.0"
     },
-    "latest": "v0.12.0"
+    "latest": "v0.13.0"
   },
   "allDeps": {
     "packages": [

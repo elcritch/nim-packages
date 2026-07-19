@@ -80,13 +80,6 @@
       "x": []
     },
     {
-      "v": "1.15.2@ca48c3718246bb411ff0e354a70cb82d9a28de0d",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file",
-      "x": []
-    },
-    {
       "v": "1.15.1@a49f4b3f9c60096f06f610311e9f43c0e9dfec3a",
       "r": [],
       "S": "HasUnknownNimbleFile",
@@ -367,7 +360,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-18T18:29:35Z",
+  "generatedAt": "2026-07-19T00:43:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

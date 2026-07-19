@@ -45,18 +45,11 @@
       "d": "This library is a simple wrapper providing a convenient reentrant interface for\nthe bcrypt password hashing algorithm implementation as provided by Solar\nDesigner at http://www.openwall.com/crypt/.\n",
       "i": [],
       "j": []
-    },
-    {
-      "v": "1.0.0@45e1f078bdd11f5a3cd87fe1653c5f381d778614",
-      "r": [],
-      "d": "This library is a simple wrapper providing a convenient reentrant interface for\nthe bcrypt password hashing algorithm implementation as provided by Solar\nDesigner at http://www.openwall.com/crypt/.\n",
-      "i": [],
-      "j": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:26:17Z",
+  "generatedAt": "2026-07-19T00:38:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],
