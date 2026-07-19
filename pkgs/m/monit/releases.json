@@ -70,19 +70,11 @@
         "cligen >= 0.9.32"
       ],
       "m": "1.0.0"
-    },
-    {
-      "v": "1.0.0@a190e36841e57e3139c381aa36f70a5d56a20bc3",
-      "r": [
-        "yaml >= 0.12.0",
-        "cligen >= 0.9.32"
-      ],
-      "m": "0.20.2"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-19T07:03:04Z",
+  "generatedAt": "2026-07-19T12:29:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
