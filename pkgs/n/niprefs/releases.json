@@ -28,6 +28,12 @@
       ]
     },
     {
+      "v": "0.3.1@9e0a5457503c7e2291fa92a8713795e48da25524",
+      "r": [
+        "toml_serialization >= 0.2.0"
+      ]
+    },
+    {
       "v": "0.3.0@c200c4b67e6e829dff18b9d382ba3d1290fee411",
       "r": [
         "toml_serialization >= 0.2.0"
@@ -108,7 +114,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-19T12:30:55Z",
+  "generatedAt": "2026-07-19T18:34:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

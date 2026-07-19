@@ -2,35 +2,44 @@
   "cv": 19,
   "name": "distributions",
   "fqn": "distributions.ayman-albaz.github.com",
-  "current": "4f9a8de49e5ed9a8c0702ac34a7e0bc320a73a11",
+  "current": "cf8516189c268e1d96f54252ccde06c9b44e389a",
   "author": "ayman albaz",
   "description": "Probability distributions and functions in Nim",
   "license": "Apache-2.0",
-  "nim": "1.4.6",
+  "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "1.0.0@cf8516189c268e1d96f54252ccde06c9b44e389a^",
+      "r": [
+        "special_functions >= 1.0.0"
+      ]
+    },
     {
       "v": "0.2.0@271ea5e01e39eec81476c33d93382830a092df93",
       "r": [
         "special_functions >= 0.2.0"
-      ]
+      ],
+      "m": "1.4.6"
     },
     {
       "v": "0.1.1@71d234ff59d840284105eedc4381b2b40bb7b64d",
       "r": [
         "special_functions >= 0.1.0"
-      ]
+      ],
+      "m": "1.4.6"
     },
     {
       "v": "0.1.0@ed58232fdd7cf67d49f09d002d72dfa03d7c18c5",
       "r": [
         "special_functions >= 0.1.0"
-      ]
+      ],
+      "m": "1.4.6"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:26:03Z",
+  "generatedAt": "2026-07-19T18:28:05Z",
   "allDeps": {
     "packages": [
       "special_functions"
