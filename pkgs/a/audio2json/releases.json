@@ -17,13 +17,13 @@
   },
   "releases": [
     {
-      "v": "0.1.0@ef869dc1208c9232ebd03689896d108f01adf83c",
+      "v": "0.1.1@cfcd3fc8f5d4bb43b14b278584b77ec68efe1ce3",
       "r": [
         "sndfile"
       ]
     },
     {
-      "v": "0.1.1@0226b6fd31b8de1c610aaca7c1d5d0e6e06fb940",
+      "v": "0.1.0@ead444349f12f0d19ded57b570d6558f91b0ce61",
       "r": [
         "sndfile"
       ]
@@ -31,7 +31,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-20T07:12:09Z",
+  "generatedAt": "2026-07-20T12:51:13Z",
   "allDeps": {
     "packages": [
       "sndfile"
