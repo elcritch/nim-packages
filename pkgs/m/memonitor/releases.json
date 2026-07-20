@@ -15,10 +15,15 @@
   "installExt": [
     "nim"
   ],
-  "releases": [],
+  "releases": [
+    {
+      "v": "0.1.0@7e0dc90fbe6af9f30ec2ff2205adc7d166402aa9",
+      "r": []
+    }
+  ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-19T18:31:53Z",
+  "generatedAt": "2026-07-20T00:43:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
