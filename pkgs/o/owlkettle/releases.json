@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "owlkettle",
   "fqn": "owlkettle.can-lehmann.github.com",
-  "current": "fcf019da99e464c1b5d00ce3220f7e29b2a2ef9c",
+  "current": "ac61ecf0adea2fd611ce962e3915e704abc2fb7f",
   "author": "Can Joshua Lehmann",
   "description": "A declarative user interface framework based on GTK",
   "license": "MIT",
@@ -51,7 +51,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-20T13:00:39Z",
+  "generatedAt": "2026-07-20T18:56:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

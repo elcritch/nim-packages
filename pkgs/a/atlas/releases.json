@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "atlas",
   "fqn": "atlas.nim-lang.github.com",
-  "current": "219c374d6afaebe7807d4e05c68287d06f31b6e8",
+  "current": "11b90724aa413179492b273c348d5dcf2db74228",
   "author": "Araq",
   "description": "Atlas is a simple package cloner tool. It manages an isolated project.",
   "license": "MIT",
@@ -21,7 +21,13 @@
   },
   "releases": [
     {
-      "v": "0.14.9@219c374d6afaebe7807d4e05c68287d06f31b6e8^",
+      "v": "0.14.10@11b90724aa413179492b273c348d5dcf2db74228^",
+      "r": [
+        "sat"
+      ]
+    },
+    {
+      "v": "0.14.9@219c374d6afaebe7807d4e05c68287d06f31b6e8",
       "r": [
         "sat"
       ]
@@ -200,7 +206,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-20T12:51:11Z",
+  "generatedAt": "2026-07-20T18:46:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -214,6 +220,7 @@
       "0.12.6",
       "0.14.0",
       "0.14.1",
+      "0.14.10",
       "0.14.2",
       "0.14.3",
       "0.14.4",
@@ -223,7 +230,7 @@
       "0.14.8",
       "0.14.9"
     ],
-    "latest": "0.14.9"
+    "latest": "0.14.10"
   },
   "allDeps": {
     "packages": [

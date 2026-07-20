@@ -4,15 +4,10 @@
   "fqn": "parsefixed.jlp765.github.com",
   "current": "f57c3063aa4f1a6830ca18113ac2935b7e9cb1cc",
   "nim": "0.11.2",
-  "releases": [
-    {
-      "v": "0.1.2@f57c3063aa4f1a6830ca18113ac2935b7e9cb1cc^",
-      "r": []
-    }
-  ],
+  "releases": [],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-20T13:00:47Z",
+  "generatedAt": "2026-07-20T18:56:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -10,6 +10,10 @@
   "srcDir": "src",
   "releases": [
     {
+      "v": "0.1.0@e5ffe2b99d8c17f02110d383d1d5e51578dc7995",
+      "r": []
+    },
+    {
       "v": "0.1.1@f70334413fe6db838e2e15a82bbc330a9e9c1eb2",
       "r": []
     },
@@ -20,7 +24,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-20T13:03:47Z",
+  "generatedAt": "2026-07-20T19:00:06Z",
   "allDeps": {
     "packages": [],
     "urls": [],
