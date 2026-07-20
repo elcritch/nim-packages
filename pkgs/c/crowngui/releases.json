@@ -237,8 +237,18 @@
     },
     {
       "v": "0.2.8@eb26cb72a4b413db8a76b45d7d5844cfaaf0a737",
-      "r": [],
-      "k": [],
+      "r": [
+        "regex",
+        "xlsx",
+        "static_server >= 2.2.0",
+        "jsonschema",
+        "objc_runtime",
+        "darwin"
+      ],
+      "k": [
+        "nim",
+        "h"
+      ],
       "p": []
     },
     {
@@ -285,7 +295,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-20T00:39:28Z",
+  "generatedAt": "2026-07-20T07:14:01Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.2.4",
@@ -294,7 +304,7 @@
       "clblast <= 0.2.4",
       "cligen <= 0.2.4",
       "darwin",
-      "finder > 0.2.8 & <= 0.2.19",
+      "finder > 0.2.7 & <= 0.2.19",
       "graphemes > 0.2.4",
       "icon <= 0.2.4",
       "imageman <= 0.2.4",
@@ -305,21 +315,21 @@
       "nimcl <= 0.2.4",
       "nimcuda <= 0.2.4",
       "nimlapack <= 0.2.4",
-      "objc_runtime > 0.2.8",
+      "objc_runtime > 0.2.7",
       "opencl <= 0.2.4",
       "plists <= 0.2.4",
       "rcedit <= 0.2.4",
       "regex > 0.2.4",
       "sat <= 0.2.4",
       "segmentation > 0.2.4",
-      "static_server > 0.2.8 & <= 0.2.19",
+      "static_server > 0.2.7 & <= 0.2.19",
       "stb_image <= 0.2.4",
       "struct <= 0.2.4",
       "unicodedb > 0.2.4",
       "unicodeplus > 0.2.4",
       "untar <= 0.2.4",
       "winim > 0.2.8",
-      "xlsx > 0.2.4 & <= 0.2.7",
+      "xlsx > 0.2.4 & <= 0.2.8",
       "zip <= 0.2.19",
       "zippy > 0.2.4 & <= 0.2.19",
       "zopflipng <= 0.2.4"

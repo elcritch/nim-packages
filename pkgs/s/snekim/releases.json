@@ -5,7 +5,7 @@
   "current": "d4754dadcd3671d220ead3e564998f2400017634",
   "author": "Anna Aurora",
   "description": "A simple implementation of the classic snake game",
-  "license": "LGPL-3.0-only",
+  "license": "LGPL-3.0",
   "nim": "1.6.6",
   "srcDir": "src",
   "bin": [
@@ -13,29 +13,33 @@
   ],
   "releases": [
     {
-      "v": "1.2.0@50fa9c8ab2f7c0304fe137616005c24057b4aecf",
+      "v": "0.1.0@d00829f9d0fb80187773a3fd4ef89704993d24f4",
       "r": [
         "nimraylib_now"
       ]
     },
     {
-      "v": "1.1.0@9715058695a8f32ea0ebc603aba43f3d4a04d566",
+      "v": "1.0.0@56a18383dab04ba64be5b5fb94ec532eb91d4578",
       "r": [
         "nimraylib_now"
-      ],
-      "l": "LGPL-3.0"
+      ]
     },
     {
-      "v": "1.0.0@e733aa99fcda04d57b1e8d91dcafbadd2a2d8f0f",
+      "v": "1.1.0@71be0a2046cb0459d5e45788f323302388bccf2c",
       "r": [
         "nimraylib_now"
-      ],
-      "l": "LGPL-3.0"
+      ]
+    },
+    {
+      "v": "1.2.0@88b9cc0ee107dadae6b3cab056d270bd67e22e22",
+      "r": [
+        "nimraylib_now"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:36:37Z",
+  "generatedAt": "2026-07-20T07:23:07Z",
   "allDeps": {
     "packages": [
       "c2nim",
