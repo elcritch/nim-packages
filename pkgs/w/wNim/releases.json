@@ -13,6 +13,14 @@
   ],
   "releases": [
     {
+      "v": "1.0.0@16105eec911c633e3c994c879e42a43584b6d5b5^",
+      "r": [
+        "winim >= 3.6.0",
+        "npeg >= 0.24.1",
+        "memlib >= 1.1.0"
+      ]
+    },
+    {
       "v": "0.13.5@1dee5983972570a27eee6ca49bfb96d4328f9a0e",
       "r": [
         "winim >= 3.6.0",
@@ -31,7 +39,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-21T12:53:07Z",
+  "generatedAt": "2026-07-21T18:48:01Z",
   "allDeps": {
     "packages": [
       "memlib",

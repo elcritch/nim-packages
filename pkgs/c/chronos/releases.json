@@ -19,6 +19,16 @@
       "x": []
     },
     {
+      "v": "4.2.4@90f543e447f6ade46f028bd7bdf882ae7fcb0ba9",
+      "r": [
+        "results",
+        "stew",
+        "bearssl >= 0.2.7",
+        "httputils",
+        "unittest2"
+      ]
+    },
+    {
       "v": "4.2.3@447b3fd8ae0619e847bff46d823d56779e21851b",
       "r": [
         "results",
@@ -44,6 +54,16 @@
         "results",
         "stew",
         "bearssl >= 0.2.5",
+        "httputils",
+        "unittest2"
+      ]
+    },
+    {
+      "v": "4.0.7@ba9a01bb210d62606562fd212a1f40f912c9c290",
+      "r": [
+        "results",
+        "stew",
+        "bearssl >= 0.2.7",
         "httputils",
         "unittest2"
       ]
@@ -141,14 +161,14 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-17T12:34:57Z",
+  "generatedAt": "2026-07-21T18:38:00Z",
   "allDeps": {
     "packages": [
-      "bearssl <= 4.2.3",
-      "httputils <= 4.2.3",
-      "results <= 4.2.3",
-      "stew <= 4.2.3",
-      "unittest2 <= 4.2.3"
+      "bearssl <= 4.2.4",
+      "httputils <= 4.2.4",
+      "results <= 4.2.4",
+      "stew <= 4.2.4",
+      "unittest2 <= 4.2.4"
     ],
     "urls": [],
     "unresolved": []

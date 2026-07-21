@@ -116,15 +116,6 @@
       "p": []
     },
     {
-      "v": "0.2.1@974226bd292208a3d6e4bf981aa8c25b67cada5f",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "b": "",
-      "k": [],
-      "p": []
-    },
-    {
       "v": "0.2.0@fe0412ee03321c629fb8b77a02562d40fe7c3103",
       "r": [],
       "S": "HasUnknownNimbleFile",
@@ -145,7 +136,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-21T12:39:54Z",
+  "generatedAt": "2026-07-21T18:36:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

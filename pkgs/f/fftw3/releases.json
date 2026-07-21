@@ -88,14 +88,6 @@
       "i": []
     },
     {
-      "v": "0.4.2@536098a2bbbe3ea7ec9538a181fba6bc896a6ec2",
-      "r": [
-        "arraymancer >= 0.6.1",
-        "weave #master"
-      ],
-      "i": []
-    },
-    {
       "v": "0.4.1@abfa995c0ccc43e6b39bf2a7ad83f3709141bef6",
       "r": [
         "arraymancer >= 0.6.1"
@@ -196,7 +188,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-21T12:43:22Z",
+  "generatedAt": "2026-07-21T18:39:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
