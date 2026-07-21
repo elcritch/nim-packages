@@ -1,1 +1,1 @@
-{"v":"#head@aba9be90b339c3846b0ad73c9163ab198c586282","r":["variant >= 0.2.12","threading >= 0.2.1","stack_strings"],"f":{"mummy":["mummy"],"cbor":["cborious"]}}
+{"v":"#head@8de9bdb04b44c08664a34f48b57b0d094eea25a7","r":["variant >= 0.2.12","threading >= 0.2.1","stack_strings"],"f":{"chronos":["chronos >= 4.2.0"],"ipc":["cborious"],"mummy":["mummy"],"cbor":["cborious"],"fastrpc":["fastrpc"]}}

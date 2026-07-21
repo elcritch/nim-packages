@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "sigils",
   "fqn": "sigils.elcritch.github.com",
-  "current": "aba9be90b339c3846b0ad73c9163ab198c586282",
+  "current": "8de9bdb04b44c08664a34f48b57b0d094eea25a7",
   "author": "Jaremy Creechley",
   "description": "A slot and signals implementation for the Nim programming language",
   "license": "MIT",
@@ -10,7 +10,32 @@
   "srcDir": ".",
   "releases": [
     {
-      "v": "0.25.3@aba9be90b339c3846b0ad73c9163ab198c586282^",
+      "v": "0.26.0@8de9bdb04b44c08664a34f48b57b0d094eea25a7^",
+      "r": [
+        "variant >= 0.2.12",
+        "threading >= 0.2.1",
+        "stack_strings"
+      ],
+      "f": {
+        "chronos": [
+          "chronos >= 4.2.0"
+        ],
+        "ipc": [
+          "cborious"
+        ],
+        "mummy": [
+          "mummy"
+        ],
+        "cbor": [
+          "cborious"
+        ],
+        "fastrpc": [
+          "fastrpc"
+        ]
+      }
+    },
+    {
+      "v": "0.25.3@aba9be90b339c3846b0ad73c9163ab198c586282",
       "r": [
         "variant >= 0.2.12",
         "threading >= 0.2.1",
@@ -827,7 +852,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-20T18:58:45Z",
+  "generatedAt": "2026-07-21T00:47:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -845,16 +870,24 @@
   },
   "allDeps": {
     "packages": [
+      "bearssl > 0.25.3",
       "bigints > 0.16.0",
       "bignum > 0.16.0",
       "cbor > 0.16.0",
       "cborious > 0.16.0",
+      "chronos > 0.25.3",
+      "cligen > 0.25.3",
       "crunchy > 0.18.2",
+      "fastrpc > 0.25.3",
       "gmp > 0.16.0",
+      "httputils > 0.25.3",
+      "mcu_utils > 0.25.3",
       "msgpack4nim > 0.16.0",
       "mummy > 0.18.2",
       "nimsimd > 0.18.2",
       "patty > 0.7.2 & <= 0.17.2",
+      "persistent_enums > 0.25.3",
+      "progress > 0.25.3",
       "results > 0.16.0",
       "stack_strings > 0.8.2",
       "stew > 0.16.0",
@@ -867,6 +900,7 @@
     "urls": [],
     "unresolved": [
       "gh:ehmry/nim-bigints",
+      "gh:elcritch/mcu_utils",
       "gh:elcritch/nim-cbor-serialization"
     ]
   }

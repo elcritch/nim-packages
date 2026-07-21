@@ -19,6 +19,11 @@
       "d": "syntax sugar for assignments"
     },
     {
+      "v": "0.8.0@1de3ff3701014f5e4fe06f2e5af4c7ef39b357d8",
+      "r": [],
+      "d": "syntax sugar for assignments"
+    },
+    {
       "v": "0.7.1@3c2f99e562282cd8fee96727d2802ab5ca8ec8d1",
       "r": [],
       "d": "syntax sugar for assignments"
@@ -49,7 +54,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-20T18:51:11Z",
+  "generatedAt": "2026-07-21T00:40:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
