@@ -40,17 +40,10 @@
     },
     {
       "v": "0.2.1@428848618d9a5958f49e1844baaf331a701b2958",
-      "r": [
-        "chronos >= 4.0.3 & < 4.1.0",
-        "httputils >= 0.2.0",
-        "chronicles >= 0.10.2",
-        "stew >= 0.4.2",
-        "nimcrypto",
-        "bearssl",
-        "results",
-        "zlib"
-      ],
-      "m": "1.6.0"
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "x": []
     },
     {
       "v": "0.2.0@a6bc2dd29f3a5f234a9c673594eb793d6d30e1ed",
@@ -68,7 +61,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-21T07:06:42Z",
+  "generatedAt": "2026-07-21T12:53:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

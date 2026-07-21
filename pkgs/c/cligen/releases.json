@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "cligen",
   "fqn": "cligen.c-blake.github.com",
-  "current": "326525790fd3089a9e112688bbff9586324fb262",
+  "current": "bdce5ed5ae8b222321945648b30c39fbc2bed272",
   "author": "Charles Blake",
   "description": "Infer & generate command-line interface/option/argument parser",
   "license": "MIT/ISC",
@@ -11,6 +11,10 @@
     "test"
   ],
   "releases": [
+    {
+      "v": "1.11.0@bdce5ed5ae8b222321945648b30c39fbc2bed272^",
+      "r": []
+    },
     {
       "v": "1.10.1@2611e6bd66cdff53f1e881d28869c279ce365322",
       "r": []
@@ -770,7 +774,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-21T06:59:26Z",
+  "generatedAt": "2026-07-21T12:41:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -779,7 +783,7 @@
     "releases": [
       "1.10.0",
       "1.10.1",
-      "1.6.10",
+      "1.11.0",
       "1.6.11",
       "1.6.12",
       "1.6.13",
@@ -818,7 +822,7 @@
       "1.9.6",
       "1.9.7"
     ],
-    "latest": "1.10.1"
+    "latest": "1.11.0"
   },
   "allDeps": {
     "packages": [],

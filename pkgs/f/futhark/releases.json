@@ -40,14 +40,6 @@
       ]
     },
     {
-      "v": "0.14.0@0d368e72bfc7312364b6b18dfe0f09ceeb78c20c",
-      "r": [
-        "termstyle",
-        "macroutils",
-        "gh:PMunch/nimbleutils >= 0.3.3"
-      ]
-    },
-    {
       "v": "0.13.9@eb9cbec40e0c2104471eb5312e638f063eb799fc",
       "r": [
         "termstyle",
@@ -435,7 +427,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-21T07:00:38Z",
+  "generatedAt": "2026-07-21T12:43:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

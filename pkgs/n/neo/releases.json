@@ -105,15 +105,6 @@
       ]
     },
     {
-      "v": "0.1.7@9a379a3c44cb9fef83c17dc8c89646f85666eda6",
-      "r": [
-        "nimblas >= 0.2.0",
-        "nimcuda >= 0.1.4",
-        "nimlapack >= 0.1.1"
-      ],
-      "m": "0.17.0"
-    },
-    {
       "v": "0.1.6@d1cd6f6ba2566cb590bc38df0f6220f35646d0bc",
       "r": [
         "nimblas >= 0.2.0",
@@ -170,7 +161,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:31:15Z",
+  "generatedAt": "2026-07-21T12:46:58Z",
   "allDeps": {
     "packages": [
       "nimblas",

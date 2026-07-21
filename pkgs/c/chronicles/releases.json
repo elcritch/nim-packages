@@ -12,6 +12,15 @@
   ],
   "releases": [
     {
+      "v": "0.12.3@e7f87336d2fa47b7752b42f0be4cabd5663a5e5c^",
+      "r": [
+        "faststreams >= 0.3.0",
+        "serialization",
+        "json_serialization",
+        "testutils"
+      ]
+    },
+    {
       "v": "0.12.2@27ec507429a4eb81edc20f28292ee8ec420be05b",
       "r": [
         "faststreams >= 0.3.0",
@@ -204,7 +213,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-21T06:59:18Z",
+  "generatedAt": "2026-07-21T12:41:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
