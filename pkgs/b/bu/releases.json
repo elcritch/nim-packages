@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "bu",
   "fqn": "bu.c-blake.github.com",
-  "current": "b0ba2a16b11f1ea855bfa70be307e14268524731",
+  "current": "e9cb754540bf08043cf78abae3035b9118dfa4e3",
   "author": "Charles Blake",
   "description": "B)asic|But-For U)tility Code/Programs (Usually Nim & With Unix/POSIX/Linux Context)",
   "license": "MIT/ISC",
@@ -84,7 +84,7 @@
   ],
   "releases": [
     {
-      "v": "0.19.0@b0ba2a16b11f1ea855bfa70be307e14268524731^",
+      "v": "0.19.0@b0ba2a16b11f1ea855bfa70be307e14268524731",
       "r": [
         "cligen >= 1.11.0",
         "adix >= 0.7.8",
@@ -5234,7 +5234,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-22T07:01:22Z",
+  "generatedAt": "2026-07-22T12:40:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -62,14 +62,6 @@
       "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"
     },
     {
-      "v": "0.1.9@42b42f67f96587f0bf3be9047b5664419b1bbcb3",
-      "r": [
-        "jsony >= 1.1.5",
-        "colors >= 0.1.1"
-      ],
-      "d": "An extension of `jsony` supporting better hooks, types generated from schemas, and general quality of life tools"
-    },
-    {
       "v": "0.1.10@7bfb045a698bd7d29d7863ea1bd917d1bbb9da41^",
       "r": [
         "jsony >= 1.1.5",
@@ -80,7 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:29:19Z",
+  "generatedAt": "2026-07-22T12:43:35Z",
   "allDeps": {
     "packages": [
       "colors > 0.1.1",
