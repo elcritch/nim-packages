@@ -24,14 +24,6 @@
       "m": "0.18.0"
     },
     {
-      "v": "0.4.1@abc13d11c210b614960fe8760e581d44cfb2e3e9",
-      "r": [
-        "asynctools #0e6bdc3ed5bae8c7cc9"
-      ],
-      "d": "A super-fast epoll-backed and parallel HTTP server.",
-      "m": "0.18.0"
-    },
-    {
       "v": "0.4.0@8b50e378a5b3374ddeeb3ce83bfb733619206edb",
       "r": [
         "asynctools #0e6bdc3ed5bae8c7cc9"
@@ -82,7 +74,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-22T12:43:15Z",
+  "generatedAt": "2026-07-22T18:36:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

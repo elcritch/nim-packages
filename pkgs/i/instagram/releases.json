@@ -56,19 +56,11 @@
         "jsony",
         "unifetch"
       ]
-    },
-    {
-      "v": "0.4.2@8094362e0f456f08b39f42266597b6caf848c099",
-      "r": [
-        "util",
-        "jsony",
-        "unifetch"
-      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:28:57Z",
+  "generatedAt": "2026-07-22T18:36:54Z",
   "allDeps": {
     "packages": [
       "jsony",
