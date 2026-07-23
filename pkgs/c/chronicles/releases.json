@@ -78,14 +78,6 @@
       "m": "1.2.0"
     },
     {
-      "v": "0.10.0@b60f70718f8039c5c86dfc2a4680d8c1e37cbce2",
-      "r": [
-        "testutils",
-        "json_serialization"
-      ],
-      "m": "1.2.0"
-    },
-    {
       "v": "0.9.2@fc3f2d3755e035387ebcf20d87a45eb9dcefadbb",
       "r": [
         "json_serialization",
@@ -213,7 +205,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-23T00:38:38Z",
+  "generatedAt": "2026-07-23T06:58:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

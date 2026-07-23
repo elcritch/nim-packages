@@ -47,11 +47,6 @@
       "m": "1.6.8"
     },
     {
-      "v": "1.0.0@f1adf58c0d332599358fd14f12b05ac3b156d1f7",
-      "r": [],
-      "m": "1.6.8"
-    },
-    {
       "v": "0.2.2@0c41b400606f2cfa4656d565a65a957086173568",
       "r": [],
       "m": "1.6.6",
@@ -66,7 +61,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-23T00:42:16Z",
+  "generatedAt": "2026-07-23T07:00:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
