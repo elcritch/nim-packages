@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "chronicles",
   "fqn": "nim-chronicles.status-im.github.com",
-  "current": "12ef1b3e61b80b59df2d681cffc1a0d390a04c0e",
+  "current": "b8ca1cc63aa0ce037d07a15207efa6b71b86de5e",
   "author": "Status Research & Development GmbH",
   "description": "A crafty implementation of structured logging for Nim",
   "license": "Apache License 2.0",
@@ -213,7 +213,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-23T12:41:24Z",
+  "generatedAt": "2026-07-23T18:35:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

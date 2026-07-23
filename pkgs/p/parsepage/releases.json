@@ -94,10 +94,10 @@
       "yaml > 0.1.0"
     ],
     "urls": [
+      "error://findxml",
       "error://useragent <= 0.1.0"
     ],
     "unresolved": [
-      "gh:thisago/findxml",
       "gh:thisago/fsafename",
       "gl:lurlo/useragent"
     ]
