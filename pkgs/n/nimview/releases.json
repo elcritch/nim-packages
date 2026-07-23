@@ -14,9 +14,11 @@
   "releases": [
     {
       "v": "0.4.2@1c0343f131832b4ea8747768f847d6315ce58ac8",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
+      "r": [
+        "nimpy >= 0.1.1",
+        "nake >= 1.9.0",
+        "ws >= 0.4.4"
+      ],
       "p": []
     },
     {
@@ -137,7 +139,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-23T07:02:37Z",
+  "generatedAt": "2026-07-23T12:45:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -169,10 +171,10 @@
       "asynctools <= 0.1.2",
       "httpbeast <= 0.1.2",
       "jester <= 0.1.2",
-      "nake <= 0.4.1",
-      "nimpy <= 0.4.1",
+      "nake",
+      "nimpy",
       "webview <= 0.2.2",
-      "ws > 0.2.3 & <= 0.4.1"
+      "ws > 0.2.3"
     ],
     "urls": [],
     "unresolved": [

@@ -13,12 +13,6 @@
   ],
   "releases": [
     {
-      "v": "0.2.0@1f1b649f591f2410d3fd892853c8dec981141030",
-      "r": [
-        "markdown >= 0.8.0"
-      ]
-    },
-    {
       "v": "0.1.1@cb002fae504e16ba6ac9fbfffaa3567a35d733a5",
       "r": [
         "markdown >= 0.8.0"
@@ -33,7 +27,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:29:09Z",
+  "generatedAt": "2026-07-23T12:43:39Z",
   "allDeps": {
     "packages": [
       "markdown"

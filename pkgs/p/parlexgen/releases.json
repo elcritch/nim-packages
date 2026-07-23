@@ -41,7 +41,10 @@
     },
     {
       "v": "0.2.1@5ec10ff3921eb672e108c6f385af1fca14b9d087",
-      "r": [],
+      "r": [
+        "fusion >= 1.1",
+        "unibs >= 0.2.0"
+      ],
       "k": [],
       "p": []
     },
@@ -127,7 +130,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-23T07:03:14Z",
+  "generatedAt": "2026-07-23T12:46:23Z",
   "allDeps": {
     "packages": [
       "fusion",
