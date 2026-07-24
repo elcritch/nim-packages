@@ -1,1 +1,1 @@
-{"v":"#head@55adad164db35f7f6973177c5b5ff48fcd6b6450","r":[],"S":"HasUnknownNimbleFile","E":"ambiguous nimble file","x":[]}
+{"v":"#head@e4c83a11631d0fee00d41bdd0856ff78be39ff28","r":["results","stew >= 0.5.0","bearssl >= 0.2.8","httputils","unittest2"]}

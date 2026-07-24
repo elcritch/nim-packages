@@ -79,15 +79,6 @@
       ]
     },
     {
-      "v": "1.1.5@d46a7dfc35b650c82b8704cb8929c52015bd9b70",
-      "r": [
-        "progress",
-        "pixie #head",
-        "chroma #head",
-        "therapist"
-      ]
-    },
-    {
       "v": "1.1.4@77fde6815943510537f92fe598b367dd4b697777",
       "r": [
         "progress",
@@ -189,7 +180,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-24T07:01:33Z",
+  "generatedAt": "2026-07-24T12:40:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -237,7 +228,7 @@
       "docopt > 0.1.0 & <= 1.0.1",
       "flatty > 0.1.0",
       "graphemes > 0.1.0 & <= 1.0.1",
-      "harpoon > 1.1.5 & <= 1.1.9",
+      "harpoon > 1.1.4 & <= 1.1.9",
       "kdl <= 0.1.0",
       "libcurl > 1.1.9",
       "mddoc > 0.1.0",
