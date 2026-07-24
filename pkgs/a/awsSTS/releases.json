@@ -22,12 +22,6 @@
       ]
     },
     {
-      "v": "2.0.2@7546de050fead13448232b2dec663ee1739fcdc1",
-      "r": [
-        "awsSigV4 >= 0.0.2"
-      ]
-    },
-    {
       "v": "2.0.1@20baf1f4a060885ce9d980323bb92a9ac58be113",
       "r": [
         "awsSigV4 >= 0.0.2"
@@ -70,7 +64,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-24T12:38:47Z",
+  "generatedAt": "2026-07-24T18:37:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

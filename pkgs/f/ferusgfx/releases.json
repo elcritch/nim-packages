@@ -73,6 +73,16 @@
       ]
     },
     {
+      "v": "1.0.0@3a52d7ce49fdb70f627af061c18febd066298de6",
+      "r": [
+        "windy >= 0.0.0",
+        "vmath >= 1.1.4",
+        "pixie >= 5.0.6",
+        "boxy >= 0.4.2",
+        "opengl >= 1.2.9"
+      ]
+    },
+    {
       "v": "0.1.2@ae0cf7fa6d0f4c1554cd5ed52ce32b188f9bea35",
       "r": [
         "windy >= 0.0.0",
@@ -95,7 +105,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-24T12:41:06Z",
+  "generatedAt": "2026-07-24T18:39:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
