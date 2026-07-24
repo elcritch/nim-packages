@@ -21,12 +21,6 @@
       ]
     },
     {
-      "v": "1.1.0@303dc33c9e125072e503c7a47e71217a83378c7b",
-      "r": [
-        "cligen"
-      ]
-    },
-    {
       "v": "1.0.0@47f9a5be2eeed1156f9584454f10eccb89f3dce9",
       "r": [
         "cligen"
@@ -35,7 +29,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-23T18:35:28Z",
+  "generatedAt": "2026-07-24T00:35:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -51,7 +45,7 @@
   "allDeps": {
     "packages": [
       "cligen",
-      "util > 1.1.0"
+      "util > 1.0.0"
     ],
     "urls": [],
     "unresolved": []

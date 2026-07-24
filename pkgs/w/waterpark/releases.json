@@ -23,7 +23,9 @@
     },
     {
       "v": "0.1.5@41c682c3cd1f44e4ccbe4351998b59f274d43a93",
-      "r": []
+      "r": [
+        "db_connector >= 0.1.0"
+      ]
     },
     {
       "v": "0.1.4@beb28ba5e51975bd6097991bea77938e60598028",
@@ -49,7 +51,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-23T18:42:49Z",
+  "generatedAt": "2026-07-24T00:44:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -69,7 +71,7 @@
   },
   "allDeps": {
     "packages": [
-      "db_connector > 0.1.5"
+      "db_connector > 0.1.4"
     ],
     "urls": [],
     "unresolved": []

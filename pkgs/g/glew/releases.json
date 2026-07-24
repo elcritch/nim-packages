@@ -10,9 +10,9 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@05cddea5e958c61dc8e5aaf67b96aaca118e5e73",
+      "v": "0.1.0@23af3eec096b566766ef16ba606fc24398ac9a2a",
       "r": [
-        "nimterop #head",
+        "gh:jyapayne/nimterop #367ec05",
         "regex >= 0.14.1"
       ]
     },
@@ -25,12 +25,10 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:27:56Z",
+  "generatedAt": "2026-07-24T00:37:16Z",
   "allDeps": {
     "packages": [
-      "cligen <= 0.1.0",
       "graphemes <= 0.1.0",
-      "nimterop <= 0.1.0",
       "regex <= 0.1.0",
       "segmentation <= 0.1.0",
       "unicodedb <= 0.1.0",
