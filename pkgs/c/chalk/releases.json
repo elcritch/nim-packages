@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "chalk",
   "fqn": "chalk.crashappsec.github.com",
-  "current": "214d451b4e3574ab4135f9bf5f7de9ad781342a0",
+  "current": "c4810ed34d94e6bc0189aa08956575b39669e521",
   "author": "John Viega",
   "license": "GPLv3",
   "nim": "2.0.8",
@@ -135,22 +135,6 @@
       "v": "0.6.0@199578c3d409a7feba119b9d772273865b449b12",
       "r": [
         "gh:crashappsec/con4m #2a76ca94b687b038a95e5924ed22bdb9fd5d577f",
-        "gh:viega/zippy 0.10.7",
-        "parsetoml 0.7.1"
-      ]
-    },
-    {
-      "v": "0.5.9@72fd1ff520a4de17d539de54f659fdec738edec0",
-      "r": [
-        "gh:crashappsec/con4m #7329856cf1f0a37abc3592e75d6d86bcb38643f3",
-        "gh:viega/zippy 0.10.7",
-        "parsetoml 0.7.1"
-      ]
-    },
-    {
-      "v": "0.5.8@e01f4c240cf2dc8617d978f8c7ef15c6d64d37b5",
-      "r": [
-        "gh:crashappsec/con4m #7329856cf1f0a37abc3592e75d6d86bcb38643f3",
         "gh:viega/zippy 0.10.7",
         "parsetoml 0.7.1"
       ]
@@ -425,7 +409,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-24T12:39:44Z",
+  "generatedAt": "2026-07-25T00:38:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
