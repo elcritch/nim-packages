@@ -88,6 +88,11 @@
       "m": "1.4.4"
     },
     {
+      "v": "0.2.0@bc7f31587416a7e32cb22d0d905bdbfc8ba1b639",
+      "r": [],
+      "m": "1.4.4"
+    },
+    {
       "v": "0.1.1@f48b4f3548ecb16953262d212a2a47da3bf8918e",
       "r": [],
       "m": "1.4.4"
@@ -100,7 +105,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-25T13:50:10Z",
+  "generatedAt": "2026-07-25T18:26:00Z",
   "allDeps": {
     "packages": [
       "docopt > 0.4.3",

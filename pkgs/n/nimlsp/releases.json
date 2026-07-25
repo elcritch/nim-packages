@@ -139,11 +139,24 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimlsp.PMunch.github.com-4914c38d-nimlsp.nimble\ncannot resolve package name: astpatternmatching"
+    },
+    {
+      "v": "0.2.0@153f924ce13c07f9696b21610fee2b6910d07e0c",
+      "r": [
+        "error://astpatternmatching",
+        "jsonschema >= 0.2.1"
+      ],
+      "h": true,
+      "p": [
+        "nimlsp"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nimlsp.PMunch.github.com-153f924c-nimlsp.nimble\ncannot resolve package name: astpatternmatching"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-25T13:54:48Z",
+  "generatedAt": "2026-07-25T18:29:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
