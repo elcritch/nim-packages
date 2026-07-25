@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "NPython",
   "fqn": "NPython.nimpylib.github.com",
-  "current": "a2cca3a85bef16eefef314c40c5d84503b26b663",
+  "current": "aa366ca45bf45caa8a00fe76bfa85b9dd1e3efca",
   "author": "Weitang Li (liwt),  lit (litlighilit)",
   "description": "Python interpreter implemented in Nim, supporting JS backends",
   "license": "MIT",
@@ -14,7 +14,8 @@
   ],
   "installFiles": [
     "LICENSE",
-    "Parser/Grammar"
+    "npython/Parser/Grammar",
+    "npython/builtinModules/private/skipJs.txt"
   ],
   "installExt": [
     "nim",
@@ -25,9 +26,31 @@
   ],
   "releases": [
     {
+      "v": "0.2.1@aa366ca45bf45caa8a00fe76bfa85b9dd1e3efca^",
+      "r": [
+        "libffi"
+      ],
+      "h": true,
+      "p": []
+    },
+    {
+      "v": "0.2.0@dbdb6c65cd2c53db4dce16a216b182ccf977d4a4",
+      "r": [],
+      "h": true,
+      "j": [
+        "LICENSE",
+        "npython/Parser/Grammar"
+      ],
+      "p": []
+    },
+    {
       "v": "0.1.2@451f1b726c3536facbb40bad9463951b5056e108",
       "r": [],
       "h": true,
+      "j": [
+        "LICENSE",
+        "Parser/Grammar"
+      ],
       "p": []
     },
     {
@@ -63,7 +86,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-25T06:52:53Z",
+  "generatedAt": "2026-07-25T13:48:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -72,19 +95,22 @@
     "releases": [
       "v0.1.1",
       "v0.1.2",
-      "v0.2.0"
+      "v0.2.0",
+      "v0.2.1"
     ],
     "tagVersions": {
       "v0.1.1": "0.1.1",
       "v0.1.2": "0.1.2",
-      "v0.2.0": "0.2.0"
+      "v0.2.0": "0.2.0",
+      "v0.2.1": "0.2.1"
     },
-    "latest": "v0.2.0"
+    "latest": "v0.2.1"
   },
   "allDeps": {
     "packages": [
       "cligen <= 0.1.1",
       "graphemes <= 0.1.1",
+      "libffi > 0.2.0",
       "regex <= 0.1.1",
       "segmentation <= 0.1.1",
       "unicodedb <= 0.1.1",

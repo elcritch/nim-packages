@@ -3,32 +3,17 @@
   "name": "pricecsv",
   "fqn": "pricecsv.thisago.github.com",
   "current": "feb8f91fd0f1f40f40d4be0bd9fe33b7afe8c4a2",
-  "author": "Thiago Navarro",
-  "description": "Easily calculate the total of all products in csv",
-  "license": "gpl-3.0",
-  "nim": "1.5.1",
-  "srcDir": "src",
-  "binDir": "build",
-  "bin": [
-    "pricecsv"
-  ],
   "releases": [
     {
       "v": "0.7.1@feb8f91fd0f1f40f40d4be0bd9fe33b7afe8c4a2^",
-      "r": [
-        "cligen"
-      ]
-    },
-    {
-      "v": "0.7.0@0bf8ec9b430c2f66bf9f7f1528aec99db8b4e205",
-      "r": [
-        "cligen"
-      ]
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-25T07:02:40Z",
+  "generatedAt": "2026-07-25T13:56:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -41,9 +26,7 @@
     "latest": "0.7.1"
   },
   "allDeps": {
-    "packages": [
-      "cligen"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

@@ -13,7 +13,7 @@
   ],
   "releases": [
     {
-      "v": "0.0.19@318e39ea9f7741003a5ae54a618044558df82124",
+      "v": "0.0.19@11e3afe1ac42810282771af34beb7397300fd3ed",
       "r": [
         "jsony >= 1.1.5",
         "chronos >= 4.0.0"
@@ -22,7 +22,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-25T06:54:53Z",
+  "generatedAt": "2026-07-25T13:49:44Z",
   "allDeps": {
     "packages": [
       "bearssl",

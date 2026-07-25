@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "libvips",
   "fqn": "libvips-nim.openpeeps.github.com",
-  "current": "b2198189070cd1512b6c67044f856530ab4bd983",
+  "current": "6476bfeeabfeb6df49bfa43a22563aa80cd13182",
   "author": "George Lemon",
   "description": "Libvips - image processing library with low memory needs",
   "license": "MIT",
@@ -10,13 +10,13 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@848caaf7c34dc282c5aaf50851d973ee12d3a3a6",
+      "v": "0.1.0@4814449f3f5fc93de84f2582b1983e36c2515ffb",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:29:56Z",
+  "generatedAt": "2026-07-25T13:52:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],
