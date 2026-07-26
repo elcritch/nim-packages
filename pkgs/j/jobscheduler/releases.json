@@ -130,6 +130,19 @@
       ]
     },
     {
+      "v": "0.9.7@69349c325e817acc63b89ca455f71bc6285431c9",
+      "r": [
+        "yaml",
+        "db_connector",
+        "checksums",
+        "smtp",
+        "timezones",
+        "nimja",
+        "cligen",
+        "nimcrypto"
+      ]
+    },
+    {
       "v": "0.9.8@477ff6573ebc0ae9c85030f9af3cab1a61c58c49",
       "r": [
         "yaml",
@@ -184,7 +197,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-25T18:27:39Z",
+  "generatedAt": "2026-07-26T00:42:39Z",
   "allDeps": {
     "packages": [
       "checksums",

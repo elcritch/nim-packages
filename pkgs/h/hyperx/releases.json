@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "hyperx",
   "fqn": "nim-hyperx.nitely.github.com",
-  "current": "3d201afa8998a9537e3928f487d0ff765960c49c",
+  "current": "9a05287e6764e6d3620f4a12207bf72e55a00e09",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "Pure Nim Http2 client and server",
   "license": "MIT",
@@ -14,7 +14,7 @@
   ],
   "releases": [
     {
-      "v": "0.1.57@3d201afa8998a9537e3928f487d0ff765960c49c^",
+      "v": "0.1.57@3d201afa8998a9537e3928f487d0ff765960c49c",
       "r": [
         "hpack >= 0.4.1"
       ]
@@ -409,7 +409,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-25T18:27:28Z",
+  "generatedAt": "2026-07-26T00:42:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
