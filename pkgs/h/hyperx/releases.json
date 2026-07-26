@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "hyperx",
   "fqn": "nim-hyperx.nitely.github.com",
-  "current": "9a05287e6764e6d3620f4a12207bf72e55a00e09",
+  "current": "9a1d5a8a9f1c8193314d638680ccbc9341de08fb",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "Pure Nim Http2 client and server",
   "license": "MIT",
@@ -13,6 +13,12 @@
     "examples"
   ],
   "releases": [
+    {
+      "v": "0.1.58@9a1d5a8a9f1c8193314d638680ccbc9341de08fb^",
+      "r": [
+        "hpack >= 0.4.1"
+      ]
+    },
     {
       "v": "0.1.57@3d201afa8998a9537e3928f487d0ff765960c49c",
       "r": [
@@ -409,14 +415,13 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-26T00:42:22Z",
+  "generatedAt": "2026-07-26T07:07:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "v0.1.18",
       "v0.1.19",
       "v0.1.20",
       "v0.1.21",
@@ -455,10 +460,10 @@
       "v0.1.54",
       "v0.1.55",
       "v0.1.56",
-      "v0.1.57"
+      "v0.1.57",
+      "v0.1.58"
     ],
     "tagVersions": {
-      "v0.1.18": "0.1.18",
       "v0.1.19": "0.1.19",
       "v0.1.20": "0.1.20",
       "v0.1.21": "0.1.21",
@@ -497,9 +502,10 @@
       "v0.1.54": "0.1.54",
       "v0.1.55": "0.1.55",
       "v0.1.56": "0.1.56",
-      "v0.1.57": "0.1.57"
+      "v0.1.57": "0.1.57",
+      "v0.1.58": "0.1.58"
     },
-    "latest": "v0.1.57"
+    "latest": "v0.1.58"
   },
   "allDeps": {
     "packages": [
