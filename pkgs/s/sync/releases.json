@@ -69,6 +69,10 @@
       "r": []
     },
     {
+      "v": "0.3.0@6186a38c97c0f26e1a0c8016979227d26c41717b",
+      "r": []
+    },
+    {
       "v": "0.2.0@c99d3a73344c4c02335190b489e7ea8aaa4e9584",
       "r": [],
       "S": "HasUnknownNimbleFile",
@@ -83,7 +87,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-26T12:38:44Z",
+  "generatedAt": "2026-07-26T18:36:25Z",
   "allDeps": {
     "packages": [],
     "urls": [],

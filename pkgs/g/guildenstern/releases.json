@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "guildenstern",
   "fqn": "GuildenStern.olliNiinivaara.github.com",
-  "current": "cda3fae8d3e6a2679e345b9f89f2b472ced50c28",
+  "current": "9129b1af438a98c226a13f9fc0e7f9b788535f7e",
   "author": "Olli",
   "description": "Modular multithreading HTTP/1.1 + WebSocket upstream server framework",
   "license": "MIT",
@@ -14,7 +14,11 @@
   ],
   "releases": [
     {
-      "v": "8.1.0@cda3fae8d3e6a2679e345b9f89f2b472ced50c28^",
+      "v": "9.0.0@9129b1af438a98c226a13f9fc0e7f9b788535f7e^",
+      "r": []
+    },
+    {
+      "v": "8.1.0@cda3fae8d3e6a2679e345b9f89f2b472ced50c28",
       "r": []
     },
     {
@@ -192,7 +196,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-26T12:33:10Z",
+  "generatedAt": "2026-07-26T18:31:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -220,12 +224,13 @@
       "7.3.0",
       "8.0.0",
       "8.0.1",
-      "8.1.0"
+      "8.1.0",
+      "9.0.0"
     ],
     "tagVersions": {
       "4.0.0-rc1": "4.0.0"
     },
-    "latest": "8.1.0",
+    "latest": "9.0.0",
     "prerelease": [
       "0.8"
     ]
