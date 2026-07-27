@@ -461,7 +461,7 @@
       "m": "1.4.0"
     },
     {
-      "v": "0.4.10@409eec1eeab05f5eb07d17343992638ce37f25ed",
+      "v": "0.4.10@60dc2f34f6d57e1f4bc4a8565a43950dfdc1cfd5",
       "r": [
         "sdl2_nim >= 2.0.14.2",
         "gifenc >= 0.1.0",
@@ -485,7 +485,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-27T13:18:54Z",
+  "generatedAt": "2026-07-27T18:47:50Z",
   "allDeps": {
     "packages": [
       "ajax > 0.1.0 & <= 0.3.2",

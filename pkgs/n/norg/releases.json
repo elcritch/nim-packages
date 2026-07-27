@@ -78,9 +78,10 @@
     },
     {
       "v": "0.1.14@76a45c0432d55fa80da3950a92916eedd280614b",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": [
+        "parsetoml >= 0.7.1",
+        "argparse >= 4.0.1"
+      ]
     },
     {
       "v": "0.1.13@313d772497ab72e95a066e209360f0b20c826153",
@@ -161,7 +162,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-27T13:20:40Z",
+  "generatedAt": "2026-07-27T18:49:38Z",
   "allDeps": {
     "packages": [
       "argparse",

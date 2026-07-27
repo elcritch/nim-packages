@@ -157,23 +157,11 @@
         "ndup/setFile",
         "ndup/nsets"
       ]
-    },
-    {
-      "v": "0.1.1@2dd3d34647994e831e0039d7eca68990f60154d9",
-      "r": [
-        "cligen >= 1.6.0",
-        "bu >= 0.7.7"
-      ],
-      "p": [
-        "framed",
-        "ndup/setFile",
-        "ndup/nsets"
-      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-27T13:18:41Z",
+  "generatedAt": "2026-07-27T18:47:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

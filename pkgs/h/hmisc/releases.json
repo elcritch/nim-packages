@@ -152,11 +152,23 @@
     },
     {
       "v": "0.12.3@ec98ec0db53fdfcb10d82b2b8e099ff863833e06",
-      "r": [],
-      "b": "",
-      "k": [],
-      "p": [],
-      "o": {}
+      "r": [
+        "fusion",
+        "benchy >= 0.0.1",
+        "jsony >= 1.0.4",
+        "unicodedb >= 0.9.0"
+      ],
+      "m": "1.4.0"
+    },
+    {
+      "v": "0.12.2@f5885faceff215a8f5b20b1e68043aad6b43080d",
+      "r": [
+        "fusion",
+        "benchy >= 0.0.1",
+        "jsony >= 1.0.4",
+        "unicodedb >= 0.9.0"
+      ],
+      "m": "1.4.0"
     },
     {
       "v": "0.12.1@e3a1d616be8dfe5518a4242a9127fb6438355b4e",
@@ -926,7 +938,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-27T13:16:15Z",
+  "generatedAt": "2026-07-27T18:45:03Z",
   "allDeps": {
     "packages": [
       "benchy > 0.11.1",

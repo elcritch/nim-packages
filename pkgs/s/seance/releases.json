@@ -49,13 +49,6 @@
       ]
     },
     {
-      "v": "0.3.4@1faeac26bbbd2939ab64ab1fc5f2bc4835977eff",
-      "r": [
-        "cligen >= 1.8.6",
-        "jsony >= 1.1.5"
-      ]
-    },
-    {
       "v": "0.3.2@bc5f92913f82d2531e30f5289a3272a73165e126",
       "r": [
         "cligen >= 1.8.6",
@@ -102,7 +95,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-27T13:22:50Z",
+  "generatedAt": "2026-07-27T18:51:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
