@@ -20,6 +20,13 @@
       ]
     },
     {
+      "v": "0.1.2@54d155553a4c1f0af556b061ca6cfc93d6eee143",
+      "r": [
+        "markdown >= 0.8.0",
+        "rainbow >= 0.2.2"
+      ]
+    },
+    {
       "v": "0.1.1@c38550de4824e5d781b918e343a6743f061833d7",
       "r": [
         "markdown >= 0.8.0",
@@ -36,7 +43,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-27T07:21:10Z",
+  "generatedAt": "2026-07-27T13:21:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

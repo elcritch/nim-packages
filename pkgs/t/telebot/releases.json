@@ -655,6 +655,14 @@
       "m": "0.17.0"
     },
     {
+      "v": "0.3.1@ff7df540a74ce013481d0e261da0e6b2812e966b",
+      "r": [],
+      "x": [
+        "examples"
+      ],
+      "m": "0.17.0"
+    },
+    {
       "v": "0.3.0@e7174d2cf7887432643a4de0037b892bf25a5459",
       "r": [],
       "x": []
@@ -692,7 +700,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-27T07:22:31Z",
+  "generatedAt": "2026-07-27T13:24:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -749,7 +757,7 @@
   },
   "allDeps": {
     "packages": [
-      "asyncevents > 0.3.0 & <= 0.4.0",
+      "asyncevents > 0.3.1 & <= 0.4.0",
       "jsmn > 0.5.9 & <= 1.0.12",
       "sam > 0.5.9 & <= 1.0.12"
     ],

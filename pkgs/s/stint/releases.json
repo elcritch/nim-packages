@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "stint",
   "fqn": "nim-stint.status-im.github.com",
-  "current": "273fcdfa8dce4ceb975b383ffafe5e79e82766e2",
+  "current": "91277c984c66196255947b3c58657de7538f62af",
   "author": "Status Research & Development GmbH",
   "description": "Efficient stack-based multiprecision int in Nim",
   "license": "Apache License 2.0 or MIT",
@@ -13,7 +13,7 @@
   ],
   "releases": [
     {
-      "v": "0.9.0@273fcdfa8dce4ceb975b383ffafe5e79e82766e2^",
+      "v": "0.9.0@273fcdfa8dce4ceb975b383ffafe5e79e82766e2",
       "r": [
         "stew >= 0.2.0",
         "intops >= 1.0.8",
@@ -44,7 +44,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-27T07:22:18Z",
+  "generatedAt": "2026-07-27T13:23:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

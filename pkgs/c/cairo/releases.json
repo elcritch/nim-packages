@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "cairo",
   "fqn": "cairo.nim-lang.github.com",
-  "current": "a4c97b136f7371e37e6c66e51bae992d43e8a5a2",
+  "current": "87c56bfce4be5ed978a8a7520503d0e76a7995dd",
   "author": "Andreas Rumpf",
   "description": "Wrapper for cairo, a vector graphics library with display and print output",
   "license": "MIT",
@@ -12,15 +12,11 @@
     {
       "v": "1.1.1@bfdf70a7584cce0f61fb2004698cc6065dfec332",
       "r": []
-    },
-    {
-      "v": "1.1.0@c85d0ebc443401c73c3016e3b1a46ccb0d261a9a",
-      "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-31T18:31:53Z",
+  "generatedAt": "2026-07-27T13:12:52Z",
   "allDeps": {
     "packages": [],
     "urls": [],
