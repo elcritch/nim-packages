@@ -6,7 +6,7 @@
   "author": "nirokay",
   "description": "nimcatapi is a library that lets you easily request images from thecatapi and/or thedogapi.",
   "license": "GPL-3.0-only",
-  "nim": "1.0.0",
+  "nim": "1.1.0",
   "skipDirs": [
     "docs",
     "tests"
@@ -17,13 +17,18 @@
   ],
   "releases": [
     {
-      "v": "1.0.1@96792f9973bc4e531aca91e1e1538c77709b14ae",
+      "v": "2.0.0@aff06d5d50bb223db2cd0467f92756db122c1d22",
       "r": []
+    },
+    {
+      "v": "1.0.1@96792f9973bc4e531aca91e1e1538c77709b14ae",
+      "r": [],
+      "m": "1.0.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-26T18:33:45Z",
+  "generatedAt": "2026-07-27T00:45:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
