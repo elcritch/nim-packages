@@ -162,6 +162,7 @@
   "generatedAt": "2026-05-27T12:25:22Z",
   "allDeps": {
     "packages": [
+      "intops",
       "nimcrypto > 0.4.0",
       "questionable > 0.2.0",
       "results",

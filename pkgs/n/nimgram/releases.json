@@ -45,6 +45,7 @@
       "faststreams > 0.1.0",
       "fusion > 0.1.0",
       "gmp <= 0.1.0",
+      "intops",
       "json_serialization > 0.1.0",
       "jsony > 0.1.0",
       "lowdb > 0.1.0",

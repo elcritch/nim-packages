@@ -88,7 +88,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-27T00:43:16Z",
+  "generatedAt": "2026-07-27T07:18:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -113,6 +113,7 @@
       "chronos",
       "faststreams",
       "httputils",
+      "intops",
       "json_serialization",
       "nimcrypto",
       "results",

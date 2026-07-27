@@ -85,7 +85,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-27T00:48:02Z",
+  "generatedAt": "2026-07-27T07:21:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -112,6 +112,7 @@
   "allDeps": {
     "packages": [
       "asynctest > 1.2.2",
+      "intops > 1.2.2",
       "questionable > 1.2.2",
       "results > 1.2.2",
       "stew > 1.2.2",

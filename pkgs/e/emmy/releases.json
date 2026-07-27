@@ -38,6 +38,7 @@
   "allDeps": {
     "packages": [
       "bigints",
+      "intops",
       "neo",
       "nimblas",
       "nimcuda",

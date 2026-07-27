@@ -4356,7 +4356,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-27T00:39:50Z",
+  "generatedAt": "2026-07-27T07:16:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -4461,7 +4461,7 @@
       "eth",
       "faststreams",
       "httputils",
-      "intops > 26.1.0 & <= 26.7.0",
+      "intops",
       "json_rpc",
       "json_serialization",
       "libbacktrace <= 26.7.0",

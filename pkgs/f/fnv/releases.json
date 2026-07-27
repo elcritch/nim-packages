@@ -21,6 +21,7 @@
   "generatedAt": "2026-05-27T12:27:12Z",
   "allDeps": {
     "packages": [
+      "intops",
       "results",
       "stew",
       "stint",

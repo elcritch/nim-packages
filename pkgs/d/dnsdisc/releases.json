@@ -51,6 +51,7 @@
       "eth",
       "faststreams",
       "httputils",
+      "intops",
       "json_serialization",
       "metrics",
       "minilru",
