@@ -1,1 +1,1 @@
-{"v":"#head@5158cb39cc32c71c2d775f6c741cb607464856a2","r":["chroma >= 0.2.6","vmath >= 1.1.4","x11 >= 1.1"],"f":{"dev":["opengl","nimgl","pixie","sdl2","gh:planetis-m/vulkan #b223dc9"]}}
+{"v":"#head@c61f51d16d69075469c220be4811d094cbf51ee3","r":["chroma >= 0.2.6","vmath >= 1.1.4","x11 >= 1.1"],"f":{"dev":["opengl","nimgl","pixie","sdl2","gh:planetis-m/vulkan #b223dc9"]}}
