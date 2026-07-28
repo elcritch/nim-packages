@@ -615,120 +615,21 @@
     },
     {
       "v": "0.4.13@6645e8506f51880d810b75b928b103d21be0c6c3",
-      "r": [
-        "mirage >= 1.0.42",
-        "librng >= 0.1.3",
-        "pretty >= 0.1.0",
-        "colored_logger >= 0.1.0",
-        "simdutf >= 5.5.0",
-        "gh:ferus-web/sanchar >= 2.0.2",
-        "jsony >= 1.1.5",
-        "crunchy >= 0.1.11",
-        "results >= 0.5.0",
-        "noise >= 0.1.10",
-        "fuzzy >= 0.1.0"
-      ],
-      "l": "GPL3",
-      "p": [
-        "balde",
-        "test262"
-      ],
-      "m": "2.0.2"
-    },
-    {
-      "v": "0.4.13@aeae33bfcb21dbc6119b00b1717ec7086b6c5b65",
-      "r": [
-        "mirage >= 1.0.42",
-        "librng >= 0.1.3",
-        "pretty >= 0.1.0",
-        "colored_logger >= 0.1.0",
-        "simdutf >= 5.5.0",
-        "gh:ferus-web/sanchar >= 2.0.2",
-        "jsony >= 1.1.5",
-        "crunchy >= 0.1.11",
-        "results >= 0.5.0",
-        "noise >= 0.1.10",
-        "fuzzy >= 0.1.0"
-      ],
-      "l": "GPL3",
-      "p": [
-        "balde",
-        "test262"
-      ],
-      "m": "2.0.2"
-    },
-    {
-      "v": "0.4.4@997aed3a0649049a690180beb6140454db096856",
-      "r": [
-        "mirage >= 1.1.1",
-        "librng >= 0.1.3",
-        "pretty >= 0.1.0",
-        "colored_logger >= 0.1.0",
-        "simdutf >= 5.5.0",
-        "gh:ferus-web/sanchar >= 2.0.2",
-        "jsony >= 1.1.5",
-        "crunchy >= 0.1.11",
-        "results >= 0.5.0",
-        "noise >= 0.1.10",
-        "fuzzy >= 0.1.0",
-        "yaml >= 2.1.1",
-        "kaleidoscope >= 0.1.1",
-        "gh:ferus-web/nim-gmp >= 0.1.0"
-      ],
-      "l": "GPL3",
-      "p": [
-        "balde",
-        "test262"
-      ],
-      "m": "2.0.2"
-    },
-    {
-      "v": "0.4.3@5b18f3c8abb8bd1aa83c518806b11f5543ed929f",
-      "r": [
-        "mirage >= 1.0.44",
-        "librng >= 0.1.3",
-        "pretty >= 0.1.0",
-        "colored_logger >= 0.1.0",
-        "simdutf >= 5.5.0",
-        "gh:ferus-web/sanchar >= 2.0.2",
-        "jsony >= 1.1.5",
-        "crunchy >= 0.1.11",
-        "results >= 0.5.0",
-        "noise >= 0.1.10",
-        "fuzzy >= 0.1.0",
-        "yaml >= 2.1.1",
-        "kaleidoscope >= 0.1.1"
-      ],
-      "l": "GPL3",
-      "p": [
-        "balde",
-        "test262"
-      ],
-      "m": "2.0.2"
+      "r": [],
+      "b": "",
+      "k": [],
+      "p": [],
+      "e": ""
     },
     {
       "v": "0.4.2@65351c7486da3dce4f9d83b58e7af2cedb48a7ec",
-      "r": [
-        "mirage >= 1.0.43",
-        "librng >= 0.1.3",
-        "pretty >= 0.1.0",
-        "colored_logger >= 0.1.0",
-        "simdutf >= 5.5.0",
-        "gh:ferus-web/sanchar >= 2.0.2",
-        "jsony >= 1.1.5",
-        "crunchy >= 0.1.11",
-        "results >= 0.5.0",
-        "noise >= 0.1.10",
-        "fuzzy >= 0.1.0",
-        "yaml >= 2.1.1",
-        "kaleidoscope >= 0.1.1"
-      ],
-      "l": "GPL3",
-      "p": [
-        "balde",
-        "test262"
-      ],
-      "m": "2.0.2"
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "b": "",
+      "k": [],
+      "p": [],
+      "e": ""
     },
     {
       "v": "0.4.1@362550cb23c92fb63d22c25e90718c979f4781b1",
@@ -828,26 +729,6 @@
         "crunchy >= 0.1.11",
         "climate >= 1.1.1",
         "results >= 0.5.0"
-      ],
-      "l": "GPL3",
-      "p": [
-        "balde",
-        "test262"
-      ],
-      "m": "2.0.2"
-    },
-    {
-      "v": "0.3.52@964dc46df432e982337f727829d6e0ea95785501",
-      "r": [
-        "mirage >= 1.0.4",
-        "librng >= 0.1.3",
-        "pretty >= 0.1.0",
-        "colored_logger >= 0.1.0",
-        "simdutf >= 5.5.0",
-        "gh:ferus-web/sanchar >= 2.0.0",
-        "jsony >= 1.1.5",
-        "crunchy >= 0.1.11",
-        "climate >= 1.1.1"
       ],
       "l": "GPL3",
       "p": [
@@ -1013,7 +894,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-28T00:36:14Z",
+  "generatedAt": "2026-07-28T07:00:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -1073,18 +954,18 @@
   },
   "allDeps": {
     "packages": [
-      "benchy > 0.4.1",
+      "benchy > 0.4.13",
       "catnip > 0.6.5 & <= 0.7.6",
       "climate > 0.3.3 & <= 0.4.0",
       "colored_logger",
       "crunchy > 0.3.3",
-      "drchaos > 0.4.1 & <= 0.8.2",
+      "drchaos > 0.4.13 & <= 0.8.2",
       "ferrite > 0.4.31",
       "flatty <= 0.7.4",
       "fuzzy > 0.4.0",
       "icu4nim > 0.4.31",
       "jsony > 0.3.3",
-      "kaleidoscope > 0.4.1 & <= 0.8.2",
+      "kaleidoscope > 0.4.13 & <= 0.8.2",
       "libbacktrace > 0.6.3",
       "librng",
       "mimalloc > 0.5.0 & <= 0.7.4",
@@ -1098,7 +979,7 @@
       "shakar > 0.6.3",
       "simdutf",
       "url > 0.8.1",
-      "yaml > 0.4.1",
+      "yaml > 0.4.2",
       "zippy <= 0.7.4"
     ],
     "urls": [],

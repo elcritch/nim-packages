@@ -41,6 +41,16 @@
       "p": []
     },
     {
+      "v": "1.2.0@1cd42e4ce412993899f60e3b041d550912e6e2ba",
+      "r": [
+        "scraper",
+        "gl:lurlo/useragent"
+      ],
+      "l": "gpl-3.0",
+      "b": "",
+      "p": []
+    },
+    {
       "v": "1.3.0@2069fca533ea50e71ae4563255abd3823c400749",
       "r": [
         "scraper",
@@ -103,14 +113,15 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-28T00:36:35Z",
+  "generatedAt": "2026-07-28T07:01:08Z",
   "allDeps": {
     "packages": [
       "scraper"
     ],
-    "urls": [],
+    "urls": [
+      "error://findxml"
+    ],
     "unresolved": [
-      "gh:thisago/findxml",
       "gl:lurlo/useragent"
     ]
   }

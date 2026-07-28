@@ -22,14 +22,6 @@
       ]
     },
     {
-      "v": "2.1.0@99b77da6fb426d524b3b1d14cf3a4b6d3719bf23",
-      "r": [
-        "checksums >= 0.2.1",
-        "docopt >= 0.7.1",
-        "db_connector >= 0.1.0"
-      ]
-    },
-    {
       "v": "2.0.3@081769a1544ee43dc00a4860cd9247771ebddf7f",
       "r": [
         "checksums >= 0.2.1",
@@ -353,7 +345,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-28T00:42:41Z",
+  "generatedAt": "2026-07-28T07:06:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
