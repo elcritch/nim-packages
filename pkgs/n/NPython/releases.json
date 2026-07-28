@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "NPython",
   "fqn": "NPython.nimpylib.github.com",
-  "current": "0e27c6a6c2d7c84b2b8f1f0e34f9db19161e2b01",
+  "current": "0597a8892b4c8d585074f3310366270f5703c3c1",
   "author": "Weitang Li (liwt),  lit (litlighilit)",
   "description": "Python interpreter implemented in Nim, supporting JS backends",
   "license": "MIT",
@@ -86,7 +86,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-28T12:44:43Z",
+  "generatedAt": "2026-07-28T18:37:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

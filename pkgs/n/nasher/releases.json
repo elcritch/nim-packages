@@ -526,6 +526,15 @@
       "m": "0.20.2"
     },
     {
+      "v": "0.7.2@58c41c6a138dd9e9c7094337b51c4674831b2ed5",
+      "r": [
+        "neverwinter >= 1.2.5",
+        "glob >= 0.9.0",
+        "regex >= 0.11.1"
+      ],
+      "m": "0.20.0"
+    },
+    {
       "v": "0.7.1@1d76c58f405eab38340f960ef313b5cb06c3a322",
       "r": [
         "neverwinter >= 1.2.5",
@@ -621,7 +630,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-28T12:52:42Z",
+  "generatedAt": "2026-07-28T18:44:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

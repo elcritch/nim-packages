@@ -4,19 +4,19 @@
   "fqn": "nim-openweathermap.juancarlospaco.github.com",
   "current": "812f028358067d9197669e2a4e137369e3a656b9",
   "author": "Juan Carlos",
-  "description": "OpenWeatherMap API Lib for Nim, Free world wide Creative Commons & Open Data Licensed Weather data",
+  "description": "OpenWeatherMap API Lib for Nim, Free world wide Creative Commons & Open Data Licensed Weather data & maps",
   "license": "MIT",
   "nim": "0.18.0",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@cf8c2c3d2a1c903d5f2ca97d313ef355899edf2c",
+      "v": "0.1.0@e81aa4127d45f8168a9841e4e4981fda54a15517",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-28T12:55:21Z",
+  "generatedAt": "2026-07-28T18:47:26Z",
   "allDeps": {
     "packages": [],
     "urls": [],
