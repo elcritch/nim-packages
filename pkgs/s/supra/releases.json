@@ -2,38 +2,31 @@
   "cv": 19,
   "name": "supra",
   "fqn": "supra.supranim.github.com",
-  "current": "297ed0fac714c7cebc4e6b09e867f68d9cee2fa1",
+  "current": "7c9a07998571f4483d0ad7fd91460c10d00d9b20",
   "author": "Supranim",
-  "description": "CLI tool for bootstrapping Supranim applications",
+  "description": "CLI tool for managing Supranim projects",
   "license": "MIT",
-  "nim": "2.0.2",
+  "nim": "2.0.0",
   "srcDir": "src",
-  "binDir": "bin",
   "bin": [
     "supra"
   ],
   "releases": [
     {
-      "v": "0.1.0@ef6bc37cb17e954d47606ffe1c90cab8a0701ccf",
+      "v": "0.1.0@c3f351804d76b7e76c7324f3fe94e22cb55d94f7",
       "r": [
-        "kapsis",
-        "libsodium",
-        "zmq",
-        "flatty",
-        "jsony",
-        "nyml",
-        "db_connector",
-        "error://enimsql",
-        "supranim",
-        "valido"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supra.supranim.github.com-ef6bc37c-supra.nimble\ncannot resolve package name: enimsql"
+        "db_connector >= 0.1.0",
+        "openparser >= 0.1.2",
+        "kapsis >= 0.3.4",
+        "flatty >= 0.4.0",
+        "valido >= 0.1.0",
+        "ozark >= 0.1.4"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:37:15Z",
+  "generatedAt": "2026-07-28T12:58:03Z",
   "allDeps": {
     "packages": [
       "ansiparse",
@@ -41,7 +34,6 @@
       "blackpaper",
       "checksums",
       "db_connector",
-      "emitter",
       "flatty",
       "floof",
       "greskewel",
@@ -49,34 +41,23 @@
       "illwill",
       "jsony",
       "kapsis",
-      "libevent",
       "libffi",
-      "libsodium",
-      "malebolgia",
-      "mimedb",
       "msgpack4nim",
       "nancy",
       "nimsimd",
       "noise",
-      "nyml",
       "openparser",
       "ozark",
       "parsesql",
       "pkginfo",
       "pluginkit",
       "semver",
-      "supranim",
       "termstyle",
       "threading",
-      "toktok",
       "valido",
-      "voodoo",
-      "zmq"
+      "voodoo"
     ],
-    "urls": [
-      "error://enimsql",
-      "error://powpow"
-    ],
+    "urls": [],
     "unresolved": [
       "gh:georgelemon/parsesql"
     ]

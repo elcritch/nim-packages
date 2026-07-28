@@ -87,6 +87,16 @@
       "m": "0.20.0"
     },
     {
+      "v": "0.2.1@1128e18dbcb268d4f78450fbbc67870c8bff014a",
+      "r": [
+        "patty >= 0.3.3"
+      ],
+      "a": "Lolo Iccl",
+      "d": "A lexer generator and parser generator package work in Nim.",
+      "l": "GPL-3.0",
+      "m": "0.19.4"
+    },
+    {
       "v": "0.2.0@60de20bc2db73fe0860e202289c0df4f4fd0f033",
       "r": [
         "patty >= 0.3.3"
@@ -109,7 +119,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-28T07:07:35Z",
+  "generatedAt": "2026-07-28T12:54:02Z",
   "allDeps": {
     "packages": [
       "patty"
