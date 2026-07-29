@@ -313,6 +313,14 @@
       "x": []
     },
     {
+      "v": "1.0.13@2368958899d8e1bad9687845b69f7497d35cc712",
+      "r": [
+        "ndb"
+      ],
+      "m": "0.20.0",
+      "x": []
+    },
+    {
       "v": "1.0.12@f49d4a75c8c779a4e5aa8ccad726428e25320143",
       "r": [
         "ndb"
@@ -416,7 +424,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-29T12:55:52Z",
+  "generatedAt": "2026-07-29T18:37:37Z",
   "allDeps": {
     "packages": [
       "chronicles <= 1.0.4",

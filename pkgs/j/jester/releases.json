@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "jester",
   "fqn": "jester.dom96.github.com",
-  "current": "ac9b8541dce64feff9b53b700cab8496c1816651",
+  "current": "8a491a8e28965ee9291f058963ff65571a315e84",
   "author": "Dominik Picheta",
   "description": "A sinatra-like web framework for Nim.",
   "license": "MIT",
@@ -92,7 +92,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-29T12:53:00Z",
+  "generatedAt": "2026-07-29T18:34:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

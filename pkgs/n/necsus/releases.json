@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "necsus",
   "fqn": "Necsus.NecsusECS.github.com",
-  "current": "2ce9c96dab0c59c49773a24dd48f0b1cb5303c50",
+  "current": "8df04b4189455f3da5df9f7cbcbf470b83eacbc9",
   "author": "Nycto",
   "description": "Entity Component System",
   "license": "MIT",
@@ -102,7 +102,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-29T12:54:28Z",
+  "generatedAt": "2026-07-29T18:35:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
