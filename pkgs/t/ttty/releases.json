@@ -2,33 +2,33 @@
   "cv": 19,
   "name": "ttty",
   "fqn": "ttty.capocasa.github.com",
-  "current": "11ae65d86043f84924f35c5070d0c03a816696c2",
-  "author": "capocasa",
-  "description": "Headless ANSI VT grid renderer",
+  "current": "9b605586455c9d5ae3c7abb19594233d3c1f0a22",
+  "author": "Carlo Capocasa",
+  "description": "Headless ANSI VT grid renderer, with a real-xterm ground-truth oracle",
   "license": "MIT",
   "nim": "2.0",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@43fb336e20627c5f4de208243ed4e00dcab78b41",
-      "r": []
+      "v": "0.5.0@9b605586455c9d5ae3c7abb19594233d3c1f0a22^",
+      "r": [
+        "x11 >= 1.2"
+      ]
     },
     {
-      "v": "0.2.0@d69e60f0af6aec0e5b30c934e8db8ac17fcc3657",
-      "r": [],
-      "a": "Carlo Capocasa"
-    },
-    {
-      "v": "0.3.0@11ae65d86043f84924f35c5070d0c03a816696c2^",
-      "r": [],
-      "a": "Carlo Capocasa"
+      "v": "0.4.0@1fa2dcc10769625d96476537891e020641e7bfd0",
+      "r": [
+        "x11 >= 1.2"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:38:08Z",
+  "generatedAt": "2026-07-29T00:46:56Z",
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "x11"
+    ],
     "urls": [],
     "unresolved": []
   }

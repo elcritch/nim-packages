@@ -110,6 +110,15 @@
       "m": "0.14.2"
     },
     {
+      "v": "0.3.0@4adfb54ea5a761d5e2ce750ab33f0ec517760956",
+      "r": [],
+      "a": "xomachine (Fomichev Dmitriy)",
+      "x": [
+        "tests"
+      ],
+      "m": "0.14.2"
+    },
+    {
       "v": "0.2.0@afc10bcce8bf29cd631a99d38ed144360d5e7cca",
       "r": [],
       "a": "xomachine (Fomichev Dmitriy)",
@@ -126,7 +135,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-28T18:45:06Z",
+  "generatedAt": "2026-07-29T00:41:17Z",
   "allDeps": {
     "packages": [],
     "urls": [],
