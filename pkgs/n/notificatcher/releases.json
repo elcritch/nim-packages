@@ -42,18 +42,11 @@
         "dbus",
         "gh:PMunch/docopt.nim #dispatch"
       ]
-    },
-    {
-      "v": "0.2.0@e5cdccf4fcc0b68ecec77364f6cf9f1091fce2a9",
-      "r": [
-        "dbus",
-        "gh:PMunch/docopt.nim #dispatch"
-      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-29T07:09:32Z",
+  "generatedAt": "2026-07-29T12:55:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

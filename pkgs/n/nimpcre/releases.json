@@ -11,12 +11,6 @@
   ],
   "releases": [
     {
-      "v": "0.2.1@b816b26ba8a45086dfec806a9289679e184115e1",
-      "r": [
-        "nimterop >= 0.4.4"
-      ]
-    },
-    {
       "v": "0.2.0@9113309907e81e976707ff751f0daf3791161699",
       "r": [
         "nimterop >= 0.3.4"
@@ -60,7 +54,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:32:34Z",
+  "generatedAt": "2026-07-29T12:55:24Z",
   "allDeps": {
     "packages": [
       "c2nim <= 0.1.4",

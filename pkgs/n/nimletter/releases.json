@@ -377,6 +377,21 @@
       ]
     },
     {
+      "v": "0.6.8@6452c0283fe6d3afcc7f1ad9b742fa01f0c3b77b",
+      "r": [
+        "gh:ThomasTJdev/mummy 0.4.1",
+        "mummy_utils >= 0.1.0",
+        "gh:ThomasTJdev/waterpark 0.1.6",
+        "gh:ThomasTJdev/nim-schedules 0.2.0",
+        "gh:ThomasTJdev/nimMime >= 0.0.3",
+        "gh:ThomasTJdev/bcryptnim 0.2.1",
+        "gh:ThomasTJdev/nim-mmgeoip 0.1.0",
+        "sqlbuilder >= 1.1.1",
+        "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
+        "yubikey_otp >= 0.1.2"
+      ]
+    },
+    {
       "v": "0.6.7@d84d8cd3e02d56c60faf7f418f7b266d164552c1",
       "r": [
         "gh:ThomasTJdev/mummy 0.4.1",
@@ -994,7 +1009,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-29T07:08:58Z",
+  "generatedAt": "2026-07-29T12:55:21Z",
   "allDeps": {
     "packages": [
       "awsSigV4 > 0.7.2",
