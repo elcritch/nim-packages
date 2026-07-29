@@ -10,6 +10,12 @@
   "srcDir": "src",
   "releases": [
     {
+      "v": "0.3.8@47cb5e79c6070153240f7395134885a114b0f039^",
+      "r": [
+        "ioselectors >= 0.2.0"
+      ]
+    },
+    {
       "v": "0.3.7@9fab2c3c387e39ecf27129d390ff635eab9d10a3",
       "r": [
         "ioselectors >= 0.1.6"
@@ -139,7 +145,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-29T00:38:58Z",
+  "generatedAt": "2026-07-29T07:05:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

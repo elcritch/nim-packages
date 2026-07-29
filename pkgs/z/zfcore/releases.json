@@ -230,16 +230,6 @@
       "m": "1.4.0"
     },
     {
-      "v": "1.1.18@1bce5f3a4cde09f0fea3bdf68f65787f47675e82",
-      "r": [
-        "zfblast >= 0.2.8",
-        "uri3 >= 0.1.7",
-        "stdext >= 0.0.14",
-        "zip >= 0.3.1"
-      ],
-      "m": "1.4.0"
-    },
-    {
       "v": "1.1.17@fc46765b4ce73b8629d4196cfae84915cfecaa64",
       "r": [
         "zfblast >= 0.2.8",
@@ -519,7 +509,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-29T00:48:19Z",
+  "generatedAt": "2026-07-29T07:14:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

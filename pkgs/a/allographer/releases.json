@@ -97,19 +97,6 @@
       "e": ""
     },
     {
-      "v": "0.28.0@60bcacc13bc665788ee0e1e1e81a412a73dfe5b9",
-      "r": [
-        "db_connector >= 0.1.0",
-        "checksums >= 0.1.0"
-      ],
-      "m": "1.2.0",
-      "b": "",
-      "x": [],
-      "k": [],
-      "p": [],
-      "e": ""
-    },
-    {
       "v": "0.27.0@946ca17dcd1f975c7b6c78f9d53e8063ad602a68",
       "r": [
         "db_connector"
@@ -502,7 +489,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-29T00:33:56Z",
+  "generatedAt": "2026-07-29T07:01:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

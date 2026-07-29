@@ -2,12 +2,32 @@
   "cv": 19,
   "name": "sdfy",
   "fqn": "sdfy.elcritch.github.com",
-  "current": "b6d0a02548db94ae472688fc703b317598d15f65",
+  "current": "5f5f9702fde3cc043d8e2f1f017c6d980fb536f7",
   "author": "Jaremy Creechley",
   "description": "A package implementing signed distance functions",
   "license": "Apache-2.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.8.2@5f5f9702fde3cc043d8e2f1f017c6d980fb536f7^",
+      "r": [
+        "nimsimd",
+        "chroma",
+        "vmath"
+      ],
+      "f": {
+        "msdf": [
+          "pixie >= 0.5.0"
+        ],
+        "msdf-reference": [
+          "gh:Chlumsky/msdfgen",
+          "gh:ShoYamanishi/SDFont"
+        ],
+        "test": [
+          "pixie >= 0.5.0"
+        ]
+      }
+    },
     {
       "v": "0.8.1@c5e7abad6e79b2287aa7764674da623e56546b55",
       "r": [
@@ -298,7 +318,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-25T18:30:50Z",
+  "generatedAt": "2026-07-29T07:11:14Z",
   "allDeps": {
     "packages": [
       "bumpy",

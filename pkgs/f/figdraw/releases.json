@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "figdraw",
   "fqn": "figdraw.elcritch.github.com",
-  "current": "ad784d79d47bd338ad328c8981a25fc2a03f080e",
+  "current": "71e8a133149f450fe3be63993affaaf4342e4c58",
   "author": "Jaremy Creechley",
   "description": "UI Engine for Nim",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.33.0@ad784d79d47bd338ad328c8981a25fc2a03f080e^",
+      "v": "0.33.0@ad784d79d47bd338ad328c8981a25fc2a03f080e",
       "r": [
         "pixie >= 5.0.1",
         "chroma >= 0.2.7",
@@ -1321,7 +1321,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-27T00:41:44Z",
+  "generatedAt": "2026-07-29T07:04:30Z",
   "allDeps": {
     "packages": [
       "bumpy",
