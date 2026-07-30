@@ -36,13 +36,6 @@
       ]
     },
     {
-      "v": "0.1.1@ea681f0a9aec14d78ea34388e02fba432268589d",
-      "r": [
-        "nimAES >= 0.1.2",
-        "neoid >= 0.3.0"
-      ]
-    },
-    {
       "v": "0.1.0@27cd589e4aad6dc02ac6209b79f4aa24e7238990",
       "r": [
         "nimAES >= 0.1.2",
@@ -52,7 +45,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:35:07Z",
+  "generatedAt": "2026-07-30T00:41:10Z",
   "allDeps": {
     "packages": [
       "neoid",

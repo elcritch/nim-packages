@@ -2,10 +2,16 @@
   "cv": 19,
   "name": "playdate",
   "fqn": "playdate-nim.samdze.github.com",
-  "current": "d695d945dc60abca279163d33226c832fa9b5107",
+  "current": "b0efc24c170e4c6ac43fffe03cde6d50afc59995",
   "releases": [
     {
-      "v": "0.24.0@d695d945dc60abca279163d33226c832fa9b5107^",
+      "v": "0.25.0@b0efc24c170e4c6ac43fffe03cde6d50afc59995^",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
+    {
+      "v": "0.24.0@d695d945dc60abca279163d33226c832fa9b5107",
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file"
@@ -103,7 +109,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-29T18:38:27Z",
+  "generatedAt": "2026-07-30T00:40:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -120,6 +126,7 @@
       "v0.22.0",
       "v0.23.0",
       "v0.24.0",
+      "v0.25.0",
       "v0.7.0",
       "v0.7.2",
       "v0.8.1",
@@ -138,6 +145,7 @@
       "v0.22.0": "0.22.0",
       "v0.23.0": "0.23.0",
       "v0.24.0": "0.24.0",
+      "v0.25.0": "0.25.0",
       "v0.7.0": "0.7.0",
       "v0.7.2": "0.7.2",
       "v0.8.1": "0.8.1",
@@ -145,7 +153,7 @@
       "v0.9.0": "0.9.0",
       "v0.9.3": "0.9.3"
     },
-    "latest": "v0.24.0"
+    "latest": "v0.25.0"
   },
   "allDeps": {
     "packages": [],
