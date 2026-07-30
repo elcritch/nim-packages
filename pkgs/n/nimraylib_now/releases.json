@@ -250,11 +250,22 @@
         "converter.nim"
       ],
       "x": []
+    },
+    {
+      "v": "0.3.0@582c2f458c332c5b4ff61a74c1d0b439f377277f",
+      "r": [
+        "regex",
+        "c2nim"
+      ],
+      "y": [
+        "converter.nim"
+      ],
+      "x": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-30T07:07:44Z",
+  "generatedAt": "2026-07-30T12:51:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
