@@ -23,14 +23,6 @@
       ]
     },
     {
-      "v": "0.2.0@fdbcd43c9f75731eb66aaa41d4eb7ac84a127799",
-      "r": [
-        "sdl2 >= 1.1"
-      ],
-      "b": "",
-      "p": []
-    },
-    {
       "v": "0.3.0@89c68271897168deb24587c3e079147dab159e04",
       "r": [
         "sdl2 >= 1.1"
@@ -84,7 +76,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:37:51Z",
+  "generatedAt": "2026-07-30T07:10:56Z",
   "allDeps": {
     "packages": [
       "sdl2"

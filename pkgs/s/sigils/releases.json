@@ -411,67 +411,9 @@
     },
     {
       "v": "0.17.3@09cfa4010105372e94092a4d3a65d3a9ee8d68d9",
-      "r": [
-        "variant >= 0.2.12",
-        "threading >= 0.2.1",
-        "stack_strings"
-      ],
-      "f": {
-        "cbor": [
-          "cborious"
-        ]
-      }
-    },
-    {
-      "v": "0.17.2@d734e6b214236c8868ebcb4307ed5279fdc4027c",
-      "r": [
-        "variant >= 0.2.12",
-        "threading >= 0.2.1",
-        "stack_strings",
-        "patty >= 0.3.4"
-      ],
-      "f": {
-        "cbor": [
-          "cborious"
-        ]
-      }
-    },
-    {
-      "v": "0.17.1@ace110e5fff034d6c92781487e1260fafefc21b0",
-      "r": [
-        "variant >= 0.2.12",
-        "threading >= 0.2.1",
-        "stack_strings",
-        "patty >= 0.3.4"
-      ],
-      "f": {
-        "cbor": [
-          "cborious"
-        ]
-      }
-    },
-    {
-      "v": "0.17.0@0b1f5e97bd4c1fb4f2cd79f21eb6d287ebf7db38",
-      "r": [
-        "variant >= 0.2.12",
-        "threading >= 0.2.1",
-        "stack_strings",
-        "patty >= 0.3.4"
-      ],
-      "f": {
-        "cbor": [
-          "cborious"
-        ]
-      }
-    },
-    {
-      "v": "0.16.0@0f3fafa1871d1857b2b2766165c100270cf0cde2",
-      "r": [
-        "variant >= 0.2.12",
-        "threading >= 0.2.1",
-        "stack_strings",
-        "patty >= 0.3.4"
-      ]
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
     },
     {
       "v": "0.15.4@ad5c83c73fd18c2bba3f45bd0f2089cac687ce0b",
@@ -852,7 +794,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-30T00:41:43Z",
+  "generatedAt": "2026-07-30T07:09:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -871,28 +813,28 @@
   "allDeps": {
     "packages": [
       "bearssl > 0.25.3",
-      "bigints > 0.16.0",
-      "bignum > 0.16.0",
-      "cbor > 0.16.0",
-      "cborious > 0.16.0",
+      "bigints > 0.17.3",
+      "bignum > 0.17.3",
+      "cbor > 0.17.3",
+      "cborious > 0.17.3",
       "chronos > 0.25.3",
       "cligen > 0.25.3",
       "crunchy > 0.18.2",
       "fastrpc > 0.25.3",
-      "gmp > 0.16.0",
+      "gmp > 0.17.3",
       "httputils > 0.25.3",
       "mcu_utils > 0.25.3",
-      "msgpack4nim > 0.16.0",
+      "msgpack4nim > 0.17.3",
       "mummy > 0.18.2",
       "nimsimd > 0.18.2",
-      "patty > 0.7.2 & <= 0.17.2",
+      "patty > 0.7.2 & <= 0.15.4",
       "persistent_enums > 0.25.3",
       "progress > 0.25.3",
-      "results > 0.16.0",
+      "results > 0.17.3",
       "stack_strings > 0.8.2",
-      "stew > 0.16.0",
+      "stew > 0.17.3",
       "threading > 0.7.2",
-      "unittest2 > 0.16.0",
+      "unittest2 > 0.17.3",
       "variant > 0.7.2",
       "webby > 0.18.2",
       "zippy > 0.18.2"
