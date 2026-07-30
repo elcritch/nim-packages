@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "cbor_serialization",
   "fqn": "nim-cbor-serialization.vacp2p.github.com",
-  "current": "e32d61c54f69b396f47645f9b7373ea2e149013a",
+  "current": "db1dca9066dfe0ec6820aed0056b32d8f8e5afd8",
   "author": "Status Research & Development GmbH",
   "description": "Flexible CBOR serialization not relying on run-time type information",
   "license": "Apache License 2.0",
@@ -13,7 +13,17 @@
   ],
   "releases": [
     {
-      "v": "0.4.1@e32d61c54f69b396f47645f9b7373ea2e149013a^",
+      "v": "0.4.2@db1dca9066dfe0ec6820aed0056b32d8f8e5afd8^",
+      "r": [
+        "serialization >= 0.4.9",
+        "stew >= 0.4.1",
+        "npeg >= 1.3.0",
+        "results",
+        "unittest2"
+      ]
+    },
+    {
+      "v": "0.4.1@e32d61c54f69b396f47645f9b7373ea2e149013a",
       "r": [
         "serialization >= 0.4.9",
         "stew >= 0.4.1",
@@ -59,7 +69,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-30T12:43:31Z",
+  "generatedAt": "2026-07-30T18:40:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -70,16 +80,18 @@
       "v0.2.0",
       "v0.3.0",
       "v0.4.0",
-      "v0.4.1"
+      "v0.4.1",
+      "v0.4.2"
     ],
     "tagVersions": {
       "v0.1.0": "0.1.0",
       "v0.2.0": "0.2.0",
       "v0.3.0": "0.3.0",
       "v0.4.0": "0.4.0",
-      "v0.4.1": "0.4.1"
+      "v0.4.1": "0.4.1",
+      "v0.4.2": "0.4.2"
     },
-    "latest": "v0.4.1"
+    "latest": "v0.4.2"
   },
   "allDeps": {
     "packages": [
