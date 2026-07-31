@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "bro",
   "fqn": "bro.openpeeps.github.com",
-  "current": "b0064edb23f1ae4ba6938bedf2d071007d3ae59a",
+  "current": "7a95805604172102b198f0b2e6efe1d4886857bd",
   "author": "George Lemon",
   "description": "A super fast stylesheet language for cool kids!",
   "license": "MIT",
@@ -20,7 +20,7 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@b0064edb23f1ae4ba6938bedf2d071007d3ae59a^",
+      "v": "0.1.0@b0064edb23f1ae4ba6938bedf2d071007d3ae59a",
       "r": [
         "kapsis >= 0.3.4",
         "openparser >= 0.1.2",
@@ -36,7 +36,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-31T00:39:58Z",
+  "generatedAt": "2026-07-31T12:46:22Z",
   "allDeps": {
     "packages": [
       "ansiparse",

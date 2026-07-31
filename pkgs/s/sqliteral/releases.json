@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "sqliteral",
   "fqn": "SQLiteral.olliNiinivaara.github.com",
-  "current": "72cb22866138d7e724a5b31b55c2b45470cc1146",
+  "current": "044ab8d6fa6e2ad4297c89da5f13a21c8dbcd935",
   "author": "Olli",
   "description": "A high level SQLite API for Nim",
   "license": "MIT",
@@ -10,7 +10,13 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "5.0.1@72cb22866138d7e724a5b31b55c2b45470cc1146^",
+      "v": "6.0.0@044ab8d6fa6e2ad4297c89da5f13a21c8dbcd935^",
+      "r": [
+        "db_connector"
+      ]
+    },
+    {
+      "v": "5.0.1@72cb22866138d7e724a5b31b55c2b45470cc1146",
       "r": [
         "db_connector"
       ]
@@ -82,7 +88,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-31T07:13:59Z",
+  "generatedAt": "2026-07-31T12:55:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -101,9 +107,10 @@
       "4.0.0",
       "4.0.1",
       "5.0.0",
-      "5.0.1"
+      "5.0.1",
+      "6.0.0"
     ],
-    "latest": "5.0.1"
+    "latest": "6.0.0"
   },
   "allDeps": {
     "packages": [

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "tinyre",
   "fqn": "tinyre.khchen.github.com",
-  "current": "77469f58916369bc3863194cabb05238577fb257",
+  "current": "c24e449ffc9ae848f38d3c777485319881216060",
   "author": "Ward",
   "description": "TinyRE - A Tiny Regex Engine for Nim",
   "license": "MIT",
@@ -15,7 +15,7 @@
   ],
   "releases": [
     {
-      "v": "1.6.0@77469f58916369bc3863194cabb05238577fb257^",
+      "v": "1.6.0@77469f58916369bc3863194cabb05238577fb257",
       "r": []
     },
     {
@@ -25,7 +25,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:37:53Z",
+  "generatedAt": "2026-07-31T12:55:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],
