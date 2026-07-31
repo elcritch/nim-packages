@@ -2,10 +2,16 @@
   "cv": 19,
   "name": "leveldbstatic",
   "fqn": "nim-leveldb.codex-storage.github.com",
-  "current": "5a0cd8de6b2363827c43cafd3ed346ecee427e1e",
+  "current": "a235f697ae345272ee0a9860c2180a7cad4f3a7a",
   "releases": [
     {
-      "v": "0.2.1@5a0cd8de6b2363827c43cafd3ed346ecee427e1e^",
+      "v": "0.2.2@a235f697ae345272ee0a9860c2180a7cad4f3a7a^",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file"
+    },
+    {
+      "v": "0.2.1@5a0cd8de6b2363827c43cafd3ed346ecee427e1e",
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file"
@@ -55,7 +61,17 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:29:40Z",
+  "generatedAt": "2026-07-31T18:50:13Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.2.2"
+    ],
+    "latest": "0.2.2"
+  },
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -98,18 +98,6 @@
       "m": "1.4.0"
     },
     {
-      "v": "0.6.1@8ccf390eb946bf9e5e743fc46a3bf1070b51cc5b",
-      "r": [
-        "nimSHA2 >= 0.1.1",
-        "scram >= 0.1.9",
-        "sha1 >= 1.1",
-        "dnsclient >= 0.1.0",
-        "supersnappy",
-        "zippy"
-      ],
-      "m": "1.4.0"
-    },
-    {
       "v": "0.6.0@4292d660c92ccde79a6a047704221a68976276c5",
       "r": [
         "nimSHA2 >= 0.1.1",
@@ -332,7 +320,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T11:56:14Z",
+  "generatedAt": "2026-07-31T18:44:01Z",
   "allDeps": {
     "packages": [
       "checksums",
