@@ -20,6 +20,12 @@
       "m": "0.16.0"
     },
     {
+      "v": "1.0.1@0c7fc5e24987db03f92e8f4fd8547c98ce4547c6",
+      "r": [],
+      "l": "BSD3",
+      "m": "0.16.0"
+    },
+    {
       "v": "1.0.0@07c75d527b155fc42974ee50ec11f87e6fec95b2",
       "r": [],
       "l": "BSD3",
@@ -28,7 +34,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-31T00:49:50Z",
+  "generatedAt": "2026-07-31T07:13:21Z",
   "allDeps": {
     "packages": [],
     "urls": [],

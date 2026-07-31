@@ -309,13 +309,6 @@
       "m": "0.18.0"
     },
     {
-      "v": "1.2.0@c9bf143a388df79f861f37a49309c152af461e60",
-      "r": [],
-      "a": "Bernhard Stöckner <niv@nwnx.io>",
-      "d": "Neverwinter Nights 1 data accessor library and utilities",
-      "m": "0.18.0"
-    },
-    {
       "v": "1.1.1@c575f5fe8ced15e73ca926fb696ab26dafac20ef",
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
@@ -353,7 +346,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-31T00:46:17Z",
+  "generatedAt": "2026-07-31T07:11:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
