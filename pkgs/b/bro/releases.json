@@ -2,15 +2,15 @@
   "cv": 19,
   "name": "bro",
   "fqn": "bro.openpeeps.github.com",
-  "current": "611ee8f8d7b4f27f0acfae2da6c90a22f3701b1e",
+  "current": "b0064edb23f1ae4ba6938bedf2d071007d3ae59a",
   "author": "George Lemon",
-  "description": "A super fast stylesheet language for cool kids",
+  "description": "A super fast stylesheet language for cool kids!",
   "license": "MIT",
-  "nim": "1.6.10",
+  "nim": "2.0.0",
   "srcDir": "src",
   "binDir": "bin",
-  "skipDirs": [
-    "bro/utils"
+  "installDirs": [
+    "bro"
   ],
   "installExt": [
     "nim"
@@ -20,65 +20,34 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@d934ddd6b96da666b999e2a464c67f447aa2ce03",
+      "v": "0.1.0@b0064edb23f1ae4ba6938bedf2d071007d3ae59a^",
       "r": [
-        "toktok",
-        "kapsis",
-        "watchout",
-        "jsony"
-      ],
-      "x": [],
-      "k": []
-    },
-    {
-      "v": "0.1.1@e7262385a1e026ea8929481b037905fc114cb27d",
-      "r": [
-        "toktok #head",
-        "kapsis",
-        "watchout",
-        "jsony",
-        "msgpack4nim #head",
-        "denim",
-        "chroma #head",
-        "zippy",
-        "pkginfo",
-        "StashTable"
-      ],
-      "d": "A super fast statically typed stylesheet language for cool kids"
-    },
-    {
-      "v": "0.1.2@ece2036d9c90927805421e21ff7c62ebe191b1f7",
-      "r": [
-        "toktok #head",
-        "kapsis",
-        "watchout",
-        "jsony",
-        "nyml",
-        "denim",
-        "chroma #head",
-        "zippy",
-        "pkginfo",
-        "StashTable",
-        "httpx",
-        "websocketx"
-      ],
-      "d": "A super fast stylesheet language for cool kids!",
-      "l": "LGPL"
+        "kapsis >= 0.3.4",
+        "openparser >= 0.1.2",
+        "flatty >= 0.4.0",
+        "checksums >= 0.2.2",
+        "semver >= 1.2.3",
+        "voodoo >= 0.1.9",
+        "vancode >= 0.1.1",
+        "chroma >= 0.1.0",
+        "watchout >= 0.2.2"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:24:24Z",
+  "generatedAt": "2026-07-31T00:39:58Z",
   "allDeps": {
     "packages": [
-      "StashTable > 0.1.0",
       "ansiparse",
       "bigints",
       "blackpaper",
       "checksums",
-      "chroma > 0.1.0",
-      "denim > 0.1.0",
+      "chroma",
+      "dotenv",
+      "flatty",
       "floof",
+      "gccjit",
       "htmlparser",
       "httpx",
       "illwill",
@@ -90,21 +59,22 @@
       "nancy",
       "nimsimd",
       "noise",
-      "nyml > 0.1.1",
+      "nyml",
       "openparser",
       "pkginfo",
       "pluginkit",
       "semver",
       "termstyle",
+      "threading",
       "timerwheel",
       "toktok",
       "valido",
+      "vancode",
       "voodoo",
       "watchout",
       "websocketx",
       "wepoll",
-      "ws",
-      "zippy > 0.1.0"
+      "ws"
     ],
     "urls": [],
     "unresolved": []
