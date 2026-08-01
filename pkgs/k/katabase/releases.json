@@ -55,6 +55,15 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/katabase.zendbit.github.com-dda1053d-katabase.nimble\ncannot resolve package name: dbconnector"
     },
     {
+      "v": "0.1.23@f85e9b04aa461770ba2f1c1c0c322461fc2b4069",
+      "r": [
+        "error://dbconnector",
+        "uuids >= 0.1.12"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/katabase.zendbit.github.com-f85e9b04-katabase.nimble\ncannot resolve package name: dbconnector"
+    },
+    {
       "v": "0.1.22@0b91111f192ddfc4a0108c488626f3fec7ab3f50",
       "r": [
         "error://dbconnector",
@@ -243,7 +252,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-01T06:59:53Z",
+  "generatedAt": "2026-08-01T12:31:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
