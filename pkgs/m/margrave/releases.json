@@ -48,6 +48,8 @@
     {
       "v": "0.2.8@ddb2f5b3ba4f089d082fa5122e82217762c32d5b",
       "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
       "k": [],
       "p": []
     },
@@ -108,7 +110,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-31T18:50:59Z",
+  "generatedAt": "2026-08-01T00:45:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
