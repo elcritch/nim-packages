@@ -36,14 +36,6 @@
       "m": "0.18.0"
     },
     {
-      "v": "0.1.1@21aaa4629b3c5a4f60c20bd4348ea5a15475511d",
-      "r": [
-        "chroma >= 0.0.1",
-        "docopt >= 0.6.5"
-      ],
-      "m": "0.18.0"
-    },
-    {
       "v": "0.1.0@4235ce19d3a925cd5c9ea6ae80a43d2b99c1c462",
       "r": [
         "chroma >= 0.0.1",
@@ -54,7 +46,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-01T12:29:16Z",
+  "generatedAt": "2026-08-01T18:27:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

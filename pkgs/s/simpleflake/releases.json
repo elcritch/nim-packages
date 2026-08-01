@@ -2,13 +2,17 @@
   "cv": 19,
   "name": "simpleflake",
   "fqn": "simpleflake.nim.aisk.github.com",
-  "current": "5795d5611772892e444bd3fb7b2aa8ac3db094f4",
+  "current": "ab236525263911d1565b8e4ae6d7ae91c208e3f4",
   "author": "An Long",
   "description": "Simpleflake for nim",
   "license": "MIT",
   "nim": "1.2.4",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.2.1@ab236525263911d1565b8e4ae6d7ae91c208e3f4^",
+      "r": []
+    },
     {
       "v": "0.1.2@9dce0db9d635c717c42ba50484f9b24111a43cbc",
       "r": []
@@ -24,7 +28,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:36:24Z",
+  "generatedAt": "2026-08-01T18:35:40Z",
   "allDeps": {
     "packages": [],
     "urls": [],
