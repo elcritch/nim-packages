@@ -30,12 +30,13 @@
   "releases": [
     {
       "v": "0.48.0@872a5e9fb83e8f4dec8201821a541680e28ecd9f",
-      "r": [],
-      "y": [],
-      "i": [],
-      "j": [],
-      "k": [],
-      "p": []
+      "r": [
+        "checksums >= 0.2.1",
+        "zippy >= 0.5.6 & < 0.6.0",
+        "nimquery >= 2.0.1 & < 3.0.0",
+        "minline >= 0.1.2 & < 0.2.0",
+        "htmlparser >= 0.1.0 & < 0.2.0"
+      ]
     },
     {
       "v": "0.47.1@12dfa3a1f95891ad54e7b93f86c3e3c34d475085",
@@ -981,7 +982,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-01T00:45:46Z",
+  "generatedAt": "2026-08-01T07:00:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -1075,12 +1076,12 @@
   },
   "allDeps": {
     "packages": [
-      "checksums > 0.39.2 & <= 0.47.1",
-      "htmlparser > 0.45.0 & <= 0.47.1",
-      "minline > 0.38.1 & <= 0.47.1",
+      "checksums > 0.39.2",
+      "htmlparser > 0.45.0",
+      "minline > 0.38.1",
       "nifty > 0.17.0 & <= 0.21.1",
-      "nimquery > 0.38.1 & <= 0.47.1",
-      "zippy > 0.34.1 & <= 0.47.1"
+      "nimquery > 0.38.1",
+      "zippy > 0.34.1"
     ],
     "urls": [
       "error://nimrod <= 0.2.0"

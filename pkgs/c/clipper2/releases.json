@@ -8,16 +8,14 @@
   "license": "boost",
   "nim": "1.6.6",
   "srcDir": "src",
-  "backend": "cpp",
-  "releases": [
-    {
-      "v": "0.2.0@6e69e672e45344d2fe09dd60df6e59ef5899c0be",
-      "r": []
-    }
+  "skipDirs": [
+    "tests"
   ],
+  "backend": "cpp",
+  "releases": [],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:25:07Z",
+  "generatedAt": "2026-08-01T06:57:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],
