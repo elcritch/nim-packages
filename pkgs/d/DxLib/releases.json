@@ -35,11 +35,12 @@
     },
     {
       "v": "3.24.4@ec5e16add98a55049390d46470ca28b9003ff5c6",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "k": [],
-      "p": []
+      "r": [
+        "puppy",
+        "zippy",
+        "c2nim",
+        "winim"
+      ]
     },
     {
       "v": "3.24.2@501a3b93f113dcac3e50e121f049dd9e41afd43a",
@@ -80,7 +81,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-02T06:58:58Z",
+  "generatedAt": "2026-08-02T12:28:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
