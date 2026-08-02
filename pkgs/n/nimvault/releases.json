@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimvault",
   "fqn": "nimvault.HaoZeke.github.com",
-  "current": "59df9143961a553745ddc997920b083ed0e3ff5f",
+  "current": "3ab941288e172dd343b7c2e0d0011ade8a6c9376",
   "author": "Rohit Goswami",
   "description": "GPG-encrypted opaque-blob vault with hidden filenames",
   "license": "MIT",
@@ -51,7 +51,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-01T18:33:17Z",
+  "generatedAt": "2026-08-02T00:43:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

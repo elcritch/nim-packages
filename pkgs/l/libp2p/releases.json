@@ -236,6 +236,23 @@
       "m": "1.6.0"
     },
     {
+      "v": "1.7.0@611ccecdc15fff6c7a85019c06e57fc9e8070f5f",
+      "r": [
+        "nimcrypto >= 0.6.0 & < 0.7.0",
+        "dnsclient >= 0.3.0 & < 0.4.0",
+        "bearssl >= 0.2.5",
+        "chronicles >= 0.10.2",
+        "chronos >= 4.0.3",
+        "metrics",
+        "secp256k1",
+        "stew #head",
+        "websock",
+        "unittest2",
+        "gh:status-im/nim-quic #ddcb31ffb74b5460ab37fd13547eca90594248bc"
+      ],
+      "m": "1.6.0"
+    },
+    {
       "v": "1.6.0@f308f580fe79ba651d6678887d7dc455ae1b7566",
       "r": [
         "nimcrypto >= 0.6.0 & < 0.7.0",
@@ -350,7 +367,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-01T18:31:11Z",
+  "generatedAt": "2026-08-02T00:42:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
