@@ -2,32 +2,46 @@
   "cv": 19,
   "name": "statistical_tests",
   "fqn": "statistical-tests.ayman-albaz.github.com",
-  "current": "0c50acf256d54c7c206f46259b874e7ad5b6b18e",
+  "current": "01140bef24c7a270d0e1b0d0bcf9840c30089026",
   "author": "ayman albaz",
   "description": "Statistical tests in Nim.",
   "license": "Apache-2.0",
-  "nim": "1.4.6",
+  "nim": "2.0.0",
   "srcDir": "src",
+  "backend": "c",
   "releases": [
+    {
+      "v": "2.0.0@01140bef24c7a270d0e1b0d0bcf9840c30089026^",
+      "r": [
+        "distributions >= 2.0.0",
+        "results >= 0.5.1",
+        "special_functions >= 1.0.0"
+      ]
+    },
     {
       "v": "0.2.0@e92fbb6f0d52f7f5b29ecbc9376ebd6cda17c682",
       "r": [
         "distributions >= 0.2.0"
-      ]
+      ],
+      "m": "1.4.6",
+      "e": ""
     },
     {
       "v": "0.1.0@ac33c05bdc893f3f757a64fa928252b1467d93af",
       "r": [
         "distributions >= 0.1.0"
-      ]
+      ],
+      "m": "1.4.6",
+      "e": ""
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:36:59Z",
+  "generatedAt": "2026-08-02T18:37:40Z",
   "allDeps": {
     "packages": [
       "distributions",
+      "results",
       "special_functions"
     ],
     "urls": [],

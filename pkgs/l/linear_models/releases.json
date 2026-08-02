@@ -37,6 +37,7 @@
       "nimcuda",
       "nimlapack",
       "opencl",
+      "results",
       "special_functions",
       "stb_image",
       "untar",
