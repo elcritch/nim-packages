@@ -64,6 +64,13 @@
       "m": "1.9"
     },
     {
+      "v": "0.2.1@2732dae2a4c3f90829ed8d45dfb559b2923a672d",
+      "r": [
+        "gh:Pylgos/nim-concurrent"
+      ],
+      "m": "1.9"
+    },
+    {
       "v": "0.2.0@f4123270c356e3b17906c4031ecbc6c24cb06110",
       "r": [
         "gh:Pylgos/nim-concurrent"
@@ -73,7 +80,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-02T00:45:06Z",
+  "generatedAt": "2026-08-02T07:05:12Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.4.1",
