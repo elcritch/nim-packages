@@ -1,1 +1,1 @@
-{"v":"#head@409faf206b2d65303567e999fd0712426adc9abb","r":["lowdb >= 0.2.1"]}
+{"v":"#head@dc502f46e7424f37d1396aa715d683059de5ad37","r":["lowdb >= 0.2.1","nimib >= 0.3.8","nimibook >= 0.3.1","benchy >= 0.0.1"]}

@@ -4,18 +4,18 @@
   "fqn": "yasync.yglukhov.github.com",
   "current": "cce97ac901f574794852dbc532bc6d7027522a7b",
   "author": "Yuriy Glukhov",
-  "description": "Yet another async/await for Nim",
+  "description": "A new awesome nimble package",
   "license": "MIT",
-  "nim": "2.0",
+  "nim": "1.4.2",
   "releases": [
     {
-      "v": "0.1.0@68ed775a6d74be28fcfe168120f63d9ffa65c488",
+      "v": "0.1.0@9c5c8f24da756984b7833123ea9fe0a317194ed4",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-02T18:39:43Z",
+  "generatedAt": "2026-08-03T00:51:12Z",
   "allDeps": {
     "packages": [],
     "urls": [],
