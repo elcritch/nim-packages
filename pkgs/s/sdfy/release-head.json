@@ -1,1 +1,1 @@
-{"v":"#head@5f5f9702fde3cc043d8e2f1f017c6d980fb536f7","r":["nimsimd","chroma","vmath"],"f":{"msdf":["pixie >= 0.5.0"],"msdf-reference":["gh:Chlumsky/msdfgen","gh:ShoYamanishi/SDFont"],"test":["pixie >= 0.5.0"]}}
+{"v":"#head@7a6d7ab45498c2b2f23aa69033afaf7f116620ff","r":["nimsimd","chroma","vmath"],"f":{"msdf":["pixie >= 0.5.0"],"msdf-reference":["gh:Chlumsky/msdfgen","gh:ShoYamanishi/SDFont"],"test":["pixie >= 0.5.0"]}}
