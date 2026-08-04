@@ -45,11 +45,6 @@
       "x": []
     },
     {
-      "v": "0.1.5@cd4606ede16989a9a58d885832bcf5c7ecd6ac09",
-      "r": [],
-      "x": []
-    },
-    {
       "v": "0.1.4@bf3629897ae79e817304ecab60ff7dbc214f5cf6",
       "r": [],
       "d": "De/serialization library for Nim ",
@@ -100,7 +95,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-03T18:43:44Z",
+  "generatedAt": "2026-08-04T00:38:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

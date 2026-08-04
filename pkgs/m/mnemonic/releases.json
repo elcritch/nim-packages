@@ -9,7 +9,7 @@
   "nim": "1.0.6",
   "releases": [
     {
-      "v": "0.1.4@9a5af1560514a4e941f76eef80ba0b2140a0ce9a^",
+      "v": "0.1.2@f9694111bf9f75d85f7c7159f5ccd6d794b11e4d",
       "r": [
         "nimSHA2 >= 0.1.1 & < 0.2.0"
       ]
@@ -21,19 +21,7 @@
       ]
     },
     {
-      "v": "0.1.2@f9694111bf9f75d85f7c7159f5ccd6d794b11e4d",
-      "r": [
-        "nimSHA2 >= 0.1.1 & < 0.2.0"
-      ]
-    },
-    {
-      "v": "0.1.1@2ef3c6f99e1abb95a0c6cd0b5288b14824a32229",
-      "r": [
-        "nimSHA2 >= 0.1.1 & < 0.2.0"
-      ]
-    },
-    {
-      "v": "0.1.0@afd980a92e5cfb2e8abdee186409e455d9fdc0f7",
+      "v": "0.1.4@9a5af1560514a4e941f76eef80ba0b2140a0ce9a^",
       "r": [
         "nimSHA2 >= 0.1.1 & < 0.2.0"
       ]
@@ -41,7 +29,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-18T00:38:39Z",
+  "generatedAt": "2026-08-04T00:41:11Z",
   "allDeps": {
     "packages": [
       "nimSHA2"
