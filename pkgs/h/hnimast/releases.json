@@ -292,6 +292,14 @@
       "m": "1.2.6"
     },
     {
+      "v": "0.3.5@d6ce052bb20ee1fd3443fbc64f0612222dd8a1a3",
+      "r": [
+        "hmisc >= 0.8.5",
+        "macroutils"
+      ],
+      "m": "1.2.6"
+    },
+    {
       "v": "0.3.4@63fb1001f5adfb368be6c874a41c6e7de83e1bc6",
       "r": [
         "hmisc >= 0.8.5",
@@ -331,7 +339,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-04T07:02:55Z",
+  "generatedAt": "2026-08-04T12:50:28Z",
   "allDeps": {
     "packages": [
       "benchy",

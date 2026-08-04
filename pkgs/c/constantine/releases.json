@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "constantine",
   "fqn": "constantine.mratsim.github.com",
-  "current": "ca0006c7fb02ef034f8fce2257e0b8dcb23b5afb",
+  "current": "de33a000aa4eb844f5f705ed2564ed551985f9fa",
   "author": "Mamy Ratsimbazafy",
   "description": "This library provides thoroughly tested and highly-optimized implementations of cryptography protocols.",
   "license": "MIT or Apache License 2.0",
@@ -20,7 +20,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-04T07:01:07Z",
+  "generatedAt": "2026-08-04T12:48:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

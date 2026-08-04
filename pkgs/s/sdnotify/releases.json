@@ -8,10 +8,15 @@
   "license": "LGPLv3",
   "nim": "0.15.2",
   "srcDir": "src",
-  "releases": [],
+  "releases": [
+    {
+      "v": "0.1.0@e1e6861f88a4546db640f5fc88572ccdb933f794^",
+      "r": []
+    }
+  ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-04T07:07:39Z",
+  "generatedAt": "2026-08-04T12:56:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],
