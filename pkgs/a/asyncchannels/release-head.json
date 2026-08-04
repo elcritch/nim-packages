@@ -1,1 +1,1 @@
-{"v":"#head@1bbf43845ea16c16d386f69540179b72f1be0267","r":["chronos >= 4.0.4 & < 5.0.0","results >= 0.5.1","nimcrypto"],"m":"2.0.14"}
+{"v":"#head@41ade93b2d3d634c23f21445627501f9cecdc733","r":["chronos #b71392a13df707c0f02162b07caaddac2dd0103c","results >= 0.5.1","nimcrypto"],"m":"2.0.14"}
