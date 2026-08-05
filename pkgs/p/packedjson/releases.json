@@ -7,7 +7,6 @@
   "description": "packedjson is an alternative Nim implementation for JSON. The JSON is essentially kept as a single string in order to save memory over a more traditional tree representation.",
   "license": "MIT",
   "nim": "0.18.1",
-  "srcDir": "src",
   "skipDirs": [
     "bench"
   ],
@@ -23,16 +22,11 @@
     {
       "v": "0.2.1@cb01aabcd5e5010b28adda34a0c869181e387b02",
       "r": []
-    },
-    {
-      "v": "0.1.0@f74b7700eba84531694c72c69b56b1a1210d068d",
-      "r": [],
-      "x": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-12T13:23:48Z",
+  "generatedAt": "2026-08-05T12:49:02Z",
   "allDeps": {
     "packages": [],
     "urls": [],
