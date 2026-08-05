@@ -50,22 +50,11 @@
       "v": "0.2.6@11bb17bffdab094229522e600a9a68ee2b79a798",
       "r": [],
       "m": "0.19.0"
-    },
-    {
-      "v": "0.2.5@1cefc0011981ea7b5953860ee30ab39729148ecf",
-      "r": [],
-      "x": [
-        "apng",
-        "suite",
-        "tester",
-        "docs"
-      ],
-      "m": "0.19.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-04T18:47:41Z",
+  "generatedAt": "2026-08-05T00:43:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

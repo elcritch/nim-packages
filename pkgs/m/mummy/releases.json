@@ -50,6 +50,14 @@
       ]
     },
     {
+      "v": "0.4.3@a3929fa2ff48a84a0ca6b03fd40e9c6a45b4e8c7",
+      "r": [
+        "zippy >= 0.10.9",
+        "webby >= 0.2.1",
+        "crunchy >= 0.1.11"
+      ]
+    },
+    {
       "v": "0.4.2@ce4f1cd650dba4440bfe4efea7ae3c445cbf2534",
       "r": [
         "zippy >= 0.10.9",
@@ -271,7 +279,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-04T18:47:20Z",
+  "generatedAt": "2026-08-05T00:43:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
