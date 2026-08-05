@@ -29,11 +29,9 @@
     },
     {
       "v": "0.6.1@3cac8b2b358ebf1c5d6f5d013633564bed334e0d",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "x": [],
-      "z": []
+      "r": [
+        "gh:vindaar/seqmath >= 0.1.17"
+      ]
     },
     {
       "v": "0.5.12@ecec190beee50e11656786cc4762b8c6e1e34945",
@@ -322,7 +320,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-05T12:48:11Z",
+  "generatedAt": "2026-08-05T18:47:20Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.2.9",

@@ -8,17 +8,10 @@
   "license": "MIT",
   "nim": "2.2.4",
   "srcDir": "src",
-  "releases": [
-    {
-      "v": "0.1.0@538a4423579bf7adee561d3f0b9ccb6b26208ae4",
-      "r": [
-        "windy >= 0.0.1"
-      ]
-    }
-  ],
+  "releases": [],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-05T12:51:08Z",
+  "generatedAt": "2026-08-05T18:51:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -30,22 +23,7 @@
     "latest": "0.1.0"
   },
   "allDeps": {
-    "packages": [
-      "bumpy",
-      "chroma",
-      "crunchy",
-      "flatty",
-      "mddoc",
-      "nimsimd",
-      "opengl",
-      "pixie",
-      "urlly",
-      "vmath",
-      "windy",
-      "ws",
-      "x11",
-      "zippy"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

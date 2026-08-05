@@ -841,6 +841,17 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-2eee7c62-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/nazopuyo-core ^= 0.10.0\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-core ^= 0.15.0\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-simulator ^= 0.11.5"
     },
     {
+      "v": "0.5.1@18c0c050b18af389aa7d79c2ae8a7065f7ef9e80",
+      "r": [
+        "gh:izumiya-keisuke/docopt.nim #c50d709",
+        "karax #7dd0c83"
+      ],
+      "d": "Nazo Puyo Tool",
+      "l": "Apache-2.0 OR MPL-2.0",
+      "S": "HasBrokenNimbleFile",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-18c0c050-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.7\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/nazopuyo-core ^= 0.10.0\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-core ^= 0.15.0\ninvalid 'requires' syntax in nimble file: https://github.com/izumiya-keisuke/puyo-simulator ^= 0.11.5"
+    },
+    {
       "v": "0.5.0@cdc54895b617090c44d9de11204619f7e854d98b",
       "r": [
         "gh:izumiya-keisuke/docopt.nim #c50d709",
@@ -944,7 +955,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-05T12:49:22Z",
+  "generatedAt": "2026-08-05T18:49:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
