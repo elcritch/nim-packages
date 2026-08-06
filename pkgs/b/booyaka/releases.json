@@ -62,7 +62,6 @@
       "libevent",
       "libffi",
       "limiter",
-      "malebolgia",
       "marvdown",
       "mimedb",
       "msgpack4nim",

@@ -170,7 +170,6 @@
       "kapsis",
       "libevent > 0.2.3",
       "libffi",
-      "malebolgia > 0.2.3",
       "mimedb > 0.2.3",
       "msgpack4nim",
       "nancy",
