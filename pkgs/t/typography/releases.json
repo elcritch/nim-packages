@@ -18,26 +18,9 @@
     },
     {
       "v": "0.7.13@f987cd998788105d70f8796f94bfe67cd544dbc4",
-      "r": [
-        "pixie >= 3.1.1",
-        "vmath >= 1.0.0",
-        "chroma >= 0.2.3",
-        "print >= 0.1.0",
-        "bumpy >= 1.0.3",
-        "flatty >= 0.1.3"
-      ]
-    },
-    {
-      "v": "0.7.12@5e902d2beaed014dda77a8f662ab09ca09b30874",
-      "r": [
-        "pixie >= 2.0.2",
-        "vmath >= 1.0.0",
-        "chroma >= 0.2.3",
-        "print >= 0.1.0",
-        "bumpy >= 1.0.3",
-        "flatty >= 0.1.3"
-      ],
-      "a": "treeform"
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
     },
     {
       "v": "0.7.11@5a49a353cd75dd7f1ea9771c95ce26325c6467de",
@@ -154,7 +137,16 @@
     },
     {
       "v": "0.7.2@7b3bf67f983b8856ec90446acce01c2ff7210ee1",
-      "r": []
+      "r": [
+        "pixie >= 0.0.10",
+        "vmath >= 0.4.0",
+        "chroma >= 0.1.2",
+        "print >= 0.1.0",
+        "bumpy >= 1.0.0",
+        "flatty >= 0.1.3"
+      ],
+      "a": "treeform",
+      "m": "1.0.0"
     },
     {
       "v": "0.7.1@c3cd27a8d5936c244053428dfa865e414fac1ea1",
@@ -309,7 +301,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-06T07:15:29Z",
+  "generatedAt": "2026-08-06T12:58:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
