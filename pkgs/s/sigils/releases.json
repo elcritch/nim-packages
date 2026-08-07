@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "sigils",
   "fqn": "sigils.elcritch.github.com",
-  "current": "74eb8731df74f088bfc91624b015e6ec7733e183",
+  "current": "d9df3d9a0bc549913f37ff33706c857221d94de8",
   "author": "Jaremy Creechley",
   "description": "A slot and signals implementation for the Nim programming language",
   "license": "MIT",
@@ -10,7 +10,32 @@
   "srcDir": ".",
   "releases": [
     {
-      "v": "0.27.1@74eb8731df74f088bfc91624b015e6ec7733e183^",
+      "v": "0.27.2@d9df3d9a0bc549913f37ff33706c857221d94de8^",
+      "r": [
+        "variant >= 0.2.12",
+        "threading >= 0.2.1",
+        "stack_strings"
+      ],
+      "f": {
+        "chronos": [
+          "chronos >= 4.2.0"
+        ],
+        "ipc": [
+          "cborious"
+        ],
+        "mummy": [
+          "mummy"
+        ],
+        "siwin": [
+          "siwin"
+        ],
+        "cbor": [
+          "cborious"
+        ]
+      }
+    },
+    {
+      "v": "0.27.1@74eb8731df74f088bfc91624b015e6ec7733e183",
       "r": [
         "variant >= 0.2.12",
         "threading >= 0.2.1",
@@ -902,7 +927,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-06T12:56:40Z",
+  "generatedAt": "2026-08-07T06:40:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -925,28 +950,45 @@
       "bearssl > 0.25.3",
       "bigints > 0.16.0",
       "bignum > 0.16.0",
+      "bumpy > 0.27.1",
       "cbor > 0.16.0",
       "cborious > 0.16.0",
+      "chroma > 0.27.1",
       "chronos > 0.25.3",
+      "classy > 0.27.1",
       "cligen > 0.25.3 & <= 0.27.0",
       "crunchy > 0.18.2",
       "fastrpc > 0.25.3 & <= 0.27.0",
+      "flatty > 0.27.1",
       "gmp > 0.16.0",
       "httputils > 0.25.3",
+      "jnim > 0.27.1",
       "mcu_utils > 0.25.3 & <= 0.27.0",
+      "mddoc > 0.27.1",
       "msgpack4nim > 0.16.0",
       "mummy > 0.18.2",
+      "nimboost > 0.27.1",
+      "nimfp > 0.27.1",
+      "nimgl > 0.27.1",
       "nimsimd > 0.18.2",
-      "patty > 0.7.2 & <= 0.17.2",
+      "opengl > 0.27.1",
+      "patty > 0.7.2",
       "persistent_enums > 0.25.3 & <= 0.27.0",
+      "pixie > 0.27.1",
       "progress > 0.25.3 & <= 0.27.0",
       "results > 0.16.0",
+      "sdl2 > 0.27.1",
+      "siwin > 0.27.1",
       "stack_strings > 0.8.2",
       "stew > 0.16.0",
       "threading > 0.7.2",
       "unittest2 > 0.16.0",
       "variant > 0.7.2",
+      "vmath > 0.27.1",
       "webby > 0.18.2",
+      "winim > 0.27.1",
+      "with > 0.27.1",
+      "x11 > 0.27.1",
       "zippy > 0.18.2"
     ],
     "urls": [],
@@ -954,7 +996,9 @@
       "gh:ehmry/nim-bigints",
       "gh:elcritch/mcu_utils",
       "gh:elcritch/nim-cbor-serialization",
-      "gh:elcritch/siwin"
+      "gh:elcritch/siwin",
+      "gh:planetis-m/vulkan",
+      "gh:yglukhov/android"
     ]
   }
 }

@@ -2,15 +2,90 @@
   "cv": 19,
   "name": "supranim",
   "fqn": "supranim.supranim.github.com",
-  "current": "8a4806cacf53310f9e20bccfe30956175b8e64a0",
+  "current": "a9142480327fa6047c67bfe8efaf378420ff0913",
   "author": "OpenPeeps",
   "description": "A full-featured web framework for Nim",
   "license": "LGPL-3.0-or-later",
-  "nim": "2.0.0",
+  "nim": "2.2.10",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.4@8a4806cacf53310f9e20bccfe30956175b8e64a0^",
+      "v": "0.1.7@a9142480327fa6047c67bfe8efaf378420ff0913^",
+      "r": [
+        "semver >= 1.2.3",
+        "kapsis >= 0.3.4",
+        "flatty >= 0.4.0",
+        "openparser >= 0.1.2",
+        "emitter >= 0.1.0",
+        "ozark >= 0.1.5",
+        "threading >= 0.1.0",
+        "mimedb >= 0.1.0",
+        "checksums >= 0.2.2"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-a9142480-supranim.nimble\ncannot resolve package name: powpow",
+      "f": {
+        "powpow": [
+          "error://powpow >= 0.1.4",
+          "emitter"
+        ],
+        "libevent": [
+          "libevent >= 0.1.2"
+        ]
+      }
+    },
+    {
+      "v": "0.1.6@fe292dcca174f0285bcf0dfa0af8a8c7700933e2",
+      "r": [
+        "semver >= 1.2.3",
+        "kapsis >= 0.3.4",
+        "flatty >= 0.4.0",
+        "openparser >= 0.1.2",
+        "emitter >= 0.1.0",
+        "ozark >= 0.1.5",
+        "threading >= 0.1.0",
+        "mimedb >= 0.1.0",
+        "checksums >= 0.2.2"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-fe292dcc-supranim.nimble\ncannot resolve package name: powpow",
+      "f": {
+        "powpow": [
+          "error://powpow >= 0.1.4",
+          "emitter"
+        ],
+        "libevent": [
+          "libevent >= 0.1.2"
+        ]
+      }
+    },
+    {
+      "v": "0.1.5@9f5ba7164e94919d15ccd64bcc9cd297b74cba74",
+      "r": [
+        "semver >= 1.2.3",
+        "kapsis >= 0.3.4",
+        "flatty >= 0.4.0",
+        "openparser >= 0.1.2",
+        "emitter >= 0.1.0",
+        "ozark >= 0.1.4",
+        "threading >= 0.1.0",
+        "mimedb >= 0.1.0",
+        "checksums >= 0.2.2"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-9f5ba716-supranim.nimble\ncannot resolve package name: powpow",
+      "f": {
+        "powpow": [
+          "error://powpow >= 0.1.4",
+          "emitter"
+        ],
+        "libevent": [
+          "libevent >= 0.1.2"
+        ]
+      }
+    },
+    {
+      "v": "0.1.4@8a4806cacf53310f9e20bccfe30956175b8e64a0",
       "r": [
         "semver >= 1.2.3",
         "kapsis >= 0.3.4",
@@ -24,6 +99,7 @@
         "mimedb >= 0.1.0",
         "checksums >= 0.2.2"
       ],
+      "m": "2.0.0",
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-8a4806ca-supranim.nimble\ncannot resolve package name: powpow"
     },
@@ -42,6 +118,7 @@
         "mimedb >= 0.1.0",
         "checksums >= 0.2.2"
       ],
+      "m": "2.0.0",
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-07b73425-supranim.nimble\ncannot resolve package name: powpow"
     },
@@ -60,6 +137,7 @@
         "mimedb >= 0.1.0",
         "checksums >= 0.2.2"
       ],
+      "m": "2.0.0",
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-fc104760-supranim.nimble\ncannot resolve package name: powpow"
     },
@@ -76,7 +154,8 @@
         "threading >= 0.1.0",
         "mimedb >= 0.1.0",
         "checksums >= 0.2.2"
-      ]
+      ],
+      "m": "2.0.0"
     },
     {
       "v": "0.1.0@1dbb55246eead781627f15a774503ed102169940",
@@ -90,12 +169,13 @@
         "ozark #head",
         "threading",
         "mimedb #head"
-      ]
+      ],
+      "m": "2.0.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-06T00:45:52Z",
+  "generatedAt": "2026-08-07T06:41:31Z",
   "allDeps": {
     "packages": [
       "ansiparse",
@@ -130,7 +210,7 @@
       "voodoo"
     ],
     "urls": [
-      "error://powpow > 0.1.1"
+      "error://powpow"
     ],
     "unresolved": [
       "gh:georgelemon/parsesql"

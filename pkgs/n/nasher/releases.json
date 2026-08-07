@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nasher",
   "fqn": "nasher.nim.squattingmonk.github.com",
-  "current": "0900db2ffe66f965b07d0ccac96b177635f2328a",
+  "current": "2765e32047e25bb5ca3284a3dfba48bf93881ecf",
   "author": "Michael A. Sinclair",
   "description": "A build tool for Neverwinter Nights projects",
   "license": "MIT",
@@ -13,7 +13,18 @@
   ],
   "releases": [
     {
-      "v": "1.1.2@0900db2ffe66f965b07d0ccac96b177635f2328a^",
+      "v": "1.1.3@2765e32047e25bb5ca3284a3dfba48bf93881ecf^",
+      "r": [
+        "neverwinter >= 1.7.3",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0",
+        "regex >= 0.25.0",
+        "glob #ab6087b",
+        "checksums"
+      ]
+    },
+    {
+      "v": "1.1.2@0900db2ffe66f965b07d0ccac96b177635f2328a",
       "r": [
         "neverwinter >= 1.7.3",
         "nwnt >= 1.3.3",
@@ -630,7 +641,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-06T12:52:17Z",
+  "generatedAt": "2026-08-07T06:37:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -665,9 +676,10 @@
       "1.0.0",
       "1.1.0",
       "1.1.1",
-      "1.1.2"
+      "1.1.2",
+      "1.1.3"
     ],
-    "latest": "1.1.2"
+    "latest": "1.1.3"
   },
   "allDeps": {
     "packages": [

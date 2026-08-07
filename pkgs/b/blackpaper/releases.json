@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@bffb234e80c72501685d87bbbb3d344263475155",
+      "v": "0.1.0@64b2a875ec926da42dbfd2be4b98006d92df1bca^",
       "r": [
         "floof"
       ]
@@ -18,7 +18,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:23:37Z",
+  "generatedAt": "2026-08-07T06:32:19Z",
   "allDeps": {
     "packages": [
       "floof",

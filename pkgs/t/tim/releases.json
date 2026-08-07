@@ -2,11 +2,11 @@
   "cv": 19,
   "name": "tim",
   "fqn": "tim.openpeeps.github.com",
-  "current": "b8b206a49e00719004cfbb52b497e6427dcd4381",
+  "current": "d33bdffedf483d4004230ef4120565d624177bc9",
   "author": "OpenPeeps",
   "description": "A super fast template engine for cool kids!",
   "license": "LGPL-3.0-or-later",
-  "nim": "2.0.0",
+  "nim": "2.2.10",
   "srcDir": "src",
   "binDir": "bin",
   "skipDirs": [
@@ -25,6 +25,25 @@
   ],
   "releases": [
     {
+      "v": "0.2.7@e66da82686011e2d82cee9e66eaae9e8a4c1e509",
+      "r": [
+        "kapsis >= 0.3.3",
+        "vancode >= 0.2.5",
+        "flatty >= 0.4.0",
+        "checksums >= 0.2.2",
+        "voodoo >= 0.1.9",
+        "watchout >= 0.2.2",
+        "openparser >= 0.1.2",
+        "semver >= 1.2.3",
+        "bag >= 0.1.0",
+        "boogie >= 0.1.0",
+        "error://clue >= 0.1.0",
+        "supranim >= 0.1.5"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/tim.openpeeps.github.com-e66da826-tim.nimble\ncannot resolve package name: clue"
+    },
+    {
       "v": "0.2.6@f7f42a2be8f1995f4928eb1885823c40143caba6",
       "r": [
         "kapsis >= 0.3.3",
@@ -40,6 +59,7 @@
         "error://clue >= 0.1.0",
         "bag >= 0.1.0"
       ],
+      "m": "2.0.0",
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/tim.openpeeps.github.com-f7f42a2b-tim.nimble\ncannot resolve package name: powpow\ncannot resolve package name: clue"
     },
@@ -59,6 +79,7 @@
         "error://clue #head",
         "bag >= 0.1.0"
       ],
+      "m": "2.0.0",
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/tim.openpeeps.github.com-b6b471c2-tim.nimble\ncannot resolve package name: powpow\ncannot resolve package name: clue",
       "i": []
@@ -79,6 +100,7 @@
         "error://clue #head",
         "bag >= 0.1.0"
       ],
+      "m": "2.0.0",
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/tim.openpeeps.github.com-9e1a5ff0-tim.nimble\ncannot resolve package name: powpow\ncannot resolve package name: clue",
       "i": []
@@ -95,6 +117,7 @@
         "openparser >= 0.1.2",
         "semver >= 1.2.3"
       ],
+      "m": "2.0.0",
       "i": []
     },
     {
@@ -109,6 +132,7 @@
         "openparser >= 0.1.2",
         "semver >= 1.2.3"
       ],
+      "m": "2.0.0",
       "i": []
     },
     {
@@ -122,6 +146,7 @@
         "watchout >= 0.2.2",
         "openparser >= 0.1.2"
       ],
+      "m": "2.0.0",
       "i": []
     },
     {
@@ -141,18 +166,20 @@
         "watchout #head"
       ],
       "l": "LGPLv3",
+      "m": "2.0.0",
       "i": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-29T18:40:57Z",
+  "generatedAt": "2026-08-07T06:41:52Z",
   "allDeps": {
     "packages": [
       "ansiparse",
       "bag > 0.2.3",
       "bigints",
       "blackpaper",
+      "boogie > 0.2.6",
       "checksums",
       "db_connector > 0.2.3",
       "denim <= 0.2.0",
@@ -182,6 +209,7 @@
       "pkginfo",
       "pluginkit",
       "semver",
+      "sorta > 0.2.6",
       "supranim > 0.2.3",
       "termstyle",
       "threading > 0.2.0",

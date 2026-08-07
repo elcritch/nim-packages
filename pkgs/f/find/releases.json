@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "find",
   "fqn": "find.openpeeps.github.com",
-  "current": "8e21560e8d2ae71731be8beb82fc893a0e0f1e43",
+  "current": "dde8340cf07ef1ebf58a029854409c798eb09338",
   "author": "George Lemon",
   "description": "Finds files and directories based on different criteria via an intuitive fluent interface",
   "license": "MIT",
@@ -13,13 +13,13 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@8e21560e8d2ae71731be8beb82fc893a0e0f1e43^",
+      "v": "0.1.0@8e21560e8d2ae71731be8beb82fc893a0e0f1e43",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:27:04Z",
+  "generatedAt": "2026-08-07T06:34:28Z",
   "allDeps": {
     "packages": [],
     "urls": [],

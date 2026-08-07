@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "ndarray",
   "fqn": "ndarray-c.jailop.github.com",
-  "current": "9309a80d7e4a16173c47e7e4ddb26e5c43d0bca2",
+  "current": "ed88c0f9f69eb279dca12b4924345b310463876d",
   "author": "Jaime Lopez",
   "description": "Nim bindings for ndarray-c library",
   "license": "BSD-3-Clause",
@@ -52,7 +52,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-06T12:52:21Z",
+  "generatedAt": "2026-08-07T06:37:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

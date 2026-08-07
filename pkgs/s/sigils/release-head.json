@@ -1,1 +1,1 @@
-{"v":"#head@74eb8731df74f088bfc91624b015e6ec7733e183","r":["variant >= 0.2.12","threading >= 0.2.1","stack_strings"],"f":{"chronos":["chronos >= 4.2.0"],"ipc":["cborious"],"mummy":["mummy"],"siwin":["gh:elcritch/siwin #refactor-window-events"],"cbor":["cborious"]}}
+{"v":"#head@d9df3d9a0bc549913f37ff33706c857221d94de8","r":["variant >= 0.2.12","threading >= 0.2.1","stack_strings"],"f":{"chronos":["chronos >= 4.2.0"],"ipc":["cborious"],"mummy":["mummy"],"siwin":["siwin"],"cbor":["cborious"]}}

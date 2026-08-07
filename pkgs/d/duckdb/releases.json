@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "duckdb",
   "fqn": "duckdb-nim.openpeeps.github.com",
-  "current": "0e6d78a1792b7c5e9f90e36bc1d47c665b4824a3",
+  "current": "6b7b7ad4d8930e4ae9b9b6d2b034f10ee0a67ca1",
   "author": "George Lemon",
   "description": "Bindings for DuckDB analytical database",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@c7adeeabad162b694b3b983a67f24a9127f876a6",
+      "v": "0.1.0@6b7b7ad4d8930e4ae9b9b6d2b034f10ee0a67ca1^",
       "r": [
         "db_connector",
         "bigints"
@@ -19,7 +19,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:26:12Z",
+  "generatedAt": "2026-08-07T06:34:02Z",
   "allDeps": {
     "packages": [
       "bigints",

@@ -1,1 +1,1 @@
-{"v":"#head@6dfb8ad59f6867da581725d9f6bd1d28d125ab1e","r":["threading >= 0.1.0","openparser >= 0.1.4","libevent >= 0.1.2"]}
+{"v":"#head@916e97ebe20862d1aa7d85b55b21f79ae4aca7dc","r":["threading >= 0.1.0","openparser >= 0.1.4"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/emitter.supranim.github.com-916e97eb-emitter.nimble\ncannot resolve package name: powpow","f":{"powpow":["error://powpow >= 0.1.4"],"libevent":["libevent >= 0.1.2"]}}
