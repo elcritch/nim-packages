@@ -10,6 +10,14 @@
   "srcDir": "src",
   "releases": [
     {
+      "v": "0.8.3@c5fe503607e02534d4e32c9d31d7d5c2ba1d639b",
+      "r": [
+        "util",
+        "jsony",
+        "unifetch"
+      ]
+    },
+    {
       "v": "0.8.2@5c3c5fb97c3145f170a7e28746cfbad4eb05a149",
       "r": [
         "util",
@@ -60,7 +68,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-07T12:26:51Z",
+  "generatedAt": "2026-08-07T18:28:16Z",
   "allDeps": {
     "packages": [
       "jsony",

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "silky",
   "fqn": "silky.treeform.github.com",
-  "current": "41a9fbcd513dd449e8376a7a5a102113eefc2836",
+  "current": "cf92ecd221b49b2a4fe48a2291967799aa3c7359",
   "author": "Andre von Houck",
   "description": "Silky immediate mode UI graphics.",
   "license": "MIT",
@@ -44,7 +44,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-07T12:31:28Z",
+  "generatedAt": "2026-08-07T18:34:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
