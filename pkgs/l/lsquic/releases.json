@@ -136,6 +136,18 @@
       ]
     },
     {
+      "v": "0.4.4@e2daec6714d820ce336eb68cce89bd9144bb6f80",
+      "r": [
+        "zlib",
+        "stew >= 0.4.0",
+        "chronos >= 4.0.4",
+        "nimcrypto >= 0.6.0",
+        "unittest2",
+        "chronicles >= 0.11.0",
+        "gh:vacp2p/nim-boringssl >= 0.0.4"
+      ]
+    },
+    {
       "v": "0.4.3@800697e9bcbce574c86bda389d91432c40c051e7",
       "r": [
         "zlib",
@@ -246,7 +258,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-07T06:36:42Z",
+  "generatedAt": "2026-08-07T12:27:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,13 +2,20 @@
   "cv": 19,
   "name": "supranim_session",
   "fqn": "session.supranim.github.com",
-  "current": "6b5e5340526d12457d85bf54ca41107099b06ee0",
+  "current": "027402417f5590b937fb5d6489555a3a8d9c497e",
   "author": "George Lemon",
   "description": "Auth & Session Management for Supranim apps",
   "license": "MIT",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.1.1@6b5e5340526d12457d85bf54ca41107099b06ee0",
+      "r": [
+        "threading",
+        "e2ee"
+      ]
+    },
     {
       "v": "0.1.0@fcbf8e2b991c58e6453ba44b9c79b0b49a2eccd2",
       "r": [
@@ -18,10 +25,11 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-18T18:34:10Z",
+  "generatedAt": "2026-08-07T12:32:05Z",
   "allDeps": {
     "packages": [
-      "e2ee"
+      "e2ee",
+      "threading > 0.1.0"
     ],
     "urls": [],
     "unresolved": []

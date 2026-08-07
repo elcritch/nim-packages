@@ -187,30 +187,6 @@
       ]
     },
     {
-      "v": "0.37.0@1dcd12b2518808d036e2858704c2f843cff53b58",
-      "r": [
-        "chronicles",
-        "confutils",
-        "chronos",
-        "dnsdisc",
-        "eth",
-        "json_rpc",
-        "libbacktrace",
-        "nimcrypto",
-        "serialization",
-        "stew",
-        "stint",
-        "metrics",
-        "libp2p >= 1.14.2",
-        "web3",
-        "presto",
-        "regex",
-        "results",
-        "db_connector",
-        "minilru"
-      ]
-    },
-    {
       "v": "0.36.0@ddf454163e9876983662bb0c57df8e4008681a23",
       "r": [
         "chronicles",
@@ -784,7 +760,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-07T06:42:36Z",
+  "generatedAt": "2026-08-07T12:33:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

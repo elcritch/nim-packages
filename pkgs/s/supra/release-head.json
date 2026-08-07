@@ -1,1 +1,1 @@
-{"v":"#head@2715d22d74239b211eebf1ec9a348c468074ca6f","r":["db_connector >= 0.1.0","openparser >= 0.1.2","kapsis >= 0.3.4","flatty >= 0.4.0","valido >= 0.1.0","ozark >= 0.1.4"],"g":true}
+{"v":"#head@c98a7356ec37a82a16b6bfc0b4329bb0bd99f14d","r":["db_connector >= 0.1.0","openparser >= 0.1.8","kapsis >= 0.3.9","flatty >= 0.4.0","valido >= 0.1.0","ozark >= 0.1.5"],"g":true}

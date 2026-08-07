@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "supra",
   "fqn": "supra.supranim.github.com",
-  "current": "7c9a07998571f4483d0ad7fd91460c10d00d9b20",
+  "current": "c98a7356ec37a82a16b6bfc0b4329bb0bd99f14d",
   "author": "Supranim",
   "description": "CLI tool for managing Supranim projects",
   "license": "MIT",
@@ -12,6 +12,28 @@
     "supra"
   ],
   "releases": [
+    {
+      "v": "0.1.2@f85bd02121824ac131bf3eae16d23580a565985b",
+      "r": [
+        "db_connector >= 0.1.0",
+        "openparser >= 0.1.8",
+        "kapsis >= 0.3.9",
+        "flatty >= 0.4.0",
+        "valido >= 0.1.0",
+        "ozark >= 0.1.5"
+      ]
+    },
+    {
+      "v": "0.1.1@de0121f1d82f3bd26ce445c053a13c58de3a2938",
+      "r": [
+        "db_connector >= 0.1.0",
+        "openparser >= 0.1.2",
+        "kapsis >= 0.3.8",
+        "flatty >= 0.4.0",
+        "valido >= 0.1.0",
+        "ozark >= 0.1.5"
+      ]
+    },
     {
       "v": "0.1.0@c3f351804d76b7e76c7324f3fe94e22cb55d94f7",
       "r": [
@@ -26,7 +48,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-28T12:58:03Z",
+  "generatedAt": "2026-08-07T12:32:05Z",
   "allDeps": {
     "packages": [
       "ansiparse",
