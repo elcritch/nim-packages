@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "siwin",
   "fqn": "siwin.levovix0.github.com",
-  "current": "09a7a21b7bba34b1cd9c1bcf3609029705cd6f52",
+  "current": "013fc6db3f67bcff9cd11c3d3f695798cf71747d",
   "author": "levovix0",
   "description": "Cross-platform window creation and event handling library",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "1.1.0@09a7a21b7bba34b1cd9c1bcf3609029705cd6f52^",
+      "v": "1.1.0@09a7a21b7bba34b1cd9c1bcf3609029705cd6f52",
       "r": [
         "chroma >= 0.2.6",
         "vmath >= 1.1.4",
@@ -390,7 +390,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-08T00:35:15Z",
+  "generatedAt": "2026-08-08T06:38:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

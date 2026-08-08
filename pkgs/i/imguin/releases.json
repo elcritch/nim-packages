@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "imguin",
   "fqn": "imguin.dinau.github.com",
-  "current": "7dd0b1e0b0228942a81046a8f037aeb84ea7af45",
+  "current": "513c499d6a6c72686b56ffc4be284de4ad2e10cc",
   "author": "dinau",
   "description": "Imguin: ImGui / ImPlot / ImNodes wrapper using Futhark",
   "license": "MIT",
@@ -17,6 +17,20 @@
     "imguin"
   ],
   "releases": [
+    {
+      "v": "1.92.9.0@513c499d6a6c72686b56ffc4be284de4ad2e10cc^",
+      "r": [
+        "sdl3_nim >= 3.4.2.0",
+        "nimgl",
+        "sdl2_nim",
+        "stb_image",
+        "tinydialogs",
+        "glfw",
+        "gh:DanielBelmes/VulkanNim",
+        "gh:Anuken/staticglfw"
+      ],
+      "p": []
+    },
     {
       "v": "1.92.8.0@f31b26f030a9309b5eff312f905dbe6f2a6a4bfa",
       "r": [
@@ -1335,7 +1349,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-08T00:27:39Z",
+  "generatedAt": "2026-08-08T06:27:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

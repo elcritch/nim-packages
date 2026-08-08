@@ -64,14 +64,6 @@
       "m": "0.13.1"
     },
     {
-      "v": "0.3.3@c9d858611797175f954429202dad24c9f86edcca",
-      "r": [
-        "nimfp >= 0.1.0"
-      ],
-      "a": "Anatoly Galiulin",
-      "m": "0.13.1"
-    },
-    {
       "v": "0.3.2@5d138f453c87d5cb394a5b1901ab92e1d9f87bee",
       "r": [
         "nimfp >= 0.1.0"
@@ -162,7 +154,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-08T00:27:56Z",
+  "generatedAt": "2026-08-08T06:27:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
