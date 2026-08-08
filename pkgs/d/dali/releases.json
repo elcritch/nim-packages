@@ -10,6 +10,12 @@
   "srcDir": "src",
   "releases": [
     {
+      "v": "0.4.0@2f5431ba49fd89a117af1466144940ee5479c1f9",
+      "r": [
+        "patty 0.3.3"
+      ]
+    },
+    {
       "v": "0.3.0@91bdff02640b2d49b633d721f2354c50cb85d8b0",
       "r": [
         "patty 0.3.3"
@@ -49,7 +55,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-07T18:26:02Z",
+  "generatedAt": "2026-08-08T00:24:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
