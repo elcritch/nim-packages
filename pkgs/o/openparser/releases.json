@@ -2,13 +2,19 @@
   "cv": 19,
   "name": "openparser",
   "fqn": "openparser.openpeeps.github.com",
-  "current": "4394b347cfd0730fafc4eb60eee256ea9ea1ffcf",
+  "current": "58b6dafde0a6e72237deecba432ffbb5ef4e1925",
   "author": "George Lemon",
   "description": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
   "license": "MIT",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.1.9@58b6dafde0a6e72237deecba432ffbb5ef4e1925^",
+      "r": [
+        "nimsimd >= 1.3.2"
+      ]
+    },
     {
       "v": "0.1.8@9397e75b8f517cda1a4bb1a7a467074e91fc9cb4",
       "r": [
@@ -54,7 +60,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-07T12:30:02Z",
+  "generatedAt": "2026-08-08T18:24:16Z",
   "allDeps": {
     "packages": [
       "nimsimd"
