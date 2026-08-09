@@ -357,6 +357,16 @@
       "m": "2.0.0"
     },
     {
+      "v": "0.2.2@781dd00f0062e1d3a39d831c8db39d2967f84074",
+      "r": [
+        "gh:crashappsec/con4m #63def517abc5f4d4efb876d34b7287c9361352cd",
+        "gh:viega/zippy 0.10.7",
+        "QRgen 3.0.0"
+      ],
+      "h": true,
+      "m": "2.0.0"
+    },
+    {
       "v": "0.2.1@045c6e2d6f357040991d2dd165e92dabafc0b6b0",
       "r": [
         "gh:crashappsec/con4m #63def517abc5f4d4efb876d34b7287c9361352cd",
@@ -399,7 +409,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-09T12:17:01Z",
+  "generatedAt": "2026-08-09T18:19:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -493,7 +503,7 @@
   },
   "allDeps": {
     "packages": [
-      "QRgen <= 0.2.1",
+      "QRgen <= 0.2.2",
       "parsetoml > 0.4.14"
     ],
     "urls": [],
