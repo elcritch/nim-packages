@@ -8,12 +8,21 @@
   "license": "GPL-3.0-only",
   "nim": "1.5.1",
   "srcDir": "src",
-  "releases": [],
+  "releases": [
+    {
+      "v": "0.1.0@20c2951bb96601fc45daa6c064abc97c61621012",
+      "r": [
+        "jsony 1.0.5"
+      ]
+    }
+  ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-08T18:20:54Z",
+  "generatedAt": "2026-08-09T00:25:33Z",
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "jsony"
+    ],
     "urls": [],
     "unresolved": []
   }

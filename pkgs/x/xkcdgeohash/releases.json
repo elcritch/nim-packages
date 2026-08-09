@@ -53,17 +53,11 @@
       "r": [
         "checksums >= 0.2.1"
       ]
-    },
-    {
-      "v": "0.1.0@7892bfba789b328e64336a1c93607ef40dd57aec",
-      "r": [
-        "checksums >= 0.2.1"
-      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-08T18:29:27Z",
+  "generatedAt": "2026-08-09T00:30:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
