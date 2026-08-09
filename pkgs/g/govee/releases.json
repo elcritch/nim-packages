@@ -18,10 +18,6 @@
       "r": []
     },
     {
-      "v": "1.0.1@51e87001c268a39e2ad83563d6f7f0d7497200fd",
-      "r": []
-    },
-    {
       "v": "1.0.0@742b0d4b57d6e0b9a49ca58fc85015c72485df25",
       "r": [],
       "d": "Govee API Nim wrapper",
@@ -30,7 +26,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-09T06:24:54Z",
+  "generatedAt": "2026-08-09T12:19:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

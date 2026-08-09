@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "redis",
   "fqn": "redis.nim-lang.github.com",
-  "current": "5b16cb1885f2de3652cd5008def8771e14a661e6",
+  "current": "8190f4f70f7df9a4f7fde006f855f6978afdeb53",
   "author": "Dominik Picheta",
   "description": "Official redis client for Nim",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.5.0@5b16cb1885f2de3652cd5008def8771e14a661e6^",
+      "v": "0.5.0@5b16cb1885f2de3652cd5008def8771e14a661e6",
       "r": []
     },
     {
@@ -24,7 +24,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-09T06:30:04Z",
+  "generatedAt": "2026-08-09T12:26:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
