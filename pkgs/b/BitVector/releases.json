@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "BitVector",
   "fqn": "BitVector.MarcAzar.github.com",
-  "current": "cd8af9d00e05f0a261fb84419a06630143d25559",
+  "current": "e73ebf12f9e695586cecf9230adcfa6eea57f872",
   "author": "Marc Azar",
   "description": "Bit Vector with base SomeOrdinal and little endian format. Supports `seq` based operations.",
   "license": "MIT",
@@ -15,10 +15,6 @@
     },
     {
       "v": "0.2.0@4de4f11715e50018959c60785c65c7db43c1a612",
-      "r": []
-    },
-    {
-      "v": "0.2.1@e5a0721c2abf86631dba6e1b678ba3c837edd93a",
       "r": []
     },
     {
@@ -92,7 +88,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-10T13:18:02Z",
+  "generatedAt": "2026-08-10T06:34:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],
