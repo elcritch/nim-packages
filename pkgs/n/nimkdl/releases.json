@@ -75,14 +75,6 @@
       ]
     },
     {
-      "v": "2.0.1@30c8aee23135771e36f5485283fbe8007861aa5e",
-      "r": [
-        "bigints",
-        "graphemes 0.12.0",
-        "unicodedb 0.13.0"
-      ]
-    },
-    {
       "v": "2.0.0@b458649179ad7686a7ac5f66ebb8e2277f91bdaf",
       "r": [
         "graphemes 0.12.0",
@@ -98,7 +90,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-29T07:53:59Z",
+  "generatedAt": "2026-08-10T00:33:16Z",
   "allDeps": {
     "packages": [
       "bigints > 2.0.0",

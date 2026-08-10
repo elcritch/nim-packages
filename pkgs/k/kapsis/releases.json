@@ -78,7 +78,7 @@
       "ansiparse > 0.1.1",
       "bigints > 0.1.1",
       "blackpaper > 0.1.1",
-      "checksums > 0.1.1 & <= 0.2.3",
+      "checksums > 0.1.1",
       "floof > 0.1.1",
       "htmlparser > 0.1.1",
       "illwill <= 0.2.3",
@@ -91,7 +91,7 @@
       "openparser > 0.1.1",
       "pkginfo <= 0.1.1",
       "pluginkit > 0.2.3",
-      "semver <= 0.1.1",
+      "semver",
       "termstyle > 0.1.1",
       "valido > 0.1.1",
       "voodoo > 0.1.1"
