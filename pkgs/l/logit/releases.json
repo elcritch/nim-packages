@@ -2,33 +2,54 @@
   "cv": 19,
   "name": "logit",
   "fqn": "Logit.Miqueas.github.com",
-  "current": "9a96e58dbde9efba9aaa2aae55272dc0b0802224",
+  "current": "832362073c55a25737bb43bab3b0c18f0e7b9b2e",
   "author": "Miqueas Martinez",
   "description": "Dependency-free, cross-platform and small logging library for Lua and Nim, with a simple and comfortable API",
   "license": "Zlib",
   "nim": "1.6.14",
   "installFiles": [
     "LICENSE",
-    "NimDocs.md"
+    "NimDocs.md",
+    "test.nim"
   ],
   "releases": [
     {
-      "v": "1.0.0@04ac2aa51d9618fc7b5b3a23601643561620b88c",
+      "v": "2.0.0@06af6c78c230beaad55879b03950037d882abc94",
       "r": []
+    },
+    {
+      "v": "1.0.0@04ac2aa51d9618fc7b5b3a23601643561620b88c",
+      "r": [],
+      "j": [
+        "LICENSE",
+        "NimDocs.md"
+      ]
     },
     {
       "v": "0.1.5@2bcf10b7aaa44f38f916046dba929ad01fe93ddc",
       "r": [],
+      "j": [
+        "LICENSE",
+        "NimDocs.md"
+      ],
       "m": "1.0.0"
     },
     {
       "v": "0.1.4@1288b86cd8c9d3aec19b7038316cbdecd0a53614",
       "r": [],
+      "j": [
+        "LICENSE",
+        "NimDocs.md"
+      ],
       "m": "1.0.0"
     },
     {
       "v": "0.1.3@63972d5271e8272f41f5b81a8d93c7ce4b040f51",
       "r": [],
+      "j": [
+        "LICENSE",
+        "NimDocs.md"
+      ],
       "m": "1.0.0"
     },
     {
@@ -54,12 +75,16 @@
     {
       "v": "0.1.0@7dd67a56437a7593fd61249bfa4dca743168ebef",
       "r": [],
+      "j": [
+        "LICENSE",
+        "NimDocs.md"
+      ],
       "m": "1.0.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:30:10Z",
+  "generatedAt": "2026-08-11T06:31:42Z",
   "allDeps": {
     "packages": [],
     "urls": [],
