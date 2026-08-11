@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "lsquic",
   "fqn": "nim-lsquic.vacp2p.github.com",
-  "current": "6c1e9dbdcd09a1b052dc591eafbe1482ff363698",
+  "current": "c9acf6a37347b24ba158f53ff4851e68245950b7",
   "author": "Status Research & Development GmbH",
   "description": "Nim wrapper around the lsquic library",
   "license": "MIT",
@@ -15,6 +15,18 @@
     "lsquic.nim"
   ],
   "releases": [
+    {
+      "v": "0.8.1@c9acf6a37347b24ba158f53ff4851e68245950b7^",
+      "r": [
+        "zlib",
+        "stew >= 0.4.0",
+        "chronos >= 4.0.4",
+        "nimcrypto >= 0.6.0",
+        "unittest2",
+        "chronicles >= 0.11.0",
+        "gh:vacp2p/nim-boringssl >= 0.0.4"
+      ]
+    },
     {
       "v": "0.8.0@46e25fe89f608b3dff2a53e1ff5c2886e2a5ae9e",
       "r": [
@@ -258,7 +270,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-10T18:33:22Z",
+  "generatedAt": "2026-08-11T00:27:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -282,7 +294,8 @@
       "v0.5.6",
       "v0.6.0",
       "v0.7.0",
-      "v0.8.0"
+      "v0.8.0",
+      "v0.8.1"
     ],
     "tagVersions": {
       "v0.1.0": "0.1.0",
@@ -302,9 +315,10 @@
       "v0.5.6": "0.5.6",
       "v0.6.0": "0.6.0",
       "v0.7.0": "0.7.0",
-      "v0.8.0": "0.8.0"
+      "v0.8.0": "0.8.0",
+      "v0.8.1": "0.8.1"
     },
-    "latest": "v0.8.0"
+    "latest": "v0.8.1"
   },
   "allDeps": {
     "packages": [
