@@ -383,17 +383,6 @@
       "m": "1.6.4"
     },
     {
-      "v": "0.6.7@a45228be62d456f7f0f602a7c7a5235183b2716f",
-      "r": [
-        "illwill",
-        "zippy",
-        "asciigraph",
-        "sensors >= 0.2.3"
-      ],
-      "d": "Monitoring tool with historical snapshots",
-      "m": "1.6.4"
-    },
-    {
       "v": "0.6.6@613102915795e81905ce91b461efd8a3368ba581",
       "r": [
         "illwill",
@@ -592,7 +581,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-12T00:41:51Z",
+  "generatedAt": "2026-08-12T06:45:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

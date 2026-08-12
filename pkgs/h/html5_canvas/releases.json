@@ -32,10 +32,6 @@
       "r": []
     },
     {
-      "v": "0.7@d699f91e831a1e38cdae3c4be19044af553ffb64",
-      "r": []
-    },
-    {
       "v": "0.8@fa91484cc59a29362e9c1d603b61807b26ef685b",
       "r": []
     },
@@ -70,7 +66,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-09T00:44:16Z",
+  "generatedAt": "2026-08-12T06:39:53Z",
   "allDeps": {
     "packages": [],
     "urls": [],
