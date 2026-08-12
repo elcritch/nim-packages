@@ -1112,14 +1112,6 @@
       "p": []
     },
     {
-      "v": "0.4.2@eee56d61a44db42b7000485b377ab31403d25eeb",
-      "r": [],
-      "d": "Asynchronous web-framework written with ♥",
-      "l": "GNU GPLv3",
-      "k": [],
-      "p": []
-    },
-    {
       "v": "0.4.0@92ef6c7c1ba0bffe766c1f343ea26edb59be4c0c",
       "r": [],
       "d": "Asynchronous web-framework written with ♥",
@@ -1138,7 +1130,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-12T06:39:48Z",
+  "generatedAt": "2026-08-12T12:28:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
