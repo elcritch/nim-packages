@@ -104,11 +104,18 @@
         "base32"
       ],
       "m": "1.0.0"
+    },
+    {
+      "v": "0.1.0@caf70091d4d44566ea22dd0f127c417aaea86ee1",
+      "r": [
+        "base32"
+      ],
+      "m": "1.0.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-12T18:38:25Z",
+  "generatedAt": "2026-08-13T00:39:40Z",
   "allDeps": {
     "packages": [
       "base32"
