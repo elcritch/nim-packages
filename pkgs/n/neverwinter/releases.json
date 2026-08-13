@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "neverwinter",
   "fqn": "neverwinter.nim.niv.github.com",
-  "current": "db755db7fdfa3e4245e30b2aebfbae6e75b6ea77",
+  "current": "829e9b765852b99614a154ebb301155d39217274",
   "author": "Bernhard Stöckner <n@e-ix.net>",
   "description": "Neverwinter Nights 1: Enhanced Edition data accessor library and utilities",
   "license": "MIT",
@@ -353,7 +353,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-13T12:32:20Z",
+  "generatedAt": "2026-08-13T18:34:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

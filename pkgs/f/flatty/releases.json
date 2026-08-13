@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "flatty",
   "fqn": "flatty.treeform.github.com",
-  "current": "5c815ec279566360a556c11d954fdefa0d25ab89",
+  "current": "cf7ce0a74b8d9e74d10df25b53c88025bc238d8f",
   "author": "Andre von Houck",
   "description": "Flatty - tools and serializer for plain flat binary files.",
   "license": "MIT",
@@ -105,7 +105,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-13T12:28:33Z",
+  "generatedAt": "2026-08-13T18:30:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
