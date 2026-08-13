@@ -6,25 +6,26 @@
   "author": "Yandall",
   "description": "Library to test html strings using css query selectors",
   "license": "MIT",
-  "nim": "1.6.8",
+  "nim": "0.20.0",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@63539043666c10ac2d7e15240094d7ce1c49241a",
+      "v": "0.1.1@236f95e35e1946e86a0c3df9e416b461dd0e874c^",
       "r": [
         "nimquery"
       ]
     },
     {
-      "v": "0.1.1@dff5474b8cd2dba00a88a04cd2a51b431c1bf33c",
+      "v": "0.1.0@3e99ded58c9aabe44c05b5a1a747e146f7eabbbf",
       "r": [
         "nimquery"
-      ]
+      ],
+      "m": "1.6.8"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-13T06:42:58Z",
+  "generatedAt": "2026-08-13T12:29:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
