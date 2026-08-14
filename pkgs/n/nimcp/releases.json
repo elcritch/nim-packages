@@ -78,7 +78,7 @@
       "serialization <= 0.3.0",
       "stew <= 0.3.0",
       "taskpools > 0.2.0",
-      "unittest2 <= 0.3.0",
+      "unittest2",
       "webby > 0.1.0 & <= 0.3.0",
       "zippy > 0.1.0 & <= 0.3.0"
     ],

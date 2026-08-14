@@ -25,7 +25,8 @@
     "packages": [
       "owlkettle",
       "taskpools",
-      "threading"
+      "threading",
+      "unittest2"
     ],
     "urls": [],
     "unresolved": []
