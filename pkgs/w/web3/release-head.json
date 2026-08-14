@@ -1,1 +1,1 @@
-{"v":"#head@a062a1fd87084a936b54d8dc37bcc33241705801","r":["chronicles","chronos","bearssl","eth >= 0.9.0","faststreams","json_rpc >= 0.6.0","serialization >= 0.4.4","json_serialization >= 0.4.2","nimcrypto","stew","stint","results"]}
+{"v":"#head@2d09b690c7c51142116438696b7203e8866c5d83","r":["chronicles","chronos","bearssl","eth >= 0.9.0","faststreams","json_rpc >= 0.6.0","serialization >= 0.4.4","json_serialization >= 0.4.2","nimcrypto","stew","stint","results"]}
