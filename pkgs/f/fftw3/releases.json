@@ -36,11 +36,8 @@
     },
     {
       "v": "0.5.0@fb659ec2aaadc7cb6332707ee4b24274a612772e",
-      "r": [
-        "arraymancer >= 0.6.3",
-        "weave >= 0.4.9",
-        "zippy"
-      ]
+      "r": [],
+      "i": []
     },
     {
       "v": "0.4.7@8f75a51c9a3b92fa30596a55998c1d27e3a2a3e8",
@@ -196,7 +193,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-14T12:27:32Z",
+  "generatedAt": "2026-08-14T18:29:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -262,7 +259,7 @@
       "untar",
       "weave > 0.4.1 & <= 0.5.1",
       "zip",
-      "zippy > 0.4.7"
+      "zippy > 0.5.0"
     ],
     "urls": [],
     "unresolved": []
