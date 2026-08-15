@@ -2,29 +2,72 @@
   "cv": 19,
   "name": "norx",
   "fqn": "norx.gokr.github.com",
-  "current": "beec0f363e62886da7a1c6de47ecb3b19d6de75e",
+  "current": "5019cff2fc5ce165c55bc31e3c5c6c338bae3213",
   "author": "Göran Krampe",
   "description": "A wrapper of the ORX 2.5D game engine",
   "license": "Zlib",
-  "nim": "1.2.0",
+  "nim": "2.2.4",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.8.1@a896f9430b8c8d6f1f8191bd448ba9f4053d24ee",
+      "r": [
+        "gh:yglukhov/android",
+        "jnim",
+        "checksums",
+        "regex"
+      ]
+    },
+    {
+      "v": "0.8.0@9d78a6cfa3cf69ec17554b169de50cc76bdf8069",
+      "r": [
+        "gh:yglukhov/android",
+        "jnim",
+        "checksums",
+        "regex"
+      ]
+    },
     {
       "v": "0.4.3@593e3b629ab881896b2c25fd29e5ff46f5cfd1fb",
       "r": [
         "gh:yglukhov/android"
-      ]
+      ],
+      "m": "1.2.0"
     },
     {
       "v": "0.4.2@c76a2f487eec08061ab4e5869d53aaafc29008d7",
-      "r": []
+      "r": [],
+      "m": "1.2.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:33:18Z",
+  "generatedAt": "2026-08-15T00:28:30Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.8.0",
+      "0.8.1"
+    ],
+    "latest": "0.8.1"
+  },
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "checksums > 0.4.3",
+      "classy > 0.4.3",
+      "graphemes > 0.4.3",
+      "jnim > 0.4.3",
+      "nimboost > 0.4.3",
+      "nimfp > 0.4.3",
+      "patty > 0.4.3",
+      "regex > 0.4.3",
+      "segmentation > 0.4.3",
+      "unicodedb > 0.4.3",
+      "unicodeplus > 0.4.3"
+    ],
     "urls": [],
     "unresolved": [
       "gh:yglukhov/android"
