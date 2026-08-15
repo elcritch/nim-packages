@@ -1,1 +1,1 @@
-{"v":"#head@c982f6c3b0446b23c9b822f725190139a6ba6710","r":["serialization >= 0.5.0","json_serialization","stew >= 0.4.2","stint >= 0.8.2","nimcrypto","blscurve","results","unittest2","testutils","hashtree_abi"],"m":"2.0.10"}
+{"v":"#head@800388077e6f9383d6a824e49db22744fcb2f83f","r":["serialization >= 0.5.0","json_serialization","stew >= 0.4.2","stint >= 0.8.2","nimcrypto","blscurve","results","unittest2","testutils","hashtree_abi"],"m":"2.0.10"}

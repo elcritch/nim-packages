@@ -58,7 +58,6 @@
       "db_connector",
       "flatty",
       "floof",
-      "greskewel",
       "htmlparser",
       "illwill",
       "jsony",
@@ -70,7 +69,6 @@
       "noise",
       "openparser",
       "ozark",
-      "parsesql",
       "pkginfo",
       "pluginkit",
       "semver",
@@ -80,8 +78,6 @@
       "voodoo"
     ],
     "urls": [],
-    "unresolved": [
-      "gh:georgelemon/parsesql"
-    ]
+    "unresolved": []
   }
 }

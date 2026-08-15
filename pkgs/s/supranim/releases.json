@@ -211,7 +211,6 @@
       "emitter",
       "flatty",
       "floof",
-      "greskewel",
       "htmlparser",
       "illwill",
       "jsony",
@@ -225,7 +224,6 @@
       "noise",
       "openparser",
       "ozark",
-      "parsesql",
       "pkginfo",
       "pluginkit",
       "semver",
@@ -237,8 +235,6 @@
     "urls": [
       "error://powpow"
     ],
-    "unresolved": [
-      "gh:georgelemon/parsesql"
-    ]
+    "unresolved": []
   }
 }

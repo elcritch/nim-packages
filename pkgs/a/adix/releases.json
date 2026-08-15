@@ -27,6 +27,12 @@
       ]
     },
     {
+      "v": "0.7.6@38a95ee6bd675b31746fa79d318b546495374ffa",
+      "r": [
+        "cligen >= 1.9.5"
+      ]
+    },
+    {
       "v": "0.7.5@e4cdae186eea523696cf8fb42167bb4ebaedb9e8",
       "r": [
         "cligen >= 1.9.3"
@@ -309,7 +315,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-15T12:11:02Z",
+  "generatedAt": "2026-08-15T18:10:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,1 +1,1 @@
-{"v":"#head@d29d89e01758f6d5d960f1b6714cea6328053e50","r":["nimcrypto","stint >= 0.8.0","secp256k1","chronos","chronicles","stew","nat_traversal","metrics","sqlite3_abi","confutils","testutils","unittest2","results","minilru","snappy"]}
+{"v":"#head@3cda9027f83ac03643dd15a383d67139eec9df6f","r":["nimcrypto","stint >= 0.8.0","secp256k1","chronos","chronicles","stew","nat_traversal","metrics","sqlite3_abi","confutils","testutils","unittest2","results","minilru","snappy"]}

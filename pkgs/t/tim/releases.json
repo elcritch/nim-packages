@@ -188,7 +188,6 @@
       "flatty",
       "floof",
       "gccjit",
-      "greskewel > 0.2.3",
       "htmlparser",
       "httpx",
       "illwill",
@@ -205,7 +204,6 @@
       "nyml",
       "openparser",
       "ozark > 0.2.3",
-      "parsesql > 0.2.3",
       "pkginfo",
       "pluginkit",
       "semver",
@@ -227,8 +225,6 @@
       "error://clue > 0.2.3",
       "error://powpow > 0.2.3"
     ],
-    "unresolved": [
-      "gh:georgelemon/parsesql"
-    ]
+    "unresolved": []
   }
 }

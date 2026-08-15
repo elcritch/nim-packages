@@ -53,7 +53,6 @@
       "flatty",
       "floof",
       "gccjit",
-      "greskewel",
       "htmlparser",
       "httpx",
       "illwill",
@@ -72,7 +71,6 @@
       "nyml",
       "openparser",
       "ozark",
-      "parsesql",
       "pkginfo",
       "pluginkit",
       "semver",
@@ -99,8 +97,6 @@
       "error://enimsql",
       "error://powpow"
     ],
-    "unresolved": [
-      "gh:georgelemon/parsesql"
-    ]
+    "unresolved": []
   }
 }
