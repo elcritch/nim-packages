@@ -34,6 +34,12 @@
       ]
     },
     {
+      "v": "0.1.10@308478342b9632c6efa69ae63554b47525d363a8",
+      "r": [
+        "hmisc >= 0.13.1"
+      ]
+    },
+    {
       "v": "0.1.9@b67fe00b8ebe7fb589ce5fd129dd07d315cd5f63",
       "r": [
         "hmisc >= 0.13.1"
@@ -92,7 +98,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-15T00:23:19Z",
+  "generatedAt": "2026-08-15T06:16:27Z",
   "allDeps": {
     "packages": [
       "benchy",
