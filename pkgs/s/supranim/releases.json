@@ -2,13 +2,359 @@
   "cv": 19,
   "name": "supranim",
   "fqn": "supranim.supranim.github.com",
-  "current": "3cf79efecdc81354e217d5e37e9bc0116d03151d",
+  "current": "f0d2cd42a13cd5ffb1b25ae7318e7bbe64b490bc",
   "author": "OpenPeeps",
   "description": "A full-featured web framework for Nim",
   "license": "LGPL-3.0-or-later",
   "nim": "2.2.10",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.1.9@f0d2cd42a13cd5ffb1b25ae7318e7bbe64b490bc^",
+      "r": [
+        "threading >= 0.2.1",
+        "semver >= 1.2.3",
+        "kapsis >= 0.3.8",
+        "error://powpow >= 0.1.9",
+        "ozark >= 0.1.6",
+        "emitter >= 0.2.1",
+        "error://nimcypher >= 0.1.0",
+        "openparser >= 0.1.9",
+        "mimedb >= 0.1.1",
+        "checksums >= 0.2.2",
+        "error://flysystem >= 0.1.0",
+        "twofa >= 0.1.0"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-f0d2cd42-supranim.nimble\ncannot resolve package name: powpow\ncannot resolve package name: nimcypher\ncannot resolve package name: flysystem",
+      "q": {
+        "data": [
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": -6781500871278398754,
+            "key": "emitter",
+            "val": [
+              "powpow"
+            ]
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          },
+          {
+            "hcode": 0,
+            "key": "",
+            "val": []
+          }
+        ],
+        "counter": 1
+      }
+    },
     {
       "v": "0.1.8@ce9b902a542f9d694069f459169789ebc84adfe2",
       "r": [
@@ -131,16 +477,17 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-16T00:26:52Z",
+  "generatedAt": "2026-08-16T12:21:24Z",
   "allDeps": {
     "packages": [
       "ansiparse",
+      "base32 > 0.1.8",
       "bigints",
       "blackpaper",
       "checksums",
       "db_connector",
       "emitter",
-      "flatty",
+      "flatty <= 0.1.8",
       "floof",
       "htmlparser",
       "illwill",
@@ -154,16 +501,21 @@
       "nimsimd",
       "noise",
       "openparser",
+      "otp > 0.1.8",
       "ozark",
       "pkginfo",
       "pluginkit",
+      "qr > 0.1.8",
       "semver",
       "termstyle",
       "threading",
+      "twofa > 0.1.8",
       "valido",
       "voodoo"
     ],
     "urls": [
+      "error://flysystem > 0.1.8",
+      "error://nimcypher > 0.1.8",
       "error://powpow"
     ],
     "unresolved": []

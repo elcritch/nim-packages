@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "lesster",
   "fqn": "lesster.telatin.www.github.com",
-  "current": "f111a09c36248c867c33c12423ae563f86db9949",
+  "current": "2ee7b4c7fb16c16d09e253a509483d49558f0fff",
   "author": "Andrea Telatin",
   "description": "A less-like interactive text pager library for Nim",
   "license": "MIT",
@@ -19,6 +19,16 @@
     "lesster_app": "lesster"
   },
   "releases": [
+    {
+      "v": "0.4.0@2ee7b4c7fb16c16d09e253a509483d49558f0fff^",
+      "r": [
+        "nimwave",
+        "illwave",
+        "argparse",
+        "regex"
+      ],
+      "y": []
+    },
     {
       "v": "0.3.0@7a347d9d7edbd4e9d5e2ef9318e4787801dea01c",
       "r": [
@@ -42,7 +52,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:29:40Z",
+  "generatedAt": "2026-08-16T12:15:58Z",
   "allDeps": {
     "packages": [
       "ansiutils",
