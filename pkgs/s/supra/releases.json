@@ -22,33 +22,11 @@
         "valido >= 0.1.0",
         "ozark >= 0.1.5"
       ]
-    },
-    {
-      "v": "0.1.1@de0121f1d82f3bd26ce445c053a13c58de3a2938",
-      "r": [
-        "db_connector >= 0.1.0",
-        "openparser >= 0.1.2",
-        "kapsis >= 0.3.8",
-        "flatty >= 0.4.0",
-        "valido >= 0.1.0",
-        "ozark >= 0.1.5"
-      ]
-    },
-    {
-      "v": "0.1.0@c3f351804d76b7e76c7324f3fe94e22cb55d94f7",
-      "r": [
-        "db_connector >= 0.1.0",
-        "openparser >= 0.1.2",
-        "kapsis >= 0.3.4",
-        "flatty >= 0.4.0",
-        "valido >= 0.1.0",
-        "ozark >= 0.1.4"
-      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-07T12:32:05Z",
+  "generatedAt": "2026-08-16T00:26:51Z",
   "allDeps": {
     "packages": [
       "ansiparse",

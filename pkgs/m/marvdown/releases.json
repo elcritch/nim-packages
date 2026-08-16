@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "marvdown",
   "fqn": "marvdown.openpeeps.github.com",
-  "current": "af01d71118a4771af7b44e78492d628dd0cd3a9f",
+  "current": "d52653e6ed35a26a84c2ad83974f796bc1d7c794",
   "author": "George Lemon",
   "description": "A stupid simple Markdown library",
   "license": "MIT",
@@ -10,7 +10,13 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.3@af01d71118a4771af7b44e78492d628dd0cd3a9f^",
+      "v": "0.1.4@3fbfd858fdb2d15db7c2b4ad26aac25ec22b5bc5",
+      "r": [
+        "openparser >= 0.1.2"
+      ]
+    },
+    {
+      "v": "0.1.3@af01d71118a4771af7b44e78492d628dd0cd3a9f",
       "r": [
         "openparser >= 0.1.2"
       ]
@@ -36,7 +42,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-12T18:33:19Z",
+  "generatedAt": "2026-08-16T00:21:58Z",
   "allDeps": {
     "packages": [
       "nimsimd",

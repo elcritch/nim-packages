@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "supranim",
   "fqn": "supranim.supranim.github.com",
-  "current": "306a02cff87abe22bc1bc986779a067199177ef0",
+  "current": "3cf79efecdc81354e217d5e37e9bc0116d03151d",
   "author": "OpenPeeps",
   "description": "A full-featured web framework for Nim",
   "license": "LGPL-3.0-or-later",
@@ -127,80 +127,11 @@
       "m": "2.0.0",
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-8a4806ca-supranim.nimble\ncannot resolve package name: powpow"
-    },
-    {
-      "v": "0.1.3@07b73425c2f7595f38c87e558ebacc86ff6c1de7",
-      "r": [
-        "semver >= 1.2.3",
-        "kapsis >= 0.3.4",
-        "libevent >= 0.1.1",
-        "error://powpow >= 0.1.0",
-        "flatty >= 0.4.0",
-        "openparser >= 0.1.2",
-        "emitter >= 0.1.0",
-        "ozark >= 0.1.4",
-        "threading >= 0.1.0",
-        "mimedb >= 0.1.0",
-        "checksums >= 0.2.2"
-      ],
-      "m": "2.0.0",
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-07b73425-supranim.nimble\ncannot resolve package name: powpow"
-    },
-    {
-      "v": "0.1.2@fc104760ea8198713f5051343e2d0dc891f01f8a",
-      "r": [
-        "semver >= 1.2.3",
-        "kapsis >= 0.3.4",
-        "libevent >= 0.1.1",
-        "error://powpow >= 0.1.0",
-        "flatty >= 0.4.0",
-        "openparser >= 0.1.2",
-        "emitter >= 0.1.0",
-        "ozark >= 0.1.4",
-        "threading >= 0.1.0",
-        "mimedb >= 0.1.0",
-        "checksums >= 0.2.2"
-      ],
-      "m": "2.0.0",
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-fc104760-supranim.nimble\ncannot resolve package name: powpow"
-    },
-    {
-      "v": "0.1.1@ce0235dbeeb942f199e8d46fb2459aade26aefe7",
-      "r": [
-        "semver >= 1.2.3",
-        "kapsis >= 0.3.4",
-        "libevent >= 0.1.1",
-        "flatty >= 0.4.0",
-        "openparser >= 0.1.2",
-        "emitter >= 0.1.0",
-        "ozark >= 0.1.4",
-        "threading >= 0.1.0",
-        "mimedb >= 0.1.0",
-        "checksums >= 0.2.2"
-      ],
-      "m": "2.0.0"
-    },
-    {
-      "v": "0.1.0@1dbb55246eead781627f15a774503ed102169940",
-      "r": [
-        "semver",
-        "kapsis #head",
-        "libevent #head",
-        "flatty",
-        "openparser",
-        "emitter #head",
-        "ozark #head",
-        "threading",
-        "mimedb #head"
-      ],
-      "m": "2.0.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-07T12:32:06Z",
+  "generatedAt": "2026-08-16T00:26:52Z",
   "allDeps": {
     "packages": [
       "ansiparse",
