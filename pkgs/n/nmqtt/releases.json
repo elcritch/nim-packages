@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nmqtt",
   "fqn": "nmqtt.zevv.github.com",
-  "current": "8b8e1e453f857aed74fd50b1bf484245348ff8af",
+  "current": "860bf3a0d2a0dc935585c3b84570c1a1ff63a4a7",
   "author": "zevv & ThomasTJdev & python36",
   "description": "Native MQTT library and binaries for publishing, subscribing and broker",
   "license": "MIT",
@@ -105,7 +105,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-16T12:18:38Z",
+  "generatedAt": "2026-08-16T18:20:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
