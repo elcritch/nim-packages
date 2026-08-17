@@ -156,32 +156,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T12:24:12Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.4.1",
-      "v0.4.2",
-      "v0.4.3",
-      "v0.4.4",
-      "v0.4.5",
-      "v0.4.6",
-      "v0.4.7"
-    ],
-    "tagVersions": {
-      "v0.4.1": "0.4.1",
-      "v0.4.2": "0.4.2",
-      "v0.4.3": "0.4.3",
-      "v0.4.4": "0.4.4",
-      "v0.4.5": "0.4.5",
-      "v0.4.6": "0.4.6",
-      "v0.4.7": "0.4.7"
-    },
-    "latest": "v0.4.7"
-  },
+  "generatedAt": "2026-08-17T18:22:26Z",
   "allDeps": {
     "packages": [
       "ast_pattern_matching",

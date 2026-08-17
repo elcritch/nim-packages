@@ -123,22 +123,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T12:22:45Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "1.9",
-      "1.9.1",
-      "1.9.2",
-      "1.9.3",
-      "1.9.4",
-      "1.9.5"
-    ],
-    "latest": "1.9.5"
-  },
+  "generatedAt": "2026-08-17T18:21:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],

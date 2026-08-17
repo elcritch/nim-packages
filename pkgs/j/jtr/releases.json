@@ -24,10 +24,6 @@
       "r": []
     },
     {
-      "v": "0.2.6@764a4270cdc3278afe580c2899e60122eb409bbc",
-      "r": []
-    },
-    {
       "v": "0.2.5@f78e62a3d91a404b6eba1fc48f7e20d4a3f06c17",
       "r": [],
       "S": "HasUnknownNimbleFile",
@@ -94,7 +90,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T12:20:54Z",
+  "generatedAt": "2026-08-17T18:19:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

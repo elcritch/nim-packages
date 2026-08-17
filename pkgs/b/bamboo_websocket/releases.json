@@ -73,37 +73,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T12:14:47Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.1.0",
-      "0.2.0",
-      "0.2.1",
-      "0.2.2",
-      "0.2.3",
-      "0.2.4",
-      "0.3.0",
-      "0.3.1",
-      "0.3.2",
-      "0.3.3"
-    ],
-    "prerelease": [
-      "0.1.0",
-      "0.2.0",
-      "0.2.1",
-      "0.2.2",
-      "0.2.3",
-      "0.2.4",
-      "0.3.0",
-      "0.3.1",
-      "0.3.2",
-      "0.3.3"
-    ]
-  },
+  "generatedAt": "2026-08-17T18:15:38Z",
   "allDeps": {
     "packages": [],
     "urls": [],

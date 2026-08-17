@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "json_rpc",
   "fqn": "nim-json-rpc.status-im.github.com",
-  "current": "4262e3e943efcf65541b3b87a58e21b3fb2ea457",
+  "current": "07a7e2fe5df53f9fccc8f91c81892112a289de0b",
   "author": "Status Research & Development GmbH",
   "description": "Ethereum remote procedure calls",
   "license": "Apache License 2.0",
@@ -11,6 +11,21 @@
     "tests"
   ],
   "releases": [
+    {
+      "v": "0.7.0@07a7e2fe5df53f9fccc8f91c81892112a289de0b^",
+      "r": [
+        "stew",
+        "nimcrypto",
+        "stint",
+        "chronos >= 4.0.3 & < 5.0.0",
+        "httputils >= 0.3.0",
+        "chronicles",
+        "websock >= 0.2.1 & < 0.5.0",
+        "serialization >= 0.4.4",
+        "json_serialization >= 0.4.2",
+        "unittest2"
+      ]
+    },
     {
       "v": "0.6.1@6f1fff8ba685c9192fab153a9d66484ad9066e78",
       "r": [
@@ -88,7 +103,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T12:20:50Z",
+  "generatedAt": "2026-08-17T18:19:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -97,14 +112,16 @@
     "releases": [
       "v0.5.2",
       "v0.6.0",
-      "v0.6.1"
+      "v0.6.1",
+      "v0.7.0"
     ],
     "tagVersions": {
       "v0.5.2": "0.5.2",
       "v0.6.0": "0.6.0",
-      "v0.6.1": "0.6.1"
+      "v0.6.1": "0.6.1",
+      "v0.7.0": "0.7.0"
     },
-    "latest": "v0.6.1"
+    "latest": "v0.7.0"
   },
   "allDeps": {
     "packages": [

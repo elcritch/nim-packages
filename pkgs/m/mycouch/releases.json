@@ -37,19 +37,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T12:22:43Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.2",
-      "0.4.0",
-      "0.4.2"
-    ],
-    "latest": "0.4.2"
-  },
+  "generatedAt": "2026-08-17T18:21:14Z",
   "allDeps": {
     "packages": [
       "macroplus",

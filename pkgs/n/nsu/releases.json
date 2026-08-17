@@ -31,22 +31,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T12:25:10Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.1.4",
-      "v0.1.5"
-    ],
-    "tagVersions": {
-      "v0.1.4": "0.1.4",
-      "v0.1.5": "0.1.5"
-    },
-    "latest": "v0.1.5"
-  },
+  "generatedAt": "2026-08-17T18:23:15Z",
   "allDeps": {
     "packages": [
       "oldwinapi",

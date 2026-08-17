@@ -78,25 +78,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T12:17:30Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.1.0",
-      "0.2.0",
-      "0.2.1",
-      "0.2.2",
-      "0.2.3",
-      "0.2.4",
-      "0.2.5",
-      "0.2.6",
-      "0.2.7"
-    ],
-    "latest": "0.2.7"
-  },
+  "generatedAt": "2026-08-17T18:17:21Z",
   "allDeps": {
     "packages": [
       "crunchy > 0.2.1",

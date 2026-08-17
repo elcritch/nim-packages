@@ -18,22 +18,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T12:23:35Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "ver.0.3.0"
-    ],
-    "tagVersions": {
-      "ver.0.3.0": "0.3.0"
-    },
-    "prerelease": [
-      "ver.0.3.0"
-    ]
-  },
+  "generatedAt": "2026-08-17T18:21:56Z",
   "allDeps": {
     "packages": [
       "Palette",
