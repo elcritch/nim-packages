@@ -22,12 +22,8 @@
     {
       "v": "20260114190740@fdfe21f4bcfc9cdbd5c28b833a693cb3d207adb4",
       "r": [],
-      "h": true,
-      "f": {
-        "dev": [
-          "eminim 2.8.2"
-        ]
-      }
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
     },
     {
       "v": "20251218153407@29e9e0f308380c094ad5f9041e1881d7c0d04a0d",
@@ -246,7 +242,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T06:26:04Z",
+  "generatedAt": "2026-08-17T12:22:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
