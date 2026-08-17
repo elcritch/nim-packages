@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "ttop",
   "fqn": "ttop.inv2004.github.com",
-  "current": "de83047aec8c8ceedc03b9c0aafc8bc551a56015",
+  "current": "1c3eb959fca075b4b2e1b2ec3b36c0d56e0cef12",
   "author": "inv2004",
   "description": "Monitoring tool with historical snapshots and alerts",
   "license": "MIT",
@@ -13,7 +13,17 @@
   ],
   "releases": [
     {
-      "v": "1.6.1@de83047aec8c8ceedc03b9c0aafc8bc551a56015^",
+      "v": "1.6.2@1c3eb959fca075b4b2e1b2ec3b36c0d56e0cef12^",
+      "r": [
+        "gh:inv2004/illwill",
+        "zippy",
+        "asciigraph",
+        "parsetoml",
+        "gh:inv2004/jsony #non_quoted_key"
+      ]
+    },
+    {
+      "v": "1.6.1@de83047aec8c8ceedc03b9c0aafc8bc551a56015",
       "r": [
         "gh:inv2004/illwill",
         "zippy",
@@ -592,14 +602,13 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-16T18:25:10Z",
+  "generatedAt": "2026-08-17T00:24:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "v0.6.5",
       "v0.6.6",
       "v0.6.7",
       "v0.7.2",
@@ -638,10 +647,10 @@
       "v1.5.5",
       "v1.5.6",
       "v1.5.7",
-      "v1.6.1"
+      "v1.6.1",
+      "v1.6.2"
     ],
     "tagVersions": {
-      "v0.6.5": "0.6.5",
       "v0.6.6": "0.6.6",
       "v0.6.7": "0.6.7",
       "v0.7.2": "0.7.2",
@@ -680,9 +689,10 @@
       "v1.5.5": "1.5.5",
       "v1.5.6": "1.5.6",
       "v1.5.7": "1.5.7",
-      "v1.6.1": "1.6.1"
+      "v1.6.1": "1.6.1",
+      "v1.6.2": "1.6.2"
     },
-    "latest": "v1.6.1"
+    "latest": "v1.6.2"
   },
   "allDeps": {
     "packages": [
