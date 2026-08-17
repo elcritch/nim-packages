@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "hyps",
   "fqn": "nim-hyps.nitely.github.com",
-  "current": "39379574b8faa1a18706275d337ef914cb42dbb0",
+  "current": "64c7aadffddfae87f00ae6186a3cf64ebb5102c6",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "An async pub/sub client and server",
   "license": "MIT",
@@ -14,7 +14,7 @@
   ],
   "releases": [
     {
-      "v": "0.1.1@39379574b8faa1a18706275d337ef914cb42dbb0^",
+      "v": "0.1.1@39379574b8faa1a18706275d337ef914cb42dbb0",
       "r": [
         "hyperx >= 0.1.53"
       ]
@@ -22,7 +22,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T00:19:28Z",
+  "generatedAt": "2026-08-17T06:23:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
