@@ -42,7 +42,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:16:45Z",
+  "generatedAt": "2026-08-18T00:18:57Z",
   "allDeps": {
     "packages": [
       "asynctools",
@@ -54,5 +54,15 @@
       "gh:iffy/asynctools",
       "gh:timotheecour/asynctools"
     ]
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "stable"
+    ],
+    "latest": "stable"
   }
 }

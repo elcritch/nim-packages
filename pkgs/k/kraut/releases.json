@@ -52,11 +52,18 @@
         "karax >= 1.2.3"
       ],
       "m": "1.9.1"
+    },
+    {
+      "v": "1.0.0@faf52550798b7f594d760d5e44b71aaac7276b0b",
+      "r": [
+        "karax >= 1.2.3"
+      ],
+      "m": "1.9.1"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:19:46Z",
+  "generatedAt": "2026-08-18T00:21:36Z",
   "allDeps": {
     "packages": [
       "dotenv",

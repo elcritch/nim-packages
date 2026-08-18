@@ -23,7 +23,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:23:18Z",
+  "generatedAt": "2026-08-18T00:24:24Z",
   "allDeps": {
     "packages": [
       "nimblas",
@@ -32,5 +32,18 @@
     ],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0"
+    },
+    "latest": "v0.1.0"
   }
 }

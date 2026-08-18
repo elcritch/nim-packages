@@ -16,10 +16,20 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:17:27Z",
+  "generatedAt": "2026-08-18T00:19:34Z",
   "allDeps": {
     "packages": [],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "3.5.2"
+    ],
+    "latest": "3.5.2"
   }
 }

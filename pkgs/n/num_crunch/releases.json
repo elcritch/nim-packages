@@ -28,7 +28,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:23:17Z",
+  "generatedAt": "2026-08-18T00:24:23Z",
   "allDeps": {
     "packages": [
       "chacha20",
@@ -37,5 +37,20 @@
     ],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "container_v0.1",
+      "v0.1.0"
+    ],
+    "tagVersions": {
+      "container_v0.1": "0.1",
+      "v0.1.0": "0.1.0"
+    },
+    "latest": "v0.1.0"
   }
 }

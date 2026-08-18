@@ -27,7 +27,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:21:29Z",
+  "generatedAt": "2026-08-18T00:22:50Z",
   "allDeps": {
     "packages": [
       "mcu_utils",
@@ -41,6 +41,21 @@
     "urls": [],
     "unresolved": [
       "gh:EmbeddedNim/fast_rpc"
+    ]
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0-alpha"
+    ],
+    "tagVersions": {
+      "v0.1.0-alpha": "0.1.0"
+    },
+    "prerelease": [
+      "v0.1.0-alpha"
     ]
   }
 }

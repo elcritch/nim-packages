@@ -93,12 +93,27 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:15:46Z",
+  "generatedAt": "2026-08-18T00:18:04Z",
   "allDeps": {
     "packages": [
       "unittest2"
     ],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.2.6",
+      "v0.2.7"
+    ],
+    "tagVersions": {
+      "v0.2.6": "0.2.6",
+      "v0.2.7": "0.2.7"
+    },
+    "latest": "v0.2.7"
   }
 }

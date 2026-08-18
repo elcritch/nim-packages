@@ -31,7 +31,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:22:41Z",
+  "generatedAt": "2026-08-18T00:23:53Z",
   "allDeps": {
     "packages": [
       "anano > 0.1.0",
@@ -44,5 +44,16 @@
     "unresolved": [
       "gh:ire4ever1190/jaysonrpc"
     ]
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0",
+      "0.2.0"
+    ],
+    "latest": "0.2.0"
   }
 }

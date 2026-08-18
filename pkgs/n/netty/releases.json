@@ -29,7 +29,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:21:32Z",
+  "generatedAt": "2026-08-18T00:22:52Z",
   "allDeps": {
     "packages": [
       "flatty > 0.2.0",
@@ -37,5 +37,20 @@
     ],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.2.0",
+      "0.2.1",
+      "v0.1.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0"
+    },
+    "latest": "0.2.1"
   }
 }

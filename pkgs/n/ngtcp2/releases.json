@@ -99,10 +99,35 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:21:36Z",
+  "generatedAt": "2026-08-18T00:22:56Z",
   "allDeps": {
     "packages": [],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.34.0",
+      "v0.35.0",
+      "v0.36.0",
+      "v0.36.1",
+      "v0.37.0",
+      "v0.38.0",
+      "v0.39.0"
+    ],
+    "tagVersions": {
+      "v0.34.0": "0.34.0",
+      "v0.35.0": "0.35.0",
+      "v0.36.0": "0.36.0",
+      "v0.36.1": "0.36.1",
+      "v0.37.0": "0.37.0",
+      "v0.38.0": "0.38.0",
+      "v0.39.0": "0.39.0"
+    },
+    "latest": "v0.39.0"
   }
 }

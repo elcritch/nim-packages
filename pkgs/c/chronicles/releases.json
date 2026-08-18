@@ -213,7 +213,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:16:33Z",
+  "generatedAt": "2026-08-18T00:18:48Z",
   "allDeps": {
     "packages": [
       "faststreams > 0.4.2",
@@ -226,5 +226,24 @@
     ],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.11.0",
+      "v0.12.0",
+      "v0.3.1",
+      "v0.4.2"
+    ],
+    "tagVersions": {
+      "v0.11.0": "0.11.0",
+      "v0.12.0": "0.12.0",
+      "v0.3.1": "0.3.1",
+      "v0.4.2": "0.4.2"
+    },
+    "latest": "v0.12.0"
   }
 }

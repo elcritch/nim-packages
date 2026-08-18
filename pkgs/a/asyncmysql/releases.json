@@ -20,12 +20,22 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:15:25Z",
+  "generatedAt": "2026-08-18T00:17:43Z",
   "allDeps": {
     "packages": [
       "mysqlparser"
     ],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.4.3"
+    ],
+    "latest": "0.4.3"
   }
 }

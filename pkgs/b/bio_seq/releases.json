@@ -54,7 +54,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:15:54Z",
+  "generatedAt": "2026-08-18T00:18:10Z",
   "allDeps": {
     "packages": [
       "bitty",
@@ -62,5 +62,28 @@
     ],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.2.0",
+      "v0.2.1",
+      "v0.2.2",
+      "v0.2.3",
+      "v0.2.4"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.2.0": "0.2.0",
+      "v0.2.1": "0.2.1",
+      "v0.2.2": "0.2.2",
+      "v0.2.3": "0.2.3",
+      "v0.2.4": "0.2.4"
+    },
+    "latest": "v0.2.4"
   }
 }

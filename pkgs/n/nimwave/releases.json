@@ -96,7 +96,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:22:51Z",
+  "generatedAt": "2026-08-18T00:23:59Z",
   "allDeps": {
     "packages": [
       "ansiutils",
@@ -104,5 +104,20 @@
     ],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.7.0",
+      "0.8.0",
+      "1.0.0",
+      "1.1.0",
+      "1.2.0",
+      "1.2.1"
+    ],
+    "latest": "1.2.1"
   }
 }

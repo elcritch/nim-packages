@@ -87,7 +87,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:21:52Z",
+  "generatedAt": "2026-08-18T00:23:10Z",
   "allDeps": {
     "packages": [
       "asyncevents > 0.0.2",
@@ -101,6 +101,27 @@
     "urls": [],
     "unresolved": [
       "asyncevents"
+    ]
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.0.1",
+      "0.0.2",
+      "0.2.0",
+      "0.2.2",
+      "0.2.3",
+      "0.2.5",
+      "0.3.0",
+      "0.4.0",
+      "0.4.5"
+    ],
+    "latest": "0.4.5",
+    "prerelease": [
+      "0.0.1"
     ]
   }
 }

@@ -51,10 +51,39 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T18:21:37Z",
+  "generatedAt": "2026-08-18T00:22:57Z",
   "allDeps": {
     "packages": [],
     "urls": [],
     "unresolved": []
+  },
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v2.0.0",
+      "v2.1.0",
+      "v2.2.0",
+      "v2.3.0",
+      "v2.4.0",
+      "v2.4.1",
+      "v2.4.2",
+      "v2.5.0",
+      "v2.5.1"
+    ],
+    "tagVersions": {
+      "v2.0.0": "2.0.0",
+      "v2.1.0": "2.1.0",
+      "v2.2.0": "2.2.0",
+      "v2.3.0": "2.3.0",
+      "v2.4.0": "2.4.0",
+      "v2.4.1": "2.4.1",
+      "v2.4.2": "2.4.2",
+      "v2.5.0": "2.5.0",
+      "v2.5.1": "2.5.1"
+    },
+    "latest": "v2.5.1"
   }
 }
