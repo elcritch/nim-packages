@@ -73,12 +73,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:17:56Z",
-  "allDeps": {
-    "packages": [],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:16:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -108,5 +103,10 @@
       "0.3.2",
       "0.3.3"
     ]
+  },
+  "allDeps": {
+    "packages": [],
+    "urls": [],
+    "unresolved": []
   }
 }

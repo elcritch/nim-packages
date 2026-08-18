@@ -138,26 +138,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:19:32Z",
-  "allDeps": {
-    "packages": [
-      "etf > 1.4.0",
-      "flatty > 1.2.1",
-      "graphemes",
-      "jsony > 1.3.0",
-      "libsodium > 1.2.1",
-      "opussum > 1.3.0",
-      "regex",
-      "segmentation",
-      "unicodedb",
-      "unicodeplus",
-      "ws",
-      "zip <= 1.2.1",
-      "zippy > 1.2.1"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:18:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -190,5 +171,24 @@
       "v1.8.0": "1.8.0"
     },
     "latest": "v1.8.0"
+  },
+  "allDeps": {
+    "packages": [
+      "etf > 1.4.0",
+      "flatty > 1.2.1",
+      "graphemes",
+      "jsony > 1.3.0",
+      "libsodium > 1.2.1",
+      "opussum > 1.3.0",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus",
+      "ws",
+      "zip <= 1.2.1",
+      "zippy > 1.2.1"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

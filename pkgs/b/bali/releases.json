@@ -1013,43 +1013,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:17:59Z",
-  "allDeps": {
-    "packages": [
-      "benchy > 0.4.1",
-      "catnip > 0.6.5 & <= 0.7.6",
-      "climate > 0.3.3 & <= 0.4.0",
-      "colored_logger",
-      "crunchy > 0.3.3",
-      "drchaos > 0.4.1 & <= 0.8.2",
-      "ferrite > 0.4.31",
-      "flatty <= 0.7.4",
-      "fuzzy > 0.4.0",
-      "icu4nim > 0.4.31",
-      "jsony > 0.3.3",
-      "kaleidoscope > 0.4.1 & <= 0.8.2",
-      "libbacktrace > 0.6.3",
-      "librng",
-      "mimalloc > 0.5.0 & <= 0.7.4",
-      "mirage <= 0.5.0",
-      "nimsimd",
-      "noise > 0.4.0",
-      "overdrive > 0.8.1",
-      "pretty",
-      "ptr_math > 0.5.0",
-      "results",
-      "shakar > 0.6.3",
-      "simdutf",
-      "url > 0.8.1",
-      "yaml > 0.4.1",
-      "zippy <= 0.7.4"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:ferus-web/nim-gmp",
-      "gh:ferus-web/sanchar"
-    ]
-  },
+  "generatedAt": "2026-08-18T06:16:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -1105,6 +1069,42 @@
     "prerelease": [
       "0.4.13-alpha1",
       "0.4.13-alpha2"
+    ]
+  },
+  "allDeps": {
+    "packages": [
+      "benchy > 0.4.1",
+      "catnip > 0.6.5 & <= 0.7.6",
+      "climate > 0.3.3 & <= 0.4.0",
+      "colored_logger",
+      "crunchy > 0.3.3",
+      "drchaos > 0.4.1 & <= 0.8.2",
+      "ferrite > 0.4.31",
+      "flatty <= 0.7.4",
+      "fuzzy > 0.4.0",
+      "icu4nim > 0.4.31",
+      "jsony > 0.3.3",
+      "kaleidoscope > 0.4.1 & <= 0.8.2",
+      "libbacktrace > 0.6.3",
+      "librng",
+      "mimalloc > 0.5.0 & <= 0.7.4",
+      "mirage <= 0.5.0",
+      "nimsimd",
+      "noise > 0.4.0",
+      "overdrive > 0.8.1",
+      "pretty",
+      "ptr_math > 0.5.0",
+      "results",
+      "shakar > 0.6.3",
+      "simdutf",
+      "url > 0.8.1",
+      "yaml > 0.4.1",
+      "zippy <= 0.7.4"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:ferus-web/nim-gmp",
+      "gh:ferus-web/sanchar"
     ]
   }
 }

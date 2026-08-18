@@ -263,15 +263,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:16Z",
-  "allDeps": {
-    "packages": [
-      "checksums > 0.14.2 & <= 0.16.2",
-      "sat > 0.14.2 & <= 0.16.2"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:24:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -364,5 +356,13 @@
     "prerelease": [
       "latest"
     ]
+  },
+  "allDeps": {
+    "packages": [
+      "checksums > 0.14.2 & <= 0.16.2",
+      "sat > 0.14.2 & <= 0.16.2"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

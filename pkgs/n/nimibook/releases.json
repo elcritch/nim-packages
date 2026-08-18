@@ -51,26 +51,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:33Z",
-  "allDeps": {
-    "packages": [
-      "faststreams",
-      "fusion",
-      "jsony",
-      "markdown",
-      "mustache",
-      "nimib",
-      "parsetoml",
-      "results",
-      "serialization",
-      "stew",
-      "tempfile",
-      "toml_serialization",
-      "unittest2"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:24:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -91,5 +72,24 @@
       "v0.4.0": "0.4.0"
     },
     "latest": "v0.4.0"
+  },
+  "allDeps": {
+    "packages": [
+      "faststreams",
+      "fusion",
+      "jsony",
+      "markdown",
+      "mustache",
+      "nimib",
+      "parsetoml",
+      "results",
+      "serialization",
+      "stew",
+      "tempfile",
+      "toml_serialization",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

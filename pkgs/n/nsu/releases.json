@@ -31,16 +31,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:24:21Z",
-  "allDeps": {
-    "packages": [
-      "oldwinapi",
-      "png",
-      "x11"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:26:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -55,5 +46,14 @@
       "v0.1.5": "0.1.5"
     },
     "latest": "v0.1.5"
+  },
+  "allDeps": {
+    "packages": [
+      "oldwinapi",
+      "png",
+      "x11"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

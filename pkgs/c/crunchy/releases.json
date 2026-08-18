@@ -84,14 +84,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:19:15Z",
-  "allDeps": {
-    "packages": [
-      "nimsimd"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:18:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -112,5 +105,12 @@
       "0.1.9"
     ],
     "latest": "0.1.11"
+  },
+  "allDeps": {
+    "packages": [
+      "nimsimd"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

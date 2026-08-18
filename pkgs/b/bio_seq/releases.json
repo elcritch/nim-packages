@@ -54,15 +54,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:18:10Z",
-  "allDeps": {
-    "packages": [
-      "bitty",
-      "fusion"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:16:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -85,5 +77,13 @@
       "v0.2.4": "0.2.4"
     },
     "latest": "v0.2.4"
+  },
+  "allDeps": {
+    "packages": [
+      "bitty",
+      "fusion"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

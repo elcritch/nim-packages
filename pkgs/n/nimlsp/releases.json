@@ -156,18 +156,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:40Z",
-  "allDeps": {
-    "packages": [
-      "ast_pattern_matching",
-      "asynctools > 0.4.0",
-      "jsonschema"
-    ],
-    "urls": [
-      "error://astpatternmatching <= 0.3.2"
-    ],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:25:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -192,5 +181,16 @@
       "v0.4.7": "0.4.7"
     },
     "latest": "v0.4.7"
+  },
+  "allDeps": {
+    "packages": [
+      "ast_pattern_matching",
+      "asynctools > 0.4.0",
+      "jsonschema"
+    ],
+    "urls": [
+      "error://astpatternmatching <= 0.3.2"
+    ],
+    "unresolved": []
   }
 }

@@ -196,29 +196,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:18:19Z",
-  "allDeps": {
-    "packages": [
-      "bitty",
-      "bumpy",
-      "chroma",
-      "crunchy",
-      "flatty",
-      "mddoc",
-      "nimsimd",
-      "opengl",
-      "pixie",
-      "shady > 0.3.4",
-      "urlly > 0.4.4",
-      "vmath",
-      "windy > 0.4.4",
-      "ws > 0.4.4",
-      "x11",
-      "zippy"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:17:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -252,5 +230,27 @@
       "v0.4.4": "0.4.4"
     },
     "latest": "0.7.0"
+  },
+  "allDeps": {
+    "packages": [
+      "bitty",
+      "bumpy",
+      "chroma",
+      "crunchy",
+      "flatty",
+      "mddoc",
+      "nimsimd",
+      "opengl",
+      "pixie",
+      "shady > 0.3.4",
+      "urlly > 0.4.4",
+      "vmath",
+      "windy > 0.4.4",
+      "ws > 0.4.4",
+      "x11",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

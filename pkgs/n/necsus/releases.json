@@ -102,15 +102,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:22:48Z",
-  "allDeps": {
-    "packages": [
-      "sync <= 0.2.0",
-      "threading <= 0.2.0"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:23:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -133,5 +125,13 @@
       "0.9.1"
     ],
     "latest": "0.15.0"
+  },
+  "allDeps": {
+    "packages": [
+      "sync <= 0.2.0",
+      "threading <= 0.2.0"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

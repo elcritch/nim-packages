@@ -39,20 +39,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:45Z",
-  "allDeps": {
-    "packages": [
-      "cligen",
-      "graphemes",
-      "nimterop",
-      "regex",
-      "segmentation",
-      "unicodedb",
-      "unicodeplus"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:25:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -71,5 +58,18 @@
       "v0.2.0": "0.2.0"
     },
     "latest": "v0.2.0"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "graphemes",
+      "nimterop",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

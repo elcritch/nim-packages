@@ -53,18 +53,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:18:17Z",
-  "allDeps": {
-    "packages": [
-      "foreach",
-      "npeg",
-      "openapi"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:disruptek/rest"
-    ]
-  },
+  "generatedAt": "2026-08-18T06:16:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -75,5 +64,16 @@
       "0.0.5"
     ],
     "latest": "0.0.5"
+  },
+  "allDeps": {
+    "packages": [
+      "foreach",
+      "npeg",
+      "openapi"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:disruptek/rest"
+    ]
   }
 }

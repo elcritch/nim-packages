@@ -468,18 +468,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:18:26Z",
-  "allDeps": {
-    "packages": [
-      "cligen > 1.0.2 & <= 1.8.30"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:disruptek/cligen",
-      "gh:disruptek/cutelog",
-      "gh:disruptek/testes"
-    ]
-  },
+  "generatedAt": "2026-08-18T06:17:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -528,5 +517,16 @@
       "1.8.8"
     ],
     "latest": "1.8.33"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen > 1.0.2 & <= 1.8.30"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:disruptek/cligen",
+      "gh:disruptek/cutelog",
+      "gh:disruptek/testes"
+    ]
   }
 }

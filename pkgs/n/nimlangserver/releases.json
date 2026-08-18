@@ -119,35 +119,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:39Z",
-  "allDeps": {
-    "packages": [
-      "bearssl > 1.4.0 & <= 1.6.0",
-      "chronicles <= 1.6.0",
-      "chronos > 1.4.0 & <= 1.6.0",
-      "faststreams <= 1.6.0",
-      "httputils > 1.4.0 & <= 1.6.0",
-      "intops > 1.4.0 & <= 1.6.0",
-      "json_rpc > 1.4.0 & <= 1.6.0",
-      "json_serialization <= 1.6.0",
-      "nimcrypto > 1.4.0 & <= 1.6.0",
-      "results <= 1.6.0",
-      "serialization <= 1.6.0",
-      "stew <= 1.6.0",
-      "stint > 1.4.0 & <= 1.6.0",
-      "testutils <= 1.6.0",
-      "unittest2 <= 1.6.0",
-      "websock > 1.4.0 & <= 1.6.0",
-      "with <= 1.6.0",
-      "zlib > 1.4.0 & <= 1.6.0"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:nickysn/asynctools",
-      "gh:yyoncho/asynctools",
-      "gh:yyoncho/nim-json-rpc"
-    ]
-  },
+  "generatedAt": "2026-08-18T06:24:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -179,6 +151,34 @@
     "latest": "v1.14.0",
     "prerelease": [
       "latest"
+    ]
+  },
+  "allDeps": {
+    "packages": [
+      "bearssl > 1.4.0 & <= 1.6.0",
+      "chronicles <= 1.6.0",
+      "chronos > 1.4.0 & <= 1.6.0",
+      "faststreams <= 1.6.0",
+      "httputils > 1.4.0 & <= 1.6.0",
+      "intops > 1.4.0 & <= 1.6.0",
+      "json_rpc > 1.4.0 & <= 1.6.0",
+      "json_serialization <= 1.6.0",
+      "nimcrypto > 1.4.0 & <= 1.6.0",
+      "results <= 1.6.0",
+      "serialization <= 1.6.0",
+      "stew <= 1.6.0",
+      "stint > 1.4.0 & <= 1.6.0",
+      "testutils <= 1.6.0",
+      "unittest2 <= 1.6.0",
+      "websock > 1.4.0 & <= 1.6.0",
+      "with <= 1.6.0",
+      "zlib > 1.4.0 & <= 1.6.0"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:nickysn/asynctools",
+      "gh:yyoncho/asynctools",
+      "gh:yyoncho/nim-json-rpc"
     ]
   }
 }

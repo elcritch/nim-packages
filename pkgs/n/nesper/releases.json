@@ -406,33 +406,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:22:52Z",
-  "allDeps": {
-    "packages": [
-      "bigints > 0.8.2",
-      "bignum > 0.8.2",
-      "bytesequtils > 0.7.0",
-      "cbor > 0.8.2",
-      "cborious > 0.8.2",
-      "cligen > 0.8.2",
-      "fastrpc > 0.8.2",
-      "gmp > 0.8.2",
-      "mcu_utils > 0.8.2",
-      "msgpack4nim > 0.4.1",
-      "persistent_enums > 0.8.2",
-      "progress > 0.8.2",
-      "results > 0.4.1",
-      "stew > 0.4.1",
-      "threading > 0.8.2",
-      "unittest2 > 0.4.1"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:ehmry/nim-bigints",
-      "gh:elcritch/mcu_utils",
-      "gh:elcritch/nim-cbor-serialization"
-    ]
-  },
+  "generatedAt": "2026-08-18T06:23:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -460,6 +434,32 @@
     "latest": "v0.8.1",
     "prerelease": [
       "v0.6.0"
+    ]
+  },
+  "allDeps": {
+    "packages": [
+      "bigints > 0.8.2",
+      "bignum > 0.8.2",
+      "bytesequtils > 0.7.0",
+      "cbor > 0.8.2",
+      "cborious > 0.8.2",
+      "cligen > 0.8.2",
+      "fastrpc > 0.8.2",
+      "gmp > 0.8.2",
+      "mcu_utils > 0.8.2",
+      "msgpack4nim > 0.4.1",
+      "persistent_enums > 0.8.2",
+      "progress > 0.8.2",
+      "results > 0.4.1",
+      "stew > 0.4.1",
+      "threading > 0.8.2",
+      "unittest2 > 0.4.1"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:ehmry/nim-bigints",
+      "gh:elcritch/mcu_utils",
+      "gh:elcritch/nim-cbor-serialization"
     ]
   }
 }

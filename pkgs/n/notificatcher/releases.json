@@ -53,7 +53,20 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:24:17Z",
+  "generatedAt": "2026-08-18T06:25:56Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.5.1"
+    ],
+    "tagVersions": {
+      "v0.5.1": "0.5.1"
+    },
+    "latest": "v0.5.1"
+  },
   "allDeps": {
     "packages": [
       "dbus",
@@ -69,18 +82,5 @@
     "unresolved": [
       "gh:PMunch/docopt.nim"
     ]
-  },
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.5.1"
-    ],
-    "tagVersions": {
-      "v0.5.1": "0.5.1"
-    },
-    "latest": "v0.5.1"
   }
 }

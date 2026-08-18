@@ -36,16 +36,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:18:51Z",
-  "allDeps": {
-    "packages": [
-      "stomp <= 0.1.1"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:subsetpark/nim-stomp"
-    ]
-  },
+  "generatedAt": "2026-08-18T06:17:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -57,5 +48,14 @@
       "0.1.4"
     ],
     "latest": "0.1.4"
+  },
+  "allDeps": {
+    "packages": [
+      "stomp <= 0.1.1"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:subsetpark/nim-stomp"
+    ]
   }
 }

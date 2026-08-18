@@ -61,17 +61,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:22:43Z",
-  "allDeps": {
-    "packages": [
-      "binstreams > 0.2.1",
-      "nimPNG > 0.1.2",
-      "riff > 0.2.1",
-      "trick > 0.1.2"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:23:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -81,5 +71,15 @@
       "0.1.2"
     ],
     "latest": "0.1.2"
+  },
+  "allDeps": {
+    "packages": [
+      "binstreams > 0.2.1",
+      "nimPNG > 0.1.2",
+      "riff > 0.2.1",
+      "trick > 0.1.2"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

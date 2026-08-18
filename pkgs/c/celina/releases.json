@@ -45,14 +45,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:18:39Z",
-  "allDeps": {
-    "packages": [
-      "unicodedb"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:17:25Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -91,5 +84,12 @@
       "v0.9.0": "0.9.0"
     },
     "latest": "v0.13.0"
+  },
+  "allDeps": {
+    "packages": [
+      "unicodedb"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

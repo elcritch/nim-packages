@@ -70,7 +70,20 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:17:53Z",
+  "generatedAt": "2026-08-18T06:16:19Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v2.0.0"
+    ],
+    "tagVersions": {
+      "v2.0.0": "2.0.0"
+    },
+    "latest": "v2.0.0"
+  },
   "allDeps": {
     "packages": [
       "awsSigV4 > 1.0.3",
@@ -85,18 +98,5 @@
       "gh:disruptek/nimcrypto",
       "gh:ThomasTJdev/crunchy"
     ]
-  },
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v2.0.0"
-    ],
-    "tagVersions": {
-      "v2.0.0": "2.0.0"
-    },
-    "latest": "v2.0.0"
   }
 }

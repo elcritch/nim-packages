@@ -259,24 +259,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:49Z",
-  "allDeps": {
-    "packages": [
-      "arraymancer",
-      "clblast",
-      "nimblas",
-      "nimcl",
-      "nimcuda",
-      "nimlapack",
-      "nimpy > 0.2.1",
-      "opencl",
-      "stb_image",
-      "untar",
-      "zip"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:25:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -327,5 +310,22 @@
       "v0.8.0": "0.8.0"
     },
     "latest": "v0.8.0"
+  },
+  "allDeps": {
+    "packages": [
+      "arraymancer",
+      "clblast",
+      "nimblas",
+      "nimcl",
+      "nimcuda",
+      "nimlapack",
+      "nimpy > 0.2.1",
+      "opencl",
+      "stb_image",
+      "untar",
+      "zip"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

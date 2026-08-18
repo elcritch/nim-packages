@@ -97,16 +97,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:17:44Z",
-  "allDeps": {
-    "packages": [
-      "aloganimisc <= 0.3.0",
-      "asyncio <= 0.3.0",
-      "asyncsync <= 0.3.0"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:16:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -143,5 +134,14 @@
       "v0.4.4": "0.4.4"
     },
     "latest": "v0.4.4"
+  },
+  "allDeps": {
+    "packages": [
+      "aloganimisc <= 0.3.0",
+      "asyncio <= 0.3.0",
+      "asyncsync <= 0.3.0"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

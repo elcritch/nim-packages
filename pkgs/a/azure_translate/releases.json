@@ -18,14 +18,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:17:53Z",
-  "allDeps": {
-    "packages": [
-      "nuuid"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:16:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -38,5 +31,12 @@
       "v0.3.0": "0.3.0"
     },
     "latest": "v0.3.0"
+  },
+  "allDeps": {
+    "packages": [
+      "nuuid"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

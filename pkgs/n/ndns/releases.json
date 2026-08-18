@@ -50,17 +50,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:22:47Z",
-  "allDeps": {
-    "packages": [
-      "dnsprotocol",
-      "results",
-      "stew",
-      "unittest2"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:23:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -81,5 +71,15 @@
       "v0.1.4": "0.1.4"
     },
     "latest": "v0.1.4"
+  },
+  "allDeps": {
+    "packages": [
+      "dnsprotocol",
+      "results",
+      "stew",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

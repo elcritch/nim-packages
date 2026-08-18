@@ -155,7 +155,22 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:17:52Z",
+  "generatedAt": "2026-08-18T06:16:18Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v1.0.3",
+      "v3.1.0"
+    ],
+    "tagVersions": {
+      "v1.0.3": "1.0.3",
+      "v3.1.0": "3.1.0"
+    },
+    "latest": "v3.1.0"
+  },
   "allDeps": {
     "packages": [
       "awsSTS",
@@ -175,20 +190,5 @@
       "gh:disruptek/nimcrypto",
       "gh:ThomasTJdev/crunchy"
     ]
-  },
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v1.0.3",
-      "v3.1.0"
-    ],
-    "tagVersions": {
-      "v1.0.3": "1.0.3",
-      "v3.1.0": "3.1.0"
-    },
-    "latest": "v3.1.0"
   }
 }

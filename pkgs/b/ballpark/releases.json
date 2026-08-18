@@ -28,15 +28,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:17:56Z",
-  "allDeps": {
-    "packages": [
-      "fsnotify",
-      "xio"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:16:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -51,5 +43,13 @@
       "v1.0.1": "1.0.1"
     },
     "latest": "v1.0.1"
+  },
+  "allDeps": {
+    "packages": [
+      "fsnotify",
+      "xio"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

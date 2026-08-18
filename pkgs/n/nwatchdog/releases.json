@@ -154,18 +154,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:24:24Z",
-  "allDeps": {
-    "packages": [
-      "graphemes > 0.1.0",
-      "regex > 0.1.0",
-      "segmentation > 0.1.0",
-      "unicodedb > 0.1.0",
-      "unicodeplus > 0.1.0"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:26:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -214,5 +203,16 @@
       "v0.2.9": "0.2.9"
     },
     "latest": "v0.2.15"
+  },
+  "allDeps": {
+    "packages": [
+      "graphemes > 0.1.0",
+      "regex > 0.1.0",
+      "segmentation > 0.1.0",
+      "unicodedb > 0.1.0",
+      "unicodeplus > 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

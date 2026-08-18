@@ -33,7 +33,19 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:42Z",
+  "generatedAt": "2026-08-18T06:25:04Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "latest-master"
+    ],
+    "prerelease": [
+      "latest-master"
+    ]
+  },
   "allDeps": {
     "packages": [
       "asynctools",
@@ -77,18 +89,6 @@
       "gh:planety/cookies",
       "gh:timotheecour/asynctools",
       "gh:xflywind/httpx"
-    ]
-  },
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "latest-master"
-    ],
-    "prerelease": [
-      "latest-master"
     ]
   }
 }

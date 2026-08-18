@@ -1984,33 +1984,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:17:35Z",
-  "allDeps": {
-    "packages": [
-      "ansiutils > 0.7.0",
-      "chrono > 0.7.0",
-      "flatty > 0.7.0",
-      "illwave > 1.6.0",
-      "illwill <= 0.7.0",
-      "libcurl > 0.7.0",
-      "nimwave > 1.6.0",
-      "paramidi",
-      "paramidi_soundfonts",
-      "pararules",
-      "parasound",
-      "puppy > 0.7.0",
-      "stb_image > 0.4.0",
-      "threading > 0.7.0",
-      "urlly > 0.7.0",
-      "wavecore > 0.7.0",
-      "webby > 0.7.0",
-      "winim > 0.7.0",
-      "zip > 0.7.0",
-      "zippy"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:15:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -2095,5 +2069,31 @@
       "1.8.0-windows": "1.8.0"
     },
     "latest": "1.8.0"
+  },
+  "allDeps": {
+    "packages": [
+      "ansiutils > 0.7.0",
+      "chrono > 0.7.0",
+      "flatty > 0.7.0",
+      "illwave > 1.6.0",
+      "illwill <= 0.7.0",
+      "libcurl > 0.7.0",
+      "nimwave > 1.6.0",
+      "paramidi",
+      "paramidi_soundfonts",
+      "pararules",
+      "parasound",
+      "puppy > 0.7.0",
+      "stb_image > 0.4.0",
+      "threading > 0.7.0",
+      "urlly > 0.7.0",
+      "wavecore > 0.7.0",
+      "webby > 0.7.0",
+      "winim > 0.7.0",
+      "zip > 0.7.0",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

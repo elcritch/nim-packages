@@ -272,19 +272,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:19:15Z",
-  "allDeps": {
-    "packages": [
-      "cligen",
-      "tiara"
-    ],
-    "urls": [
-      "error://basolato <= 0.3.0"
-    ],
-    "unresolved": [
-      "gh:itsumura-h/nim-basolato"
-    ]
-  },
+  "generatedAt": "2026-08-18T06:18:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -297,5 +285,17 @@
       "0.6.2"
     ],
     "latest": "0.6.2"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "tiara"
+    ],
+    "urls": [
+      "error://basolato <= 0.3.0"
+    ],
+    "unresolved": [
+      "gh:itsumura-h/nim-basolato"
+    ]
   }
 }

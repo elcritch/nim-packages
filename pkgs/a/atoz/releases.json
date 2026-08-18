@@ -421,22 +421,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:18:02Z",
-  "allDeps": {
-    "packages": [
-      "foreach",
-      "nimSHA2",
-      "nimcrypto",
-      "npeg",
-      "openapi",
-      "sigv4"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:disruptek/nimcrypto",
-      "gh:disruptek/rest"
-    ]
-  },
+  "generatedAt": "2026-08-18T06:16:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -485,5 +470,20 @@
       "2626.4.0"
     ],
     "latest": "2.803.0"
+  },
+  "allDeps": {
+    "packages": [
+      "foreach",
+      "nimSHA2",
+      "nimcrypto",
+      "npeg",
+      "openapi",
+      "sigv4"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:disruptek/nimcrypto",
+      "gh:disruptek/rest"
+    ]
   }
 }

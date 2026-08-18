@@ -205,25 +205,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:24:25Z",
-  "allDeps": {
-    "packages": [
-      "arraymancer",
-      "clblast",
-      "nimblas",
-      "nimcl",
-      "nimcuda",
-      "nimlapack",
-      "opencl",
-      "stb_image",
-      "untar",
-      "zip"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:HugoGranstrom/cdt"
-    ]
-  },
+  "generatedAt": "2026-08-18T06:26:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -278,5 +260,23 @@
       "v0.8.9": "0.8.9"
     },
     "latest": "v0.8.9"
+  },
+  "allDeps": {
+    "packages": [
+      "arraymancer",
+      "clblast",
+      "nimblas",
+      "nimcl",
+      "nimcuda",
+      "nimlapack",
+      "opencl",
+      "stb_image",
+      "untar",
+      "zip"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:HugoGranstrom/cdt"
+    ]
   }
 }

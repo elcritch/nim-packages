@@ -434,21 +434,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:22:54Z",
-  "allDeps": {
-    "packages": [
-      "checksums > 1.6.3",
-      "db_connector > 1.6.3",
-      "docopt > 1.4.2",
-      "graphemes > 1.4.2",
-      "regex > 1.4.2",
-      "segmentation > 1.4.2",
-      "unicodedb > 1.4.2",
-      "unicodeplus > 1.4.2"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:23:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -511,5 +497,19 @@
       "1.5.7",
       "1.6.0"
     ]
+  },
+  "allDeps": {
+    "packages": [
+      "checksums > 1.6.3",
+      "db_connector > 1.6.3",
+      "docopt > 1.4.2",
+      "graphemes > 1.4.2",
+      "regex > 1.4.2",
+      "segmentation > 1.4.2",
+      "unicodedb > 1.4.2",
+      "unicodeplus > 1.4.2"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

@@ -130,14 +130,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:17Z",
-  "allDeps": {
-    "packages": [
-      "patty > 0.4.5"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:24:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -166,5 +159,12 @@
       "v0.4.8": "0.4.8"
     },
     "latest": "v0.4.8"
+  },
+  "allDeps": {
+    "packages": [
+      "patty > 0.4.5"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

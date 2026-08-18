@@ -52,20 +52,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:18:49Z",
-  "allDeps": {
-    "packages": [
-      "bearssl",
-      "chronos",
-      "dnsprotocol",
-      "httputils",
-      "results",
-      "stew",
-      "unittest2"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:17:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -84,5 +71,18 @@
       "v0.2.0": "0.2.0"
     },
     "latest": "v0.2.0"
+  },
+  "allDeps": {
+    "packages": [
+      "bearssl",
+      "chronos",
+      "dnsprotocol",
+      "httputils",
+      "results",
+      "stew",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

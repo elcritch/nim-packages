@@ -109,22 +109,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:24:24Z",
-  "allDeps": {
-    "packages": [
-      "checksums",
-      "db_connector",
-      "docopt",
-      "graphemes",
-      "neverwinter",
-      "regex",
-      "segmentation",
-      "unicodedb",
-      "unicodeplus"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:26:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -153,5 +138,20 @@
       "v1.4.0": "1.4.0"
     },
     "latest": "v1.4.0"
+  },
+  "allDeps": {
+    "packages": [
+      "checksums",
+      "db_connector",
+      "docopt",
+      "graphemes",
+      "neverwinter",
+      "regex",
+      "segmentation",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

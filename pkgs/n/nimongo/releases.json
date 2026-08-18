@@ -22,19 +22,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:43Z",
-  "allDeps": {
-    "packages": [
-      "checksums",
-      "hmac",
-      "nimSHA2",
-      "nimcrypto",
-      "scram",
-      "sha1"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:25:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -47,5 +35,17 @@
       "v0.2.0": "0.2.0"
     },
     "latest": "v0.2.0"
+  },
+  "allDeps": {
+    "packages": [
+      "checksums",
+      "hmac",
+      "nimSHA2",
+      "nimcrypto",
+      "scram",
+      "sha1"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

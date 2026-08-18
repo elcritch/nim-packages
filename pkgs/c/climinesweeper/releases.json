@@ -46,15 +46,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:18:56Z",
-  "allDeps": {
-    "packages": [
-      "illwill",
-      "jsony > 1.2.1"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:17:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -75,5 +67,13 @@
       "v1.2.2": "1.2.2"
     },
     "latest": "v1.2.2"
+  },
+  "allDeps": {
+    "packages": [
+      "illwill",
+      "jsony > 1.2.1"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

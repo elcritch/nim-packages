@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimyottadb",
   "fqn": "nim-yottadb.ljoeckel.github.com",
-  "current": "bcb46202e2ae05a3cc65b50bc17de96a2d83ed12",
+  "current": "2b76d94dc65ab6dfe8d22e4d11765ac7c126d052",
   "author": "Lothar Joeckel",
   "description": "Nim language implementation for the YottaDB database",
   "license": "MIT",
@@ -100,23 +100,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:24:01Z",
-  "allDeps": {
-    "packages": [
-      "bingo <= 0.4.4",
-      "chronicles > 0.4.1 & <= 0.4.2",
-      "faststreams > 0.4.1 & <= 0.4.2",
-      "json_serialization > 0.4.1 & <= 0.4.2",
-      "malebolgia",
-      "results > 0.4.1 & <= 0.4.2",
-      "serialization > 0.4.1 & <= 0.4.2",
-      "stew > 0.4.1 & <= 0.4.2",
-      "testutils > 0.4.1 & <= 0.4.2",
-      "unittest2 > 0.4.1 & <= 0.4.2"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:25:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -151,5 +135,21 @@
       "v0.4.5": "0.4.5"
     },
     "latest": "v0.4.5"
+  },
+  "allDeps": {
+    "packages": [
+      "bingo <= 0.4.4",
+      "chronicles > 0.4.1 & <= 0.4.2",
+      "faststreams > 0.4.1 & <= 0.4.2",
+      "json_serialization > 0.4.1 & <= 0.4.2",
+      "malebolgia",
+      "results > 0.4.1 & <= 0.4.2",
+      "serialization > 0.4.1 & <= 0.4.2",
+      "stew > 0.4.1 & <= 0.4.2",
+      "testutils > 0.4.1 & <= 0.4.2",
+      "unittest2 > 0.4.1 & <= 0.4.2"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

@@ -72,14 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:19:26Z",
-  "allDeps": {
-    "packages": [
-      "jsony"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:18:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -99,5 +92,12 @@
       "0.6.2"
     ],
     "latest": "0.6.2"
+  },
+  "allDeps": {
+    "packages": [
+      "jsony"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

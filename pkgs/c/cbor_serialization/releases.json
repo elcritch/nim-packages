@@ -69,19 +69,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:18:37Z",
-  "allDeps": {
-    "packages": [
-      "faststreams",
-      "npeg > 0.3.0",
-      "results",
-      "serialization",
-      "stew",
-      "unittest2"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:17:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -104,5 +92,17 @@
       "v0.4.2": "0.4.2"
     },
     "latest": "v0.4.2"
+  },
+  "allDeps": {
+    "packages": [
+      "faststreams",
+      "npeg > 0.3.0",
+      "results",
+      "serialization",
+      "stew",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

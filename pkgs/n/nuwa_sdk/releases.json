@@ -60,14 +60,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:24:23Z",
-  "allDeps": {
-    "packages": [
-      "nimpy"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:26:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -92,5 +85,12 @@
       "v0.4.3": "0.4.3"
     },
     "latest": "v0.4.3"
+  },
+  "allDeps": {
+    "packages": [
+      "nimpy"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

@@ -46,20 +46,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:06Z",
-  "allDeps": {
-    "packages": [
-      "glob",
-      "graphemes",
-      "regex",
-      "segmentation",
-      "subprocess > 0.3.1",
-      "unicodedb",
-      "unicodeplus"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:24:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -74,5 +61,18 @@
       "0.4.0"
     ],
     "latest": "0.4.0"
+  },
+  "allDeps": {
+    "packages": [
+      "glob",
+      "graphemes",
+      "regex",
+      "segmentation",
+      "subprocess > 0.3.1",
+      "unicodedb",
+      "unicodeplus"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

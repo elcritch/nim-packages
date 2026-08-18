@@ -6,11 +6,11 @@
   "author": "Kristian Fjeld Hasselknippe",
   "description": "Cairo backend for the denim ui engine",
   "license": "MIT",
-  "nim": "1.4.0",
+  "nim": "1.4.2",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@eec341c2b198a47fbbf7fb706eed6cae09b2aca9",
+      "v": "0.1.0@68393bed4458c9145343633648b71a191994a7c3",
       "r": [
         "denim_ui",
         "sdl2",
@@ -20,7 +20,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:25:52Z",
+  "generatedAt": "2026-08-18T06:18:39Z",
   "allDeps": {
     "packages": [
       "cairo",

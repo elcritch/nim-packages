@@ -149,25 +149,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:24Z",
-  "allDeps": {
-    "packages": [
-      "arraymancer",
-      "bitty <= 0.1.4",
-      "clblast",
-      "nimblas",
-      "nimcl",
-      "nimcuda",
-      "nimlapack",
-      "opencl",
-      "stb_image",
-      "untar",
-      "yaml > 0.1.3",
-      "zip"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:24:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -216,5 +198,23 @@
       "v0.6.6": "0.6.6"
     },
     "latest": "v0.6.6"
+  },
+  "allDeps": {
+    "packages": [
+      "arraymancer",
+      "bitty <= 0.1.4",
+      "clblast",
+      "nimblas",
+      "nimcl",
+      "nimcuda",
+      "nimlapack",
+      "opencl",
+      "stb_image",
+      "untar",
+      "yaml > 0.1.3",
+      "zip"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

@@ -42,7 +42,18 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:24:18Z",
+  "generatedAt": "2026-08-18T06:25:56Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.8.0",
+      "0.8.1"
+    ],
+    "latest": "0.8.1"
+  },
   "allDeps": {
     "packages": [
       "checksums > 0.4.3",
@@ -61,16 +72,5 @@
     "unresolved": [
       "gh:yglukhov/android"
     ]
-  },
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.8.0",
-      "0.8.1"
-    ],
-    "latest": "0.8.1"
   }
 }

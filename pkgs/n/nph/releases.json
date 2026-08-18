@@ -72,28 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:24:19Z",
-  "allDeps": {
-    "packages": [
-      "adix > 0.6.1 & <= 0.6.2",
-      "cligen > 0.6.1 & <= 0.6.2",
-      "faststreams > 0.6.1",
-      "glob > 0.6.1",
-      "graphemes > 0.6.1",
-      "hldiff > 0.6.1 & <= 0.6.2",
-      "regex > 0.6.1",
-      "results > 0.6.1",
-      "segmentation > 0.6.1",
-      "serialization > 0.6.1",
-      "stew > 0.6.1",
-      "toml_serialization > 0.6.1",
-      "unicodedb > 0.6.1",
-      "unicodeplus > 0.6.1",
-      "unittest2 > 0.6.1"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:26:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -128,5 +107,26 @@
     "prerelease": [
       "prerelease"
     ]
+  },
+  "allDeps": {
+    "packages": [
+      "adix > 0.6.1 & <= 0.6.2",
+      "cligen > 0.6.1 & <= 0.6.2",
+      "faststreams > 0.6.1",
+      "glob > 0.6.1",
+      "graphemes > 0.6.1",
+      "hldiff > 0.6.1 & <= 0.6.2",
+      "regex > 0.6.1",
+      "results > 0.6.1",
+      "segmentation > 0.6.1",
+      "serialization > 0.6.1",
+      "stew > 0.6.1",
+      "toml_serialization > 0.6.1",
+      "unicodedb > 0.6.1",
+      "unicodeplus > 0.6.1",
+      "unittest2 > 0.6.1"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

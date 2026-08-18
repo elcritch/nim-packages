@@ -28,16 +28,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:24:23Z",
-  "allDeps": {
-    "packages": [
-      "chacha20",
-      "flatty",
-      "supersnappy"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:26:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -52,5 +43,14 @@
       "v0.1.0": "0.1.0"
     },
     "latest": "v0.1.0"
+  },
+  "allDeps": {
+    "packages": [
+      "chacha20",
+      "flatty",
+      "supersnappy"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

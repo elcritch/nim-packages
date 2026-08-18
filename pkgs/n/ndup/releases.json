@@ -173,19 +173,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:22:48Z",
-  "allDeps": {
-    "packages": [
-      "adix",
-      "bu",
-      "cligen",
-      "fitl",
-      "nio",
-      "spfun"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:23:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -207,5 +195,17 @@
       "0.3.0"
     ],
     "latest": "0.3.0"
+  },
+  "allDeps": {
+    "packages": [
+      "adix",
+      "bu",
+      "cligen",
+      "fitl",
+      "nio",
+      "spfun"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

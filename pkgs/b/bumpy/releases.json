@@ -78,15 +78,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:18:27Z",
-  "allDeps": {
-    "packages": [
-      "mddoc",
-      "vmath"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:17:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -105,5 +97,13 @@
       "1.1.3"
     ],
     "latest": "1.1.3"
+  },
+  "allDeps": {
+    "packages": [
+      "mddoc",
+      "vmath"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

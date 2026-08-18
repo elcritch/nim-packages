@@ -37,21 +37,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:17:42Z",
-  "allDeps": {
-    "packages": [
-      "bearssl <= 0.1.0",
-      "checksums",
-      "chronos <= 0.1.0",
-      "httputils <= 0.1.0",
-      "nimcrypto",
-      "results <= 0.1.0",
-      "stew <= 0.1.0",
-      "unittest2 <= 0.1.0"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:16:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -66,5 +52,19 @@
       "v0.3.0": "0.3.0"
     },
     "latest": "v0.3.0"
+  },
+  "allDeps": {
+    "packages": [
+      "bearssl <= 0.1.0",
+      "checksums",
+      "chronos <= 0.1.0",
+      "httputils <= 0.1.0",
+      "nimcrypto",
+      "results <= 0.1.0",
+      "stew <= 0.1.0",
+      "unittest2 <= 0.1.0"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

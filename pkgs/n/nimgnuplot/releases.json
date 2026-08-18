@@ -30,26 +30,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:29Z",
-  "allDeps": {
-    "packages": [
-      "arraymancer",
-      "clblast",
-      "datamancer",
-      "nimblas",
-      "nimcl",
-      "nimcuda",
-      "nimlapack",
-      "opencl",
-      "stb_image",
-      "untar",
-      "zip"
-    ],
-    "urls": [],
-    "unresolved": [
-      "gh:Vindaar/seqmath"
-    ]
-  },
+  "generatedAt": "2026-08-18T06:24:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -69,6 +50,25 @@
       "v2025.9.21",
       "v2025.9.22",
       "v2025.9.30"
+    ]
+  },
+  "allDeps": {
+    "packages": [
+      "arraymancer",
+      "clblast",
+      "datamancer",
+      "nimblas",
+      "nimcl",
+      "nimcuda",
+      "nimlapack",
+      "opencl",
+      "stb_image",
+      "untar",
+      "zip"
+    ],
+    "urls": [],
+    "unresolved": [
+      "gh:Vindaar/seqmath"
     ]
   }
 }

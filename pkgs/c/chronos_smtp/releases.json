@@ -107,24 +107,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:18:49Z",
-  "allDeps": {
-    "packages": [
-      "bearssl",
-      "chronicles > 0.3.0",
-      "chronos",
-      "faststreams > 0.3.0",
-      "httputils",
-      "json_serialization > 0.3.0",
-      "results",
-      "serialization > 0.3.0",
-      "stew",
-      "testutils > 0.3.0",
-      "unittest2"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:17:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -157,5 +140,22 @@
       "v0.8.0": "0.8.0"
     },
     "latest": "v0.8.0"
+  },
+  "allDeps": {
+    "packages": [
+      "bearssl",
+      "chronicles > 0.3.0",
+      "chronos",
+      "faststreams > 0.3.0",
+      "httputils",
+      "json_serialization > 0.3.0",
+      "results",
+      "serialization > 0.3.0",
+      "stew",
+      "testutils > 0.3.0",
+      "unittest2"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

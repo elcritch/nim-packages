@@ -138,17 +138,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:23:51Z",
-  "allDeps": {
-    "packages": [
-      "cligen",
-      "npeg",
-      "supersnappy",
-      "zippy"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:25:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -163,5 +153,15 @@
       "0.6.8"
     ],
     "latest": "0.6.8"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen",
+      "npeg",
+      "supersnappy",
+      "zippy"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

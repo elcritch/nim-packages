@@ -29,14 +29,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T00:24:20Z",
-  "allDeps": {
-    "packages": [
-      "dlutils"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-08-18T06:26:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -51,5 +44,12 @@
       "v0.9.3": "0.9.3"
     },
     "latest": "0.9.6"
+  },
+  "allDeps": {
+    "packages": [
+      "dlutils"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }
