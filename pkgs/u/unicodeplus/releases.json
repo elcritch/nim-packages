@@ -92,7 +92,11 @@
     },
     {
       "v": "0.6.0@fcbbd7de2296b3b6ab126fc8fc65f0f6fdbcd97c",
-      "r": []
+      "r": [
+        "unicodedb >= 0.8",
+        "segmentation >= 0.1"
+      ],
+      "m": "0.19.0"
     },
     {
       "v": "0.5.1@9ebe96bf2aeaad590f4e09d287f76fe74e7efb88",
@@ -160,7 +164,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T06:30:36Z",
+  "generatedAt": "2026-08-18T12:27:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -217,7 +221,7 @@
   "allDeps": {
     "packages": [
       "graphemes > 0.13.0",
-      "segmentation > 0.6.0",
+      "segmentation > 0.5.1",
       "unicodedb"
     ],
     "urls": [],

@@ -10,9 +10,9 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.0.2@0e11c162871d332f9f7267304eaf79a2fc7b4d4b",
+      "v": "0.0.2@fccd6b53f331677a99e77044bd7bb13593141a85",
       "r": [
-        "nimcrypto >= 0.6.3",
+        "nimcrypto >= 0.5.4",
         "rng >= 0.2.0",
         "db_connector >= 0.1.0"
       ]
@@ -20,7 +20,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T06:15:40Z",
+  "generatedAt": "2026-08-18T12:14:29Z",
   "allDeps": {
     "packages": [
       "db_connector",

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "presto",
   "fqn": "nim-presto.status-im.github.com",
-  "current": "8549aa9d872272923825430f5580ba7b1784886e",
+  "current": "e755ea2345642895d5425ebdbbdcbb4d26ebbb1b",
   "author": "Status Research & Development GmbH",
   "description": "REST API implementation",
   "license": "MIT",
@@ -13,7 +13,7 @@
   ],
   "releases": [
     {
-      "v": "0.1.2@8549aa9d872272923825430f5580ba7b1784886e^",
+      "v": "0.1.2@8549aa9d872272923825430f5580ba7b1784886e",
       "r": [
         "chronos >= 4.0.3 & < 5.0.0",
         "chronicles",
@@ -47,7 +47,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T06:27:13Z",
+  "generatedAt": "2026-08-18T12:24:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
