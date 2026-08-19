@@ -1,1 +1,1 @@
-{"v":"#head@c5c6d16934d0c373e673f89cd823f3f8e1058534","r":["pluginkit","voodoo","jsony","valido","termstyle","nancy","noise","floof"]}
+{"v":"#head@e8a4073139d453d8b08b386a3a00a3ada051ffbf","r":["voodoo >= 0.1.9","valido >= 0.1.0","termstyle >= 0.1.0","noise >= 0.1.10","pluginkit >= 0.1.1","threading >= 0.2.1"]}

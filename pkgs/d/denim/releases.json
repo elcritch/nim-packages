@@ -24,53 +24,11 @@
       "r": [
         "kapsis >= 0.4.3"
       ]
-    },
-    {
-      "v": "0.1.9@2741eec08249855cd5345800003aa170622a25d3",
-      "r": [
-        "kapsis #head"
-      ],
-      "i": []
-    },
-    {
-      "v": "0.1.8@11505f4e0390098a1ce4ca3ac6e82875c096efd3",
-      "r": [
-        "kapsis #head"
-      ],
-      "i": []
-    },
-    {
-      "v": "0.1.7@6a8701502612cb8c9c728fa43c4530b075fc2b53",
-      "r": [
-        "kapsis #head"
-      ],
-      "i": []
-    },
-    {
-      "v": "0.1.6@66b2c99b3f0d53142df68f012c068900603be0f6",
-      "r": [
-        "kapsis #head"
-      ],
-      "i": []
-    },
-    {
-      "v": "0.1.5@a30f5507f396118dd5693767a18f5ed60c8d57f8",
-      "r": [
-        "kapsis #head"
-      ],
-      "i": []
-    },
-    {
-      "v": "0.1.4@55a73f657422005b4153ca990b490efa58291772",
-      "r": [
-        "kapsis"
-      ],
-      "i": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-19T12:17:52Z",
+  "generatedAt": "2026-08-19T18:18:00Z",
   "allDeps": {
     "packages": [
       "ansiparse",
@@ -79,19 +37,16 @@
       "checksums",
       "floof",
       "htmlparser",
-      "illwill",
-      "jsony",
       "kapsis",
       "libffi",
-      "msgpack4nim",
       "nancy",
       "nimsimd",
       "noise",
       "openparser",
-      "pkginfo",
       "pluginkit",
       "semver",
       "termstyle",
+      "threading",
       "valido",
       "voodoo"
     ],

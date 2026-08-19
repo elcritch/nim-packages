@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "tim",
   "fqn": "tim.openpeeps.github.com",
-  "current": "d33bdffedf483d4004230ef4120565d624177bc9",
+  "current": "cdff576613fbb59612f4279eb9c5b3337d11bb9f",
   "author": "OpenPeeps",
   "description": "A super fast template engine for cool kids!",
   "license": "LGPL-3.0-or-later",
@@ -62,53 +62,11 @@
       "m": "2.0.0",
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/tim.openpeeps.github.com-f7f42a2b-tim.nimble\ncannot resolve package name: powpow\ncannot resolve package name: clue"
-    },
-    {
-      "v": "0.2.5@b6b471c2ef25c60aa4692f5d1040653fec504e53",
-      "r": [
-        "kapsis >= 0.3.3",
-        "vancode >= 0.1.2",
-        "flatty >= 0.4.0",
-        "checksums >= 0.2.2",
-        "voodoo >= 0.1.9",
-        "watchout >= 0.2.2",
-        "openparser >= 0.1.2",
-        "semver >= 1.2.3",
-        "supranim >= 0.1.1",
-        "error://powpow >= 0.1.0",
-        "error://clue #head",
-        "bag >= 0.1.0"
-      ],
-      "m": "2.0.0",
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/tim.openpeeps.github.com-b6b471c2-tim.nimble\ncannot resolve package name: powpow\ncannot resolve package name: clue",
-      "i": []
-    },
-    {
-      "v": "0.2.4@9e1a5ff072901287b6ab66f4b4c0cd4b3d99b759",
-      "r": [
-        "kapsis >= 0.3.3",
-        "vancode >= 0.1.2",
-        "flatty >= 0.4.0",
-        "checksums >= 0.2.2",
-        "voodoo >= 0.1.9",
-        "watchout >= 0.2.2",
-        "openparser >= 0.1.2",
-        "semver >= 1.2.3",
-        "supranim >= 0.1.1",
-        "error://powpow >= 0.1.0",
-        "error://clue #head",
-        "bag >= 0.1.0"
-      ],
-      "m": "2.0.0",
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/tim.openpeeps.github.com-9e1a5ff0-tim.nimble\ncannot resolve package name: powpow\ncannot resolve package name: clue",
-      "i": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-19T12:25:17Z",
+  "generatedAt": "2026-08-19T18:28:19Z",
   "allDeps": {
     "packages": [
       "ansiparse",
@@ -126,14 +84,12 @@
       "gccjit",
       "htmlparser",
       "httpx",
-      "illwill",
       "ioselectors",
       "jsony",
       "kapsis",
       "libevent",
       "libffi",
       "mimedb",
-      "msgpack4nim",
       "nancy",
       "nimsimd",
       "noise",
