@@ -119,10 +119,6 @@
       "m": "0.14.3"
     },
     {
-      "v": "0.2.2@a0a3b5ed2868ae906056cbb041a6b6900cbcfa7f",
-      "r": []
-    },
-    {
       "v": "0.2.1@8fc80c358893809429f0ca2fe3dcae26bcb14016",
       "r": []
     },
@@ -173,7 +169,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T18:27:06Z",
+  "generatedAt": "2026-08-19T00:24:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -196,8 +192,8 @@
   "allDeps": {
     "packages": [
       "classy > 0.2.4",
-      "nimboost > 0.2.2",
-      "patty > 0.2.2"
+      "nimboost > 0.2.1",
+      "patty > 0.2.1"
     ],
     "urls": [],
     "unresolved": []

@@ -25,13 +25,6 @@
       "h": true
     },
     {
-      "v": "0.1.3@12fe19ad5d805374dd0daa86f4c89da2b45b8d1a",
-      "r": [
-        "nimgen >= 0.1.4"
-      ],
-      "h": true
-    },
-    {
       "v": "0.1.2@b27561fc9a99b0b44862bba8fb201d849f45a8c3",
       "r": [
         "nimgen >= 0.1.4"
@@ -48,7 +41,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:32:08Z",
+  "generatedAt": "2026-08-19T00:24:27Z",
   "allDeps": {
     "packages": [
       "c2nim",

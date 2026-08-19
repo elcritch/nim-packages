@@ -23,6 +23,13 @@
       ]
     },
     {
+      "v": "0.6.1@c123b60faeca744770703953a56dfd4fe6141540",
+      "r": [
+        "nimpy",
+        "nimPNG"
+      ]
+    },
+    {
       "v": "0.6.0@0b3391f809ea89cb3dfde94867f67848c47d6086",
       "r": [
         "nimpy",
@@ -116,7 +123,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T18:20:53Z",
+  "generatedAt": "2026-08-19T00:19:33Z",
   "allDeps": {
     "packages": [
       "nimPNG > 0.5.0",

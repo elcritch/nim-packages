@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "Nimduvo",
   "fqn": "Nimduvo.sednoids.github.com",
-  "current": "1a3d96f64650eade0a6aafd2879c06b8d6985eff",
+  "current": "f96a90ec4d9a47f5f35f657b5b96ecf9baddc173",
   "author": "sednoids",
   "description": "A Nim wrapper for the Luduvo API.",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "1.1.2@1a3d96f64650eade0a6aafd2879c06b8d6985eff^",
+      "v": "1.1.2@1a3d96f64650eade0a6aafd2879c06b8d6985eff",
       "r": []
     },
     {
@@ -24,7 +24,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-18T18:16:37Z",
+  "generatedAt": "2026-08-19T00:16:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
