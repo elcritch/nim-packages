@@ -93,12 +93,9 @@
     },
     {
       "v": "0.1.5@a49358b51db23d10d819c45803b3a7de62348493",
-      "r": [
-        "flatty >= 0.3.4",
-        "zippy >= 0.10.12",
-        "nimsimd >= 1.2.9",
-        "pretty >= 0.1.0"
-      ]
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
     },
     {
       "v": "0.1.4@5dfe7efbc0ff37d40898e007a92757704bf1b018",
@@ -112,7 +109,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-19T00:23:08Z",
+  "generatedAt": "2026-08-19T06:22:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
