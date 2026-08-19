@@ -47,7 +47,6 @@
       "boogie",
       "checksums",
       "db_connector",
-      "denim",
       "dotenv",
       "e2ee",
       "emitter",

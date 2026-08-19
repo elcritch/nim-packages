@@ -104,88 +104,23 @@
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/tim.openpeeps.github.com-9e1a5ff0-tim.nimble\ncannot resolve package name: powpow\ncannot resolve package name: clue",
       "i": []
-    },
-    {
-      "v": "0.2.3@d88e4dafe80066a47d89fb70b6c1894a9373b5f8",
-      "r": [
-        "kapsis >= 0.3.3",
-        "vancode >= 0.1.2",
-        "flatty >= 0.4.0",
-        "checksums >= 0.2.2",
-        "voodoo >= 0.1.9",
-        "watchout >= 0.2.2",
-        "openparser >= 0.1.2",
-        "semver >= 1.2.3"
-      ],
-      "m": "2.0.0",
-      "i": []
-    },
-    {
-      "v": "0.2.2@a38028b0af0bb970e91fd8cee1508c56faf1d465",
-      "r": [
-        "kapsis >= 0.3.3",
-        "vancode >= 0.1.1",
-        "flatty >= 0.4.0",
-        "checksums >= 0.2.2",
-        "voodoo >= 0.1.9",
-        "watchout >= 0.2.2",
-        "openparser >= 0.1.2",
-        "semver >= 1.2.3"
-      ],
-      "m": "2.0.0",
-      "i": []
-    },
-    {
-      "v": "0.2.1@be443a6d1f8b4ecc32486f6d0a5e8a70d8047670",
-      "r": [
-        "kapsis >= 0.3.3",
-        "vancode >= 0.1.1",
-        "flatty >= 0.4.0",
-        "checksums >= 0.2.2",
-        "voodoo >= 0.1.9",
-        "watchout >= 0.2.2",
-        "openparser >= 0.1.2"
-      ],
-      "m": "2.0.0",
-      "i": []
-    },
-    {
-      "v": "0.2.0@ab83a314e4217bddffc9b45ed1f1272d7af11ed3",
-      "r": [
-        "kapsis #head",
-        "jsony",
-        "flatty",
-        "checksums",
-        "nyml #head",
-        "semver",
-        "dotenv",
-        "denim #head",
-        "voodoo #head",
-        "libffi",
-        "gccjit",
-        "watchout #head"
-      ],
-      "l": "LGPLv3",
-      "m": "2.0.0",
-      "i": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-07T06:41:52Z",
+  "generatedAt": "2026-08-19T12:25:17Z",
   "allDeps": {
     "packages": [
       "ansiparse",
-      "bag > 0.2.3",
-      "base32 > 0.2.3",
+      "bag",
+      "base32",
       "bigints",
       "blackpaper",
       "boogie > 0.2.6",
       "checksums",
-      "db_connector > 0.2.3",
-      "denim <= 0.2.0",
+      "db_connector",
       "dotenv",
-      "emitter > 0.2.3",
+      "emitter",
       "flatty",
       "floof",
       "gccjit",
@@ -195,30 +130,30 @@
       "ioselectors",
       "jsony",
       "kapsis",
-      "libevent > 0.2.3",
+      "libevent",
       "libffi",
-      "mimedb > 0.2.3",
+      "mimedb",
       "msgpack4nim",
       "nancy",
       "nimsimd",
       "noise",
       "nyml",
       "openparser",
-      "otp > 0.2.3",
-      "ozark > 0.2.3",
+      "otp",
+      "ozark",
       "pkginfo",
       "pluginkit",
-      "qr > 0.2.3",
+      "qr",
       "semver",
       "sorta > 0.2.6",
-      "supranim > 0.2.3",
+      "supranim",
       "termstyle",
-      "threading > 0.2.0",
+      "threading",
       "timerwheel",
       "toktok",
-      "twofa > 0.2.3",
+      "twofa",
       "valido",
-      "vancode > 0.2.0",
+      "vancode",
       "voodoo",
       "watchout",
       "websocketx",
@@ -226,10 +161,10 @@
       "ws"
     ],
     "urls": [
-      "error://clue > 0.2.3",
-      "error://flysystem > 0.2.3",
-      "error://nimcypher > 0.2.3",
-      "error://powpow > 0.2.3"
+      "error://clue",
+      "error://flysystem",
+      "error://nimcypher",
+      "error://powpow"
     ],
     "unresolved": []
   }
