@@ -172,7 +172,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-20T12:24:10Z",
+  "generatedAt": "2026-08-20T18:28:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -215,8 +215,10 @@
       "neverwinter > 0.1.3",
       "regex > 0.1.3",
       "segmentation > 0.1.3",
+      "taskpools > 0.1.3",
       "unicodedb > 0.1.3",
       "unicodeplus > 0.1.3",
+      "unittest2 > 0.1.3",
       "zip > 0.1.3 & <= 0.2.6"
     ],
     "urls": [],

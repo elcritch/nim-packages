@@ -29,6 +29,16 @@
       ]
     },
     {
+      "v": "4.2.3@447b3fd8ae0619e847bff46d823d56779e21851b",
+      "r": [
+        "results",
+        "stew",
+        "bearssl >= 0.2.7",
+        "httputils",
+        "unittest2"
+      ]
+    },
+    {
       "v": "4.2.2@45f43a9ad8bd8bcf5903b42f365c1c879bd54240",
       "r": [
         "results",
@@ -151,7 +161,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-20T12:17:00Z",
+  "generatedAt": "2026-08-20T18:18:18Z",
   "allDeps": {
     "packages": [
       "bearssl <= 4.2.4",

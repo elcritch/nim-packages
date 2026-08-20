@@ -23,7 +23,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-20T12:20:41Z",
+  "generatedAt": "2026-08-20T18:23:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -47,8 +47,10 @@
       "neverwinter",
       "regex",
       "segmentation",
+      "taskpools",
       "unicodedb",
-      "unicodeplus"
+      "unicodeplus",
+      "unittest2"
     ],
     "urls": [],
     "unresolved": []

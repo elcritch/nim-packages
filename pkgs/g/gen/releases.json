@@ -50,9 +50,12 @@
     },
     {
       "v": "0.6.0@528c6fac0e173c4b026be006e7394d37f1cc1034",
-      "r": [],
-      "b": "",
-      "p": []
+      "r": [
+        "progress",
+        "docopt",
+        "fab"
+      ],
+      "d": "A boilerplate generator for Nim Lang's Jester web framework"
     },
     {
       "v": "0.4.0@c1f14cead5ce0eeb1116823dcac007dd993bc043",
@@ -75,7 +78,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-20T12:19:05Z",
+  "generatedAt": "2026-08-20T18:21:22Z",
   "allDeps": {
     "packages": [
       "docopt",

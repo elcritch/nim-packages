@@ -167,6 +167,19 @@
       }
     },
     {
+      "v": "0.7.2@232e507b9c5ca4dc61ec79dd4241bc79e987cd35",
+      "r": [
+        "nimsimd",
+        "chroma",
+        "vmath"
+      ],
+      "f": {
+        "test": [
+          "pixie >= 0.5.0"
+        ]
+      }
+    },
+    {
       "v": "0.7.1@6b46c787de09989eaaadf5f5b9cbd62caef55fe2",
       "r": [
         "nimsimd",
@@ -325,7 +338,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-20T12:25:58Z",
+  "generatedAt": "2026-08-20T18:30:49Z",
   "allDeps": {
     "packages": [
       "bumpy",
