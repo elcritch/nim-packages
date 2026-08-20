@@ -71,7 +71,6 @@
     "packages": [
       "ansiparse",
       "bag",
-      "base32",
       "bigints",
       "blackpaper",
       "boogie > 0.2.6",
@@ -95,11 +94,9 @@
       "noise",
       "nyml",
       "openparser",
-      "otp",
       "ozark",
       "pkginfo",
       "pluginkit",
-      "qr",
       "semver",
       "sorta > 0.2.6",
       "supranim",
@@ -107,7 +104,6 @@
       "threading",
       "timerwheel",
       "toktok",
-      "twofa",
       "valido",
       "vancode",
       "voodoo",
@@ -118,8 +114,6 @@
     ],
     "urls": [
       "error://clue",
-      "error://flysystem",
-      "error://nimcypher",
       "error://powpow"
     ],
     "unresolved": []
