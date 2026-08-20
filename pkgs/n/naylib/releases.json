@@ -190,6 +190,16 @@
       }
     },
     {
+      "v": "25.51.1@07b6c4aece5ef19e4167893facb4d48c50a82ecd",
+      "r": [],
+      "h": true,
+      "f": {
+        "dev": [
+          "eminim 2.8.2"
+        ]
+      }
+    },
+    {
       "v": "25.42.0@e496593cab5b7ff0ae8cd73d7288beab9735d49f",
       "r": [],
       "h": true,
@@ -236,7 +246,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-20T00:22:57Z",
+  "generatedAt": "2026-08-20T06:22:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

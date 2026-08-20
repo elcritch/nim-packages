@@ -10,13 +10,6 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "2.16.3.1@2cde3f1660125803184fff2713bcdab732e9e8de",
-      "r": [
-        "cppstl >= 0.7.0",
-        "colored_logger >= 0.1.0"
-      ]
-    },
-    {
       "v": "0.1.2@61a207ef4ed5ccba0c24d769e670ba47502c3f76",
       "r": [
         "cppstl >= 0.7.0",
@@ -40,7 +33,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-20T00:22:19Z",
+  "generatedAt": "2026-08-20T06:21:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

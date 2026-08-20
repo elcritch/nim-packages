@@ -2,13 +2,17 @@
   "cv": 19,
   "name": "zippy",
   "fqn": "zippy.guzba.github.com",
-  "current": "435b939234cd6b249da8cc5c2a0b1a286e5934a6",
+  "current": "cd562ba43ae8904a4d1ba55611b8a521ef4a179e",
   "author": "Ryan Oldenburg",
   "description": "Pure Nim implementation of deflate, zlib, gzip and zip.",
   "license": "MIT",
   "nim": "1.0.10",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.10.20@cd562ba43ae8904a4d1ba55611b8a521ef4a179e^",
+      "r": []
+    },
     {
       "v": "0.10.19@bcb8c1e1be6abb0a0e35a3c6040cdd9391cc993f",
       "r": []
@@ -415,7 +419,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-20T00:28:07Z",
+  "generatedAt": "2026-08-20T06:28:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -435,6 +439,7 @@
       "0.10.18",
       "0.10.19",
       "0.10.2",
+      "0.10.20",
       "0.10.3",
       "0.10.4",
       "0.10.5",
@@ -442,7 +447,6 @@
       "0.10.7",
       "0.10.8",
       "0.10.9",
-      "0.6.1",
       "0.6.2",
       "0.7.1",
       "0.7.2",
@@ -463,7 +467,7 @@
       "0.9.8",
       "0.9.9"
     ],
-    "latest": "0.10.19"
+    "latest": "0.10.20"
   },
   "allDeps": {
     "packages": [],
