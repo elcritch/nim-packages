@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "tim",
   "fqn": "tim.openpeeps.github.com",
-  "current": "cdff576613fbb59612f4279eb9c5b3337d11bb9f",
+  "current": "ce1d25647079a3c344932131928d0fe0f7ee5b90",
   "author": "OpenPeeps",
   "description": "A super fast template engine for cool kids!",
   "license": "LGPL-3.0-or-later",
@@ -24,6 +24,22 @@
     "tim"
   ],
   "releases": [
+    {
+      "v": "0.2.8@ce1d25647079a3c344932131928d0fe0f7ee5b90^",
+      "r": [
+        "kapsis >= 0.3.3",
+        "vancode >= 0.2.5",
+        "flatty >= 0.4.0",
+        "checksums >= 0.2.2",
+        "voodoo >= 0.2.0",
+        "watchout >= 0.2.2",
+        "openparser >= 0.2.0",
+        "semver >= 1.2.3",
+        "bag >= 0.1.0",
+        "boogie >= 0.1.2",
+        "supranim >= 0.1.9"
+      ]
+    },
     {
       "v": "0.2.7@e66da82686011e2d82cee9e66eaae9e8a4c1e509",
       "r": [
@@ -66,7 +82,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-19T18:28:19Z",
+  "generatedAt": "2026-08-20T12:27:34Z",
   "allDeps": {
     "packages": [
       "ansiparse",
@@ -113,7 +129,7 @@
       "ws"
     ],
     "urls": [
-      "error://clue",
+      "error://clue <= 0.2.7",
       "error://powpow"
     ],
     "unresolved": []

@@ -236,18 +236,6 @@
       "o": {}
     },
     {
-      "v": "1.1.0@7f4107652aee15621de5c952a106fc453320537f",
-      "r": [
-        "chronos >= 3.0.2",
-        "npeg",
-        "zippy",
-        "jsony",
-        "stew",
-        "urlly >= 0.2.0 & < 0.3.0"
-      ],
-      "m": "1.3.1"
-    },
-    {
       "v": "1.0.27@c0eef5d46201ee48ae75ede7c902f0f300db6561",
       "r": [
         "chronos >= 3.0.2",
@@ -706,7 +694,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:35:53Z",
+  "generatedAt": "2026-08-20T12:25:59Z",
   "allDeps": {
     "packages": [
       "asynctest > 1.0.12 & <= 1.0.18",

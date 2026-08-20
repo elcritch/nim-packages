@@ -83,6 +83,17 @@
       ]
     },
     {
+      "v": "0.13.5@d67e08d03cb80395dca3525678fc75e25fc49c1b",
+      "r": [
+        "termstyle",
+        "macroutils",
+        "gh:PMunch/nimbleutils >= 0.3.3"
+      ],
+      "p": [
+        "opir"
+      ]
+    },
+    {
       "v": "0.13.4@830ea22ab0438037ab60e2768f85b1c86574033c",
       "r": [
         "termstyle",
@@ -424,7 +435,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-20T06:19:21Z",
+  "generatedAt": "2026-08-20T12:19:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

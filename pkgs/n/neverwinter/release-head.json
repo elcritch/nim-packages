@@ -1,1 +1,1 @@
-{"v":"#head@3283359e410b3ca1a7cefc360844fb7466181c1c","r":["checksums >= 0.2.1","docopt >= 0.7.1","db_connector >= 0.1.0"],"g":true}
+{"v":"#head@f3f4d2e878fd836a7a41d88e04f19c09f399b23b","r":["checksums >= 0.2.1","docopt >= 0.7.1","db_connector >= 0.1.0","taskpools >= 0.2.0"],"g":true}
