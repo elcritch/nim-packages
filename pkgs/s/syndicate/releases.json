@@ -13,11 +13,6 @@
   ],
   "releases": [
     {
-      "v": "20251230@423a8b3870d20f6e0dceee5df82b2cf551d010d4",
-      "r": [],
-      "p": []
-    },
-    {
       "v": "20251221@4e60d0007fa3d15ec648c66287f0515ff0b527e0",
       "r": [],
       "p": []
@@ -401,7 +396,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-17T06:32:27Z",
+  "generatedAt": "2026-08-21T06:26:07Z",
   "allDeps": {
     "packages": [
       "getdns > 20221102 & <= 20240522",

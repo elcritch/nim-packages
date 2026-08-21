@@ -8,6 +8,10 @@
   "license": "GPLv2",
   "releases": [
     {
+      "v": "0.4.2@3273cb144172deb2dae615191b30a62093c365ee^",
+      "r": []
+    },
+    {
       "v": "0.4.1@3c53ea922867194ba37685bb22f0dbffccca4dfe",
       "r": []
     },
@@ -36,7 +40,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-21T00:18:37Z",
+  "generatedAt": "2026-08-21T06:15:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

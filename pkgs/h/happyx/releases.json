@@ -691,6 +691,24 @@
       ]
     },
     {
+      "v": "1.10.1@ff4e6fc5f5104b737cfdffca4a9ec011752f5079",
+      "r": [
+        "cligen",
+        "illwill",
+        "regex",
+        "httpx",
+        "microasynchttpserver",
+        "httpbeast",
+        "nimja",
+        "websocket",
+        "websocketx"
+      ],
+      "p": [
+        "hpx"
+      ],
+      "m": "1.6.12"
+    },
+    {
       "v": "1.9.0@32d7dc13fa00ff2a7084546eac30347f433c7d69",
       "r": [
         "cligen",
@@ -1120,7 +1138,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-21T00:23:25Z",
+  "generatedAt": "2026-08-21T06:19:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -1223,7 +1241,7 @@
       "illwill > 0.5.2",
       "ioselectors > 0.5.1",
       "microasynchttpserver > 0.27.1",
-      "nimcrypto > 1.9.0",
+      "nimcrypto > 1.10.1",
       "nimja > 0.5.2",
       "nimpy > 2.1.0 & <= 4.0.2",
       "oauth > 2.6.1 & <= 4.0.2",
