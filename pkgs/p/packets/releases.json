@@ -2,14 +2,18 @@
   "cv": 19,
   "name": "packets",
   "fqn": "packets.nim.Q-Master.github.com",
-  "current": "42a0772c22335332c547982b2550511c7cf8613e",
+  "current": "62ff9c43c7acb0f4f0d1fd0cd8b45828bf2f2f04",
   "author": "Vladimir Berezenko <qmaster2000@gmail.com>",
   "description": "Pure Nim declarative packets system for serializing/deserializing",
   "license": "MIT",
   "nim": "2.0.2",
   "releases": [
     {
-      "v": "2.4.0@42a0772c22335332c547982b2550511c7cf8613e^",
+      "v": "2.4.1@62ff9c43c7acb0f4f0d1fd0cd8b45828bf2f2f04^",
+      "r": []
+    },
+    {
+      "v": "2.4.0@42a0772c22335332c547982b2550511c7cf8613e",
       "r": []
     },
     {
@@ -124,7 +128,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-20T18:28:44Z",
+  "generatedAt": "2026-08-21T18:23:02Z",
   "allDeps": {
     "packages": [
       "packedjson <= 0.5.1"

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimby",
   "fqn": "nimby.treeform.github.com",
-  "current": "b2a267b559c72531b769362114081a477396d086",
+  "current": "118cdf5b0d9c60401abec261a2413ee664689236",
   "author": "Andre von Houck",
   "description": "Nimby helps you manage many nim packages.",
   "license": "MIT",
@@ -119,7 +119,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-21T12:20:41Z",
+  "generatedAt": "2026-08-21T18:21:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

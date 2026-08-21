@@ -28,16 +28,11 @@
       "v": "1.0.1@75f866dd26d17626f2950bca77bf511748133222",
       "r": [],
       "m": "0.17.3"
-    },
-    {
-      "v": "1.0.0@bbbb44e98c0d4b296d5290d502f7e4a035662011",
-      "r": [],
-      "x": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-21T12:18:11Z",
+  "generatedAt": "2026-08-21T18:18:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
