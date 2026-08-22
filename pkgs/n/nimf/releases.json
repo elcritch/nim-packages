@@ -38,15 +38,6 @@
       ]
     },
     {
-      "v": "0.5.1@84658593e6fe7c9040f9019d5820722d3594e4c7",
-      "r": [
-        "malebolgia",
-        "cligen >= 1.6.6 & < 2.0.0",
-        "lscolors #head",
-        "stack_strings >= 1.1.1"
-      ]
-    },
-    {
       "v": "0.5.0@b71787472a66e4c50db9ed7cf5096ef53d1acc5c",
       "r": [
         "malebolgia",
@@ -446,7 +437,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:32:06Z",
+  "generatedAt": "2026-08-22T06:22:18Z",
   "allDeps": {
     "packages": [
       "adix > 0.1.0 & <= 0.2.2",

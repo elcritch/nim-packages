@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "pluginkit",
   "fqn": "pluginkit.openpeeps.github.com",
-  "current": "848c0cd6af4bc0b17e37040bdde99f5837d74f15",
+  "current": "e2263907ab87a0714ceb7d7455b83c6372982e6d",
   "author": "George Lemon",
   "description": "Create and manage plugins in a modular way",
   "license": "MIT",
@@ -10,7 +10,15 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.1@848c0cd6af4bc0b17e37040bdde99f5837d74f15^",
+      "v": "0.2.0@e2263907ab87a0714ceb7d7455b83c6372982e6d^",
+      "r": [
+        "semver >= 1.2.3",
+        "checksums >= 0.2.2",
+        "openparser >= 0.1.9"
+      ]
+    },
+    {
+      "v": "0.1.1@848c0cd6af4bc0b17e37040bdde99f5837d74f15",
       "r": [
         "semver >= 1.2.3",
         "checksums >= 0.2.2",
@@ -20,7 +28,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-10T00:35:32Z",
+  "generatedAt": "2026-08-22T06:24:34Z",
   "allDeps": {
     "packages": [
       "checksums",
