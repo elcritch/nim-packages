@@ -268,10 +268,20 @@
     },
     {
       "v": "1.6.0@f308f580fe79ba651d6678887d7dc455ae1b7566",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "x": []
+      "r": [
+        "nimcrypto >= 0.6.0 & < 0.7.0",
+        "dnsclient >= 0.3.0 & < 0.4.0",
+        "bearssl >= 0.2.5",
+        "chronicles >= 0.10.2",
+        "chronos >= 4.0.3",
+        "metrics",
+        "secp256k1",
+        "stew #head",
+        "websock",
+        "unittest2",
+        "gh:status-im/nim-quic #ddcb31ffb74b5460ab37fd13547eca90594248bc"
+      ],
+      "m": "1.6.0"
     },
     {
       "v": "1.5.0@b9c0be40ed99b1da4428af474db9ff78373b6253",
@@ -371,7 +381,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-22T06:20:15Z",
+  "generatedAt": "2026-08-22T12:18:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
