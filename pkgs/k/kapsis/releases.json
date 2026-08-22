@@ -2,13 +2,24 @@
   "cv": 19,
   "name": "kapsis",
   "fqn": "kapsis.openpeeps.github.com",
-  "current": "541e8183fa67da81a3dc31394b59a22594f02eaf",
+  "current": "87856e98537ba7fff14dc69ec62bda6392748417",
   "author": "George Lemon",
   "description": "Your type of CLI framework",
   "license": "MIT",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.4.7@87856e98537ba7fff14dc69ec62bda6392748417^",
+      "r": [
+        "voodoo >= 0.1.9",
+        "valido >= 0.1.0",
+        "termstyle >= 0.1.0",
+        "noise >= 0.1.10",
+        "pluginkit >= 0.2.0",
+        "threading >= 0.2.1"
+      ]
+    },
     {
       "v": "0.4.6@17f0bbf3df15d02a20a8c13fdc6d1fac823f6c3d",
       "r": [
@@ -121,7 +132,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-22T06:19:31Z",
+  "generatedAt": "2026-08-22T18:15:07Z",
   "allDeps": {
     "packages": [
       "ansiparse <= 0.4.2",
