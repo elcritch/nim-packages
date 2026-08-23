@@ -65,17 +65,6 @@
       ]
     },
     {
-      "v": "0.4.2@50ac8c680469cf68b59304543a8341c3abb9e40f",
-      "r": [
-        "voodoo >= 0.1.9",
-        "valido >= 0.1.0",
-        "termstyle >= 0.1.0",
-        "nancy >= 0.1.1",
-        "noise >= 0.1.10",
-        "pluginkit >= 0.1.1"
-      ]
-    },
-    {
       "v": "0.4.1@155d1d467fe798460e07134992c5eb5f007f87a1",
       "r": [
         "voodoo >= 0.1.9",
@@ -132,24 +121,24 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-22T18:15:07Z",
+  "generatedAt": "2026-08-23T06:19:26Z",
   "allDeps": {
     "packages": [
-      "ansiparse <= 0.4.2",
+      "ansiparse <= 0.4.1",
       "bigints",
       "blackpaper",
       "checksums > 0.3.9",
       "floof",
       "htmlparser",
       "libffi",
-      "nancy <= 0.4.2",
+      "nancy <= 0.4.1",
       "nimsimd",
       "noise",
       "openparser",
       "pluginkit > 0.3.9",
       "semver > 0.3.9",
       "termstyle",
-      "threading > 0.4.2",
+      "threading > 0.4.1",
       "valido",
       "voodoo"
     ],

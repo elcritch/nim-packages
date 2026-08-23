@@ -266,12 +266,6 @@
       "E": "ambiguous nimble file"
     },
     {
-      "v": "0.2.3@de89df71ade1a980741695003c8c57a808c53f18",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file"
-    },
-    {
       "v": "0.2.2@15a527d8b4158fd247a05e276939167c444bc20a",
       "r": [],
       "S": "HasUnknownNimbleFile",
@@ -300,7 +294,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-25T00:40:49Z",
+  "generatedAt": "2026-08-23T06:18:30Z",
   "allDeps": {
     "packages": [],
     "urls": [],
