@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "treestand",
   "fqn": "nim-treestand.YesDrX.github.com",
-  "current": "1f5e199062bad7398dd65f5de5d0f7fc8189f2bd",
+  "current": "196c6ca0dada56051236244129c48833d6ef9ee9",
   "author": "Treestand Contributors",
   "description": "Tree-sitter parser generator for Nim",
   "license": "MIT",
@@ -80,7 +80,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T12:26:31Z",
+  "generatedAt": "2026-08-23T18:26:12Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
