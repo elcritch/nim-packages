@@ -10,6 +10,14 @@
   "srcDir": "src",
   "releases": [
     {
+      "v": "0.1.2@027402417f5590b937fb5d6489555a3a8d9c497e^",
+      "r": [
+        "threading >= 0.2.1",
+        "e2ee >= 0.1.0",
+        "ozark >= 0.1.5"
+      ]
+    },
+    {
       "v": "0.1.1@6b5e5340526d12457d85bf54ca41107099b06ee0",
       "r": [
         "threading",
@@ -25,11 +33,18 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-07T12:32:05Z",
+  "generatedAt": "2026-08-23T12:25:42Z",
   "allDeps": {
     "packages": [
+      "db_connector > 0.1.1",
       "e2ee",
-      "threading > 0.1.0"
+      "htmlparser > 0.1.1",
+      "libffi > 0.1.1",
+      "nimsimd > 0.1.1",
+      "openparser > 0.1.1",
+      "ozark > 0.1.1",
+      "threading > 0.1.0",
+      "voodoo > 0.1.1"
     ],
     "urls": [],
     "unresolved": []

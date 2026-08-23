@@ -13,7 +13,7 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@b99fcb2ea3191da4d931082765423a2d82410e82",
+      "v": "0.1.0@2834e1f1012a7ed0922c07310a76ce81b0e427f2",
       "r": [],
       "k": []
     },
@@ -38,7 +38,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T06:20:29Z",
+  "generatedAt": "2026-08-23T12:19:29Z",
   "allDeps": {
     "packages": [
       "tnetstring > 0.1.0",

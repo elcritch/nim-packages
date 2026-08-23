@@ -3,7 +3,15 @@
   "name": "arduino",
   "fqn": "nim-arduino.markspanbroek.github.com",
   "current": "ea798d16d07cd64dce3cdddd6f8aa4d3c6be0173",
+  "author": "nim-arduino authors",
+  "description": "Arduino bindings for Nim",
+  "license": "MIT",
+  "nim": "1.4.2",
   "releases": [
+    {
+      "v": "0.3.0@ea798d16d07cd64dce3cdddd6f8aa4d3c6be0173^",
+      "r": []
+    },
     {
       "v": "0.2.0@4fff29d36e880d67fcbc3edb62061e941d0cfb70",
       "r": [],
@@ -13,7 +21,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T06:14:57Z",
+  "generatedAt": "2026-08-23T12:12:09Z",
   "allDeps": {
     "packages": [],
     "urls": [],

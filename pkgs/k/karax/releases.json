@@ -112,11 +112,22 @@
       "m": "0.16.1",
       "k": [],
       "p": []
+    },
+    {
+      "v": "0.1.0@9904ec10cca1192aaec81c439c37dce6cae314ad",
+      "r": [],
+      "a": "Araq",
+      "x": [
+        "examples/todoapp"
+      ],
+      "m": "0.16.1",
+      "k": [],
+      "p": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T06:19:26Z",
+  "generatedAt": "2026-08-23T12:18:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
