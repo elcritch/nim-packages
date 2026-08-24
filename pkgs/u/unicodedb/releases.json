@@ -2,11 +2,11 @@
   "cv": 19,
   "name": "unicodedb",
   "fqn": "nim-unicodedb.nitely.github.com",
-  "current": "d7c6dfcadab8347b9dc4b583820cce606f7bbdc8",
+  "current": "b70aac15a3fdc7647997bd6cd10bccd8b2c00e54",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "Unicode Character Database (UCD) access for Nim",
   "license": "MIT",
-  "nim": "1.0.0",
+  "nim": "1.6.20",
   "srcDir": "src",
   "skipDirs": [
     "tests",
@@ -14,28 +14,42 @@
   ],
   "releases": [
     {
-      "v": "0.13.2@66f2458710dc641dd4640368f9483c8a0ec70561",
+      "v": "0.14.1@b70aac15a3fdc7647997bd6cd10bccd8b2c00e54^",
       "r": []
+    },
+    {
+      "v": "0.14.0@5ee0625a5157d738339c570f48717268138dd30c",
+      "r": []
+    },
+    {
+      "v": "0.13.2@66f2458710dc641dd4640368f9483c8a0ec70561",
+      "r": [],
+      "m": "1.0.0"
     },
     {
       "v": "0.13.1@3f8b524fb711bf54db19048b935fa6277d9af5e7",
-      "r": []
+      "r": [],
+      "m": "1.0.0"
     },
     {
       "v": "0.13.0@15c5e25e2a49a924bc97647481ff50125bba2c76",
-      "r": []
+      "r": [],
+      "m": "1.0.0"
     },
     {
       "v": "0.12.0@b055310c08db8f879057b4fec15c8301ee93bb2a",
-      "r": []
+      "r": [],
+      "m": "1.0.0"
     },
     {
       "v": "0.11.2@c70f8bc8c7373265670e0575bc5eda36fe3761b0",
-      "r": []
+      "r": [],
+      "m": "1.0.0"
     },
     {
       "v": "0.11.1@7d3b449c44730804a3c9b4f4f3dbeca028212d05",
-      "r": []
+      "r": [],
+      "m": "1.0.0"
     },
     {
       "v": "0.10.0@675407fa4b6e701ebf9f94e5370ce18c3af40cc3",
@@ -140,7 +154,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-24T00:31:28Z",
+  "generatedAt": "2026-08-24T06:35:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -155,6 +169,8 @@
       "v0.13.0",
       "v0.13.1",
       "v0.13.2",
+      "v0.14.0",
+      "v0.14.1",
       "v0.2",
       "v0.2.1",
       "v0.2.2",
@@ -180,6 +196,8 @@
       "v0.13.0": "0.13.0",
       "v0.13.1": "0.13.1",
       "v0.13.2": "0.13.2",
+      "v0.14.0": "0.14.0",
+      "v0.14.1": "0.14.1",
       "v0.2": "0.2",
       "v0.2.1": "0.2.1",
       "v0.2.2": "0.2.2",
@@ -199,7 +217,7 @@
       "v0.8.0": "0.8.0",
       "v0.9.0": "0.9.0"
     },
-    "latest": "v0.13.2"
+    "latest": "v0.14.1"
   },
   "allDeps": {
     "packages": [],
