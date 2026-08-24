@@ -1,1 +1,1 @@
-{"v":"#head@671145b7e68fb9dcac08b62b890d44eb15c72859","r":["stew","serialization","results"],"m":"1.6.0"}
+{"v":"#head@cdbac612f0f3d2883e959807d790658854e73cf2","r":["stew >= 0.5.0","serialization >= 0.5.4","results >= 0.5.0"],"m":"1.6.18"}

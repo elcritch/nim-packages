@@ -1,1 +1,1 @@
-{"v":"#head@bce15af84b1402ccd6f647cd0de897d4a3d2d9c5","r":["faststreams >= 0.3.0","serialization","json_serialization","testutils"]}
+{"v":"#head@45c823b8af409f82fa35fd5e1f6a7c9a06fe3137","r":["faststreams >= 0.3.0","serialization >= 0.5.0","json_serialization >= 0.4.0","testutils >= 0.8.0"]}

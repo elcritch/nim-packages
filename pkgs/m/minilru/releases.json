@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "minilru",
   "fqn": "nim-minilru.status-im.github.com",
-  "current": "6dd93feb60f4cded3c05e7af7209cf63fb677893",
+  "current": "6a6929edaf365bf032f00e5cd197d0eeb7a0467e",
   "author": "Jacek Sieka",
   "description": "Status Research & Development GmbH",
   "license": "MIT",
@@ -15,11 +15,19 @@
         "results",
         "unittest2"
       ]
+    },
+    {
+      "v": "0.1.1@6a6929edaf365bf032f00e5cd197d0eeb7a0467e^",
+      "r": [
+        "results >= 0.5.0",
+        "unittest2 >= 0.2.0"
+      ],
+      "m": "1.6.18"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:30:43Z",
+  "generatedAt": "2026-08-24T12:23:13Z",
   "allDeps": {
     "packages": [
       "results",

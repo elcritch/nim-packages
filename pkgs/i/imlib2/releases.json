@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "imlib2",
   "fqn": "Imlib2.PMunch.github.com",
-  "current": "207dc2ab509044c8653f952a5daa9464d57f59f9",
+  "current": "24cecd602d4dceedced007b4f9feea8d7ef582e9",
   "author": "PMunch",
   "description": "Wrapper of the Imlib2 library",
   "license": "MIT",
@@ -10,19 +10,32 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@c29350099f8e530e41e9c9227e377fd95733c8ba",
-      "r": []
-    },
-    {
-      "v": "0.1.1@207dc2ab509044c8653f952a5daa9464d57f59f9^",
-      "r": []
+      "v": "0.2.0@24cecd602d4dceedced007b4f9feea8d7ef582e9^",
+      "r": [
+        "x11 >= 1.2"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:28:52Z",
+  "generatedAt": "2026-08-24T12:21:23Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.2.0"
+    ],
+    "tagVersions": {
+      "v0.2.0": "0.2.0"
+    },
+    "latest": "v0.2.0"
+  },
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "x11"
+    ],
     "urls": [],
     "unresolved": []
   }

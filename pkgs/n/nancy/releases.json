@@ -20,7 +20,7 @@
       "y": []
     },
     {
-      "v": "0.1.1@9918716a563f64d740df6a02db42662781e94fc8",
+      "v": "0.1.1@35e16f51c378658dc43e47765d35a4b7ac9e1bf3",
       "r": [
         "ansiparse >= 0.2.0"
       ]
@@ -28,7 +28,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-24T06:28:03Z",
+  "generatedAt": "2026-08-24T12:23:37Z",
   "allDeps": {
     "packages": [
       "ansiparse"

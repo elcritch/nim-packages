@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "boogie",
   "fqn": "boogie.openpeeps.github.com",
-  "current": "cb9faf0eaf2d829ad685f08e8366adc6047fdcac",
+  "current": "678a36fd13c64beea5b9d9d2f01336a934b53a5f",
   "author": "George Lemon",
   "description": "A suite of WAL-based data stores",
   "license": "LGPL-3.0-or-later",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.2@cb9faf0eaf2d829ad685f08e8366adc6047fdcac^",
+      "v": "0.1.2@cb9faf0eaf2d829ad685f08e8366adc6047fdcac",
       "r": [
         "sorta >= 0.2.0",
         "flatty >= 0.4.0",
@@ -38,7 +38,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-19T18:15:31Z",
+  "generatedAt": "2026-08-24T12:17:06Z",
   "allDeps": {
     "packages": [
       "flatty",
