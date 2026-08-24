@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "unicodeplus",
   "fqn": "nim-unicodeplus.nitely.github.com",
-  "current": "f802d012290c32a69a774f2e7ea889546c1132e7",
+  "current": "7e8521b86b80a6e0082af31482daa76c94e8a9e6",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "Common unicode operations",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.14.2@f802d012290c32a69a774f2e7ea889546c1132e7^",
+      "v": "0.14.2@f802d012290c32a69a774f2e7ea889546c1132e7",
       "r": [
         "unicodedb >= 0.8",
         "segmentation >= 0.1",
@@ -164,7 +164,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-24T12:30:44Z",
+  "generatedAt": "2026-08-24T18:27:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

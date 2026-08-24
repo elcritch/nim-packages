@@ -1,1 +1,1 @@
-{"v":"#head@e755ea2345642895d5425ebdbbdcbb4d26ebbb1b","r":["chronos >= 4.0.3 & < 5.0.0","chronicles","metrics","results","stew"]}
+{"v":"#head@e07ae5ddfe6ae17e238a0cd7a366e1ee6886bec0","r":["chronos >= 4.0.3 & < 5.0.0","chronicles >= 0.12.4","metrics >= 0.1.0","results >= 0.5.0","stew >= 0.5.2"],"m":"1.6.18"}

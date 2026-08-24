@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "json_serialization",
   "fqn": "nim-json-serialization.status-im.github.com",
-  "current": "962ed76ed786e89d8d3fd8882781097fde12f958",
+  "current": "73c37b46591cf3d6a19d39ff0ed14b2e77433778",
   "author": "Status Research & Development GmbH",
   "description": "Flexible JSON serialization not relying on run-time type information",
   "license": "Apache License 2.0",
@@ -56,7 +56,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-24T12:21:49Z",
+  "generatedAt": "2026-08-24T18:20:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

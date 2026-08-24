@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "readfx",
   "fqn": "readfx.quadram-institute-bioscience.github.com",
-  "current": "bd56e9ab3b6277358cd0afcd5a162c3dcde98170",
+  "current": "0b6a94e04e9b977d82b00cc65212625b376a2f7b",
   "author": "Andreas Wilm and SeqFu team",
   "description": "Parse FASTQ and FASTA files, using Heng Li's Klib",
   "license": "MIT",
@@ -12,7 +12,7 @@
   ],
   "releases": [
     {
-      "v": "0.6.0@bd56e9ab3b6277358cd0afcd5a162c3dcde98170^",
+      "v": "0.6.0@bd56e9ab3b6277358cd0afcd5a162c3dcde98170",
       "r": [
         "zip >= 0.2.1"
       ]
@@ -48,7 +48,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-24T12:27:45Z",
+  "generatedAt": "2026-08-24T18:25:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

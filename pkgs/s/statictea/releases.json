@@ -6,6 +6,7 @@
   "author": "Steve Flenniken",
   "description": "A template processor and language.",
   "license": "MIT",
+  "nim": "1.4.2",
   "srcDir": "src",
   "releases": [
     {
@@ -23,11 +24,15 @@
     {
       "v": "0.1.1@6100acaef6060b96ca14911e68479e1bca356488",
       "r": []
+    },
+    {
+      "v": "0.1.0@5dc4edee0643f2e0d68a63fa876dc35dade31fb0",
+      "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-24T12:29:23Z",
+  "generatedAt": "2026-08-24T18:26:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
