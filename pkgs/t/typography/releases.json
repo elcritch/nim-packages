@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "typography",
   "fqn": "typography.treeform.github.com",
-  "current": "a2a5165c36e0098dea526712890fb7e988ba27f2",
+  "current": "78849f9b27463f3301f29ffb235a5261d4aefd88",
   "author": "Andre von Houck",
   "description": "Fonts, Typesetting and Rasterization for Nim.",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.7.14@a2a5165c36e0098dea526712890fb7e988ba27f2^",
+      "v": "0.7.14@a2a5165c36e0098dea526712890fb7e988ba27f2",
       "r": [
         "pixie >= 5.0.1",
         "print >= 0.1.0"
@@ -318,7 +318,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T18:26:23Z",
+  "generatedAt": "2026-08-24T00:31:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

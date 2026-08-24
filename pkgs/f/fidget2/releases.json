@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "fidget2",
   "fqn": "fidget2.treeform.github.com",
-  "current": "b55e5b5731391081c69229809451112f10e39a9e",
+  "current": "92d56b62074d0fa45e967b8393352d799af2e51e",
   "author": "Andre von Houck",
   "description": "Fidget2 is a cross platform UI library leveraging Figma.",
   "license": "MIT",
@@ -149,7 +149,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T18:15:30Z",
+  "generatedAt": "2026-08-24T00:20:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

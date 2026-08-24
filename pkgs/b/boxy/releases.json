@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "boxy",
   "fqn": "boxy.treeform.github.com",
-  "current": "f064ead838dbf980a520c827bc0fb600b8ea2364",
+  "current": "d6ec494969084d7ebabd0fedea76ff28c74d6770",
   "author": "Andre von Houck and Ryan Oldenburg",
   "description": "2D GPU rendering with a tiling atlas.",
   "license": "MIT",
@@ -196,7 +196,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T18:12:52Z",
+  "generatedAt": "2026-08-24T00:17:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

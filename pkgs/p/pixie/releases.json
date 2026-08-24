@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "pixie",
   "fqn": "pixie.treeform.github.com",
-  "current": "665f360ef2572bffbf38bdc5349c7e6de3e28ed0",
+  "current": "87cecced5c4c6f311c658a5f3ca0c9b43edb6aa7",
   "author": "Andre von Houck and Ryan Oldenburg",
   "description": "Full-featured 2d graphics library for Nim.",
   "license": "MIT",
@@ -817,7 +817,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T18:22:53Z",
+  "generatedAt": "2026-08-24T00:27:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

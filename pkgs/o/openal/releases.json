@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "openal",
   "fqn": "openal.treeform.github.com",
-  "current": "1686996c840c1aaa224603dafbb19fa0cb842992",
+  "current": "1882b562f3d550959794f8b09a1d7538404f300c",
   "author": "Andre von Houck",
   "description": "An OpenAL wrapper for nim.",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.2.0@1686996c840c1aaa224603dafbb19fa0cb842992^",
+      "v": "0.2.0@1686996c840c1aaa224603dafbb19fa0cb842992",
       "r": []
     },
     {
@@ -27,7 +27,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T18:22:08Z",
+  "generatedAt": "2026-08-24T00:27:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

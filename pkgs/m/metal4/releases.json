@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "metal4",
   "fqn": "metal4.treeform.github.com",
-  "current": "46d0bc5afd65a563ecf9c5c93004b357733594c1",
+  "current": "e9ef085d38cdc7abf3d89670f3eae1754595b9f9",
   "author": "Andre von Houck",
   "description": "Metal 4 bindings and examples for Nim.",
   "license": "MIT",
@@ -20,7 +20,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T18:18:51Z",
+  "generatedAt": "2026-08-24T00:23:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

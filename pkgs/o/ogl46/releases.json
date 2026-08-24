@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "ogl46",
   "fqn": "ogl46.treeform.github.com",
-  "current": "cc37e9c68f229a9ef2f5df048f6b5acc414ecdb4",
+  "current": "b78b6df7536d8b6cc3ac4bd36af6011184dd4562",
   "author": "treeform",
   "description": "OpenGL 4.6 DSA wrapper for Nim.",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@cc37e9c68f229a9ef2f5df048f6b5acc414ecdb4^",
+      "v": "0.1.0@cc37e9c68f229a9ef2f5df048f6b5acc414ecdb4",
       "r": [
         "opengl >= 1.2.9",
         "windy >= 0.0.1",
@@ -21,7 +21,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T18:22:03Z",
+  "generatedAt": "2026-08-24T00:26:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "slappy",
   "fqn": "slappy.treeform.github.com",
-  "current": "34dd9214f7e8efb446e3c65e1f8b8344aa147d08",
+  "current": "bd8eed6f4e0c02be517f3d8a8d8653a5015ca16b",
   "author": "Andre von Houck",
   "description": "3d sound API",
   "license": "MIT",
@@ -67,7 +67,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T18:24:37Z",
+  "generatedAt": "2026-08-24T00:29:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "dx12",
   "fqn": "dx12.treeform.github.com",
-  "current": "11f7fd5a6223e71d52a360f701145e63f306559f",
+  "current": "65049f4e2ec1acbbf1987bfa79817d472650c15e",
   "author": "treeform",
   "description": "DirectX 12 wrapper for Nim on Windows.",
   "license": "MIT",
@@ -18,7 +18,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T12:15:20Z",
+  "generatedAt": "2026-08-24T00:19:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

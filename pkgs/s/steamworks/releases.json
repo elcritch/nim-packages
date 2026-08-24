@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "steamworks",
   "fqn": "steamworks.treeform.github.com",
-  "current": "6f09afbf7c73d226b7efb76e1dafeb4a50792535",
+  "current": "ee58cb1928fbb53d18bcfadf9e5615e510d4f85d",
   "author": "Andre von Houck",
   "description": "Steamworks wrapper for nim.",
   "license": "MIT",
@@ -20,7 +20,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T18:25:11Z",
+  "generatedAt": "2026-08-24T00:30:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

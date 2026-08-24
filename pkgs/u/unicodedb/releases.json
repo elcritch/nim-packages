@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "unicodedb",
   "fqn": "nim-unicodedb.nitely.github.com",
-  "current": "8938e71cdb3332b8a16eb27a6984c8565ea4643e",
+  "current": "d7c6dfcadab8347b9dc4b583820cce606f7bbdc8",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "Unicode Character Database (UCD) access for Nim",
   "license": "MIT",
@@ -140,7 +140,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T18:26:25Z",
+  "generatedAt": "2026-08-24T00:31:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

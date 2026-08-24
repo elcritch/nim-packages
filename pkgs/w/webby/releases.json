@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "webby",
   "fqn": "webby.treeform.github.com",
-  "current": "4799dba3570f0df1211b9e334eb7c4a528b63384",
+  "current": "fe515be4ab5d02695289f88fca0d27f703a05599",
   "author": "Andre von Houck and Ryan Oldenburg",
   "description": "Common HTTP data structures and functionality",
   "license": "MIT",
@@ -60,7 +60,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T18:26:58Z",
+  "generatedAt": "2026-08-24T00:32:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

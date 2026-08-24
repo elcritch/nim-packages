@@ -310,6 +310,12 @@
       "p": []
     },
     {
+      "v": "1.3.2@ec75c4f40aef77b75f5cc7b300350e279432a47c",
+      "r": [],
+      "m": "1.0.8",
+      "p": []
+    },
+    {
       "v": "1.3.1@24fc2c46f9f8ca5d078549b802bc90a9eaad2cf8",
       "r": [],
       "a": "Bernhard Stöckner <niv@nwnx.io>",
@@ -437,7 +443,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T18:19:45Z",
+  "generatedAt": "2026-08-24T00:24:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
