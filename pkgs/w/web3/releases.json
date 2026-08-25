@@ -2,12 +2,29 @@
   "cv": 19,
   "name": "web3",
   "fqn": "nim-web3.status-im.github.com",
-  "current": "05ee6a9630d523869c1d0c73cf8abc5faae160a7",
+  "current": "09dca1b9e4680f467ddce9f35fb7a3a092f99ded",
   "author": "Status Research & Development GmbH",
   "description": "These are the humble beginnings of library similar to web3.[js|py]",
   "license": "MIT or Apache License 2.0",
-  "nim": "2.0.0",
+  "nim": "2.0.10",
   "releases": [
+    {
+      "v": "0.8.1@09dca1b9e4680f467ddce9f35fb7a3a092f99ded^",
+      "r": [
+        "bearssl >= 0.2.13",
+        "chronicles >= 0.12.4",
+        "chronos >= 4.4.0",
+        "eth >= 0.9.0",
+        "faststreams >= 0.5.0",
+        "json_rpc >= 0.6.0",
+        "json_serialization >= 0.4.2",
+        "nimcrypto >= 0.7.0",
+        "results >= 0.5.0",
+        "serialization >= 0.4.4",
+        "stew >= 0.5.0",
+        "stint >= 0.9.0"
+      ]
+    },
     {
       "v": "0.8.0@cdfe5601d2812a58e54faf53ee634452d01e5918",
       "r": [
@@ -23,7 +40,8 @@
         "stew",
         "stint",
         "results"
-      ]
+      ],
+      "m": "2.0.0"
     },
     {
       "v": "0.7.0@85af8f228a7032d60572685513607fdb2d587a53",
@@ -39,7 +57,8 @@
         "stew",
         "stint",
         "results"
-      ]
+      ],
+      "m": "2.0.0"
     },
     {
       "v": "0.6.0@d5f78ee5dffd122cf448c0884ec25da766d2f42b",
@@ -55,7 +74,8 @@
         "stew",
         "stint",
         "results"
-      ]
+      ],
+      "m": "2.0.0"
     },
     {
       "v": "0.5.0@d8a91d040975cd3dd2a10c26456fab2d7523e8dd",
@@ -71,24 +91,27 @@
         "stew",
         "stint",
         "results"
-      ]
+      ],
+      "m": "2.0.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-25T06:29:26Z",
+  "generatedAt": "2026-08-25T12:27:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "v0.7.0"
+      "v0.7.0",
+      "v0.8.1"
     ],
     "tagVersions": {
-      "v0.7.0": "0.7.0"
+      "v0.7.0": "0.7.0",
+      "v0.8.1": "0.8.1"
     },
-    "latest": "v0.7.0"
+    "latest": "v0.8.1"
   },
   "allDeps": {
     "packages": [

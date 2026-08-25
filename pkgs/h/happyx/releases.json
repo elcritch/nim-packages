@@ -96,6 +96,22 @@
       ]
     },
     {
+      "v": "4.6.5@5476224fcf293a2be13e2d3f91efb6175e094332",
+      "r": [
+        "checksums >= 0.1.0",
+        "cligen >= 1.6.14",
+        "illwill #2fe96f5c5a6e216e84554d92090ce3d47460667a",
+        "regex #head",
+        "httpx >= 0.3.7",
+        "microasynchttpserver >= 0.11.0",
+        "httpbeast >= 0.4.2",
+        "nimja 0.8.7",
+        "websocket >= 0.5.2",
+        "websocketx >= 0.1.2",
+        "nimcrypto >= 0.3.9"
+      ]
+    },
+    {
       "v": "4.6.2@06d125740e2a84f1ae0f876a4d2e061ef3604b13",
       "r": [
         "checksums >= 0.1.0",
@@ -1122,7 +1138,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-25T06:20:54Z",
+  "generatedAt": "2026-08-25T12:19:53Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

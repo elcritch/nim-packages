@@ -1,1 +1,1 @@
-{"v":"#head@1df2c2ffb70de10599d17ce3a95421f6febd69cb","r":["stew >= 0.2.0","unittest2"]}
+{"v":"#head@059bc2f52546ac14b583639c33372c14b1d46fa3","r":["stew >= 0.5.0","unittest2 >= 0.2.5"]}
