@@ -6,19 +6,28 @@
   "author": "Status Research & Development GmbH",
   "description": "Metrics client library supporting Prometheus",
   "license": "MIT or Apache License 2.0",
-  "nim": "1.6.14",
+  "nim": "1.6.18",
   "skipDirs": [
     "tests",
     "benchmarks"
   ],
   "releases": [
     {
+      "v": "0.2.3@b56bfb8656bd135f0be17d4da95680e86f71e8b4^",
+      "r": [
+        "chronos >= 4.0.3",
+        "results >= 0.5.0",
+        "stew >= 0.5.2"
+      ]
+    },
+    {
       "v": "0.2.1@6329de91da399ad17aaef97ff181b4ee65d4f80b",
       "r": [
         "chronos >= 4.0.3",
         "results",
         "stew"
-      ]
+      ],
+      "m": "1.6.14"
     },
     {
       "v": "0.1.2@11d0cddfb0e711aa2a8c75d1892ae24a64c299fc",
@@ -26,24 +35,27 @@
         "chronos >= 4.0.3",
         "results",
         "stew"
-      ]
+      ],
+      "m": "1.6.14"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-25T00:25:03Z",
+  "generatedAt": "2026-08-25T06:22:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "v0.1.2"
+      "v0.1.2",
+      "v0.2.3"
     ],
     "tagVersions": {
-      "v0.1.2": "0.1.2"
+      "v0.1.2": "0.1.2",
+      "v0.2.3": "0.2.3"
     },
-    "latest": "v0.1.2"
+    "latest": "v0.2.3"
   },
   "allDeps": {
     "packages": [

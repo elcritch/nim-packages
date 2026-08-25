@@ -504,14 +504,6 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-559c639e-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2"
     },
     {
-      "v": "0.14.0@ec82e8dcd0cb0652a78982b509a95ea0be6f1cdd",
-      "r": [],
-      "d": "Puyo Puyo and Nazo Puyo Application",
-      "l": "Apache-2.0",
-      "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-ec82e8dc-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.2\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.9\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2"
-    },
-    {
       "v": "0.13.2@5acf37b19c69d59f49b44f8618ad3a4fa183069a",
       "r": [
         "suru #f6f1e607c585b2bc2f71309996643f0555ff6349"
@@ -955,7 +947,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-25T00:28:57Z",
+  "generatedAt": "2026-08-25T06:26:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

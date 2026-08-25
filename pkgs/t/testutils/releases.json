@@ -6,7 +6,7 @@
   "author": "Status Research & Development GmbH",
   "description": "A unittest framework",
   "license": "Apache License 2.0",
-  "nim": "1.6.0",
+  "nim": "1.6.18",
   "skipDirs": [
     "tests"
   ],
@@ -18,17 +18,26 @@
   ],
   "releases": [
     {
+      "v": "0.8.3@3feb84e206660d5289caefbe7b0f66f97d9ec084^",
+      "r": [
+        "stew >= 0.5.0",
+        "unittest2 >= 0.2.0"
+      ]
+    },
+    {
       "v": "0.8.2@74588b8b55d116ca057431ae3a0ca359e0825fcd",
       "r": [
         "stew",
         "unittest2"
-      ]
+      ],
+      "m": "1.6.0"
     },
     {
       "v": "0.8.1@6ce5e5e2301ccbc04b09d27ff78741ff4d352b4d",
       "r": [
         "unittest2"
       ],
+      "m": "1.6.0",
       "j": []
     },
     {
@@ -36,6 +45,7 @@
       "r": [
         "unittest2"
       ],
+      "m": "1.6.0",
       "j": []
     },
     {
@@ -43,6 +53,7 @@
       "r": [
         "unittest2"
       ],
+      "m": "1.6.0",
       "j": []
     },
     {
@@ -50,6 +61,7 @@
       "r": [
         "unittest2"
       ],
+      "m": "1.6.0",
       "j": []
     },
     {
@@ -57,6 +69,7 @@
       "r": [
         "unittest2"
       ],
+      "m": "1.6.0",
       "j": []
     },
     {
@@ -64,6 +77,7 @@
       "r": [
         "unittest2"
       ],
+      "m": "1.6.0",
       "j": []
     },
     {
@@ -143,7 +157,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-25T00:31:35Z",
+  "generatedAt": "2026-08-25T06:28:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -159,16 +173,18 @@
       "v0.6.0",
       "v0.7.0",
       "v0.8.1",
-      "v0.8.2"
+      "v0.8.2",
+      "v0.8.3"
     ],
     "tagVersions": {
       "v0.5.2": "0.5.2",
       "v0.6.0": "0.6.0",
       "v0.7.0": "0.7.0",
       "v0.8.1": "0.8.1",
-      "v0.8.2": "0.8.2"
+      "v0.8.2": "0.8.2",
+      "v0.8.3": "0.8.3"
     },
-    "latest": "v0.8.2"
+    "latest": "v0.8.3"
   },
   "allDeps": {
     "packages": [

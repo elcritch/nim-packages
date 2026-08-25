@@ -6,12 +6,21 @@
   "author": "Status Research & Development GmbH",
   "description": "Flexible JSON serialization not relying on run-time type information",
   "license": "Apache License 2.0",
-  "nim": "1.6.0",
+  "nim": "1.6.18",
   "skipDirs": [
     "tests",
     "fuzzer"
   ],
   "releases": [
+    {
+      "v": "0.4.5@73c37b46591cf3d6a19d39ff0ed14b2e77433778^",
+      "r": [
+        "faststreams >= 0.5.0",
+        "results >= 0.5.0",
+        "serialization >= 0.5.4",
+        "stew >= 0.5.1"
+      ]
+    },
     {
       "v": "0.4.4@c343b0e243d9e17e2c40f3a8a24340f7c4a71d44",
       "r": [
@@ -19,7 +28,8 @@
         "serialization",
         "stew >= 0.2.0",
         "results"
-      ]
+      ],
+      "m": "1.6.0"
     },
     {
       "v": "0.4.2@e076cb9a2dff30e13aad0bb4a13049da86d07967",
@@ -27,7 +37,8 @@
         "serialization",
         "stew >= 0.2.0",
         "results"
-      ]
+      ],
+      "m": "1.6.0"
     },
     {
       "v": "0.4.0@c20d95ac196bb5b95a2b205cd39c1196cc6f5f9c",
@@ -35,7 +46,8 @@
         "serialization",
         "stew >= 0.2.0",
         "results"
-      ]
+      ],
+      "m": "1.6.0"
     },
     {
       "v": "0.3.0@53267308d00ed57c05e107f58a647cccb7468c59",
@@ -43,7 +55,8 @@
         "serialization",
         "stew >= 0.2.0",
         "results"
-      ]
+      ],
+      "m": "1.6.0"
     },
     {
       "v": "0.2.9@6eadb6e939ffa7882ff5437033c11a9464d3385c",
@@ -51,12 +64,13 @@
         "serialization",
         "stew",
         "results"
-      ]
+      ],
+      "m": "1.6.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-25T00:23:50Z",
+  "generatedAt": "2026-08-25T06:21:38Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -66,15 +80,17 @@
       "v0.3.0",
       "v0.4.0",
       "v0.4.2",
-      "v0.4.4"
+      "v0.4.4",
+      "v0.4.5"
     ],
     "tagVersions": {
       "v0.3.0": "0.3.0",
       "v0.4.0": "0.4.0",
       "v0.4.2": "0.4.2",
-      "v0.4.4": "0.4.4"
+      "v0.4.4": "0.4.4",
+      "v0.4.5": "0.4.5"
     },
-    "latest": "v0.4.4"
+    "latest": "v0.4.5"
   },
   "allDeps": {
     "packages": [
