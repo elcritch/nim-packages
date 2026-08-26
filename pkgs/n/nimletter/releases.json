@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimletter",
   "fqn": "nimletter.ThomasTJdev.github.com",
-  "current": "580299fd77afa1da49cf4219d486a2a95eddddc6",
+  "current": "907029f6ee976d319c284fb860dde25644a34af7",
   "author": "ThomasTJdev",
   "description": "Newsletter",
   "license": "AGPL v3",
@@ -13,7 +13,23 @@
   ],
   "releases": [
     {
-      "v": "1.0.6@580299fd77afa1da49cf4219d486a2a95eddddc6^",
+      "v": "1.0.7@907029f6ee976d319c284fb860dde25644a34af7^",
+      "r": [
+        "gh:ThomasTJdev/mummy 0.4.1",
+        "mummy_utils >= 0.1.0",
+        "gh:ThomasTJdev/waterpark 0.1.6",
+        "gh:ThomasTJdev/nim-schedules 0.2.0",
+        "gh:ThomasTJdev/nimMime >= 0.0.3",
+        "gh:ThomasTJdev/bcryptnim 0.2.1",
+        "gh:ThomasTJdev/nim-mmgeoip 0.1.0",
+        "awsSigV4 >= 0.0.3",
+        "sqlbuilder >= 1.1.1",
+        "gh:ThomasTJdev/nim_awsSES_SNS >= 0.1.2",
+        "yubikey_otp >= 0.1.2"
+      ]
+    },
+    {
+      "v": "1.0.6@580299fd77afa1da49cf4219d486a2a95eddddc6",
       "r": [
         "gh:ThomasTJdev/mummy 0.4.1",
         "mummy_utils >= 0.1.0",
@@ -531,10 +547,18 @@
     },
     {
       "v": "0.6.1@37f8bac0a5ca1a156066513dc1d803dd02b46635",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "p": []
+      "r": [
+        "gh:ThomasTJdev/mummy 0.4.1",
+        "mummy_utils >= 0.1.0",
+        "gh:ThomasTJdev/waterpark 0.1.6",
+        "gh:ThomasTJdev/nim-schedules 0.2.0",
+        "gh:ThomasTJdev/nimMime >= 0.0.3",
+        "gh:ThomasTJdev/bcryptnim 0.2.1",
+        "gh:ThomasTJdev/nim-mmgeoip 0.1.0",
+        "sqlbuilder >= 1.1.1",
+        "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
+        "yubikey_otp >= 0.1.2"
+      ]
     },
     {
       "v": "0.6.0@45fef86830f22cf3edd195bb042525b0054837e8",
@@ -1049,7 +1073,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-26T06:22:57Z",
+  "generatedAt": "2026-08-26T12:24:05Z",
   "allDeps": {
     "packages": [
       "awsSigV4 > 0.7.2",

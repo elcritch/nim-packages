@@ -6,19 +6,16 @@
   "author": "Yuriy Glukhov",
   "description": "Cassandra driver bindings",
   "license": "MIT",
-  "skipDirs": [
-    "tests",
-    "genbindings"
-  ],
+  "nim": "0.16.0",
   "releases": [
     {
-      "v": "0.1.0@a43160e98b954ba717e34f9b2a7e1d90169a7a50",
+      "v": "0.1.0@411c3d0a24737836572d65ba174b35e99a857e0d",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-26T06:17:47Z",
+  "generatedAt": "2026-08-26T12:18:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -12,7 +12,7 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@09c635039dfdcd87977e9691379ac4e70f4bbf80",
+      "v": "0.1.0@ec45c02f7255dafc93d782135b7fb141020d644e",
       "r": [
         "einheit >= 0.1.6"
       ]
@@ -20,7 +20,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-26T06:25:52Z",
+  "generatedAt": "2026-08-26T12:27:25Z",
   "allDeps": {
     "packages": [
       "einheit"

@@ -21,11 +21,17 @@
       "r": [
         "sndfile"
       ]
+    },
+    {
+      "v": "0.1.0@ead444349f12f0d19ded57b570d6558f91b0ce61",
+      "r": [
+        "sndfile"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-26T06:17:00Z",
+  "generatedAt": "2026-08-26T12:17:04Z",
   "allDeps": {
     "packages": [
       "sndfile"

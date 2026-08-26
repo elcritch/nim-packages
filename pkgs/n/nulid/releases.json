@@ -10,13 +10,6 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "1.3.1@ed7751dce8e74a56791e193b14a4c877d90cef43",
-      "r": [
-        "nint128 >= 0.3.2",
-        "crockfordb32 >= 2.0.0"
-      ]
-    },
-    {
       "v": "1.3.0@8c3165a000e9ee1fd1489b5746b2c647c25d0776",
       "r": [
         "nint128 >= 0.3.2",
@@ -105,7 +98,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-09T07:31:47Z",
+  "generatedAt": "2026-08-26T12:24:50Z",
   "allDeps": {
     "packages": [
       "crockfordb32",
