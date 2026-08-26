@@ -30,14 +30,6 @@
       ]
     },
     {
-      "v": "0.5.0@28e03604ed6c579f5685bf945f74970ffe8869ae",
-      "r": [
-        "httpbeast >= 0.2.2",
-        "gh:timotheecour/asynctools #pr_fix_compilation"
-      ],
-      "d": "A sinatra-like web framework for Nim."
-    },
-    {
       "v": "0.4.3@6f3b10fb7cb5381f13bd24554849f0c3831e2008",
       "r": [
         "httpbeast >= 0.2.2",
@@ -105,7 +97,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-26T00:23:56Z",
+  "generatedAt": "2026-08-26T06:20:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

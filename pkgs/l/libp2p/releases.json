@@ -17,6 +17,13 @@
   ],
   "releases": [
     {
+      "v": "2.3.0@fc4169749ea685e2dca93e5845292eb229978012",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
       "v": "2.2.1@95d3925db8a3d093dd86647165650472a5342b81",
       "r": [],
       "S": "HasUnknownNimbleFile",
@@ -381,7 +388,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-26T00:24:53Z",
+  "generatedAt": "2026-08-26T06:21:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -421,7 +428,8 @@
       "v2.1.5",
       "v2.1.6",
       "v2.2.0",
-      "v2.2.1"
+      "v2.2.1",
+      "v2.3.0"
     ],
     "tagVersions": {
       "v1.0.0": "1.0.0",
@@ -457,9 +465,10 @@
       "v2.1.5": "2.1.5",
       "v2.1.6": "2.1.6",
       "v2.2.0": "2.2.0",
-      "v2.2.1": "2.2.1"
+      "v2.2.1": "2.2.1",
+      "v2.3.0": "2.3.0"
     },
-    "latest": "v2.2.1"
+    "latest": "v2.3.0"
   },
   "allDeps": {
     "packages": [

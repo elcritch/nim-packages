@@ -531,18 +531,10 @@
     },
     {
       "v": "0.6.1@37f8bac0a5ca1a156066513dc1d803dd02b46635",
-      "r": [
-        "gh:ThomasTJdev/mummy 0.4.1",
-        "mummy_utils >= 0.1.0",
-        "gh:ThomasTJdev/waterpark 0.1.6",
-        "gh:ThomasTJdev/nim-schedules 0.2.0",
-        "gh:ThomasTJdev/nimMime >= 0.0.3",
-        "gh:ThomasTJdev/bcryptnim 0.2.1",
-        "gh:ThomasTJdev/nim-mmgeoip 0.1.0",
-        "sqlbuilder >= 1.1.1",
-        "gh:ThomasTJdev/nim_awsSES_SNS >= 0.0.1",
-        "yubikey_otp >= 0.1.2"
-      ]
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "p": []
     },
     {
       "v": "0.6.0@45fef86830f22cf3edd195bb042525b0054837e8",
@@ -1057,7 +1049,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-16T06:22:42Z",
+  "generatedAt": "2026-08-26T06:22:57Z",
   "allDeps": {
     "packages": [
       "awsSigV4 > 0.7.2",
