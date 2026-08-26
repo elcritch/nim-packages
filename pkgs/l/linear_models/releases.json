@@ -18,29 +18,30 @@
     },
     {
       "v": "0.1.0@c732328302a7e12a75c87d6a1825f18331317b7f",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
+      "r": [
+        "arraymancer >= 0.6.2",
+        "distributions >= 0.1.0"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-26T12:21:54Z",
+  "generatedAt": "2026-08-26T18:53:40Z",
   "allDeps": {
     "packages": [
-      "arraymancer > 0.1.0",
-      "clblast > 0.1.0",
-      "distributions > 0.1.0",
-      "nimblas > 0.1.0",
-      "nimcl > 0.1.0",
-      "nimcuda > 0.1.0",
-      "nimlapack > 0.1.0",
-      "opencl > 0.1.0",
-      "results > 0.1.0",
-      "special_functions > 0.1.0",
-      "stb_image > 0.1.0",
-      "untar > 0.1.0",
-      "zip > 0.1.0"
+      "arraymancer",
+      "clblast",
+      "distributions",
+      "nimblas",
+      "nimcl",
+      "nimcuda",
+      "nimlapack",
+      "opencl",
+      "results",
+      "special_functions",
+      "stb_image",
+      "untar",
+      "zip"
     ],
     "urls": [],
     "unresolved": []

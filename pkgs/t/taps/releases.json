@@ -2,13 +2,17 @@
   "cv": 19,
   "name": "taps",
   "fqn": "nim_taps.~ehmry.git.sr.ht",
-  "current": "989a1b07850ea74ec4480a1440e9de13d9eabda2",
+  "current": "b04198c26261513f96081599d3b2b9b6a594571f",
   "author": "Emery Hemingway",
   "description": "Transport Services Interface",
   "license": "Unlicense",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "20260826@b04198c26261513f96081599d3b2b9b6a594571f^",
+      "r": []
+    },
     {
       "v": "20241115@94cc218c381b3c32dba20604b342d265a55a34ad",
       "r": []
@@ -108,7 +112,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-13T07:20:38Z",
+  "generatedAt": "2026-08-26T19:03:33Z",
   "allDeps": {
     "packages": [
       "getdns > 20220913 & <= 20240405"
