@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "regex",
   "fqn": "nim-regex.nitely.github.com",
-  "current": "9da8883032f15aaf4c112a9e92a37ef020228020",
+  "current": "16f96a41f9ff74372268eef656b671d7e5355930",
   "author": "Esteban Castro Borsani (@nitely)",
   "description": "Linear time regex matching",
   "license": "MIT",
@@ -433,7 +433,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-25T18:32:23Z",
+  "generatedAt": "2026-08-26T00:30:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -92,6 +92,7 @@
     "urls": [
       "error://clue",
       "error://enimsql",
+      "error://nimcypher",
       "error://powpow"
     ],
     "unresolved": []

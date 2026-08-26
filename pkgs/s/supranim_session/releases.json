@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "supranim_session",
   "fqn": "session.supranim.github.com",
-  "current": "027402417f5590b937fb5d6489555a3a8d9c497e",
+  "current": "439b23619db73535a9ce8c18286f5f5647824309",
   "author": "George Lemon",
   "description": "Auth & Session Management for Supranim apps",
   "license": "MIT",
@@ -10,7 +10,17 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.2@027402417f5590b937fb5d6489555a3a8d9c497e^",
+      "v": "0.1.3@439b23619db73535a9ce8c18286f5f5647824309^",
+      "r": [
+        "threading >= 0.2.1",
+        "error://nimcypher >= 0.1.0",
+        "ozark >= 0.1.5"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/session.supranim.github.com-439b2361-supranim_session.nimble\ncannot resolve package name: nimcypher"
+    },
+    {
+      "v": "0.1.2@027402417f5590b937fb5d6489555a3a8d9c497e",
       "r": [
         "threading >= 0.2.1",
         "e2ee >= 0.1.0",
@@ -33,11 +43,11 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T12:25:42Z",
+  "generatedAt": "2026-08-26T00:31:50Z",
   "allDeps": {
     "packages": [
       "db_connector > 0.1.1",
-      "e2ee",
+      "e2ee <= 0.1.2",
       "htmlparser > 0.1.1",
       "libffi > 0.1.1",
       "nimsimd > 0.1.1",
@@ -46,7 +56,9 @@
       "threading > 0.1.0",
       "voodoo > 0.1.1"
     ],
-    "urls": [],
+    "urls": [
+      "error://nimcypher > 0.1.2"
+    ],
     "unresolved": []
   }
 }

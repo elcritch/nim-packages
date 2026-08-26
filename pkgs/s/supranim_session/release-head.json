@@ -1,1 +1,1 @@
-{"v":"#head@027402417f5590b937fb5d6489555a3a8d9c497e","r":["threading >= 0.2.1","e2ee >= 0.1.0","ozark >= 0.1.5"]}
+{"v":"#head@439b23619db73535a9ce8c18286f5f5647824309","r":["threading >= 0.2.1","error://nimcypher >= 0.1.0","ozark >= 0.1.5"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/session.supranim.github.com-439b2361-supranim_session.nimble\ncannot resolve package name: nimcypher"}

@@ -18,14 +18,12 @@
     {
       "v": "0.1.0@a882a8cf5b15feef74d1df8533c47607266286ba",
       "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "x": []
+      "m": "0.17.3"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-25T18:26:42Z",
+  "generatedAt": "2026-08-26T00:25:19Z",
   "allDeps": {
     "packages": [],
     "urls": [],

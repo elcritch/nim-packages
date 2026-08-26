@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "neverwinter",
   "fqn": "neverwinter.nim.niv.github.com",
-  "current": "d20453e353a7f9850ecdb03e8dd8c8bc647a7c08",
+  "current": "369fdc4186f19d3668f05b44f9b98d32ea5233c4",
   "author": "Bernhard Stöckner <n@e-ix.net>",
   "description": "Neverwinter Nights 1: Enhanced Edition data accessor library and utilities",
   "license": "MIT",
@@ -39,6 +39,15 @@
     "nwn_twoda"
   ],
   "releases": [
+    {
+      "v": "2.3.1@369fdc4186f19d3668f05b44f9b98d32ea5233c4^",
+      "r": [
+        "checksums >= 0.2.1",
+        "docopt >= 0.7.1",
+        "db_connector >= 0.1.0",
+        "taskpools >= 0.2.0"
+      ]
+    },
     {
       "v": "2.3.0@654f063d2a8a0790c2b352e373e542934900f9ab",
       "r": [
@@ -443,7 +452,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-25T18:28:21Z",
+  "generatedAt": "2026-08-26T00:26:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -452,7 +461,6 @@
     "releases": [
       "1.2.10",
       "1.2.10-1.2.0",
-      "1.2.4",
       "1.2.5",
       "1.2.7",
       "1.2.8",
@@ -489,14 +497,14 @@
       "2.1.1",
       "2.1.2",
       "2.2.0",
-      "2.3.0"
+      "2.3.0",
+      "2.3.1"
     ],
     "tagVersions": {
       "1.2.10-1.2.0": "1.2.10"
     },
-    "latest": "2.3.0",
+    "latest": "2.3.1",
     "prerelease": [
-      "1.2.4",
       "1.3.0",
       "1.3.2",
       "1.4.1",
