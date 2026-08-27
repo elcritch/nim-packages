@@ -6,28 +6,12 @@
   "author": "Jaremy J. Creechley",
   "description": "Nim wrapper for Zephyr RTOS",
   "license": "Apache-2.0",
-  "nim": "1.4.8",
+  "nim": "1.6.5",
   "srcDir": "src",
-  "installExt": [
-    "nim"
-  ],
-  "bin": [
-    "nephyr"
-  ],
-  "releases": [
-    {
-      "v": "0.1.0@ec181d3ff89734ac8b537619e228ffc334fd2a2f",
-      "r": [
-        "msgpack4nim >= 0.3.1",
-        "stew >= 0.1.0",
-        "mcu_utils #main",
-        "gh:EmbeddedNim/fast_rpc"
-      ]
-    }
-  ],
+  "releases": [],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-26T18:55:15Z",
+  "generatedAt": "2026-08-27T01:38:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -44,18 +28,8 @@
     ]
   },
   "allDeps": {
-    "packages": [
-      "mcu_utils",
-      "msgpack4nim",
-      "persistent_enums",
-      "results",
-      "stew",
-      "threading",
-      "unittest2"
-    ],
+    "packages": [],
     "urls": [],
-    "unresolved": [
-      "gh:EmbeddedNim/fast_rpc"
-    ]
+    "unresolved": []
   }
 }

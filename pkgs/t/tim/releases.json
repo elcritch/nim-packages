@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "tim",
   "fqn": "tim.openpeeps.github.com",
-  "current": "536fcdbbbf27f1543b82abfbdeead6aa7de3f373",
+  "current": "6dc0188c2439c30a1d5666746311756b4c8f862b",
   "author": "OpenPeeps",
   "description": "A super fast template engine for cool kids!",
   "license": "LGPL-3.0-or-later",
@@ -24,6 +24,22 @@
     "tim"
   ],
   "releases": [
+    {
+      "v": "0.2.9@6dc0188c2439c30a1d5666746311756b4c8f862b^",
+      "r": [
+        "kapsis >= 0.3.3",
+        "vancode >= 0.2.5",
+        "flatty >= 0.4.0",
+        "checksums >= 0.2.2",
+        "voodoo >= 0.2.0",
+        "watchout >= 0.2.2",
+        "openparser >= 0.2.0",
+        "semver >= 1.2.3",
+        "bag >= 0.1.0",
+        "boogie >= 0.1.2",
+        "supranim >= 0.1.9"
+      ]
+    },
     {
       "v": "0.2.8@ce1d25647079a3c344932131928d0fe0f7ee5b90",
       "r": [
@@ -82,7 +98,17 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-26T19:03:59Z",
+  "generatedAt": "2026-08-27T01:42:46Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.2.9"
+    ],
+    "latest": "0.2.9"
+  },
   "allDeps": {
     "packages": [
       "ansiparse",
