@@ -1,1 +1,1 @@
-{"v":"#head@0b6a94e04e9b977d82b00cc65212625b376a2f7b","r":["error://gzfast >= 0.2.2"],"m":"2.2.0","S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/r/readfx/.worktree/readfx.nimble\ncannot resolve package name: gzfast"}
+{"v":"#head@c67026bf3d6a729f27ed9fcd42c62e3e71c2c993","r":["error://gzfast >= 0.2.2"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/readfx.quadram-institute-bioscience.github.com-c67026bf-readfx.nimble\ncannot resolve package name: gzfast"}

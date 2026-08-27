@@ -91,11 +91,19 @@
       "d": "Kuzu is an embedded graph database built for query speed and scalability.",
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nim-ladybug.mahlonsmith.github.com-232668fe-kuzu.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0"
+    },
+    {
+      "v": "0.1.0@f7655092dec59a05a386fb796534e66c3c2ad36c",
+      "r": [],
+      "d": "Kuzu is an embedded graph database built for query speed and scalability.",
+      "l": "MIT",
+      "S": "HasBrokenNimbleFile",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nim-ladybug.mahlonsmith.github.com-f7655092-kuzu.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-27T09:16:04Z",
+  "generatedAt": "2026-08-27T15:54:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],

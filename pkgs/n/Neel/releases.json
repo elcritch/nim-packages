@@ -87,17 +87,6 @@
       "p": []
     },
     {
-      "v": "0.3.0@917499058f8f48ba2b42698340c42336495defe5",
-      "r": [
-        "jester >= 0.5.0",
-        "ws >= 0.4.2"
-      ],
-      "m": "1.2.2",
-      "x": [],
-      "k": [],
-      "p": []
-    },
-    {
       "v": "0.2.7@06daef22a936d470f3bc1ebc7ee224d7453bd1ea",
       "r": [
         "jester >= 0.5.0",
@@ -188,7 +177,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-27T09:11:38Z",
+  "generatedAt": "2026-08-27T15:49:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
