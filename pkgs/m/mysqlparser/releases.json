@@ -19,7 +19,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-27T15:55:34Z",
+  "generatedAt": "2026-08-27T21:27:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -27,7 +27,8 @@
     },
     "releases": [
       "0.2.0"
-    ]
+    ],
+    "latest": "0.2.0"
   },
   "allDeps": {
     "packages": [],

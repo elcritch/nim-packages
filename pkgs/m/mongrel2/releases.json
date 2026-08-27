@@ -9,7 +9,7 @@
   "nim": "0.19.0",
   "srcDir": "src",
   "installExt": [
-    "mongrel2"
+    "nim"
   ],
   "releases": [
     {
@@ -18,7 +18,7 @@
       "k": []
     },
     {
-      "v": "0.1.1@81845bcc0144a818e4918b6ca5227fd588075f68",
+      "v": "0.1.1@91b455d4d667e296c6ece56e56fab9c0d8e78da5",
       "r": [
         "tnetstring >= 0.1.1",
         "zmq >= 0.2.1"
@@ -30,15 +30,12 @@
         "tnetstring >= 0.1.3",
         "zmq >= 1.2.1"
       ],
-      "k": [
-        "nim"
-      ],
       "m": "1.4.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-23T12:19:29Z",
+  "generatedAt": "2026-08-27T21:27:08Z",
   "allDeps": {
     "packages": [
       "tnetstring > 0.1.0",
