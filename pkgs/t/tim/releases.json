@@ -98,7 +98,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-27T01:42:46Z",
+  "generatedAt": "2026-08-27T09:21:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -113,6 +113,7 @@
     "packages": [
       "ansiparse",
       "bag",
+      "base32",
       "bigints",
       "blackpaper",
       "boogie > 0.2.6",
@@ -136,9 +137,11 @@
       "noise",
       "nyml",
       "openparser",
+      "otp",
       "ozark",
       "pkginfo",
       "pluginkit",
+      "qr",
       "semver",
       "sorta > 0.2.6",
       "supranim",
@@ -146,6 +149,7 @@
       "threading",
       "timerwheel",
       "toktok",
+      "twofa",
       "valido",
       "vancode",
       "voodoo",
@@ -156,6 +160,8 @@
     ],
     "urls": [
       "error://clue <= 0.2.7",
+      "error://flysystem",
+      "error://nimcypher",
       "error://powpow"
     ],
     "unresolved": []
