@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "testutils",
   "fqn": "nim-testutils.status-im.github.com",
-  "current": "3feb84e206660d5289caefbe7b0f66f97d9ec084",
+  "current": "d8b7d8c073637b5b4190267058fb414a5481716d",
   "author": "Status Research & Development GmbH",
   "description": "A unittest framework",
   "license": "Apache License 2.0",
@@ -18,7 +18,7 @@
   ],
   "releases": [
     {
-      "v": "0.8.3@3feb84e206660d5289caefbe7b0f66f97d9ec084^",
+      "v": "0.8.3@3feb84e206660d5289caefbe7b0f66f97d9ec084",
       "r": [
         "stew >= 0.5.0",
         "unittest2 >= 0.2.0"
@@ -157,7 +157,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-28T09:28:59Z",
+  "generatedAt": "2026-08-28T16:23:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
