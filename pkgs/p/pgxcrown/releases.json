@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "pgxcrown",
   "fqn": "pgxcrown.luisacosta828.github.com",
-  "current": "8321305d614e3db21b9fad2c45888c51d5c451ec",
+  "current": "89332e7746c36a2d75e8811dd26a5c9d56fa8de9",
   "author": "luisacosta828",
   "description": "Build Postgres extensions in Nim.",
   "license": "MIT",
@@ -17,6 +17,10 @@
   ],
   "backend": "c",
   "releases": [
+    {
+      "v": "0.17.4@e8e072d7bb32aa9e71b5243c463e286aab3d9f29",
+      "r": []
+    },
     {
       "v": "0.17.3@e483961bf2fdc83e1646c23a1c7d0026469af37d",
       "r": []
@@ -676,7 +680,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-25T06:25:55Z",
+  "generatedAt": "2026-08-28T03:04:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],
