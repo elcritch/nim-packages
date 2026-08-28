@@ -1,1 +1,1 @@
-{"v":"#head@2925b4a47a20e9a26969458e36adc49ee26ebaa2","r":["nimsvg >= 0.1.0","readfx"],"h":true,"g":true,"o":{"abichromatogram":"abichromatogram","abivalidate":"abivalidate","abi2fq":"abi2fq","abimerge":"abimerge","abimetadata":"abimetadata"},"m":"2.2.0"}
+{"v":"#head@5ba498304cd8dadbfddef2c0f9c6e2a826e7fca0","r":["nimsvg >= 0.1.0","readfx","malebolgia"],"h":true,"g":true,"o":{"abichromatogram":"abichromatogram","abivalidate":"abivalidate","abi2fq":"abi2fq","abimerge":"abimerge","abimetadata":"abimetadata","abiscreen":"abiscreen"},"m":"2.2.0"}

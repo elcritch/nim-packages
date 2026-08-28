@@ -60,15 +60,6 @@
       "j": []
     },
     {
-      "v": "0.1.1@908b4488282e2c3f288bf7c939029ef48f1d680e",
-      "r": [
-        "nimterop >= 0.4.4 & < 0.5.0"
-      ],
-      "m": "1.0.6",
-      "i": [],
-      "j": []
-    },
-    {
       "v": "0.1.0@ea57fc43bae6f951792a6eedb49f36fd09e397af",
       "r": [
         "nimterop >= 0.4.4 & < 0.5.0"
@@ -80,7 +71,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:36:54Z",
+  "generatedAt": "2026-08-28T21:40:59Z",
   "allDeps": {
     "packages": [
       "cligen <= 0.2.2",
