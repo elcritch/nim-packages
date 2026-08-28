@@ -43,14 +43,6 @@
       "p": []
     },
     {
-      "v": "1.2.0@632365b8e957d4eb04962b46ccbd9f9dce50f12a",
-      "r": [
-        "unicodeplus >= 0.8.0"
-      ],
-      "m": "0.19.0",
-      "p": []
-    },
-    {
       "v": "1.2.1@3b731b3bea7b36c7dcfa6bb480b920b96ac9d940",
       "r": [
         "unicodeplus >= 0.8.0"
@@ -61,7 +53,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:39:13Z",
+  "generatedAt": "2026-08-28T09:30:29Z",
   "allDeps": {
     "packages": [
       "graphemes > 0.5.1",
