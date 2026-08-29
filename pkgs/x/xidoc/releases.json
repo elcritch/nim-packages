@@ -168,6 +168,16 @@
       "m": "1.4.8"
     },
     {
+      "v": "2023.311.1@ae3718c4800e893fdd845d1025b25135ea1ecc43",
+      "r": [
+        "aspartame >= 2022.9.14",
+        "cligen >= 1.5.12",
+        "matext >= 2022.9.3",
+        "heine >= 2023.308.1"
+      ],
+      "m": "1.4.8"
+    },
+    {
       "v": "2023.311.0@e8ebea19032e48b38d88feaf9e24597f74ab521c",
       "r": [
         "aspartame >= 2022.9.14",
@@ -649,7 +659,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-28T21:42:56Z",
+  "generatedAt": "2026-08-29T00:40:41Z",
   "allDeps": {
     "packages": [
       "aspartame > 2022.9.20",
