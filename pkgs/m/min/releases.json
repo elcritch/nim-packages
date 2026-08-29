@@ -886,6 +886,17 @@
       "p": []
     },
     {
+      "v": "0.7.0@243bb434a1415c09ccb53a7fd94388140eb3bcef",
+      "r": [],
+      "d": "A tiny concatenative programming language and shell.",
+      "m": "0.17.0",
+      "y": [],
+      "i": [],
+      "j": [],
+      "k": [],
+      "p": []
+    },
+    {
       "v": "0.6.0@8dc873a6adb297076184b979dbb1427a81476c07",
       "r": [],
       "d": "A tiny concatenative programming language and shell.",
@@ -971,7 +982,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-29T06:22:38Z",
+  "generatedAt": "2026-08-29T12:23:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

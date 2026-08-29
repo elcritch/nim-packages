@@ -1,1 +1,1 @@
-{"v":"#head@6dc0188c2439c30a1d5666746311756b4c8f862b","r":["kapsis >= 0.3.3","vancode >= 0.2.5","flatty >= 0.4.0","checksums >= 0.2.2","voodoo >= 0.2.0","watchout >= 0.2.2","openparser >= 0.2.0","semver >= 1.2.3","bag >= 0.1.0","boogie >= 0.1.2","supranim >= 0.1.9"]}
+{"v":"#head@8d0b891c815d63c697b1e5204ffd83772b700e8d","r":["kapsis >= 0.3.3","vancode >= 0.2.5","checksums >= 0.2.2","voodoo >= 0.2.0","watchout >= 0.2.2","openparser >= 0.2.0","semver >= 1.2.3","pkginfo >= 0.1.4","bag >= 0.1.0","boogie >= 0.1.2","supranim >= 0.1.9"],"g":true}
