@@ -20,6 +20,13 @@
       ]
     },
     {
+      "v": "0.1.1@273704be6f37113d6012f440b8ea54ddcb8e7ee0",
+      "r": [
+        "nigui >= 0.2.6",
+        "pyopenai >= 0.1.1"
+      ]
+    },
+    {
       "v": "0.1.0@fab864c482efe31a8a87a359d9b4dadfd4ae45a5",
       "r": [
         "nigui >= 0.2.6",
@@ -29,7 +36,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-29T00:27:34Z",
+  "generatedAt": "2026-08-29T06:19:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
