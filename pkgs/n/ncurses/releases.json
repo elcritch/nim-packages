@@ -9,6 +9,10 @@
   "nim": "0.19.0",
   "releases": [
     {
+      "v": "0.1.0@5734b2a41d1b16f5ac051536e8b204f57e763b6e",
+      "r": []
+    },
+    {
       "v": "1.0.0@a44e0f5d3698c8aa2a1ca830aac96e66676f13bf",
       "r": []
     },
@@ -23,7 +27,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-29T12:24:26Z",
+  "generatedAt": "2026-08-29T18:20:27Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "metar",
   "fqn": "metar.flenniken.github.com",
-  "current": "549ff5ef7461ccd8dfbeeb0841578745cd71532c",
+  "current": "af07e9265bc3df3fbfe70238cc212895f1a6845c",
   "author": "Steve Flenniken",
   "description": "Metadata Reader for Images",
   "license": "MIT",
@@ -33,7 +33,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-29T12:23:46Z",
+  "generatedAt": "2026-08-29T18:19:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
