@@ -1,1 +1,1 @@
-{"v":"#head@8d0b891c815d63c697b1e5204ffd83772b700e8d","r":["kapsis >= 0.3.3","vancode >= 0.2.5","checksums >= 0.2.2","voodoo >= 0.2.0","watchout >= 0.2.2","openparser >= 0.2.0","semver >= 1.2.3","pkginfo >= 0.1.4","bag >= 0.1.0","boogie >= 0.1.2","supranim >= 0.1.9"],"g":true}
+{"v":"#head@cec679bdc569868a1537a7ea275c807dfdaa82fe","r":["kapsis >= 0.3.3","vancode >= 0.2.5","checksums >= 0.2.2","voodoo >= 0.2.0","watchout >= 0.2.2","openparser >= 0.2.0","semver >= 1.2.3","pkginfo >= 0.1.4","bag >= 0.1.0","boogie >= 0.1.2","supranim >= 0.1.9","gh:openpeeps/datpkgr"],"g":true}

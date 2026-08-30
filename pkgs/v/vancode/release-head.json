@@ -1,1 +1,1 @@
-{"v":"#head@a0ccf6cd1fa938a849e65f5bffebaeb2bf17734f","r":["voodoo >= 0.1.9","openparser >= 0.1.0","flatty >= 0.4.0","checksums >= 0.2.2","semver >= 1.2.3","threading >= 0.1.0"]}
+{"v":"#head@cada2a4c82a3f471f6ba9d16a625c19324ec1471","r":["voodoo >= 0.1.9","openparser >= 0.3.0","error://flysystem >= 0.1.0","checksums >= 0.2.2","semver >= 1.2.3","threading >= 0.1.0"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/v/vancode/.worktree/vancode.nimble\ncannot resolve package name: flysystem"}
