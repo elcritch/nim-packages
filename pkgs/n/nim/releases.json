@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nim",
   "fqn": "Nim.nim-lang.github.com",
-  "current": "3d0bac8e5b21b8e0372f083bb4d4c5763cd14edd",
+  "current": "dcec8e1cd1a33b3dfa6a9fa38784d0c9195b6aca",
   "author": "Dominik Picheta",
   "description": "Nim's standard library.",
   "license": "MIT",
@@ -242,12 +242,6 @@
       "E": "ambiguous nimble file"
     },
     {
-      "v": "1.2.2@8b03d39fd387f6a59c97c2acdec2518f0b18a230",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file"
-    },
-    {
       "v": "1.2.0@a8a4725850c443158f9cab38eae3e54a78a523fb",
       "r": [],
       "S": "HasUnknownNimbleFile",
@@ -434,7 +428,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-31T12:52:14Z",
+  "generatedAt": "2026-08-30T18:23:44Z",
   "allDeps": {
     "packages": [],
     "urls": [],
