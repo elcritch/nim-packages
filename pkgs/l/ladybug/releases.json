@@ -2,14 +2,19 @@
   "cv": 19,
   "name": "ladybug",
   "fqn": "nim-ladybug.mahlonsmith.github.com",
-  "current": "733f2581b45b0e65b94e200dc06efc4900c16a8d",
+  "current": "e8339e8ff69248a9f4f0a2705ebeadb714547732",
   "author": "Mahlon E. Smith",
   "description": "Ladybug is an embedded graph database built for query speed and scalability.",
   "license": "BSD-3-Clause",
+  "nim": "2.2.10",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.10.2@733f2581b45b0e65b94e200dc06efc4900c16a8d^",
+      "v": "0.11.0@e8339e8ff69248a9f4f0a2705ebeadb714547732^",
+      "r": []
+    },
+    {
+      "v": "0.10.2@733f2581b45b0e65b94e200dc06efc4900c16a8d",
       "r": [],
       "S": "HasBrokenNimbleFile",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/nim-ladybug.mahlonsmith.github.com-733f2581-ladybug.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.0.0"
@@ -103,7 +108,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-27T15:54:35Z",
+  "generatedAt": "2026-08-30T00:36:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],

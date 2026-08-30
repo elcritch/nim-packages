@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "chroniclers",
   "fqn": "chroniclers.elcritch.github.com",
-  "current": "5710910a85bbdc90a3dab1088d27d90a6a901aa2",
+  "current": "a80027efdec78ac091476726d4c836c2d0de0780",
   "author": "Jaremy Creechley",
   "description": "Compile-time selectable structured logging facade for Nim",
   "license": "BSD-2-Clause",
@@ -37,7 +37,16 @@
       }
     },
     {
-      "v": "0.3.0@5710910a85bbdc90a3dab1088d27d90a6a901aa2^",
+      "v": "0.3.0@5710910a85bbdc90a3dab1088d27d90a6a901aa2",
+      "r": [],
+      "f": {
+        "chronicles": [
+          "chronicles"
+        ]
+      }
+    },
+    {
+      "v": "0.4.0@a80027efdec78ac091476726d4c836c2d0de0780^",
       "r": [],
       "f": {
         "chronicles": [
@@ -48,7 +57,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-31T12:46:48Z",
+  "generatedAt": "2026-08-30T00:32:00Z",
   "allDeps": {
     "packages": [
       "chronicles",

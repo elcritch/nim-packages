@@ -207,6 +207,17 @@
       "k": []
     },
     {
+      "v": "0.3.0@722e7f0ddbc51473c17c8c63b32914e30dac72e5",
+      "r": [
+        "malebolgia",
+        "cligen >= 1.6.6 & < 2.0.0",
+        "lscolors #head"
+      ],
+      "d": "Text finder",
+      "m": "1.9.3",
+      "k": []
+    },
+    {
       "v": "0.2.3@08ddf11257ed20f34f8f3d72e844e96773b04dbb",
       "r": [
         "malebolgia",
@@ -435,7 +446,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-29T18:21:10Z",
+  "generatedAt": "2026-08-30T00:39:10Z",
   "allDeps": {
     "packages": [
       "adix > 0.1.0 & <= 0.2.2",
