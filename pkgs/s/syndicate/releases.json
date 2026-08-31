@@ -346,15 +346,6 @@
       "p": []
     },
     {
-      "v": "20220830@a8e8eed61993fd657188a2039d82588d789cd025",
-      "r": [
-        "nimSHA2 >= 0.1.1",
-        "preserves >= 20220709"
-      ],
-      "m": "1.4.8",
-      "p": []
-    },
-    {
       "v": "20220627@6281f5467f133c2fc75e991de0f25bfb0ae41f88",
       "r": [
         "nimSHA2 >= 0.1.1",
@@ -401,7 +392,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-21T12:23:54Z",
+  "generatedAt": "2026-08-31T00:38:01Z",
   "allDeps": {
     "packages": [
       "getdns > 20221102 & <= 20240522",

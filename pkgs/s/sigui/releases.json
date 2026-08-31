@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "sigui",
   "fqn": "sigui.levovix0.github.com",
-  "current": "a8a1b65f2032656a4453508784ebf21faec3b502",
+  "current": "3aa02bb23854762ec847f52304cb61575a3db736",
   "author": "levovix0",
   "description": "Flexieble gui framework",
   "license": "MIT",
@@ -138,7 +138,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-30T18:28:03Z",
+  "generatedAt": "2026-08-31T00:37:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
