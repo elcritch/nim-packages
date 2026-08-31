@@ -1,1 +1,1 @@
-{"v":"#head@5adeb72087c3543fd67d048e652f74878235e3ce","r":["results","stew >= 0.5.0","bearssl >= 0.2.8","httputils","unittest2"]}
+{"v":"#head@471810b76d8782506fc6ab1a87ff19d177a92386","r":["bearssl >= 0.2.13","httputils >= 0.5.1","results >= 0.5.0","stew >= 0.5.0","unittest2 >= 0.2.0"]}

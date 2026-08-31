@@ -18,13 +18,17 @@
       "r": []
     },
     {
+      "v": "0.1.1@66dec84b87aeabf428735dd7cd0a75fad21084b5",
+      "r": []
+    },
+    {
       "v": "0.1.0@4a674d5c5af61e5664e95ff47f9b981f0bdd46b7",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-31T06:34:06Z",
+  "generatedAt": "2026-08-31T12:32:05Z",
   "allDeps": {
     "packages": [],
     "urls": [],
