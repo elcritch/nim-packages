@@ -30,11 +30,15 @@
     {
       "v": "0.1.1@c0ea7fa9f51a6e3f40264db8fbe3beb25726cd20",
       "r": []
+    },
+    {
+      "v": "0.1.0@df9c8116f074b99fb4f21fa13b25bf60b8989efd",
+      "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-31T12:27:48Z",
+  "generatedAt": "2026-08-31T18:25:45Z",
   "allDeps": {
     "packages": [],
     "urls": [],

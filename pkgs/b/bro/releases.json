@@ -74,7 +74,9 @@
       "wepoll",
       "ws"
     ],
-    "urls": [],
+    "urls": [
+      "error://flysystem"
+    ],
     "unresolved": []
   }
 }

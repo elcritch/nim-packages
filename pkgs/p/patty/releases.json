@@ -65,16 +65,6 @@
       ]
     },
     {
-      "v": "0.1.8@6a3ae644d408f8359679f737cdfebdb6de41c390",
-      "r": [],
-      "y": [
-        "test",
-        "test.nim",
-        "testhelp.nim"
-      ],
-      "m": "0.11.2"
-    },
-    {
       "v": "0.1.7@2019860070f375d759047af4b5287796526297e7",
       "r": [],
       "y": []
@@ -117,7 +107,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:34:12Z",
+  "generatedAt": "2026-08-31T18:26:20Z",
   "allDeps": {
     "packages": [],
     "urls": [],

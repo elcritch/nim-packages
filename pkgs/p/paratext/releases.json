@@ -6,96 +6,91 @@
   "author": "oakes",
   "description": "A library for rendering text with paranim",
   "license": "Public Domain",
-  "nim": "1.2.6",
+  "nim": "1.0.6",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.13.0@5dc5a95853307d4a4d456fa42995209d735b50c3",
+      "v": "0.1.0@331d57502e5eecdb926d313eb0412cd22cdb2d9d",
       "r": []
     },
     {
-      "v": "0.12.0@68bb639580f63b8dbbdd861c2e086f8cdf0cf014",
-      "r": []
-    },
-    {
-      "v": "0.11.0@29f44e0f2355c0d03cc41b467bac2159d85057c2",
-      "r": []
-    },
-    {
-      "v": "0.10.0@7e18587c5ba10b88647189055b2dc13fea055e4a",
-      "r": []
-    },
-    {
-      "v": "0.9.0@39b0600196fff16e763ced8c73c8d31d1e930093",
+      "v": "0.2.0@42ae8954f83fe05896a3f47e1b99bb88dd78e918",
       "r": [
-        "paranim >= 0.10.0"
+        "paranim >= 0.1.0"
       ]
     },
     {
-      "v": "0.8.0@aa27a7934f3dc1c470a89e49da12b432dbce6bef",
+      "v": "0.3.0@569bc18d912931e2ed11341fa4608cdc41c78928",
       "r": [
-        "paranim >= 0.9.0"
-      ],
-      "m": "1.0.6"
+        "paranim >= 0.1.0"
+      ]
     },
     {
-      "v": "0.7.0@8d15e381bca010a0717d30b61b847a7ea3286b7f",
+      "v": "0.4.0@e42512e55c1bc968cc1004c6e0d6bb3b99bf65eb",
       "r": [
-        "paranim >= 0.9.0"
-      ],
-      "m": "1.0.6"
+        "paranim >= 0.1.0"
+      ]
     },
     {
-      "v": "0.6.0@e475d8238b4bf8d6b0e6dff8138273215407609a",
-      "r": [
-        "paranim >= 0.8.0"
-      ],
-      "m": "1.0.6"
-    },
-    {
-      "v": "0.5.0@1a8e2df03c08ba797f83e48688b5c16a6fbbfdb6",
+      "v": "0.5.0@c0c91c03c8092b9a88cbb29f83f02db1ffe14aac",
       "r": [
         "paranim >= 0.4.0"
-      ],
-      "m": "1.0.6"
+      ]
     },
     {
-      "v": "0.4.0@8dae0099f470cc22be3027f2761e2629118f86ca",
+      "v": "0.6.0@2c3ec9b2b6a38ca0b1debb264048b8326b0a1a52",
       "r": [
-        "paranim >= 0.1.0"
-      ],
-      "m": "1.0.6"
+        "paranim >= 0.8.0"
+      ]
     },
     {
-      "v": "0.3.0@a4b853f5ecb58b3e997c010f0bbb96dfd779dab6",
+      "v": "0.7.0@66eb8d9f300bf610eabd3ef8df007f1e95dbac74",
       "r": [
-        "paranim >= 0.1.0"
-      ],
-      "m": "1.0.6"
+        "paranim >= 0.9.0"
+      ]
     },
     {
-      "v": "0.2.0@f9751975cf8b5fc9b53a060a8ad4602473eb5041",
+      "v": "0.8.0@5452da774606db6570c12d1c140c7dc0d81d341a",
       "r": [
-        "paranim >= 0.1.0"
-      ],
-      "m": "1.0.6"
+        "paranim >= 0.9.0"
+      ]
     },
     {
-      "v": "0.1.0@eb7d6d6a9e9598922cd1534bd7c07fa64793019e",
+      "v": "0.9.0@5bf5c7a680d10d2843ab3f0fb73e4c5b273f2a9e",
       "r": [
-        "paranim >= 0.1.0"
+        "paranim >= 0.10.0"
       ],
-      "m": "1.0.6"
+      "m": "1.2.6"
+    },
+    {
+      "v": "0.10.0@6b0c1e41435679389478c288436c0dedf4fdedfa",
+      "r": [],
+      "m": "1.2.6"
+    },
+    {
+      "v": "0.11.0@d9426192b7d4509580d84f7fd3c4e32fdee4c7ca",
+      "r": [],
+      "m": "1.2.6"
+    },
+    {
+      "v": "0.12.0@7d9b4558c606f17f4c8476617d0d6d91ebac5ba5",
+      "r": [],
+      "m": "1.2.6"
+    },
+    {
+      "v": "0.13.0@a88675ea691b63a5fba8067fa9b2aa54644978c1^",
+      "r": [],
+      "m": "1.2.6"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:34:05Z",
+  "generatedAt": "2026-08-31T18:26:16Z",
   "allDeps": {
     "packages": [
-      "glm <= 0.9.0",
-      "nimgl <= 0.9.0",
-      "paranim <= 0.9.0"
+      "glm > 0.1.0 & <= 0.9.0",
+      "nimgl > 0.1.0 & <= 0.9.0",
+      "paranim > 0.1.0 & <= 0.9.0"
     ],
     "urls": [],
     "unresolved": []

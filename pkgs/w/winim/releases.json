@@ -2,93 +2,196 @@
   "cv": 19,
   "name": "winim",
   "fqn": "winim.khchen.github.com",
-  "current": "6fdee629140baa0d7060ddf86662457d11f50d35",
-  "author": "Ward",
-  "description": "Winim - Windows API, COM, and CLR Module for Nim",
+  "current": "5c455fc9b78d3e8145bab862101bc537602adb96",
+  "author": "Chen Kai-Hung",
+  "description": "Winim - Windows API, COM, and .NET Module for Nim",
   "license": "MIT",
-  "nim": "1.0.0",
+  "nim": "2.0.0",
   "skipDirs": [
     "examples",
     "tests",
-    "docs",
-    "tcclib"
+    "docs"
   ],
   "bin": [
     "winim/winimx"
   ],
   "releases": [
     {
-      "v": "3.9.4@6fdee629140baa0d7060ddf86662457d11f50d35^",
+      "v": "4.0.0@5c455fc9b78d3e8145bab862101bc537602adb96^",
       "r": [],
+      "p": []
+    },
+    {
+      "v": "3.9.4@6fdee629140baa0d7060ddf86662457d11f50d35",
+      "r": [],
+      "a": "Ward",
+      "d": "Winim - Windows API, COM, and CLR Module for Nim",
+      "x": [
+        "examples",
+        "tests",
+        "docs",
+        "tcclib"
+      ],
+      "m": "1.0.0",
       "p": []
     },
     {
       "v": "3.9.3@7599a7a7ef1bf2763f5e65a09bc63118b988a87e",
       "r": [],
+      "a": "Ward",
+      "d": "Winim - Windows API, COM, and CLR Module for Nim",
+      "x": [
+        "examples",
+        "tests",
+        "docs",
+        "tcclib"
+      ],
+      "m": "1.0.0",
       "p": []
     },
     {
       "v": "3.9.2@154d6c6ffb1f19fce684381cdba5e3f3a729053e",
       "r": [],
+      "a": "Ward",
+      "d": "Winim - Windows API, COM, and CLR Module for Nim",
+      "x": [
+        "examples",
+        "tests",
+        "docs",
+        "tcclib"
+      ],
+      "m": "1.0.0",
       "p": []
     },
     {
       "v": "3.9.1@313ad151d9e9289213a0c6a30e3a6155cdd63f49",
       "r": [],
+      "a": "Ward",
       "d": "Winim - Nim's Windows API and COM Library",
+      "x": [
+        "examples",
+        "tests",
+        "docs",
+        "tcclib"
+      ],
+      "m": "1.0.0",
       "p": []
     },
     {
       "v": "3.9.0@3abd0ae122cd41efd0ce6d45fea720ef7091e4ac",
       "r": [],
+      "a": "Ward",
       "d": "Winim - Nim's Windows API and COM Library",
+      "x": [
+        "examples",
+        "tests",
+        "docs",
+        "tcclib"
+      ],
+      "m": "1.0.0",
       "p": []
     },
     {
       "v": "3.8.1@bda7de3b63f4644183a2b70cb9163b61e2320f12",
       "r": [],
+      "a": "Ward",
       "d": "Winim - Nim's Windows API and COM Library",
+      "x": [
+        "examples",
+        "tests",
+        "docs",
+        "tcclib"
+      ],
+      "m": "1.0.0",
       "p": []
     },
     {
       "v": "3.8.0@f658fc523a7c8960b2f808d774b0f77cecec86db",
       "r": [],
+      "a": "Ward",
       "d": "Winim - Nim's Windows API and COM Library",
+      "x": [
+        "examples",
+        "tests",
+        "docs",
+        "tcclib"
+      ],
+      "m": "1.0.0",
       "p": []
     },
     {
       "v": "3.7.2@c68e1bbf5c684fe872ff2d84687224078b9e661d",
       "r": [],
+      "a": "Ward",
       "d": "Winim - Nim's Windows API and COM Library",
+      "x": [
+        "examples",
+        "tests",
+        "docs",
+        "tcclib"
+      ],
+      "m": "1.0.0",
       "p": []
     },
     {
       "v": "3.7.1@5460161ec95c9e13812504a0f9b94b08999acf75",
       "r": [],
+      "a": "Ward",
       "d": "Winim - Nim's Windows API and COM Library",
+      "x": [
+        "examples",
+        "tests",
+        "docs",
+        "tcclib"
+      ],
+      "m": "1.0.0",
       "p": []
     },
     {
       "v": "3.7.0@8edc6daa1420cf4d1018be16b2067606bf8f43bf",
       "r": [],
+      "a": "Ward",
       "d": "Winim - Nim's Windows API and COM Library",
+      "x": [
+        "examples",
+        "tests",
+        "docs",
+        "tcclib"
+      ],
+      "m": "1.0.0",
       "p": []
     },
     {
       "v": "3.6.1@b7b32603f4ef672bc34405bc6200e8aab2c366b1",
       "r": [],
+      "a": "Ward",
       "d": "Winim - Nim's Windows API and COM Library",
+      "x": [
+        "examples",
+        "tests",
+        "docs",
+        "tcclib"
+      ],
+      "m": "1.0.0",
       "p": []
     },
     {
       "v": "3.6.0@bffaf742b4603d1f675b4558d250d5bfeb8b6630",
       "r": [],
-      "d": "Winim - Nim's Windows API and COM Library"
+      "a": "Ward",
+      "d": "Winim - Nim's Windows API and COM Library",
+      "x": [
+        "examples",
+        "tests",
+        "docs",
+        "tcclib"
+      ],
+      "m": "1.0.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:39:07Z",
+  "generatedAt": "2026-08-31T18:30:01Z",
   "allDeps": {
     "packages": [],
     "urls": [],

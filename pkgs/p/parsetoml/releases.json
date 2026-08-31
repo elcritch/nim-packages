@@ -31,11 +31,15 @@
     {
       "v": "0.5.0@329cc618fe27a6c89708d1fa17ddc72f8da97e08",
       "r": []
+    },
+    {
+      "v": "0.4.0@d40e6c571b5e67244e3ea1d3ff4331c2ceb753de",
+      "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-31T12:28:21Z",
+  "generatedAt": "2026-08-31T18:26:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -12,6 +12,13 @@
   ],
   "releases": [
     {
+      "v": "4.4.1@40f8087c815403d64e3dd4044411022cc4bedd5b",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
       "v": "4.4.0@55adad164db35f7f6973177c5b5ff48fcd6b6450",
       "r": [],
       "S": "HasUnknownNimbleFile",
@@ -181,7 +188,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-31T12:21:27Z",
+  "generatedAt": "2026-08-31T18:19:10Z",
   "allDeps": {
     "packages": [
       "bearssl <= 4.2.5",
