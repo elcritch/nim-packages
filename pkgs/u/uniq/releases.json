@@ -10,12 +10,6 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.2.1@592992cec672de75e2eba1ffa74f1a5fe15e1b24",
-      "r": [
-        "checksums >= 0.1.0"
-      ]
-    },
-    {
       "v": "0.2.0@74c202254009ce0a1a77fd8e008c2fbc0133e285",
       "r": [
         "checksums >= 0.1.0"
@@ -24,7 +18,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-27T21:34:58Z",
+  "generatedAt": "2026-08-31T06:33:28Z",
   "allDeps": {
     "packages": [
       "checksums"

@@ -16,16 +16,6 @@
   ],
   "releases": [
     {
-      "v": "0.7.6@44ba4c2fd97f388e88e7389895bf427f5c1d9942",
-      "r": [
-        "nimcrypto",
-        "regex",
-        "zstd",
-        "urlly",
-        "chronos"
-      ]
-    },
-    {
       "v": "0.7.5@cb2b6b429549af719ee1dc288d931b85f58eb103",
       "r": [
         "nimcrypto",
@@ -117,7 +107,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-31T00:29:27Z",
+  "generatedAt": "2026-08-31T06:23:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
