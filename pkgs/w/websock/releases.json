@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "websock",
   "fqn": "nim-websock.status-im.github.com",
-  "current": "3f7ec0e0241f0abe6b4d6a124c6a2b6755c4b9da",
+  "current": "4f692d92d28d27629b4f2752f037acb12228af62",
   "author": "Status Research & Development GmbH",
   "description": "WS protocol implementation",
   "license": "MIT",
@@ -13,7 +13,7 @@
   ],
   "releases": [
     {
-      "v": "0.4.2@3f7ec0e0241f0abe6b4d6a124c6a2b6755c4b9da^",
+      "v": "0.4.2@3f7ec0e0241f0abe6b4d6a124c6a2b6755c4b9da",
       "r": [
         "bearssl >= 0.2.13",
         "chronicles >= 0.12.4",
@@ -94,7 +94,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-01T06:33:52Z",
+  "generatedAt": "2026-09-01T12:30:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

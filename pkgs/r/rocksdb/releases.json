@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "rocksdb",
   "fqn": "nim-rocksdb.status-im.github.com",
-  "current": "bfbf82fc7274a595d7ed6a0d112f04781ab4bcad",
+  "current": "6f486d6c5ba74a0a55391beb49c12fd8f97159fb",
   "author": "Status Research & Development GmbH",
   "description": "A wrapper for Facebook's RocksDB, an embeddable, persistent key-value store for fast storage",
   "license": "Apache License 2.0 or GPLv2",
@@ -15,6 +15,14 @@
     "build"
   ],
   "releases": [
+    {
+      "v": "11.1.2.0@c363d6403f859ec26d6338c9159d037d6a68d071",
+      "r": [
+        "results",
+        "tempfile",
+        "unittest2 >= 0.2.5"
+      ]
+    },
     {
       "v": "10.10.1.0@2b453d3e6240b2081a9379ad15743d798461c13d",
       "r": [
@@ -81,7 +89,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-13T07:19:49Z",
+  "generatedAt": "2026-09-01T12:27:11Z",
   "allDeps": {
     "packages": [
       "results",

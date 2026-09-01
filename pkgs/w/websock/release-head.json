@@ -1,1 +1,1 @@
-{"v":"#head@3f7ec0e0241f0abe6b4d6a124c6a2b6755c4b9da","r":["bearssl >= 0.2.13","chronicles >= 0.12.4","chronos >= 4.4.0 & < 4.6.0","httputils >= 0.5.1","nimcrypto >= 0.7.0","results >= 0.5.0","stew >= 0.5.2","zlib >= 0.2.0"]}
+{"v":"#head@4f692d92d28d27629b4f2752f037acb12228af62","r":["bearssl >= 0.2.13","chronicles >= 0.12.4","chronos >= 4.4.0 & < 4.6.0","httputils >= 0.5.1","nimcrypto >= 0.7.0","results >= 0.5.0","stew >= 0.5.2","zlib >= 0.2.0"]}

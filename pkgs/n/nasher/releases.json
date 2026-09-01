@@ -94,6 +94,15 @@
       ]
     },
     {
+      "v": "0.20.1@a872d9a6b7f4d992212fd57419ff0918f9f6c483",
+      "r": [
+        "neverwinter >= 1.5.5",
+        "glob >= 0.11.1",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0"
+      ]
+    },
+    {
       "v": "0.20.0@b7c124513fdaa847c951f64f00ccd9a1c2463834",
       "r": [
         "neverwinter >= 1.5.5",
@@ -632,7 +641,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-01T06:27:17Z",
+  "generatedAt": "2026-09-01T12:24:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
