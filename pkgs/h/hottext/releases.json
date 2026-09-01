@@ -13,6 +13,13 @@
   ],
   "releases": [
     {
+      "v": "20231003@aa42c01b35fe09cbc19bf650b375566027651db8",
+      "r": [
+        "sdl2",
+        "typography >= 0.7.8"
+      ]
+    },
+    {
       "v": "1.4@fcd21c253ea95ae89a9669dd9660bdf552135976",
       "r": [
         "sdl2",
@@ -36,7 +43,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-01T12:22:45Z",
+  "generatedAt": "2026-09-01T18:23:52Z",
   "allDeps": {
     "packages": [
       "bumpy",

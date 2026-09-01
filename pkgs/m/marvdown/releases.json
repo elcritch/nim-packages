@@ -2,13 +2,19 @@
   "cv": 19,
   "name": "marvdown",
   "fqn": "marvdown.openpeeps.github.com",
-  "current": "62e438a7df7a47b2e7c9ef51c022fd038b2df4a4",
+  "current": "c2712db10552102866fe8914eedd0722e87f0ad0",
   "author": "George Lemon",
   "description": "A stupid simple Markdown library",
   "license": "MIT",
   "nim": "2.0.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.2.0@c2712db10552102866fe8914eedd0722e87f0ad0^",
+      "r": [
+        "openparser >= 0.2.0"
+      ]
+    },
     {
       "v": "0.1.6@f6ca5f7fb6d89eccd5457c8f4e767b8cdc0d070c",
       "r": [
@@ -54,16 +60,17 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-01T12:23:53Z",
+  "generatedAt": "2026-09-01T18:25:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "0.1.5"
+      "0.1.5",
+      "0.2.0"
     ],
-    "latest": "0.1.5"
+    "latest": "0.2.0"
   },
   "allDeps": {
     "packages": [

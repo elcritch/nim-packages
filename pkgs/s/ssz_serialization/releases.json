@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "ssz_serialization",
   "fqn": "nim-ssz-serialization.status-im.github.com",
-  "current": "1cc4d87437a9f8f7a8b1119991af48308fbfe04b",
+  "current": "da7c0d3b4eeec1fdf32867ff40b0be0211c33b43",
   "author": "Status Research & Development GmbH",
   "description": "Simple Serialize (SSZ) serialization and merkleization",
   "license": "Apache License 2.0",
@@ -17,17 +17,40 @@
         "serialization",
         "stew"
       ]
+    },
+    {
+      "v": "0.1.1@da7c0d3b4eeec1fdf32867ff40b0be0211c33b43^",
+      "r": [
+        "serialization >= 0.5.0",
+        "json_serialization",
+        "stew >= 0.4.2",
+        "stint >= 0.8.2",
+        "nimcrypto",
+        "blscurve",
+        "results",
+        "unittest2",
+        "testutils",
+        "hashtree_abi"
+      ],
+      "m": "2.2.10"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:36:56Z",
+  "generatedAt": "2026-09-01T18:32:26Z",
   "allDeps": {
     "packages": [
+      "blscurve > 0.1.0",
       "faststreams",
+      "hashtree_abi > 0.1.0",
+      "intops > 0.1.0",
+      "json_serialization > 0.1.0",
+      "nimcrypto > 0.1.0",
       "results",
       "serialization",
       "stew",
+      "stint > 0.1.0",
+      "testutils > 0.1.0",
       "unittest2"
     ],
     "urls": [],

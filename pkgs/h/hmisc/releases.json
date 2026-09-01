@@ -480,6 +480,16 @@
       "m": "1.4.0"
     },
     {
+      "v": "0.10.2@92ec7e6141b03107c0e6d9574068a9549f4c560f",
+      "r": [
+        "cligen"
+      ],
+      "k": [
+        "nim"
+      ],
+      "m": "1.4.0"
+    },
+    {
       "v": "0.10.0@c8c4fff49af47bcbb574bd5301d53f892bfd6d94",
       "r": [
         "cligen"
@@ -928,7 +938,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-01T12:22:40Z",
+  "generatedAt": "2026-09-01T18:23:48Z",
   "allDeps": {
     "packages": [
       "benchy > 0.11.1",

@@ -1,1 +1,1 @@
-{"v":"#head@73a4a0218bda749efd251e757ed0bb1f70a236a1","r":["nimsvg >= 0.1.0","readfx","malebolgia"],"h":true,"g":true,"o":{"abichromatogram":"abichromatogram","abivalidate":"abivalidate","abi2fq":"abi2fq","abimerge":"abimerge","abimetadata":"abimetadata","abiscreen":"abiscreen"},"m":"2.2.0"}
+{"v":"#head@cb10c727e50abe9e4451ff09563cb3b96ae3378c","r":["nimsvg >= 0.1.0","readfx","malebolgia"],"h":true,"g":true}

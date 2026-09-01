@@ -4403,7 +4403,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-01T12:20:20Z",
+  "generatedAt": "2026-09-01T18:19:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -4507,6 +4507,7 @@
       "dnsclient",
       "eth",
       "faststreams",
+      "hashtree_abi > 22.3.0 & <= 26.8.0",
       "httputils",
       "intops",
       "json_rpc",

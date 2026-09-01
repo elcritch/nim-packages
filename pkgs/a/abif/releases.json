@@ -2,11 +2,11 @@
   "cv": 19,
   "name": "abif",
   "fqn": "nim-abif.quadram-institute-bioscience.github.com",
-  "current": "73a4a0218bda749efd251e757ed0bb1f70a236a1",
+  "current": "cb10c727e50abe9e4451ff09563cb3b96ae3378c",
   "author": "Andrea Telatin, Claude AI",
   "description": "ABIF (Applied Biosystems Information Format) parser for DNA sequencing data",
   "license": "MIT",
-  "nim": "1.6.0",
+  "nim": "2.2.0",
   "srcDir": "src",
   "binDir": "bin",
   "skipDirs": [
@@ -18,30 +18,50 @@
   ],
   "namedBin": {
     "abichromatogram": "abichromatogram",
+    "abivalidate": "abivalidate",
     "abi2fq": "abi2fq",
     "abimerge": "abimerge",
-    "abimetadata": "abimetadata"
+    "abimetadata": "abimetadata",
+    "abiscreen": "abiscreen"
   },
   "releases": [
+    {
+      "v": "0.3.0@6700262bdd202d95584d95de07d6c2e7d77bb8ef",
+      "r": [
+        "nimsvg >= 0.1.0",
+        "readfx",
+        "malebolgia"
+      ],
+      "h": true,
+      "p": []
+    },
     {
       "v": "0.2.0@4ef09296eba719a69fb75b26b901535fd41c97de",
       "r": [
         "nimsvg >= 0.1.0"
       ],
       "h": true,
+      "o": {
+        "abichromatogram": "abichromatogram",
+        "abi2fq": "abi2fq",
+        "abimerge": "abimerge",
+        "abimetadata": "abimetadata"
+      },
+      "m": "1.6.0",
       "p": []
     },
     {
       "v": "0.1.0@d02c93770348c9052ecf9079526314e31a8a714f",
       "r": [],
       "h": true,
+      "m": "1.6.0",
       "b": "",
       "o": {}
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-01T12:19:05Z",
+  "generatedAt": "2026-09-01T18:18:09Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -49,15 +69,24 @@
     },
     "releases": [
       "0.1.0",
-      "0.2.0"
+      "0.2.0",
+      "v0.3.0"
     ],
-    "latest": "0.2.0"
+    "tagVersions": {
+      "v0.3.0": "0.3.0"
+    },
+    "latest": "v0.3.0"
   },
   "allDeps": {
     "packages": [
-      "nimsvg > 0.1.0"
+      "malebolgia > 0.2.0",
+      "nimsvg > 0.1.0",
+      "readfx > 0.2.0",
+      "zip > 0.2.0"
     ],
-    "urls": [],
+    "urls": [
+      "error://gzfast > 0.2.0"
+    ],
     "unresolved": []
   }
 }
