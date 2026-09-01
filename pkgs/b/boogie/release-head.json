@@ -1,1 +1,1 @@
-{"v":"#head@69e47aa60a086e19a3d99b5630b5f1e3850ce989","r":["sorta >= 0.2.0","flatty >= 0.4.0","openparser >= 0.2.0"]}
+{"v":"#head@58c50c4ab428c2d3cd7bf2cec2568396b63da8c7","r":["sorta >= 0.2.0","openparser >= 0.2.0","vancode >= 0.2.6","voodoo >= 0.2.0","db_connector >= 0.1.0"]}

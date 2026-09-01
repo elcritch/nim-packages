@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "vancode",
   "fqn": "vancode.openpeeps.github.com",
-  "current": "da80a6541fcc71356b1a848c98451680330bf273",
+  "current": "18e1fd524ac95261ac2f5293d63775bfca0576cd",
   "author": "George Lemon",
   "description": "A flexible AST, Codegen and Virtual Machine library",
   "license": "LGPL-3.0-or-later",
@@ -10,7 +10,20 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.2.7@da80a6541fcc71356b1a848c98451680330bf273^",
+      "v": "0.2.8@18e1fd524ac95261ac2f5293d63775bfca0576cd^",
+      "r": [
+        "voodoo >= 0.1.9",
+        "openparser >= 0.3.0",
+        "error://flysystem >= 0.1.0",
+        "checksums >= 0.2.2",
+        "semver >= 1.2.3",
+        "threading >= 0.1.0"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/vancode.openpeeps.github.com-18e1fd52-vancode.nimble\ncannot resolve package name: flysystem"
+    },
+    {
+      "v": "0.2.7@da80a6541fcc71356b1a848c98451680330bf273",
       "r": [
         "voodoo >= 0.1.9",
         "openparser >= 0.3.0",
@@ -201,7 +214,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-31T18:29:35Z",
+  "generatedAt": "2026-09-01T00:48:07Z",
   "allDeps": {
     "packages": [
       "checksums",
@@ -221,7 +234,8 @@
       "voodoo"
     ],
     "urls": [
-      "error://flysystem > 0.2.6"
+      "error://flysystem > 0.2.6",
+      "error://nimcypher"
     ],
     "unresolved": []
   }

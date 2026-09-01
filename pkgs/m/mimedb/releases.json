@@ -31,7 +31,9 @@
       "nimsimd > 0.1.0",
       "openparser > 0.1.0"
     ],
-    "urls": [],
+    "urls": [
+      "error://nimcypher > 0.1.0"
+    ],
     "unresolved": []
   }
 }

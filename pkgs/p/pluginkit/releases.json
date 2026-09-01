@@ -36,7 +36,9 @@
       "openparser",
       "semver"
     ],
-    "urls": [],
+    "urls": [
+      "error://nimcypher"
+    ],
     "unresolved": []
   }
 }

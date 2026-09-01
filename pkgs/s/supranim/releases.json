@@ -116,7 +116,7 @@
     ],
     "urls": [
       "error://flysystem > 0.1.8",
-      "error://nimcypher > 0.1.8",
+      "error://nimcypher",
       "error://powpow"
     ],
     "unresolved": []

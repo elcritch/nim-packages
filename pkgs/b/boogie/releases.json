@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "boogie",
   "fqn": "boogie.openpeeps.github.com",
-  "current": "69e47aa60a086e19a3d99b5630b5f1e3850ce989",
+  "current": "58c50c4ab428c2d3cd7bf2cec2568396b63da8c7",
   "author": "George Lemon",
   "description": "A suite of WAL-based data stores",
   "license": "LGPL-3.0-or-later",
@@ -10,7 +10,17 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.3@69e47aa60a086e19a3d99b5630b5f1e3850ce989^",
+      "v": "0.2.0@58c50c4ab428c2d3cd7bf2cec2568396b63da8c7^",
+      "r": [
+        "sorta >= 0.2.0",
+        "openparser >= 0.2.0",
+        "vancode >= 0.2.6",
+        "voodoo >= 0.2.0",
+        "db_connector >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.1.3@69e47aa60a086e19a3d99b5630b5f1e3850ce989",
       "r": [
         "sorta >= 0.2.0",
         "flatty >= 0.4.0",
@@ -46,16 +56,32 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-25T12:16:59Z",
+  "generatedAt": "2026-09-01T00:33:46Z",
   "allDeps": {
     "packages": [
+      "checksums > 0.1.3",
+      "db_connector > 0.1.3",
+      "dotenv > 0.1.3",
       "flatty",
+      "gccjit > 0.1.3",
+      "htmlparser > 0.1.3",
+      "jsony > 0.1.3",
+      "libffi > 0.1.3",
       "nimsimd",
+      "nyml > 0.1.3",
       "openparser",
+      "pkginfo > 0.1.3",
+      "semver > 0.1.3",
       "sorta",
-      "threading <= 0.1.1"
+      "threading",
+      "toktok > 0.1.3",
+      "vancode > 0.1.3",
+      "voodoo > 0.1.3"
     ],
-    "urls": [],
+    "urls": [
+      "error://flysystem > 0.1.3",
+      "error://nimcypher"
+    ],
     "unresolved": []
   }
 }

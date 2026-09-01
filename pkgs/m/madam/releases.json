@@ -47,7 +47,9 @@
       "valido",
       "voodoo"
     ],
-    "urls": [],
+    "urls": [
+      "error://nimcypher"
+    ],
     "unresolved": [
       "gh:iffy/asynctools",
       "gh:timotheecour/asynctools"

@@ -50,7 +50,9 @@
       "valido",
       "voodoo"
     ],
-    "urls": [],
+    "urls": [
+      "error://nimcypher"
+    ],
     "unresolved": []
   }
 }

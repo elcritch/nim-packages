@@ -81,7 +81,9 @@
       "nimsimd > 0.1.7 & <= 0.1.8",
       "openparser > 0.1.7 & <= 0.1.8"
     ],
-    "urls": [],
+    "urls": [
+      "error://nimcypher > 0.1.7 & <= 0.1.8"
+    ],
     "unresolved": []
   }
 }

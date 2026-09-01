@@ -40,7 +40,9 @@
       "nimsimd",
       "openparser"
     ],
-    "urls": [],
+    "urls": [
+      "error://nimcypher"
+    ],
     "unresolved": []
   }
 }

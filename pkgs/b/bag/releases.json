@@ -28,7 +28,9 @@
       "openparser",
       "valido"
     ],
-    "urls": [],
+    "urls": [
+      "error://nimcypher"
+    ],
     "unresolved": []
   }
 }

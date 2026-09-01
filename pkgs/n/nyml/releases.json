@@ -99,7 +99,9 @@
       "semver <= 0.1.5",
       "toktok"
     ],
-    "urls": [],
+    "urls": [
+      "error://nimcypher > 0.1.8"
+    ],
     "unresolved": []
   }
 }

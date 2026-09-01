@@ -32,7 +32,9 @@
       "threading",
       "voodoo"
     ],
-    "urls": [],
+    "urls": [
+      "error://nimcypher"
+    ],
     "unresolved": []
   }
 }

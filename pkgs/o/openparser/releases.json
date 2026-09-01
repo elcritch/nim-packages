@@ -2,76 +2,114 @@
   "cv": 19,
   "name": "openparser",
   "fqn": "openparser.openpeeps.github.com",
-  "current": "7955cf1867a0b867178a1203c1ec185e18f24a06",
+  "current": "d99c51a761a17a2f37a8d2c6c68e4cc186cea65c",
   "author": "George Lemon",
-  "description": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+  "description": "Tiny parsers and serializers for JSON, YAML, XML, TOML, CSV, BSON, Plist (XML+Binary), RSS, QR codes and more",
   "license": "MIT",
-  "nim": "2.0.0",
+  "nim": "2.2.10",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.3.1@d99c51a761a17a2f37a8d2c6c68e4cc186cea65c^",
+      "r": [
+        "nimsimd >= 1.3.2",
+        "error://nimcypher >= 0.2.0"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/openparser.openpeeps.github.com-d99c51a7-openparser.nimble\ncannot resolve package name: nimcypher"
+    },
+    {
+      "v": "0.3.0@157f2d42e4da674d0fccaf53e3c7ae0f24667dad",
+      "r": [
+        "nimsimd >= 1.3.2",
+        "error://nimcypher >= 0.2.0"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/openparser.openpeeps.github.com-157f2d42-openparser.nimble\ncannot resolve package name: nimcypher"
+    },
     {
       "v": "0.2.0@98bf6b46ebf1cbbde25ac30656f484fa9c6ad321",
       "r": [
         "nimsimd >= 1.3.2"
-      ]
+      ],
+      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+      "m": "2.0.0"
     },
     {
       "v": "0.1.9@58b6dafde0a6e72237deecba432ffbb5ef4e1925",
       "r": [
         "nimsimd >= 1.3.2"
-      ]
+      ],
+      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+      "m": "2.0.0"
     },
     {
       "v": "0.1.8@9397e75b8f517cda1a4bb1a7a467074e91fc9cb4",
       "r": [
         "nimsimd >= 1.3.2"
-      ]
+      ],
+      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+      "m": "2.0.0"
     },
     {
       "v": "0.1.7@db4c037426c5af8062b3db5f573041d12db25f90",
       "r": [
         "nimsimd >= 1.3.2"
-      ]
+      ],
+      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+      "m": "2.0.0"
     },
     {
       "v": "0.1.6@4eb0df2f842bfece54e68a87d794d68e5192ad70",
       "r": [
         "nimsimd >= 1.3.2"
-      ]
+      ],
+      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+      "m": "2.0.0"
     },
     {
       "v": "0.1.5@add8279910d5e45ff979377e0593ff1d55178816",
       "r": [
         "nimsimd >= 1.3.2"
-      ]
+      ],
+      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+      "m": "2.0.0"
     },
     {
       "v": "0.1.4@fd6479d1ea00863b6258eb74b062094b9d407a41",
       "r": [
         "nimsimd >= 1.3.2"
-      ]
+      ],
+      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+      "m": "2.0.0"
     },
     {
       "v": "0.1.3@d87b8d1f40e3d68dddaa7cdc3a55a49b0bf6078a",
       "r": [
         "nimsimd >= 1.3.2"
-      ]
+      ],
+      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+      "m": "2.0.0"
     },
     {
       "v": "0.1.2@9068f41943537872302c7e9a0240e156019126fc",
       "r": [
         "nimsimd >= 1.3.2"
-      ]
+      ],
+      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+      "m": "2.0.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-25T18:31:23Z",
+  "generatedAt": "2026-09-01T00:43:18Z",
   "allDeps": {
     "packages": [
       "nimsimd"
     ],
-    "urls": [],
+    "urls": [
+      "error://nimcypher > 0.2.0"
+    ],
     "unresolved": []
   }
 }

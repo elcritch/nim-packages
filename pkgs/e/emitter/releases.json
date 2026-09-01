@@ -47,6 +47,7 @@
       "threading"
     ],
     "urls": [
+      "error://nimcypher",
       "error://powpow > 0.2.0"
     ],
     "unresolved": []
