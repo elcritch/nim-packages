@@ -286,7 +286,12 @@
     },
     {
       "v": "0.7@8f5d3bdb980bc958aef4e7387350c6a4b58277f2",
-      "r": []
+      "r": [
+        "chroma >= 0.2.6",
+        "vmath >= 1.1.4"
+      ],
+      "d": "Simple Window Maker",
+      "m": "1.6.6"
     },
     {
       "v": "0.6.5@d3fe843ed6ca898958e7d34e26354568514b528a",
@@ -385,7 +390,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-02T00:41:55Z",
+  "generatedAt": "2026-09-02T06:35:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
