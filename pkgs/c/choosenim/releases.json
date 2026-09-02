@@ -98,13 +98,12 @@
     },
     {
       "v": "0.8.4@e9ed20d517f7f56299d961c7a47eed102c4ff676",
-      "r": [
-        "nimble #8f7af86",
-        "analytics >= 0.3.0",
-        "osinfo >= 0.3.0",
-        "zippy >= 0.7.2"
-      ],
-      "l": "MIT"
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "b": "",
+      "z": [],
+      "p": []
     },
     {
       "v": "0.8.2@fae357df646302648bef27bb8ea0033d48a7e757",
@@ -300,7 +299,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-01T18:20:15Z",
+  "generatedAt": "2026-09-02T00:30:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

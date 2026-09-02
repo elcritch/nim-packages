@@ -26,6 +26,16 @@
   },
   "releases": [
     {
+      "v": "0.3.0@cb10c727e50abe9e4451ff09563cb3b96ae3378c^",
+      "r": [
+        "nimsvg >= 0.1.0",
+        "readfx",
+        "malebolgia"
+      ],
+      "h": true,
+      "p": []
+    },
+    {
       "v": "0.3.0@6700262bdd202d95584d95de07d6c2e7d77bb8ef",
       "r": [
         "nimsvg >= 0.1.0",
@@ -61,7 +71,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-01T18:18:09Z",
+  "generatedAt": "2026-09-02T00:28:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -70,12 +80,9 @@
     "releases": [
       "0.1.0",
       "0.2.0",
-      "v0.3.0"
+      "0.3.0"
     ],
-    "tagVersions": {
-      "v0.3.0": "0.3.0"
-    },
-    "latest": "v0.3.0"
+    "latest": "0.3.0"
   },
   "allDeps": {
     "packages": [
