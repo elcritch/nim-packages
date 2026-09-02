@@ -12,40 +12,13 @@
     {
       "v": "0.3.0@576c797bf436fbf6e79b55f03ffb986f66923184^",
       "r": []
-    },
-    {
-      "v": "0.2.2@f5dbed379e50dabfde6b8e37c3308965c3b1fa56",
-      "r": []
-    },
-    {
-      "v": "0.2.1@fef0a2adda4d63e9266549a28b09171841a7bfaf",
-      "r": [
-        "httpx",
-        "websocketx"
-      ],
-      "m": "1.6.0"
-    },
-    {
-      "v": "0.2.0@e04f9a50eaf33bf23eb15d81ca81b30edf0b6ea6",
-      "r": [
-        "httpx",
-        "websocketx"
-      ],
-      "m": "1.6.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-31T00:38:43Z",
+  "generatedAt": "2026-09-02T12:36:03Z",
   "allDeps": {
-    "packages": [
-      "httpx <= 0.2.1",
-      "ioselectors <= 0.2.1",
-      "timerwheel <= 0.2.1",
-      "websocketx <= 0.2.1",
-      "wepoll <= 0.2.1",
-      "ws <= 0.2.1"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

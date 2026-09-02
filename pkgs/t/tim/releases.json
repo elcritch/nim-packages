@@ -98,7 +98,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-02T06:36:42Z",
+  "generatedAt": "2026-09-02T12:35:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -125,8 +125,6 @@
       "floof",
       "gccjit",
       "htmlparser",
-      "httpx",
-      "ioselectors",
       "jsony",
       "kapsis",
       "libevent",
@@ -147,16 +145,12 @@
       "supranim",
       "termstyle",
       "threading",
-      "timerwheel",
       "toktok",
       "twofa",
       "valido",
       "vancode",
       "voodoo",
-      "watchout",
-      "websocketx",
-      "wepoll",
-      "ws"
+      "watchout"
     ],
     "urls": [
       "error://clue <= 0.2.7",

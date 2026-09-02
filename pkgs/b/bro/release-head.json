@@ -1,1 +1,1 @@
-{"v":"#head@f592d0d2514d369e0afb3a929c4692c099d052e7","r":["kapsis >= 0.4.5","semver >= 1.2.3","openparser >= 0.2.0","checksums >= 0.2.2","voodoo >= 0.2.0","vancode >= 0.2.7","chroma >= 0.1.0","watchout >= 0.3.0"]}
+{"v":"#head@d7fa01d07aeee7cf9575a1dd0498825bc7a6d143","r":["kapsis >= 0.4.5","semver >= 1.2.3","openparser >= 0.3.1","checksums >= 0.2.2","voodoo >= 0.2.0","vancode >= 0.2.7","watchout >= 0.3.0"],"g":true,"d":"A super fast CSS preprocessor for cool kids!","l":"LGPL-3.0-or-later","i":["bro"],"m":"2.0.0"}

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "ssz_serialization",
   "fqn": "nim-ssz-serialization.status-im.github.com",
-  "current": "da7c0d3b4eeec1fdf32867ff40b0be0211c33b43",
+  "current": "98aaa5e26a4c288b9c30be04e14256e57bc45660",
   "author": "Status Research & Development GmbH",
   "description": "Simple Serialize (SSZ) serialization and merkleization",
   "license": "Apache License 2.0",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "v": "0.1.1@da7c0d3b4eeec1fdf32867ff40b0be0211c33b43^",
+      "v": "0.1.1@da7c0d3b4eeec1fdf32867ff40b0be0211c33b43",
       "r": [
         "serialization >= 0.5.0",
         "json_serialization",
@@ -37,7 +37,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-01T18:32:26Z",
+  "generatedAt": "2026-09-02T12:34:13Z",
   "allDeps": {
     "packages": [
       "blscurve > 0.1.0",

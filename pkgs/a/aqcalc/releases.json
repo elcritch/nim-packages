@@ -16,6 +16,12 @@
   ],
   "releases": [
     {
+      "v": "0.3.1@e346af53bca95be4996d537dc8b6795c03b4ff56^",
+      "r": [
+        "docopt >= 0.6.7"
+      ]
+    },
+    {
       "v": "0.3@8be96b8c40be029ea9ae4ad901aca7e15621e052",
       "r": [
         "docopt >= 0.6.7"
@@ -36,7 +42,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-02T06:25:50Z",
+  "generatedAt": "2026-09-02T12:20:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
