@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "abif",
   "fqn": "nim-abif.quadram-institute-bioscience.github.com",
-  "current": "c4de89e7cc725ca6d8b3bcd55b8bf0636dfba1ff",
+  "current": "874b064094305bb08abe8acb7fc802880bb306bd",
   "author": "Andrea Telatin, Claude AI",
   "description": "ABIF (Applied Biosystems Information Format) parser for DNA sequencing data",
   "license": "MIT",
@@ -71,7 +71,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-02T18:18:12Z",
+  "generatedAt": "2026-09-03T00:28:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

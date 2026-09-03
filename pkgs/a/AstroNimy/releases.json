@@ -6,15 +6,10 @@
   "author": "Supermassive Blackholes",
   "description": "astronomical library for Nim programming language",
   "license": "MIT",
-  "releases": [
-    {
-      "v": "0.1.0@1b560bb469cc393ba01eceee232c6569d2759a74^",
-      "r": []
-    }
-  ],
+  "releases": [],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T11:39:14Z",
+  "generatedAt": "2026-09-03T00:28:36Z",
   "allDeps": {
     "packages": [],
     "urls": [],
