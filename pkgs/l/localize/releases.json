@@ -20,12 +20,6 @@
       ]
     },
     {
-      "v": "0.3.3@91370f7fc1352887a8136e1ebe3ab93a0ecb3bb9",
-      "r": [
-        "fusion"
-      ]
-    },
-    {
       "v": "0.3.2@48f299c43d0d15ef72d24357ad30c07edd910be4",
       "r": [
         "fusion"
@@ -65,7 +59,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-03T00:33:15Z",
+  "generatedAt": "2026-09-03T06:28:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

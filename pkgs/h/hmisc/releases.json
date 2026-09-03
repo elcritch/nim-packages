@@ -98,9 +98,13 @@
     },
     {
       "v": "0.13.1@ab8fdb2ecd6806c83e2573153e0d721aaa4d787a",
-      "r": [],
-      "b": "",
-      "k": [],
+      "r": [
+        "fusion",
+        "benchy >= 0.0.1",
+        "jsony >= 1.0.4",
+        "unicodedb >= 0.9.0"
+      ],
+      "m": "1.4.8",
       "p": [],
       "o": {}
     },
@@ -934,12 +938,12 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-03T00:32:22Z",
+  "generatedAt": "2026-09-03T06:26:42Z",
   "allDeps": {
     "packages": [
       "benchy > 0.11.1",
       "cligen > 0.8.3 & <= 0.11.17",
-      "fusion > 0.10.6 & <= 0.13.0",
+      "fusion > 0.10.6 & <= 0.13.1",
       "jsony > 0.11.17",
       "macroutils <= 0.7.0",
       "shell <= 0.4.6",

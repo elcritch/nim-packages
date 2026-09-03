@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "figdraw",
   "fqn": "figdraw.elcritch.github.com",
-  "current": "9fc6725d7b2505faa74bbc5d5f34e298ef75067e",
+  "current": "20bf86866730f6a698c7508843cea004d6042c30",
   "author": "Jaremy Creechley",
   "description": "UI Engine for Nim",
   "license": "MIT",
@@ -10,7 +10,55 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.35.2@9fc6725d7b2505faa74bbc5d5f34e298ef75067e^",
+      "v": "0.36.0@20bf86866730f6a698c7508843cea004d6042c30^",
+      "r": [
+        "pixie >= 5.0.1",
+        "chroma >= 0.2.7",
+        "bumpy",
+        "stack_strings",
+        "chronicles >= 0.10.3",
+        "sdfy >= 0.8.2",
+        "nimsimd >= 1.2.5",
+        "variant",
+        "patty",
+        "supersnappy",
+        "opengl",
+        "vmath",
+        "gh:planetis-m/vulkan #b223dc9"
+      ],
+      "f": {
+        "vulkan": [
+          "gh:planetis-m/vulkan #b223dc9"
+        ],
+        "lottie": [
+          "jsony"
+        ],
+        "harfbuzz": [
+          "gh:elcritch/harfbuzzy >= 0.2.4"
+        ],
+        "metal": [
+          "metalx #head"
+        ],
+        "surfer": [
+          "surfer >= 0.2.5",
+          "xkb #b4d50f4cccad1cd9e39d2f5a5e1fef2710edcc31"
+        ],
+        "siwin": [
+          "siwin >= 1.1.0"
+        ],
+        "sharedlib": [
+          "gh:elcritch/binny #c3aa05f214a3074d902a0fc89202508ea81bbd75"
+        ],
+        "sdl2": [
+          "sdl2"
+        ],
+        "windy": [
+          "windy"
+        ]
+      }
+    },
+    {
+      "v": "0.35.2@9fc6725d7b2505faa74bbc5d5f34e298ef75067e",
       "r": [
         "pixie >= 5.0.1",
         "chroma >= 0.2.7",
@@ -1465,19 +1513,21 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-03T00:31:32Z",
+  "generatedAt": "2026-09-03T06:25:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "v0.35.0"
+      "v0.35.0",
+      "v0.35.2"
     ],
     "tagVersions": {
-      "v0.35.0": "0.35.0"
+      "v0.35.0": "0.35.0",
+      "v0.35.2": "0.35.2"
     },
-    "latest": "v0.35.0"
+    "latest": "v0.35.2"
   },
   "allDeps": {
     "packages": [
