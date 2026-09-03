@@ -1,1 +1,1 @@
-{"v":"#head@f44cff901dff2a24fedcf4ef9e12a6f72355d58f","r":["stew","results","nimcrypto"],"a":"Status Research & Development GmbH","l":"Apache License 2.0","i":["vendor"],"m":"1.6.0"}
+{"v":"#head@38b81f5795b1d7fc2e7bd9eb08f19cd487aeef5f","r":["nimcrypto >= 0.7.0","results >= 0.5.0","stew >= 0.5.0"],"a":"Status Research & Development GmbH","l":"Apache License 2.0","i":["vendor"],"m":"1.6.18"}

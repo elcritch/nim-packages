@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "hippo",
   "fqn": "hippo.monofuel.github.com",
-  "current": "ae6b5061ba8dc37cec98ff4e418ed2661b116b4a",
+  "current": "c298ab4fbc7559c55b038f0ab13e9d12c607245a",
   "author": "Andrew Brower",
   "description": "HIP library for Nim",
   "license": "MIT",
@@ -36,7 +36,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-03T12:23:50Z",
+  "generatedAt": "2026-09-03T18:23:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

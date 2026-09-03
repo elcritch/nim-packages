@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "confutils",
   "fqn": "nim-confutils.status-im.github.com",
-  "current": "cdbac612f0f3d2883e959807d790658854e73cf2",
+  "current": "80cbcccd17e78bbfd052abee8c36a34d629dad7f",
   "author": "Status Research & Development GmbH",
   "description": "Simplified handling of command line options and config files",
   "license": "Apache License 2.0",
@@ -12,7 +12,7 @@
   ],
   "releases": [
     {
-      "v": "0.1.1@cdbac612f0f3d2883e959807d790658854e73cf2^",
+      "v": "0.1.1@cdbac612f0f3d2883e959807d790658854e73cf2",
       "r": [
         "stew >= 0.5.0",
         "serialization >= 0.5.4",
@@ -31,7 +31,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-03T12:21:57Z",
+  "generatedAt": "2026-09-03T18:20:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
