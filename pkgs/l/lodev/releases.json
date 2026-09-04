@@ -39,20 +39,11 @@
         "lodns",
         "locert"
       ]
-    },
-    {
-      "v": "0.1.0@69ab075ef58fbc318780f3c5a31e25932f96c5f7",
-      "r": [
-        "chronos",
-        "lodns #head",
-        "locert #head"
-      ],
-      "d": "Simple proxy server for local development"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-03T18:25:22Z",
+  "generatedAt": "2026-09-04T00:30:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

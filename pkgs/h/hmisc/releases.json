@@ -684,23 +684,6 @@
       "m": "1.4.0"
     },
     {
-      "v": "0.8.4@5f77eb17c372845f9036e887da2963b04079ac6e",
-      "r": [
-        "sorta",
-        "cligen"
-      ],
-      "k": [
-        "nim"
-      ],
-      "p": [
-        "hmisc/scripts/hmisc_docgen"
-      ],
-      "o": {
-        "hmisc/scripts/hmisc_docgen": "hmisc-docgen"
-      },
-      "m": "1.4.0"
-    },
-    {
       "v": "0.8.3@0220109d7a9c5596e840f67e290e5d6be02389dc",
       "r": [
         "sorta"
@@ -938,7 +921,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-03T06:26:42Z",
+  "generatedAt": "2026-09-04T00:29:48Z",
   "allDeps": {
     "packages": [
       "benchy > 0.11.1",

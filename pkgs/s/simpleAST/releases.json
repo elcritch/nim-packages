@@ -51,16 +51,11 @@
       "v": "1.1.0@d9bed9cb6eb20b6107ab3325f0480cd9dc8a1165",
       "r": [],
       "m": "0.17.0"
-    },
-    {
-      "v": "0.1.0@35e3d90ad323545c3080793918b6bf5cdb808060",
-      "r": [],
-      "m": "0.17.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-09T13:30:49Z",
+  "generatedAt": "2026-09-04T00:34:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],

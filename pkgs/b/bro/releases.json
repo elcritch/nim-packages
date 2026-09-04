@@ -2,15 +2,15 @@
   "cv": 19,
   "name": "bro",
   "fqn": "bro.openpeeps.github.com",
-  "current": "d7fa01d07aeee7cf9575a1dd0498825bc7a6d143",
+  "current": "d35a09e8f5a3e8e5b804dc387e3c49a773190298",
   "author": "George Lemon",
-  "description": "A super fast stylesheet language for cool kids",
-  "license": "MIT",
-  "nim": "1.6.10",
+  "description": "A super fast CSS preprocessor for cool kids!",
+  "license": "LGPL-3.0-or-later",
+  "nim": "2.0.0",
   "srcDir": "src",
   "binDir": "bin",
-  "skipDirs": [
-    "bro/utils"
+  "installDirs": [
+    "bro"
   ],
   "installExt": [
     "nim"
@@ -20,93 +20,63 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@d934ddd6b96da666b999e2a464c67f447aa2ce03",
+      "v": "0.2.0@d35a09e8f5a3e8e5b804dc387e3c49a773190298^",
       "r": [
-        "toktok",
-        "kapsis",
-        "watchout",
-        "jsony"
-      ],
-      "x": [],
-      "k": []
-    },
-    {
-      "v": "0.1.1@e7262385a1e026ea8929481b037905fc114cb27d",
-      "r": [
-        "toktok #head",
-        "kapsis",
-        "watchout",
-        "jsony",
-        "msgpack4nim #head",
-        "denim",
-        "chroma #head",
-        "zippy",
-        "pkginfo",
-        "StashTable"
-      ],
-      "d": "A super fast statically typed stylesheet language for cool kids"
-    },
-    {
-      "v": "0.1.2@ece2036d9c90927805421e21ff7c62ebe191b1f7",
-      "r": [
-        "toktok #head",
-        "kapsis",
-        "watchout",
-        "jsony",
-        "nyml",
-        "denim",
-        "chroma #head",
-        "zippy",
-        "pkginfo",
-        "StashTable",
-        "httpx",
-        "websocketx"
-      ],
-      "d": "A super fast stylesheet language for cool kids!",
-      "l": "LGPL"
+        "kapsis >= 0.4.5",
+        "semver >= 1.2.3",
+        "openparser >= 0.3.1",
+        "checksums >= 0.2.2",
+        "voodoo >= 0.2.0",
+        "vancode >= 0.2.7",
+        "watchout >= 0.3.0"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-02T12:21:21Z",
+  "generatedAt": "2026-09-04T00:27:09Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.2.0"
+    ],
+    "latest": "0.2.0"
+  },
   "allDeps": {
     "packages": [
-      "StashTable > 0.1.0",
       "ansiparse",
       "bigints",
       "blackpaper",
       "checksums",
-      "chroma > 0.1.0",
-      "denim > 0.1.0",
+      "dotenv",
+      "flatty",
       "floof",
+      "gccjit",
       "htmlparser",
-      "httpx > 0.1.1",
-      "ioselectors > 0.1.1",
       "jsony",
       "kapsis",
       "libffi",
-      "msgpack4nim > 0.1.0 & <= 0.1.1",
       "nancy",
       "nimsimd",
       "noise",
-      "nyml > 0.1.1",
+      "nyml",
       "openparser",
-      "pkginfo > 0.1.0",
+      "pkginfo",
       "pluginkit",
       "semver",
       "termstyle",
       "threading",
-      "timerwheel > 0.1.1",
       "toktok",
       "valido",
+      "vancode",
       "voodoo",
-      "watchout",
-      "websocketx > 0.1.1",
-      "wepoll > 0.1.1",
-      "ws > 0.1.1",
-      "zippy > 0.1.0"
+      "watchout"
     ],
     "urls": [
+      "error://flysystem",
       "error://nimcypher"
     ],
     "unresolved": []

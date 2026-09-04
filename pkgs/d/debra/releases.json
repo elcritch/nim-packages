@@ -112,6 +112,14 @@
       "m": "2.2.0"
     },
     {
+      "v": "0.1.1@1c5880f2aa438d312ea0809840847843f5cd1b0c",
+      "r": [
+        "typestates >= 0.2.1",
+        "unittest2 >= 0.2.0"
+      ],
+      "m": "2.2.0"
+    },
+    {
       "v": "0.1.0@3fda88ef17f130bbdeb70f540db35c2890846021",
       "r": [
         "typestates >= 0.2.1",
@@ -122,7 +130,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-03T18:21:19Z",
+  "generatedAt": "2026-09-04T00:28:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

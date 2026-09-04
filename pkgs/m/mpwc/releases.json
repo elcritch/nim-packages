@@ -49,13 +49,9 @@
   "generatedAt": "2026-05-27T12:30:56Z",
   "allDeps": {
     "packages": [
-      "checksums",
       "cligen",
-      "hmac",
       "masterpassword",
-      "nimSHA2",
-      "nimcrypto",
-      "sha1"
+      "nimcrypto"
     ],
     "urls": [],
     "unresolved": []
