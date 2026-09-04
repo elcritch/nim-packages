@@ -57,6 +57,14 @@
       "m": "0.14.3"
     },
     {
+      "v": "0.3.6@f12bbd4033b7e9a1afcd8e2fa371f590103744b6",
+      "r": [
+        "nimboost >= 0.3.2",
+        "classy >= 0.0.2"
+      ],
+      "m": "0.14.3"
+    },
+    {
       "v": "0.3.5@c863edc49020936c7167a40a0e73992ff43f0573",
       "r": [
         "nimboost >= 0.3.2",
@@ -165,7 +173,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-04T00:32:13Z",
+  "generatedAt": "2026-09-04T06:28:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -111,9 +111,11 @@
     },
     {
       "v": "7.2.0@f0e12af01a326c69229bf797053fb0609ed88b4e",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
+      "r": [
+        "curly >= 1.1.1",
+        "jsony >= 1.1.5",
+        "webby >= 0.2.1"
+      ]
     },
     {
       "v": "7.1.0@11785388673d2924d1b35161c159abbf53a8a4f6",
@@ -262,7 +264,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-04T00:33:14Z",
+  "generatedAt": "2026-09-04T06:30:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

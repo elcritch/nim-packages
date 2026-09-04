@@ -288,6 +288,13 @@
       "a": "aintea"
     },
     {
+      "v": "0.2.8@713f060d14c880898c5e90e9219d43d618d98c6d",
+      "r": [
+        "fusion"
+      ],
+      "a": "aintea"
+    },
+    {
       "v": "0.2.9@170b8d2e07d1c9d27c3bb50cbe0372df30362767",
       "r": [
         "fusion"
@@ -423,7 +430,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-04T00:31:31Z",
+  "generatedAt": "2026-09-04T06:27:53Z",
   "allDeps": {
     "packages": [
       "fusion > 0.2.0"
