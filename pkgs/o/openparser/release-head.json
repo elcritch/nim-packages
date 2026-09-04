@@ -1,1 +1,1 @@
-{"v":"#head@dac28ee589bfefd177f0732077b8ded178fa787e","r":["nimsimd >= 1.3.2","error://nimcypher >= 0.2.0"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/openparser.openpeeps.github.com-dac28ee5-openparser.nimble\ncannot resolve package name: nimcypher"}
+{"v":"#head@8f49af39c9d4c52140e049805ec5c583ac8c361d","r":["nimsimd >= 1.3.2","error://nimcypher >= 0.2.0"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/o/openparser/.worktree/openparser.nimble\ncannot resolve package name: nimcypher"}

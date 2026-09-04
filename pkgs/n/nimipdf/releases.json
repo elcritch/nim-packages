@@ -10,6 +10,13 @@
   "srcDir": "src",
   "releases": [
     {
+      "v": "0.1.0@67f080772480027b6c1ad1b452ef06fe1a4e0d10",
+      "r": [
+        "nimwkhtmltox >= 0.1.0",
+        "nimib"
+      ]
+    },
+    {
       "v": "0.2.0@a4814d8cfb0031f0be2e7c3ade18c57138bc9fb8",
       "r": [
         "nimwkhtmltox >= 0.1.0",
@@ -19,7 +26,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-04T12:25:20Z",
+  "generatedAt": "2026-09-04T18:22:18Z",
   "allDeps": {
     "packages": [
       "faststreams",
