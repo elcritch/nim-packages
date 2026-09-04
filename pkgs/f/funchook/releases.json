@@ -6,30 +6,45 @@
   "author": "Huy Doan",
   "description": "funchook wrapper",
   "license": "GPLv2",
-  "nim": "1.2.0",
+  "nim": "0.20.0",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.6@0e54631d17133181d37474760a68ab724512b24a^",
+      "v": "0.1.0@56cad839bffa14b45f69a329729381b19cb2d3a8",
       "r": []
+    },
+    {
+      "v": "0.1.1@ad6304c7b9d3bcb42fd074871823336baaf3053f",
+      "r": []
+    },
+    {
+      "v": "0.1.2@ae2d8e7fb360688c02acacf65dd2a47c62c8e94c",
+      "r": []
+    },
+    {
+      "v": "0.1.3@0292e0937ce1d108bae5c541463bd8e35f2fa929",
+      "r": [],
+      "m": "1.2.0"
     },
     {
       "v": "0.1.4@33724247cd9b8099155b8727af17bc124fc38850",
-      "r": []
-    },
-    {
-      "v": "0.1.2@c63f6bb70360991dea77a1a66f47c6d49c5d536f",
-      "r": []
-    },
-    {
-      "v": "0.1.1@f6ba900ab9e2d37418a1310332afb0827cf10671",
       "r": [],
-      "m": "0.20.0"
+      "m": "1.2.0"
+    },
+    {
+      "v": "0.1.5@2d34696708e7054c357bf7521dd8f78167037ff1",
+      "r": [],
+      "m": "1.2.0"
+    },
+    {
+      "v": "0.1.6@18be85ae928331663d07c5eabc5fc80d3af8237c",
+      "r": [],
+      "m": "1.2.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-04T06:24:23Z",
+  "generatedAt": "2026-09-04T12:22:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

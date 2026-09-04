@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "json_rpc",
   "fqn": "nim-json-rpc.status-im.github.com",
-  "current": "d783a9ef349876ae945cccee5693b46ee5d3ca8a",
+  "current": "845b4831ac4e7c9e71952621f987b63fb7b2fc4a",
   "author": "Status Research & Development GmbH",
   "description": "Ethereum remote procedure calls",
   "license": "Apache License 2.0",
@@ -103,7 +103,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-04T06:26:01Z",
+  "generatedAt": "2026-09-04T12:23:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

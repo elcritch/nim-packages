@@ -2,13 +2,32 @@
   "cv": 19,
   "name": "supranim",
   "fqn": "supranim.supranim.github.com",
-  "current": "d1f88f29a8874272ca38f250a0c9a0055780d959",
+  "current": "9a461114481dca04b37ccb52b45cb80147dc15f2",
   "author": "OpenPeeps",
   "description": "A full-featured web framework for Nim",
   "license": "LGPL-3.0-or-later",
   "nim": "2.2.10",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.1.10@9a461114481dca04b37ccb52b45cb80147dc15f2^",
+      "r": [
+        "threading >= 0.2.1",
+        "semver >= 1.2.3",
+        "kapsis >= 0.4.0",
+        "error://powpow >= 0.1.9",
+        "ozark >= 0.1.6",
+        "emitter >= 0.2.1",
+        "error://nimcypher >= 0.1.0",
+        "openparser >= 0.2.0",
+        "mimedb >= 0.1.1",
+        "checksums >= 0.2.2",
+        "error://flysystem >= 0.1.0",
+        "twofa >= 0.1.0"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-9a461114-supranim.nimble\ncannot resolve package name: powpow\ncannot resolve package name: nimcypher\ncannot resolve package name: flysystem"
+    },
     {
       "v": "0.1.9@a34b60773d677e68f931f9cec48fa3e3da994d45",
       "r": [
@@ -81,7 +100,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-27T09:21:01Z",
+  "generatedAt": "2026-09-04T12:28:25Z",
   "allDeps": {
     "packages": [
       "ansiparse",

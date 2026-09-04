@@ -300,13 +300,6 @@
       ]
     },
     {
-      "v": "2579.0.0@519dc5cc569d4451707762ffdcd2731b14a500b4",
-      "r": [
-        "sigv4 >= 1.0.4",
-        "gh:disruptek/rest >= 1.0.0"
-      ]
-    },
-    {
       "v": "2572.0.1@1ad6df14e8fca9c7f9dcc27f3841971012ff1742",
       "r": [
         "sigv4 >= 1.0.4",
@@ -421,7 +414,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-04T06:21:05Z",
+  "generatedAt": "2026-09-04T12:19:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -1,1 +1,1 @@
-{"v":"#head@e98bb8fea6be7766424d29655e5fe32d6d37a284","r":["faststreams","stew","results","json_serialization","chronicles","zlib","unittest2","chronos #head","bearssl #head"],"x":["tests","resources","fuzzer","docs","playground"],"m":"1.6.0"}
+{"v":"#head@5e088af8fabfc612566d6ae1898c73de313db3cf","r":["chronicles >= 0.12.0","faststreams >= 0.5.0","bearssl #head","chronos #head","zlib","json_serialization >= 0.4.0","results >= 0.5.0","stew >= 0.5.0","unittest2 >= 0.2.0"],"x":["tests","resources","fuzzer","docs","playground"],"m":"2.0.10"}

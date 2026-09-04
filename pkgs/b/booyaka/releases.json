@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "booyaka",
   "fqn": "booyaka.openpeeps.github.com",
-  "current": "b60e12b1897b581eb2a8565795378d4df3650c5b",
+  "current": "0156b4910a5d05de3d8f1fd1a3d80715e7c228b2",
   "author": "George Lemon",
   "description": "A fast documentation generator for cool kids!",
   "license": "AGPL-3.0-or-later",
@@ -14,29 +14,26 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@7bf1bcaec05e2c1fc2a34af684f71c0d6b018fe3",
+      "v": "0.1.0@0156b4910a5d05de3d8f1fd1a3d80715e7c228b2^",
       "r": [
-        "supranim #head",
-        "tim #head",
-        "limiter #head",
-        "bag",
-        "jsony",
-        "zippy",
-        "supranim_session",
-        "error://enimsql #head",
-        "marvdown #head",
-        "flatty",
-        "supersnappy",
-        "semver",
-        "libffi"
+        "supranim >= 0.1.9",
+        "error://powpow >= 0.1.8",
+        "tim >= 0.2.6",
+        "marvdown >= 0.1.4",
+        "flatty >= 0.4.0",
+        "semver >= 1.2.3",
+        "iconim >= 0.1.0",
+        "openparser >= 0.1.2",
+        "emitter >= 0.2.1",
+        "supra >= 0.1.0"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/booyaka.openpeeps.github.com-7bf1bcae-booyaka.nimble\ncannot resolve package name: enimsql"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/booyaka.openpeeps.github.com-0156b491-booyaka.nimble\ncannot resolve package name: powpow"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:24:16Z",
+  "generatedAt": "2026-09-04T12:20:01Z",
   "allDeps": {
     "packages": [
       "ansiparse",
@@ -48,17 +45,16 @@
       "checksums",
       "db_connector",
       "dotenv",
-      "e2ee",
       "emitter",
       "flatty",
       "floof",
       "gccjit",
       "htmlparser",
+      "iconim",
       "jsony",
       "kapsis",
       "libevent",
       "libffi",
-      "limiter",
       "marvdown",
       "mimedb",
       "nancy",
@@ -73,9 +69,8 @@
       "qr",
       "semver",
       "sorta",
-      "supersnappy",
+      "supra",
       "supranim",
-      "supranim_session",
       "termstyle",
       "threading",
       "tim",
@@ -84,12 +79,10 @@
       "valido",
       "vancode",
       "voodoo",
-      "watchout",
-      "zippy"
+      "watchout"
     ],
     "urls": [
       "error://clue",
-      "error://enimsql",
       "error://flysystem",
       "error://nimcypher",
       "error://powpow"
