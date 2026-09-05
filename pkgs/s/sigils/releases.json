@@ -977,7 +977,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-04T18:24:34Z",
+  "generatedAt": "2026-09-05T06:31:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -1012,6 +1012,7 @@
       "crunchy > 0.18.2",
       "fastrpc > 0.25.3 & <= 0.27.0",
       "flatty > 0.27.1",
+      "fusion > 0.27.1",
       "gmp > 0.16.0",
       "httputils > 0.25.3",
       "jnim > 0.27.1",
@@ -1030,6 +1031,7 @@
       "progress > 0.25.3 & <= 0.27.0",
       "results > 0.16.0",
       "sdl2 > 0.27.1",
+      "shady > 0.27.1",
       "siwin > 0.27.1",
       "stack_strings > 0.8.2",
       "stew > 0.16.0",

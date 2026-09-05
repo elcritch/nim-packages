@@ -2,13 +2,20 @@
   "cv": 19,
   "name": "plnim",
   "fqn": "plnim.luisacosta828.github.com",
-  "current": "1ef7894913abd86fc47ec35aaf90f86ceba42c56",
+  "current": "a3392bba810be60ff6eea8b5fd8fd34babd828fe",
   "author": "luisacosta",
   "description": "Language Handler for executing Nim inside postgres as a procedural language",
   "license": "MIT",
   "nim": "2.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.7.0@585a517cf0d72a0e6ba3f031d6e7ea118c3cc9db",
+      "r": [
+        "pgxcrown >= 0.20.1"
+      ],
+      "h": true
+    },
     {
       "v": "0.6.0@997573e37b130060c823ead2032dd8610cba4e16",
       "r": [
@@ -111,7 +118,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-24T00:27:39Z",
+  "generatedAt": "2026-09-05T06:29:19Z",
   "allDeps": {
     "packages": [
       "pgxcrown"
