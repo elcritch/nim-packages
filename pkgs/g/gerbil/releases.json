@@ -65,7 +65,6 @@
     ],
     "urls": [],
     "unresolved": [
-      "gh:iffy/asynctools",
       "gh:timotheecour/asynctools"
     ]
   }

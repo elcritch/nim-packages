@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "mimedb",
   "fqn": "mimedb.openpeeps.github.com",
-  "current": "cfcf9faeca95a42fbd5e3f4c3923df38b639f42e",
+  "current": "6fa5943918e5ddfdf88905d646a3572503036087",
   "author": "George Lemon",
   "description": "A large Database of MIME types",
   "license": "MIT",
@@ -10,7 +10,13 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.1@cfcf9faeca95a42fbd5e3f4c3923df38b639f42e^",
+      "v": "0.1.2@6fa5943918e5ddfdf88905d646a3572503036087^",
+      "r": [
+        "openparser >= 0.1.2"
+      ]
+    },
+    {
+      "v": "0.1.1@cfcf9faeca95a42fbd5e3f4c3923df38b639f42e",
       "r": [
         "openparser >= 0.1.2"
       ]
@@ -24,7 +30,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-11T19:11:28Z",
+  "generatedAt": "2026-09-05T12:23:37Z",
   "allDeps": {
     "packages": [
       "jsony <= 0.1.0",

@@ -34,7 +34,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-05T06:26:08Z",
+  "generatedAt": "2026-09-05T12:24:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -61,7 +61,6 @@
     ],
     "urls": [],
     "unresolved": [
-      "gh:iffy/asynctools",
       "gh:timotheecour/asynctools"
     ]
   }
