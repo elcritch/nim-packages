@@ -343,7 +343,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-05T12:27:55Z",
+  "generatedAt": "2026-09-05T18:22:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -442,6 +442,7 @@
       "error://cookies > 0.1.8 & <= 0.3.2"
     ],
     "unresolved": [
+      "gh:iffy/asynctools",
       "gh:planety/cookies",
       "gh:timotheecour/asynctools",
       "gh:xflywind/httpx"

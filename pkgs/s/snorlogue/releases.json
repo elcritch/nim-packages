@@ -113,6 +113,7 @@
       "error://cookies"
     ],
     "unresolved": [
+      "gh:iffy/asynctools",
       "gh:planety/cookies",
       "gh:timotheecour/asynctools",
       "gh:xflywind/httpx"

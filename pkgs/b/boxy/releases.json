@@ -183,20 +183,11 @@
         "opengl >= 1.2.3",
         "bitty >= 0.1.2"
       ]
-    },
-    {
-      "v": "0.1.0@19acd2f15b6c8137ee7166ff9a3eb468de3b1f6b",
-      "r": [
-        "pixie >= 3.0.0",
-        "vmath >= 1.0.11",
-        "opengl >= 1.2.3",
-        "bitty >= 0.1.2"
-      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-05T12:17:34Z",
+  "generatedAt": "2026-09-05T18:15:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

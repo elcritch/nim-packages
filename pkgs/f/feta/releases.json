@@ -149,7 +149,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-05T12:20:01Z",
+  "generatedAt": "2026-09-05T18:17:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -206,6 +206,7 @@
     ],
     "urls": [],
     "unresolved": [
+      "gh:iffy/asynctools",
       "gh:timotheecour/asynctools",
       "gh:yglukhov/bearssl_pkey_decoder",
       "gh:yglukhov/linktools"

@@ -51,6 +51,7 @@
       "error://nimcypher"
     ],
     "unresolved": [
+      "gh:iffy/asynctools",
       "gh:timotheecour/asynctools"
     ]
   }

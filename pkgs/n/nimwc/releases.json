@@ -658,7 +658,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-05T12:26:08Z",
+  "generatedAt": "2026-09-05T18:20:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -702,6 +702,7 @@
     ],
     "urls": [],
     "unresolved": [
+      "gh:iffy/asynctools",
       "gh:ThomasTJdev/otp.nim",
       "gh:timotheecour/asynctools"
     ]
