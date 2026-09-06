@@ -98,17 +98,6 @@
       ]
     },
     {
-      "v": "0.4.0@5332540a234562291a401ada337962778685a71e",
-      "r": [
-        "voodoo >= 0.1.9",
-        "valido >= 0.1.0",
-        "termstyle >= 0.1.0",
-        "nancy >= 0.1.1",
-        "noise >= 0.1.10",
-        "pluginkit >= 0.1.0"
-      ]
-    },
-    {
       "v": "0.3.9@1fa12a528f3569497f287971673724de7f182b90",
       "r": [
         "voodoo >= 0.1.9",
@@ -143,7 +132,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-01T12:23:13Z",
+  "generatedAt": "2026-09-06T18:18:48Z",
   "allDeps": {
     "packages": [
       "ansiparse <= 0.4.2",
