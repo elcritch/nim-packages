@@ -76,6 +76,13 @@
       ]
     },
     {
+      "v": "0.9.0@ee0e11c286ff4d8a4ac5a56e7a272c43b187957f",
+      "r": [
+        "unicodedb >= 0.8",
+        "segmentation >= 0.1"
+      ]
+    },
+    {
       "v": "0.8.0@0788d4b917d057e2b3bc96478fb087a5ad2d8c7b",
       "r": [
         "unicodedb >= 0.8",
@@ -157,7 +164,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-06T00:38:33Z",
+  "generatedAt": "2026-09-06T06:28:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
