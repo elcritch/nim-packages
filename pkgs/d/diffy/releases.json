@@ -17,7 +17,9 @@
     },
     {
       "v": "0.2.0@cdb8ebc3d223e10f98a907c44839800fd5471668",
-      "r": []
+      "r": [
+        "pixie >= 5.0.6"
+      ]
     },
     {
       "v": "0.1.2@8294ec89b3da204d36fc4543c54d5b18d3cb7ddb",
@@ -34,7 +36,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-05T18:16:33Z",
+  "generatedAt": "2026-09-06T00:31:26Z",
   "allDeps": {
     "packages": [
       "bumpy",
