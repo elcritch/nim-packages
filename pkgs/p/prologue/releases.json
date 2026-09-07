@@ -273,9 +273,18 @@
     },
     {
       "v": "0.2.4@caa83cdf1e0f623aa8a2c786d38755f771126a3f",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
+      "r": [
+        "regex >= 0.15.0",
+        "nimcrypto >= 0.4.11",
+        "karax >= 1.1.2",
+        "error://cookies >= 0.2.0",
+        "httpbeast >= 0.2.2"
+      ],
+      "a": "flywind",
+      "d": "Full-Stack Web Framework.",
+      "m": "1.2.0",
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/Prologue.planety.github.com-caa83cdf-prologue.nimble\ncannot resolve package name: cookies"
     },
     {
       "v": "0.2.2@4f18eeecb78486d1132f29c61bb6a3f7e1571694",
@@ -334,7 +343,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-06T18:23:01Z",
+  "generatedAt": "2026-09-07T00:39:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

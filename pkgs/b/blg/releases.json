@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "blg",
   "fqn": "blg.capocasa.github.com",
-  "current": "e239495b661b1a4a8ffeade6e3a498829db32e67",
+  "current": "511da7a53c178bb7e4b3115d996c906d7675d640",
   "author": "Carlo Capocasa",
   "description": "Static blog generator using markdown and symlinks",
   "license": "MIT",
@@ -13,7 +13,7 @@
   ],
   "releases": [
     {
-      "v": "0.2.0@e239495b661b1a4a8ffeade6e3a498829db32e67^",
+      "v": "0.2.0@e239495b661b1a4a8ffeade6e3a498829db32e67",
       "r": [
         "margrave >= 0.3.0"
       ]
@@ -27,7 +27,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:24:00Z",
+  "generatedAt": "2026-09-07T00:30:20Z",
   "allDeps": {
     "packages": [
       "margrave"

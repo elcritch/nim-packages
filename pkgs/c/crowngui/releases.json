@@ -43,15 +43,6 @@
       "p": []
     },
     {
-      "v": "0.3.6@14f14ed1e5e16fe4ddc703584128fb358d92d358",
-      "r": [
-        "objc_runtime >= 0.1.9",
-        "darwin",
-        "winim"
-      ],
-      "p": []
-    },
-    {
       "v": "0.3.5@90e671bf9b5d07e3742f95f067770d7bcfe5101a",
       "r": [
         "objc_runtime >= 0.1.9",
@@ -295,7 +286,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-20T07:14:01Z",
+  "generatedAt": "2026-09-07T00:31:41Z",
   "allDeps": {
     "packages": [
       "arraymancer <= 0.2.4",

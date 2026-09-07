@@ -55,9 +55,10 @@
     "packages": [
       "scraper"
     ],
-    "urls": [],
+    "urls": [
+      "error://findxml"
+    ],
     "unresolved": [
-      "gh:thisago/findxml",
       "gl:lurlo/useragent"
     ]
   }
