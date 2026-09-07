@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "prologue",
   "fqn": "Prologue.planety.github.com",
-  "current": "01edc251595ff696045a4c38c5034d145bd0fe89",
+  "current": "2956ef2b2d03900c85770ec6a2a23c321c7e4acc",
   "author": "ringabout",
   "description": "Prologue is an elegant and high performance web framework",
   "license": "Apache-2.0",
@@ -343,7 +343,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-07T06:31:29Z",
+  "generatedAt": "2026-09-07T12:26:23Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

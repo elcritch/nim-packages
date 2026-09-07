@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "webgui",
   "fqn": "webgui.juancarlospaco.github.com",
-  "current": "e5d0a68cddb6d4c4683334f622006d771e07ba34",
+  "current": "fa906e6220446ab45a7480580d412400190315ea",
   "author": "Juan Carlos",
   "description": "Web Technologies based Crossplatform GUI, modified wrapper for modified webview.h",
   "license": "MIT",
@@ -46,7 +46,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-07T06:34:00Z",
+  "generatedAt": "2026-09-07T12:28:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

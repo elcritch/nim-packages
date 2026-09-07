@@ -1,1 +1,1 @@
-{"v":"#head@01edc251595ff696045a4c38c5034d145bd0fe89","r":["regex >= 0.20.0","nimcrypto >= 0.6.0","cookiejar >= 0.2.0","logue >= 0.2.0","httpx >= 0.3.7"],"f":{"kairos":["kairos >= 0.1.0"]}}
+{"v":"#head@2956ef2b2d03900c85770ec6a2a23c321c7e4acc","r":["regex >= 0.20.0","nimcrypto >= 0.6.0","cookiejar >= 0.2.0","logue >= 0.2.0","httpx >= 0.3.7"],"f":{"kairos":["kairos >= 0.1.0"]}}

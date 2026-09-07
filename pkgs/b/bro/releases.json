@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "bro",
   "fqn": "bro.openpeeps.github.com",
-  "current": "d35a09e8f5a3e8e5b804dc387e3c49a773190298",
+  "current": "cdab2eb2de0d6fab90a6d93d26849356dc615b61",
   "author": "George Lemon",
   "description": "A super fast CSS preprocessor for cool kids!",
   "license": "LGPL-3.0-or-later",
@@ -20,7 +20,7 @@
   ],
   "releases": [
     {
-      "v": "0.2.0@d35a09e8f5a3e8e5b804dc387e3c49a773190298^",
+      "v": "0.2.0@d35a09e8f5a3e8e5b804dc387e3c49a773190298",
       "r": [
         "kapsis >= 0.4.5",
         "semver >= 1.2.3",
@@ -34,7 +34,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-07T06:24:28Z",
+  "generatedAt": "2026-09-07T12:19:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
