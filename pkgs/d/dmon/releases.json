@@ -2,13 +2,26 @@
   "cv": 19,
   "name": "dmon",
   "fqn": "dmon-nim.elcritch.github.com",
-  "current": "b068e274bd5a45e44ef91a337261dd3eee7423b5",
+  "current": "008aca15210ebe837e1c8e30b1e24d17d703fb48",
   "author": "Jaremy Creechley",
   "description": "Library to monitor file changes in a folder. A port of Dmon.",
   "license": "BSD-2-Clause",
   "nim": "2.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.5.0@008aca15210ebe837e1c8e30b1e24d17d703fb48^",
+      "r": [
+        "macosutils >= 0.3.2",
+        "winim >= 3.9.4",
+        "chroniclers >= 0.2.0"
+      ],
+      "f": {
+        "dev": [
+          "chronicles >= 0.10.0"
+        ]
+      }
+    },
     {
       "v": "0.4.0@d2f48e6d2e1f5a7988812fca351e9a583d2a1450",
       "r": [
@@ -71,18 +84,19 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-22T00:53:46Z",
+  "generatedAt": "2026-09-07T06:25:55Z",
   "allDeps": {
     "packages": [
-      "chronicles <= 0.3.3",
-      "faststreams <= 0.3.3",
-      "json_serialization <= 0.3.3",
+      "chroniclers > 0.4.0",
+      "chronicles",
+      "faststreams",
+      "json_serialization",
       "macosutils",
-      "results <= 0.3.3",
-      "serialization <= 0.3.3",
-      "stew <= 0.3.3",
-      "testutils <= 0.3.3",
-      "unittest2 <= 0.3.3",
+      "results",
+      "serialization",
+      "stew",
+      "testutils",
+      "unittest2",
       "winim > 0.3.0"
     ],
     "urls": [],

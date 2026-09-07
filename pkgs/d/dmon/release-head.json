@@ -1,1 +1,1 @@
-{"v":"#head@b068e274bd5a45e44ef91a337261dd3eee7423b5","r":["macosutils >= 0.3.2","winim >= 3.9.4"]}
+{"v":"#head@008aca15210ebe837e1c8e30b1e24d17d703fb48","r":["macosutils >= 0.3.2","winim >= 3.9.4","chroniclers >= 0.2.0"],"f":{"dev":["chronicles >= 0.10.0"]}}

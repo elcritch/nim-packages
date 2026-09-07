@@ -11,6 +11,13 @@
   "binDir": "bin",
   "releases": [
     {
+      "v": "0.4.6@7ff67b250a67a3db865c33f4f7672ea54eedb72d^",
+      "r": [
+        "malebolgia >= 1.3.2",
+        "zippy >= 0.10.20"
+      ]
+    },
+    {
       "v": "0.4.5@738c686790a7e425c27a353e883d97f99989b171",
       "r": [
         "malebolgia >= 1.3.2"
@@ -100,7 +107,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-07T00:38:22Z",
+  "generatedAt": "2026-09-07T06:30:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -118,7 +125,8 @@
       "v0.4.2",
       "v0.4.3",
       "v0.4.4",
-      "v0.4.5"
+      "v0.4.5",
+      "v0.4.6"
     ],
     "tagVersions": {
       "v.0.3.2": "0.3.2",
@@ -132,9 +140,10 @@
       "v0.4.2": "0.4.2",
       "v0.4.3": "0.4.3",
       "v0.4.4": "0.4.4",
-      "v0.4.5": "0.4.5"
+      "v0.4.5": "0.4.5",
+      "v0.4.6": "0.4.6"
     },
-    "latest": "v0.4.5"
+    "latest": "v0.4.6"
   },
   "allDeps": {
     "packages": [
@@ -147,7 +156,8 @@
       "serialization > 0.4.1 & <= 0.4.2",
       "stew > 0.4.1 & <= 0.4.2",
       "testutils > 0.4.1 & <= 0.4.2",
-      "unittest2 > 0.4.1 & <= 0.4.2"
+      "unittest2 > 0.4.1 & <= 0.4.2",
+      "zippy > 0.4.5"
     ],
     "urls": [],
     "unresolved": []
