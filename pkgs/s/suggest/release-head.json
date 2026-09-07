@@ -1,1 +1,1 @@
-{"v":"#head@85b944415a2805b128659d203431aaffa7c96c1e","r":["cligen >= 1.10.0"],"g":true,"p":["suggest","tspell"]}
+{"v":"#head@5180e9c8bba6332b164237b6a1931995b073a006","r":["cligen >= 1.10.0","nio >= 0.7.12"],"d":"mmap-persistent spell checking algorithms"}

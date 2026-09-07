@@ -311,17 +311,6 @@
       "m": "0.17.2"
     },
     {
-      "v": "0.7.1@631b222df174b0e689e702d8a97a8745747e4f90",
-      "r": [
-        "unicodedb >= 0.5.1 & < 0.6",
-        "unicodeplus >= 0.3.0 & < 0.4"
-      ],
-      "x": [
-        "tests"
-      ],
-      "m": "0.17.2"
-    },
-    {
       "v": "0.7.0@5765d13daf58ca6a3d6ee5274b12961e4191dd9d",
       "r": [
         "unicodedb >= 0.4.0 & < 0.5",
@@ -433,7 +422,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-07T12:26:40Z",
+  "generatedAt": "2026-09-07T18:26:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

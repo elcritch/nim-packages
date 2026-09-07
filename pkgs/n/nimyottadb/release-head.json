@@ -1,1 +1,1 @@
-{"v":"#head@c731a00bc6306f850fc43a5717082fd4cce8ff68","r":["malebolgia >= 1.3.2","zippy >= 0.10.20","gh:ljoeckel/nimlz4"]}
+{"v":"#head@ffb16c4e6b05d9adb70de17abb9d2d99797233c7","r":["malebolgia >= 1.3.2","zippy >= 0.10.20","zstd >= 0.9.0","gh:ljoeckel/nimlz4"]}

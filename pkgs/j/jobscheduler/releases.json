@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "jobscheduler",
   "fqn": "nim-jobscheduler.YesDrX.github.com",
-  "current": "84df905dfa106192d36eb4d00e268c45c3f273c4",
+  "current": "746d768dbbe852b0a690a58629cb65b6e04e200f",
   "author": "User",
   "description": "A full-featured job scheduler in Nim",
   "license": "MIT",
@@ -182,7 +182,33 @@
       ]
     },
     {
-      "v": "1.0.1@84df905dfa106192d36eb4d00e268c45c3f273c4^",
+      "v": "1.0.1@84df905dfa106192d36eb4d00e268c45c3f273c4",
+      "r": [
+        "yaml",
+        "db_connector",
+        "checksums",
+        "smtp",
+        "timezones",
+        "nimja",
+        "cligen",
+        "nimcrypto"
+      ]
+    },
+    {
+      "v": "1.0.2@1f6fc42ba3f6d0181f97f2669d777040992dbdd9",
+      "r": [
+        "yaml",
+        "db_connector",
+        "checksums",
+        "smtp",
+        "timezones",
+        "nimja",
+        "cligen",
+        "nimcrypto"
+      ]
+    },
+    {
+      "v": "1.0.3@055560830aac45cd0f35ceb69bf9412a77187736",
       "r": [
         "yaml",
         "db_connector",
@@ -197,7 +223,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-26T00:42:39Z",
+  "generatedAt": "2026-09-07T18:21:04Z",
   "allDeps": {
     "packages": [
       "checksums",
