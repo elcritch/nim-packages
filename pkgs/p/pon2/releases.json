@@ -272,14 +272,6 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-20597aee-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2"
     },
     {
-      "v": "0.23.3@688ae046cacbe3826d8c8d6eda89ec450e6e1a5f",
-      "r": [],
-      "d": "Application for Puyo Puyo and Nazo Puyo",
-      "l": "Apache-2.0",
-      "S": "HasBrokenNimbleFile",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/pon2.izumiya-keisuke.github.com-688ae046-pon2.nimble\ninvalid 'requires' syntax in nimble file: nim ^= 2.2.0\ninvalid 'requires' syntax in nimble file: docopt ^= 0.7.1\ninvalid 'requires' syntax in nimble file: karax ^= 1.3.3\ninvalid 'requires' syntax in nimble file: nigui ^= 0.2.8\ninvalid 'requires' syntax in nimble file: nimsimd ^= 1.2.13\ninvalid 'requires' syntax in nimble file: puppy ^= 2.1.2\ninvalid 'requires' syntax in nimble file: suru ^= 0.3.2"
-    },
-    {
       "v": "0.23.2@49de9e1008c9cfb0c12b78832cb8443d4766deda",
       "r": [],
       "d": "Application for Puyo Puyo and Nazo Puyo",
@@ -955,7 +947,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-07T18:26:03Z",
+  "generatedAt": "2026-09-08T00:39:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

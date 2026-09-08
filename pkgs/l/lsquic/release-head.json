@@ -1,1 +1,1 @@
-{"v":"#head@6e53876d6c05e7746f7b5d55b2c405b18cd3a33e","r":["zlib","stew >= 0.4.0","chronos >= 4.0.4","nimcrypto >= 0.6.0","unittest2","chronicles >= 0.11.0","gh:vacp2p/nim-boringssl >= 0.0.11"]}
+{"v":"#head@3fda42240fe87852ba285e33702c4cc58b31e75d","r":["zlib","stew >= 0.4.0","chronos >= 4.0.4","nimcrypto >= 0.6.0","unittest2","chronicles >= 0.11.0","gh:vacp2p/nim-boringssl >= 0.0.11"]}
