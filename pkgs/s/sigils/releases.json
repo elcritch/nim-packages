@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "sigils",
   "fqn": "sigils.elcritch.github.com",
-  "current": "24214f8be0a69e02d4f2efbc5efd01672f9b5f87",
+  "current": "2cdf3c017059dde17cef37e0c556763529c50a2e",
   "author": "Jaremy Creechley",
   "description": "A slot and signals implementation for the Nim programming language",
   "license": "MIT",
@@ -10,7 +10,57 @@
   "srcDir": ".",
   "releases": [
     {
-      "v": "0.27.4@24214f8be0a69e02d4f2efbc5efd01672f9b5f87^",
+      "v": "0.28.1@2cdf3c017059dde17cef37e0c556763529c50a2e^",
+      "r": [
+        "variant >= 0.2.12",
+        "threading >= 0.2.1",
+        "stack_strings"
+      ],
+      "f": {
+        "chronos": [
+          "chronos >= 4.2.0"
+        ],
+        "ipc": [
+          "cborious"
+        ],
+        "mummy": [
+          "mummy"
+        ],
+        "siwin": [
+          "siwin"
+        ],
+        "cbor": [
+          "cborious"
+        ]
+      }
+    },
+    {
+      "v": "0.28.0@3409b051a209b7f4c30e9d97e81d6b0561a6c8bd",
+      "r": [
+        "variant >= 0.2.12",
+        "threading >= 0.2.1",
+        "stack_strings"
+      ],
+      "f": {
+        "chronos": [
+          "chronos >= 4.2.0"
+        ],
+        "ipc": [
+          "cborious"
+        ],
+        "mummy": [
+          "mummy"
+        ],
+        "siwin": [
+          "siwin"
+        ],
+        "cbor": [
+          "cborious"
+        ]
+      }
+    },
+    {
+      "v": "0.27.4@24214f8be0a69e02d4f2efbc5efd01672f9b5f87",
       "r": [
         "variant >= 0.2.12",
         "threading >= 0.2.1",
@@ -977,7 +1027,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-09T06:28:32Z",
+  "generatedAt": "2026-09-09T12:27:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -987,15 +1037,19 @@
       "v0.14.0",
       "v0.18.0",
       "v0.27.0",
-      "v0.27.3"
+      "v0.27.3",
+      "v0.28.0",
+      "v0.28.1"
     ],
     "tagVersions": {
       "v0.14.0": "0.14.0",
       "v0.18.0": "0.18.0",
       "v0.27.0": "0.27.0",
-      "v0.27.3": "0.27.3"
+      "v0.27.3": "0.27.3",
+      "v0.28.0": "0.28.0",
+      "v0.28.1": "0.28.1"
     },
-    "latest": "v0.27.3"
+    "latest": "v0.28.1"
   },
   "allDeps": {
     "packages": [
