@@ -16,6 +16,14 @@
   ],
   "releases": [
     {
+      "v": "0.2.0@89920a80f29c090cd54a7de9e154766baf26eb76",
+      "r": [
+        "neo >= 0.2.4",
+        "bigints >= 0.4.3",
+        "stint >= 0.0.1"
+      ]
+    },
+    {
       "v": "0.1.0@9060c0e2785b10a18fbc107cbf37b36361ef00ef",
       "r": [
         "neo >= 0.2.4",
@@ -26,7 +34,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-09T12:21:28Z",
+  "generatedAt": "2026-09-09T18:20:53Z",
   "allDeps": {
     "packages": [
       "bigints",
