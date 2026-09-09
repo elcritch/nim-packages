@@ -8,25 +8,23 @@
   "license": "BSD-3",
   "nim": "1.2.0",
   "skipDirs": [
-    "tests"
+    "tests",
+    "apps"
   ],
   "releases": [
     {
-      "v": "0.1.0@83ed1212b3836db87c8f387033afd8fa867595f6",
-      "r": []
+      "v": "0.1.0@f997ddee3d7e9ce8a9ba88acd3fdd9aef0654b0e",
+      "r": [],
+      "x": []
     },
     {
       "v": "1.2.6@0cc5f375a98910fe34eddfb90c237b742bdceaf4",
-      "r": [],
-      "x": [
-        "tests",
-        "apps"
-      ]
+      "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-08T18:19:39Z",
+  "generatedAt": "2026-09-09T00:31:22Z",
   "allDeps": {
     "packages": [],
     "urls": [],

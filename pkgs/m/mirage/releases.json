@@ -47,6 +47,15 @@
       ]
     },
     {
+      "v": "1.0.0@9a56f8d48ffce40a117c3de36892ffbb769c9166",
+      "r": [
+        "flatty >= 0.3.4",
+        "zippy >= 0.10.12",
+        "nimsimd >= 1.2.9",
+        "pretty >= 0.1.0"
+      ]
+    },
+    {
       "v": "0.1.9@886437b3a86562e65bdbda69215896350ae1a80a",
       "r": [
         "flatty >= 0.3.4",
@@ -103,7 +112,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-08T18:22:23Z",
+  "generatedAt": "2026-09-09T00:34:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

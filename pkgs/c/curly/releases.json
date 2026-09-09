@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "curly",
   "fqn": "curly.guzba.github.com",
-  "current": "a0f42baacbc48f4e5924b18854c0df9dcc251466",
+  "current": "9fd2c2607bf114563433d770f577e4424a921047",
   "author": "Ryan Oldenburg",
   "description": "An easy to use and efficient thread-ready HTTP client",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "1.1.1@a0f42baacbc48f4e5924b18854c0df9dcc251466^",
+      "v": "1.1.1@a0f42baacbc48f4e5924b18854c0df9dcc251466",
       "r": [
         "libcurl >= 1.0.0",
         "zippy >= 0.10.6",
@@ -182,7 +182,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-08T18:19:11Z",
+  "generatedAt": "2026-09-09T00:30:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

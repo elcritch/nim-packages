@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nmqtt",
   "fqn": "nmqtt.zevv.github.com",
-  "current": "860bf3a0d2a0dc935585c3b84570c1a1ff63a4a7",
+  "current": "9f3b6953d94a33057d8918fc87361ec60b1fbc28",
   "author": "zevv & ThomasTJdev & python36",
   "description": "Native MQTT library and binaries for publishing, subscribing and broker",
   "license": "MIT",
@@ -26,6 +26,12 @@
     "nmqtt/nmqtt_sub"
   ],
   "releases": [
+    {
+      "v": "1.1.0@9f3b6953d94a33057d8918fc87361ec60b1fbc28^",
+      "r": [
+        "cligen >= 0.9.45"
+      ]
+    },
     {
       "v": "1.0.8@3406d20382123d23fbb198c54728dadfa9155145",
       "r": [
@@ -105,7 +111,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-08T18:24:10Z",
+  "generatedAt": "2026-09-09T00:37:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -118,7 +124,8 @@
       "v1.0.5",
       "v1.0.6",
       "v1.0.7",
-      "v1.0.8"
+      "v1.0.8",
+      "v1.1.0"
     ],
     "tagVersions": {
       "v1.0.2": "1.0.2",
@@ -127,9 +134,10 @@
       "v1.0.5": "1.0.5",
       "v1.0.6": "1.0.6",
       "v1.0.7": "1.0.7",
-      "v1.0.8": "1.0.8"
+      "v1.0.8": "1.0.8",
+      "v1.1.0": "1.1.0"
     },
-    "latest": "v1.0.8"
+    "latest": "v1.1.0"
   },
   "allDeps": {
     "packages": [
