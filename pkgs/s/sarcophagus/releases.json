@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "sarcophagus",
   "fqn": "sarcophagus.elcritch.github.com",
-  "current": "a15784da2c4e31691a7bd24448f0fa3d39d070f1",
+  "current": "a644ff0a043e2151991ce829b737bdeeaee027c0",
   "author": "Jaremy Creechley",
   "description": "mummy higher level api wrapper",
   "license": "Apache-2.0",
@@ -10,7 +10,88 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.14.1@a15784da2c4e31691a7bd24448f0fa3d39d070f1^",
+      "v": "0.15.2@a644ff0a043e2151991ce829b737bdeeaee027c0^",
+      "r": [
+        "mummy",
+        "jwt >= 0.3",
+        "bearssl >= 0.2.8",
+        "gh:yglukhov/bearssl_pkey_decoder #546f8d9b",
+        "chroniclers"
+      ],
+      "f": {
+        "jsony": [
+          "jsony"
+        ],
+        "msgpack": [
+          "msgpack4nim"
+        ],
+        "chronicles": [
+          "chroniclers >= 0.2.1"
+        ],
+        "cbor": [
+          "cborious >= 0.7.2"
+        ],
+        "dev": [
+          "karax"
+        ]
+      }
+    },
+    {
+      "v": "0.15.1@ab99ae75444ef6242e5f864f6f5c52d55aacdd11",
+      "r": [
+        "mummy",
+        "jwt >= 0.3",
+        "bearssl >= 0.2.8",
+        "gh:yglukhov/bearssl_pkey_decoder #546f8d9b",
+        "chroniclers"
+      ],
+      "f": {
+        "jsony": [
+          "jsony"
+        ],
+        "msgpack": [
+          "msgpack4nim"
+        ],
+        "chronicles": [
+          "chroniclers >= 0.2.1"
+        ],
+        "cbor": [
+          "cborious >= 0.7.2"
+        ],
+        "dev": [
+          "karax"
+        ]
+      }
+    },
+    {
+      "v": "0.15.0@38774979a97d7041431b8b17363915a9ed71382d",
+      "r": [
+        "mummy",
+        "jwt >= 0.3",
+        "bearssl >= 0.2.8",
+        "gh:yglukhov/bearssl_pkey_decoder #546f8d9b",
+        "chroniclers"
+      ],
+      "f": {
+        "jsony": [
+          "jsony"
+        ],
+        "msgpack": [
+          "msgpack4nim"
+        ],
+        "chronicles": [
+          "chroniclers >= 0.2.1"
+        ],
+        "cbor": [
+          "cborious >= 0.7.2"
+        ],
+        "dev": [
+          "karax"
+        ]
+      }
+    },
+    {
+      "v": "0.14.1@a15784da2c4e31691a7bd24448f0fa3d39d070f1",
       "r": [
         "mummy",
         "jwt >= 0.3",
@@ -541,7 +622,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-30T06:25:47Z",
+  "generatedAt": "2026-09-10T12:31:37Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.4.0",
