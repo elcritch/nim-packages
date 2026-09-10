@@ -1,1 +1,1 @@
-{"v":"#head@94be308cc3abc91e08b374880e62ebea7f8b50b1","r":["error://powpow"],"m":"2.2.0","S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/r/rtmp/.worktree/rtmp.nimble\ncannot resolve package name: powpow"}
+{"v":"#head@cc7681863380730e516c7fdd4983b9c7e49d1684","r":["error://powpow"],"m":"2.2.0","S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/r/rtmp/.worktree/rtmp.nimble\ncannot resolve package name: powpow"}

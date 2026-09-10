@@ -1,1 +1,1 @@
-{"v":"#head@b80ff40f91b55686b958ff1509d27dc7cdf392c1","r":["openparser"],"d":"Simple 2FA QR CodeGen based on otp & openparser packages"}
+{"v":"#head@3d50fd41b00c0dde3fca0f32326ba4ce2adba9f6","r":["openparser"],"d":"2FA TOTP, HOTP QR Code generator"}
