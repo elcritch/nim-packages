@@ -49,11 +49,19 @@
         "unittest2"
       ],
       "m": "1.6.0"
+    },
+    {
+      "v": "0.3.0@308b9803ec9f38e1f2447d59557ef160185664a5",
+      "r": [
+        "stew >= 0.2.0",
+        "unittest2"
+      ],
+      "m": "1.6.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-09T18:21:06Z",
+  "generatedAt": "2026-09-10T00:29:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

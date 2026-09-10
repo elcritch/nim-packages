@@ -110,7 +110,7 @@
       "m": "2.0.14"
     },
     {
-      "v": "0.6.0@cf59f09d10fcea89b268317e84b0821994267dc6",
+      "v": "0.6.0@7e10277582a523f6a5b3c2bde5e61f383f77a42b",
       "r": [
         "stew >= 0.1.0",
         "progress >= 0.1.0",
@@ -118,12 +118,7 @@
         "threading >= 0.1.0",
         "cligen >= 0.1.0"
       ],
-      "m": "2.0.14",
-      "f": {
-        "cbor": [
-          "gh:elcritch/nim-cbor-serialization #5ba31d6"
-        ]
-      }
+      "m": "2.0.14"
     },
     {
       "v": "0.6.1@b38f45d7fcb61c5d71de76e00c89c1def3b932ac",
@@ -304,7 +299,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-09T18:21:06Z",
+  "generatedAt": "2026-09-10T00:29:41Z",
   "allDeps": {
     "packages": [
       "bigints > 0.6.0",
