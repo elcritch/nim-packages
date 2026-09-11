@@ -16,11 +16,6 @@
   ],
   "releases": [
     {
-      "v": "0.2.0@e3a39940cf7758e48e403e9c080c78f8d309aee5",
-      "r": [],
-      "p": []
-    },
-    {
       "v": "0.1.0@ffb993089fcd3322ccc0f0675643dd87fbc50fd7",
       "r": [
         "nigui >= 0.2.4",
@@ -30,7 +25,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-11T06:19:30Z",
+  "generatedAt": "2026-09-11T12:18:48Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -47,8 +42,8 @@
   },
   "allDeps": {
     "packages": [
-      "cligen <= 0.1.0",
-      "nigui <= 0.1.0"
+      "cligen",
+      "nigui"
     ],
     "urls": [],
     "unresolved": []
