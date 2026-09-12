@@ -51,6 +51,12 @@
       ]
     },
     {
+      "v": "0.3@a2674ccc68cbeaefb0da2394e45c0752019b7ec5",
+      "r": [
+        "ptr_math"
+      ]
+    },
+    {
       "v": "0.2@08ead6dec8edf7ae671c1a1b91aa76a7b7ba0a5b",
       "r": [
         "ptr_math"
@@ -65,7 +71,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-12T12:21:47Z",
+  "generatedAt": "2026-09-12T18:21:32Z",
   "allDeps": {
     "packages": [
       "ptr_math"

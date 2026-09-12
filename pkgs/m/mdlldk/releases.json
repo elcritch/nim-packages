@@ -8,10 +8,22 @@
   "license": "MIT",
   "nim": "2.0.0",
   "srcDir": "src",
-  "releases": [],
+  "releases": [
+    {
+      "v": "0.2.0@9d50b5b4bee741a8a4df50ac7786bf53480e7571^",
+      "r": [
+        "winim >= 3.9.2"
+      ]
+    },
+    {
+      "v": "0.1.0@6561f99808542d4b20c77a51a256a12283dcf157",
+      "r": [],
+      "m": "1.4.0"
+    }
+  ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-12T12:21:14Z",
+  "generatedAt": "2026-09-12T18:20:47Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -28,7 +40,9 @@
     "latest": "v0.2.0"
   },
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "winim > 0.1.0"
+    ],
     "urls": [],
     "unresolved": []
   }

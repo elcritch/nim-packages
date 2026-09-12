@@ -147,7 +147,7 @@
       "k": []
     },
     {
-      "v": "0.2.7@e9ba69c2963b64cb7397dfcd9c81792c163dfef4",
+      "v": "0.2.7@8c82727763b900ab821c8f5673a2e24f3c895705",
       "r": [
         "sdl2_nim >= 2.0.10.0",
         "gifenc >= 0.1.0",
@@ -485,7 +485,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-12T12:21:51Z",
+  "generatedAt": "2026-09-12T18:21:38Z",
   "allDeps": {
     "packages": [
       "ajax > 0.1.0 & <= 0.3.2",

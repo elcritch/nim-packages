@@ -4,13 +4,18 @@
   "fqn": "elvis.mattaylor.github.com",
   "current": "9aac6d4d80b061251ba1b67a0fb68e74f7b4743c",
   "author": "Mat Taylor",
-  "description": "truthy, elvis, ternary and conditional assignment, conditional access and coalesce operators for nim",
+  "description": "truthy, elvis, ternary, conditional assignment, conditional access and coalesce and default coalesce operators for nim",
   "license": "MIT",
   "nim": "0.17.0",
   "releases": [
     {
-      "v": "0.4.0@a775fdfdf0ba10c38b08d35e8c4b95ddb0dd755d",
+      "v": "0.5.0@f0632e830c264ccd2e8489596db9b29fd5d1cd67",
       "r": []
+    },
+    {
+      "v": "0.4.0@a775fdfdf0ba10c38b08d35e8c4b95ddb0dd755d",
+      "r": [],
+      "d": "truthy, elvis, ternary and conditional assignment, conditional access and coalesce operators for nim"
     },
     {
       "v": "0.3.0@c986971a1bbb88412a61c0aaf65f0d965d5f50a7",
@@ -20,7 +25,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-12T12:18:45Z",
+  "generatedAt": "2026-09-12T18:17:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
