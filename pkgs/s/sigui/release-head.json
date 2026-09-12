@@ -1,1 +1,1 @@
-{"v":"#head@34f5094cbd0161872813d98a26e25a1ab7044872","r":["fusion","siwin >= 1.0.2","bumpy","gh:levovix0/rice >= 0.1.4"]}
+{"v":"#head@7d306649e71e6d0cf5529b2580bf93659e54fd76","r":["fusion","siwin >= 1.1.2","bumpy","error://rice >= 0.1.6"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/sigui.levovix0.github.com-7d306649-sigui.nimble\ncannot resolve package name: rice"}
