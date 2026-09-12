@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "web3",
   "fqn": "nim-web3.status-im.github.com",
-  "current": "fa4ddf3fdcc434417f49c64546f09ac2281ff4f0",
+  "current": "e7b0a7146aec92e3e05df861e39786096fc17970",
   "author": "Status Research & Development GmbH",
   "description": "These are the humble beginnings of library similar to web3.[js|py]",
   "license": "MIT or Apache License 2.0",
@@ -97,7 +97,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-11T18:32:59Z",
+  "generatedAt": "2026-09-12T00:41:01Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

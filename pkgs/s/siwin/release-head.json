@@ -1,1 +1,1 @@
-{"v":"#head@6e37ac82012f3fb04bdc6c41785b1bf79a0ed448","r":["chroma >= 1.0.0","vmath >= 3.0.0","x11 >= 1.1"],"f":{"dev_opengl_es":["fusion","shady 0.1.4"],"dev":["opengl","nimgl","pixie","sdl2","gh:planetis-m/vulkan #b223dc9"]}}
+{"v":"#head@136e2abf498c4eab8858b4308f98e994a02df01e","r":["chroma >= 1.0.0","vmath >= 3.0.0","x11 >= 1.1"],"f":{"dev_opengl_es":["fusion","shady 0.1.4"],"android":["gh:levovix0/dali","gh:levovix0/marco >= 0.1.2","jnim"],"dev":["opengl","nimgl","pixie","sdl2","gh:planetis-m/vulkan #b223dc9"]}}

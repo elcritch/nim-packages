@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "gltf",
   "fqn": "gltf.treeform.github.com",
-  "current": "9417000bfd90a6ad93bc840df92af13a1ee1acf9",
+  "current": "12814a3691fe48986bc6047d3655b48550dd765e",
   "author": "Your name",
   "description": "glTF library and viewer for Nim.",
   "license": "MIT",
@@ -50,7 +50,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-11T18:21:23Z",
+  "generatedAt": "2026-09-12T00:30:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
