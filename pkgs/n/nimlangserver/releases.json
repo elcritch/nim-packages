@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimlangserver",
   "fqn": "langserver.nim-lang.github.com",
-  "current": "0a8046fa98adaf1f5a841d8658cb90291bdfb654",
+  "current": "0f5b25e4ec9dd3df0d4c02cb2c6b1837135ac3db",
   "author": "The core Nim team",
   "description": "Nim language server for IDEs",
   "license": "MIT",
@@ -119,7 +119,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-12T06:23:24Z",
+  "generatedAt": "2026-09-12T12:22:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

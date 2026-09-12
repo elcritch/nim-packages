@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "glfw",
   "fqn": "nim-glfw.johnnovak.github.com",
-  "current": "793a575b965b5897778ad3f0cd391971a4e22002",
+  "current": "11e50460e26cce566ff544f0c4537f6ee22c4193",
   "author": "Erik Johansson Andersson, John Novak",
   "description": "GLFW 3 wrapper for Nim",
   "license": "MIT",
@@ -13,7 +13,7 @@
   ],
   "releases": [
     {
-      "v": "3.4.0.5@793a575b965b5897778ad3f0cd391971a4e22002^",
+      "v": "3.4.0.5@793a575b965b5897778ad3f0cd391971a4e22002",
       "r": []
     },
     {
@@ -105,7 +105,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-20T07:28:28Z",
+  "generatedAt": "2026-09-12T12:19:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],

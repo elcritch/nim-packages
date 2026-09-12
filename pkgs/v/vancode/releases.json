@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "vancode",
   "fqn": "vancode.openpeeps.github.com",
-  "current": "18e1fd524ac95261ac2f5293d63775bfca0576cd",
+  "current": "d74bb7a3cdcd7ff12215b88faa760bb48a22f690",
   "author": "George Lemon",
   "description": "A flexible AST, Codegen and Virtual Machine library",
   "license": "LGPL-3.0-or-later",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.2.8@18e1fd524ac95261ac2f5293d63775bfca0576cd^",
+      "v": "0.2.8@18e1fd524ac95261ac2f5293d63775bfca0576cd",
       "r": [
         "voodoo >= 0.1.9",
         "openparser >= 0.3.0",
@@ -214,7 +214,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-01T00:48:07Z",
+  "generatedAt": "2026-09-12T12:26:56Z",
   "allDeps": {
     "packages": [
       "checksums",
