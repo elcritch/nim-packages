@@ -38,6 +38,12 @@
       ]
     },
     {
+      "v": "0.1.12@9ecb5910c7897671cca7a2bf3df4033ceb8a5a5a",
+      "r": [
+        "jsmn >= 0.2"
+      ]
+    },
+    {
       "v": "0.1.11@0d52a639c9fdbabccc9c38d9d8809aa9220bf92e",
       "r": [
         "jsmn >= 0.2"
@@ -96,7 +102,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-13T12:28:22Z",
+  "generatedAt": "2026-09-13T18:22:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

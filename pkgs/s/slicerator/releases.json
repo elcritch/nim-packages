@@ -45,17 +45,11 @@
       "r": [],
       "d": "Slice an dice those allocations away",
       "m": "1.6.0"
-    },
-    {
-      "v": "0.1.0@dda844567218947944230660795ae1be5f1d2181",
-      "r": [],
-      "d": "Slice an dice those allocations away",
-      "m": "1.6.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:36:31Z",
+  "generatedAt": "2026-09-13T18:22:47Z",
   "allDeps": {
     "packages": [],
     "urls": [],

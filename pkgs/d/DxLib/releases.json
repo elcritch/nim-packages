@@ -61,15 +61,6 @@
       ]
     },
     {
-      "v": "3.24.2@cc9a425f93559aaaa2edbeb2ce4271941024f922",
-      "r": [
-        "puppy",
-        "zippy",
-        "c2nim",
-        "winim"
-      ]
-    },
-    {
       "v": "3.24.2@34cd38181ad1c541ffab12a723f043490d7366c8",
       "r": [
         "puppy",
@@ -81,7 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-13T12:16:33Z",
+  "generatedAt": "2026-09-13T18:14:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
