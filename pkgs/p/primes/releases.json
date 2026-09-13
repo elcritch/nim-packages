@@ -8,21 +8,12 @@
   "license": "MIT",
   "nim": "1.4.2",
   "srcDir": "src",
-  "releases": [
-    {
-      "v": "0.1.10@790b963d7adee7dc6217ac14a11f6a65bc1960be^",
-      "r": [
-        "bitty >= 0.1.4"
-      ]
-    }
-  ],
+  "releases": [],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:34:47Z",
+  "generatedAt": "2026-09-13T06:34:06Z",
   "allDeps": {
-    "packages": [
-      "bitty"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

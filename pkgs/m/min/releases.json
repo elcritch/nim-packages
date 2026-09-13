@@ -370,20 +370,6 @@
       "p": []
     },
     {
-      "v": "0.32.0@fde00ede82fa6aed1a26c58462ac455d38004bbc",
-      "r": [],
-      "h": true,
-      "j": [
-        "min.yml",
-        "min.nim",
-        "prelude.min"
-      ],
-      "m": "1.4.0",
-      "y": [],
-      "k": [],
-      "p": []
-    },
-    {
       "v": "0.31.0@aa262a2a6616b52b9fc3a932f4ac3c4b3b54544a",
       "r": [],
       "h": true,
@@ -982,7 +968,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-13T00:34:56Z",
+  "generatedAt": "2026-09-13T06:29:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
