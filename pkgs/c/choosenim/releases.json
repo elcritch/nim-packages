@@ -286,21 +286,11 @@
       ],
       "l": "MIT",
       "m": "0.16.1"
-    },
-    {
-      "v": "0.1.0@2def8617d485ffb75ef6355161f8398640ab8fbc",
-      "r": [
-        "nimble >= 0.8.5",
-        "untar >= 0.1.0",
-        "libcurl >= 1.0.0"
-      ],
-      "l": "MIT",
-      "m": "0.16.1"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-12T18:16:12Z",
+  "generatedAt": "2026-09-13T00:30:49Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -4,19 +4,25 @@
   "fqn": "sysinfo.treeform.github.com",
   "current": "ebbf985a3cb1f600d7c21a6f4515a2c1ebdaadfd",
   "author": "treeform",
-  "description": "Fidget - UI Library",
+  "description": "System info, CPU, OS, Memory",
   "license": "MIT",
-  "nim": "0.18.1",
+  "nim": "1.1.1",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@4ef135010b0a837ddb321cc39dbd3864d931bb9c",
+      "v": "0.2.1@1b72980e1f576934fd731fc9fc017e231cfac796",
       "r": []
+    },
+    {
+      "v": "0.1.0@4ef135010b0a837ddb321cc39dbd3864d931bb9c",
+      "r": [],
+      "d": "Fidget - UI Library",
+      "m": "0.18.1"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-12T18:26:27Z",
+  "generatedAt": "2026-09-13T00:39:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

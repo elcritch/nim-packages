@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "supranim",
   "fqn": "supranim.supranim.github.com",
-  "current": "9a461114481dca04b37ccb52b45cb80147dc15f2",
+  "current": "d3d386888786a4d29084a517dfdcb1fead5df644",
   "author": "OpenPeeps",
   "description": "A full-featured web framework for Nim",
   "license": "LGPL-3.0-or-later",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.10@9a461114481dca04b37ccb52b45cb80147dc15f2^",
+      "v": "0.1.10@9a461114481dca04b37ccb52b45cb80147dc15f2",
       "r": [
         "threading >= 0.2.1",
         "semver >= 1.2.3",
@@ -100,7 +100,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-04T12:28:25Z",
+  "generatedAt": "2026-09-13T00:39:38Z",
   "allDeps": {
     "packages": [
       "ansiparse",

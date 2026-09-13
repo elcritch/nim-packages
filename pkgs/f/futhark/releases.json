@@ -312,17 +312,6 @@
       ]
     },
     {
-      "v": "0.7.4@e5660db881a7b2ae20f7b1015b39c60d81526170",
-      "r": [
-        "gh:PMunch/libclang-nim #head",
-        "termstyle",
-        "macroutils"
-      ],
-      "p": [
-        "opir"
-      ]
-    },
-    {
       "v": "0.7.3@d4df2b0d52ba738577c63c0964cbf46755e5225b",
       "r": [
         "gh:PMunch/libclang-nim #head",
@@ -435,7 +424,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-12T18:18:21Z",
+  "generatedAt": "2026-09-13T00:32:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
