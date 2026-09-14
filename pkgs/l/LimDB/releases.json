@@ -2,26 +2,26 @@
   "cv": 19,
   "name": "LimDB",
   "fqn": "limdb.capocasa.github.com",
-  "current": "6484ee70890a9f695152e1a08fbf5bd895779f14",
+  "current": "2bc0870fc29e5ff50fe01b3d9f0cf075e15f5ee9",
   "author": "Carlo Capocasa",
   "description": "A persistent table-like object backed by lmdb",
   "license": "MIT",
   "nim": "0.20.0",
   "releases": [
     {
-      "v": "0.3.1@6484ee70890a9f695152e1a08fbf5bd895779f14^",
+      "v": "0.3.1@09c3522933a0e3951a593551d904280803ea8e04",
       "r": [
         "lmdb >= 0.1.2"
       ]
     },
     {
-      "v": "0.3.0@8afb535f2048b4922a41689370f11af93eff8f3d",
+      "v": "0.3.0@082cba988a853d0815d0b3212848ea00af2dfc92",
       "r": [
         "lmdb >= 0.1.2"
       ]
     },
     {
-      "v": "0.1.0@30ed3afa21134d450c1737661250b208d387447c",
+      "v": "0.1.0@201e3e81158e92957d8a8c108ad4418df3673245",
       "r": [
         "lmdb 0.1.2"
       ]
@@ -29,7 +29,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T11:39:18Z",
+  "generatedAt": "2026-09-14T18:15:29Z",
   "allDeps": {
     "packages": [
       "lmdb"

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "booyaka",
   "fqn": "booyaka.openpeeps.github.com",
-  "current": "0156b4910a5d05de3d8f1fd1a3d80715e7c228b2",
+  "current": "13e60d981c5fa52d7a564f376fac1b685014becd",
   "author": "George Lemon",
   "description": "A fast documentation generator for cool kids!",
   "license": "AGPL-3.0-or-later",
@@ -14,13 +14,32 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@0156b4910a5d05de3d8f1fd1a3d80715e7c228b2^",
+      "v": "0.1.0@7bf1bcaec05e2c1fc2a34af684f71c0d6b018fe3",
+      "r": [
+        "supranim #head",
+        "tim #head",
+        "limiter #head",
+        "bag",
+        "jsony",
+        "zippy",
+        "supranim_session",
+        "error://enimsql #head",
+        "marvdown #head",
+        "flatty",
+        "supersnappy",
+        "semver",
+        "libffi"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/booyaka.openpeeps.github.com-7bf1bcae-booyaka.nimble\ncannot resolve package name: enimsql"
+    },
+    {
+      "v": "0.2.0@d8b11c29566b22f2fc1b67a139f2278f4edb41f7",
       "r": [
         "supranim >= 0.1.9",
         "error://powpow >= 0.1.8",
         "tim >= 0.2.6",
         "marvdown >= 0.1.4",
-        "flatty >= 0.4.0",
         "semver >= 1.2.3",
         "iconim >= 0.1.0",
         "openparser >= 0.1.2",
@@ -28,12 +47,12 @@
         "supra >= 0.1.0"
       ],
       "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/booyaka.openpeeps.github.com-0156b491-booyaka.nimble\ncannot resolve package name: powpow"
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/booyaka.openpeeps.github.com-d8b11c29-booyaka.nimble\ncannot resolve package name: powpow"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-04T12:20:01Z",
+  "generatedAt": "2026-09-14T18:16:36Z",
   "allDeps": {
     "packages": [
       "ansiparse",
@@ -45,15 +64,17 @@
       "checksums",
       "db_connector",
       "dotenv",
+      "e2ee <= 0.1.0",
       "emitter",
       "flatty",
       "floof",
       "gccjit",
       "htmlparser",
-      "iconim",
+      "iconim > 0.1.0",
       "jsony",
       "kapsis",
       "libffi",
+      "limiter <= 0.1.0",
       "marvdown",
       "mimedb",
       "nancy",
@@ -68,8 +89,10 @@
       "qr",
       "semver",
       "sorta",
-      "supra",
+      "supersnappy <= 0.1.0",
+      "supra > 0.1.0",
       "supranim",
+      "supranim_session <= 0.1.0",
       "termstyle",
       "threading",
       "tim",
@@ -78,10 +101,12 @@
       "valido",
       "vancode",
       "voodoo",
-      "watchout"
+      "watchout",
+      "zippy <= 0.1.0"
     ],
     "urls": [
       "error://clue",
+      "error://enimsql <= 0.1.0",
       "error://flysystem",
       "error://nimcypher",
       "error://powpow"

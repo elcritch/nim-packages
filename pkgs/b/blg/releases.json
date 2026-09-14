@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "blg",
   "fqn": "blg.capocasa.github.com",
-  "current": "511da7a53c178bb7e4b3115d996c906d7675d640",
+  "current": "c5a150441862d067365128d00637011e8cdabdbd",
   "author": "Carlo Capocasa",
   "description": "Static blog generator using markdown and symlinks",
   "license": "MIT",
@@ -12,6 +12,19 @@
     "blg"
   ],
   "releases": [
+    {
+      "v": "0.3.2@c5a150441862d067365128d00637011e8cdabdbd^",
+      "r": [
+        "nmark >= 0.1.10",
+        "checksums >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.3.1@8fb01aaf20f3043d7c5b07d6a49aacd3ffa25872",
+      "r": [
+        "nmark >= 0.1.10"
+      ]
+    },
     {
       "v": "0.2.0@e239495b661b1a4a8ffeade6e3a498829db32e67",
       "r": [
@@ -27,10 +40,28 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-07T00:30:20Z",
+  "generatedAt": "2026-09-14T18:16:31Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.3.1",
+      "0.3.2"
+    ],
+    "latest": "0.3.2"
+  },
   "allDeps": {
     "packages": [
-      "margrave"
+      "checksums > 0.3.1",
+      "graphemes > 0.2.0",
+      "margrave <= 0.2.0",
+      "nmark > 0.2.0",
+      "regex > 0.2.0",
+      "segmentation > 0.2.0",
+      "unicodedb > 0.2.0",
+      "unicodeplus > 0.2.0"
     ],
     "urls": [],
     "unresolved": []

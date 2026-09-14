@@ -2,12 +2,16 @@
   "cv": 19,
   "name": "owlkettle",
   "fqn": "owlkettle.can-lehmann.github.com",
-  "current": "ac61ecf0adea2fd611ce962e3915e704abc2fb7f",
+  "current": "edc5256390eb97d77b829439aece0cbf5d629255",
   "author": "Can Joshua Lehmann",
   "description": "A declarative user interface framework based on GTK",
   "license": "MIT",
   "nim": "1.6.0",
   "releases": [
+    {
+      "v": "3.1.0@edc5256390eb97d77b829439aece0cbf5d629255^",
+      "r": []
+    },
     {
       "v": "3.0.0@861092dc931e754650a735af590fbc34becc3942",
       "r": []
@@ -51,7 +55,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-14T12:27:43Z",
+  "generatedAt": "2026-09-14T18:22:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -67,7 +71,8 @@
       "v2.0.0",
       "v2.1.0",
       "v2.2.0",
-      "v3.0.0"
+      "v3.0.0",
+      "v3.1.0"
     ],
     "tagVersions": {
       "v.1.4.0": "1.4.0",
@@ -79,9 +84,10 @@
       "v2.0.0": "2.0.0",
       "v2.1.0": "2.1.0",
       "v2.2.0": "2.2.0",
-      "v3.0.0": "3.0.0"
+      "v3.0.0": "3.0.0",
+      "v3.1.0": "3.1.0"
     },
-    "latest": "v3.0.0"
+    "latest": "v3.1.0"
   },
   "allDeps": {
     "packages": [],

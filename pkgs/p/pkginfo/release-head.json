@@ -1,1 +1,1 @@
-{"v":"#head@55da5adaec35aa13ee7e0e3afa6a9b34236a18df","r":["semver #head"]}
+{"v":"#head@cbbeedcd22b541b748356080766c0d725e244914","r":["semver >= 1.2.3"],"d":"A tiny utility package to extract Nimble information from any project"}
