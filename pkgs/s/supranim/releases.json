@@ -115,7 +115,7 @@
       "htmlparser",
       "jsony",
       "kapsis",
-      "libevent",
+      "libevent <= 0.1.8",
       "libffi",
       "mimedb",
       "nancy",

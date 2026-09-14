@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "emitter",
   "fqn": "emitter.supranim.github.com",
-  "current": "916e97ebe20862d1aa7d85b55b21f79ae4aca7dc",
+  "current": "af364d011d1401d6aabba2e591b01b1275c56043",
   "author": "Supranim",
   "description": "Supranim's Event Emitter - Subscribe & listen for events",
   "license": "MIT",
@@ -10,45 +10,28 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.2.1@916e97ebe20862d1aa7d85b55b21f79ae4aca7dc^",
-      "r": [
-        "threading >= 0.1.0",
-        "openparser >= 0.1.4"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/emitter.supranim.github.com-916e97eb-emitter.nimble\ncannot resolve package name: powpow",
-      "f": {
-        "powpow": [
-          "error://powpow >= 0.1.4"
-        ],
-        "libevent": [
-          "libevent >= 0.1.2"
-        ]
-      }
-    },
-    {
-      "v": "0.2.0@6dfb8ad59f6867da581725d9f6bd1d28d125ab1e",
+      "v": "0.3.0@af364d011d1401d6aabba2e591b01b1275c56043^",
       "r": [
         "threading >= 0.1.0",
         "openparser >= 0.1.4",
-        "libevent >= 0.1.2"
+        "error://powpow >= 0.1.4"
       ],
-      "m": "2.0.0"
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/emitter.supranim.github.com-af364d01-emitter.nimble\ncannot resolve package name: powpow"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-07T06:34:08Z",
+  "generatedAt": "2026-09-14T00:33:01Z",
   "allDeps": {
     "packages": [
-      "libevent",
       "nimsimd",
       "openparser",
       "threading"
     ],
     "urls": [
       "error://nimcypher",
-      "error://powpow > 0.2.0"
+      "error://powpow"
     ],
     "unresolved": []
   }
