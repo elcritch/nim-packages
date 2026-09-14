@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "supranim",
   "fqn": "supranim.supranim.github.com",
-  "current": "d3d386888786a4d29084a517dfdcb1fead5df644",
+  "current": "c4429252d97eb701e9785792fc27181dd7842df8",
   "author": "OpenPeeps",
   "description": "A full-featured web framework for Nim",
   "license": "LGPL-3.0-or-later",
@@ -46,95 +46,43 @@
       ],
       "S": "HasBrokenDep",
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-a34b6077-supranim.nimble\ncannot resolve package name: powpow\ncannot resolve package name: nimcypher\ncannot resolve package name: flysystem"
-    },
-    {
-      "v": "0.1.8@ce9b902a542f9d694069f459169789ebc84adfe2",
-      "r": [
-        "semver >= 1.2.3",
-        "kapsis >= 0.3.8",
-        "flatty >= 0.4.0",
-        "openparser >= 0.1.8",
-        "emitter >= 0.2.1",
-        "ozark >= 0.1.5",
-        "threading >= 0.2.1",
-        "mimedb >= 0.1.1",
-        "checksums >= 0.2.2"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-ce9b902a-supranim.nimble\ncannot resolve package name: powpow",
-      "f": {
-        "powpow": [
-          "error://powpow >= 0.1.8",
-          "emitter"
-        ],
-        "libevent": [
-          "libevent >= 0.1.2"
-        ]
-      }
-    },
-    {
-      "v": "0.1.7@a9142480327fa6047c67bfe8efaf378420ff0913",
-      "r": [
-        "semver >= 1.2.3",
-        "kapsis >= 0.3.4",
-        "flatty >= 0.4.0",
-        "openparser >= 0.1.2",
-        "emitter >= 0.1.0",
-        "ozark >= 0.1.5",
-        "threading >= 0.1.0",
-        "mimedb >= 0.1.0",
-        "checksums >= 0.2.2"
-      ],
-      "S": "HasBrokenDep",
-      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supranim.supranim.github.com-a9142480-supranim.nimble\ncannot resolve package name: powpow",
-      "f": {
-        "powpow": [
-          "error://powpow >= 0.1.4",
-          "emitter"
-        ],
-        "libevent": [
-          "libevent >= 0.1.2"
-        ]
-      }
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-13T00:39:38Z",
+  "generatedAt": "2026-09-14T12:30:08Z",
   "allDeps": {
     "packages": [
       "ansiparse",
-      "base32 > 0.1.8",
+      "base32",
       "bigints",
       "blackpaper",
       "checksums",
       "db_connector",
       "emitter",
-      "flatty <= 0.1.8",
       "floof",
       "htmlparser",
       "jsony",
       "kapsis",
-      "libevent <= 0.1.8",
       "libffi",
       "mimedb",
       "nancy",
       "nimsimd",
       "noise",
       "openparser",
-      "otp > 0.1.8",
+      "otp",
       "ozark",
       "pluginkit",
-      "qr > 0.1.8",
+      "qr",
       "semver",
       "termstyle",
       "threading",
-      "twofa > 0.1.8",
+      "twofa",
       "valido",
       "voodoo"
     ],
     "urls": [
-      "error://flysystem > 0.1.8",
+      "error://flysystem",
       "error://nimcypher",
       "error://powpow"
     ],
