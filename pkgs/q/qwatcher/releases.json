@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "qwatcher",
   "fqn": "qwatcher.pouriyajamshidi.github.com",
-  "current": "c212a75ee58ff25897e567918d32237f1d739216",
+  "current": "7f8f211d8426018191daf327c32762e82ed125c2",
   "author": "Pouriya Jamshidi",
   "description": "Linux NIC Buffer Queue Watcher",
   "license": "MIT",
@@ -12,6 +12,12 @@
     "qwatcher"
   ],
   "releases": [
+    {
+      "v": "0.7.0@ddc6838a2795475c253b98165f5ddd35e6e77b1a",
+      "r": [
+        "db_connector >= 0.1.0"
+      ]
+    },
     {
       "v": "0.6.0@4b2bc21cb8ebf2c28300a477fd93fa93fa7daf2a",
       "r": [
@@ -63,7 +69,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-14T18:23:37Z",
+  "generatedAt": "2026-09-15T00:39:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -78,7 +84,8 @@
       "v0.5.0",
       "v0.5.1",
       "v0.5.2",
-      "v0.6.0"
+      "v0.6.0",
+      "v0.7.0"
     ],
     "tagVersions": {
       "v0.1.0": "0.1.0",
@@ -89,9 +96,10 @@
       "v0.5.0": "0.5.0",
       "v0.5.1": "0.5.1",
       "v0.5.2": "0.5.2",
-      "v0.6.0": "0.6.0"
+      "v0.6.0": "0.6.0",
+      "v0.7.0": "0.7.0"
     },
-    "latest": "v0.6.0"
+    "latest": "v0.7.0"
   },
   "allDeps": {
     "packages": [

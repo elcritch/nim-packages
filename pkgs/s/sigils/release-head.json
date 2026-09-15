@@ -1,1 +1,1 @@
-{"v":"#head@2cdf3c017059dde17cef37e0c556763529c50a2e","r":["variant >= 0.2.12","threading >= 0.2.1","stack_strings"],"f":{"chronos":["chronos >= 4.2.0"],"ipc":["cborious"],"mummy":["mummy"],"siwin":["siwin"],"cbor":["cborious"]}}
+{"v":"#head@9f12b1af837009f33c6d989a006c9c336c6549c2","r":["variant >= 0.2.12","threading >= 0.2.1","stack_strings"],"f":{"chronos":["chronos >= 4.2.0"],"ipc":["cborious"],"mummy":["mummy"],"siwin":["siwin"],"cbor":["cborious"]}}
