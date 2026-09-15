@@ -108,11 +108,19 @@
       ],
       "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
       "m": "2.0.0"
+    },
+    {
+      "v": "0.1.2@9068f41943537872302c7e9a0240e156019126fc",
+      "r": [
+        "nimsimd >= 1.3.2"
+      ],
+      "d": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+      "m": "2.0.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-15T06:31:23Z",
+  "generatedAt": "2026-09-15T12:29:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
