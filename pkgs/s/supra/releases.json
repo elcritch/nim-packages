@@ -4,14 +4,46 @@
   "fqn": "supra.supranim.github.com",
   "current": "c98a7356ec37a82a16b6bfc0b4329bb0bd99f14d",
   "author": "Supranim",
-  "description": "CLI tool for managing Supranim projects",
+  "description": "CLI tool for bootstrapping Supranim applications",
   "license": "MIT",
-  "nim": "2.0.0",
+  "nim": "2.0.2",
   "srcDir": "src",
+  "binDir": "bin",
   "bin": [
     "supra"
   ],
   "releases": [
+    {
+      "v": "0.1.0@ef6bc37cb17e954d47606ffe1c90cab8a0701ccf",
+      "r": [
+        "kapsis",
+        "libsodium",
+        "zmq",
+        "flatty",
+        "jsony",
+        "nyml",
+        "db_connector",
+        "error://enimsql",
+        "supranim",
+        "valido"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/supra.supranim.github.com-ef6bc37c-supra.nimble\ncannot resolve package name: enimsql"
+    },
+    {
+      "v": "0.1.1@7c9a07998571f4483d0ad7fd91460c10d00d9b20",
+      "r": [
+        "db_connector >= 0.1.0",
+        "openparser >= 0.1.2",
+        "kapsis >= 0.3.4",
+        "flatty >= 0.4.0",
+        "valido >= 0.1.0",
+        "ozark >= 0.1.4"
+      ],
+      "d": "CLI tool for managing Supranim projects",
+      "m": "2.0.0",
+      "b": ""
+    },
     {
       "v": "0.1.2@f85bd02121824ac131bf3eae16d23580a565985b",
       "r": [
@@ -21,38 +53,54 @@
         "flatty >= 0.4.0",
         "valido >= 0.1.0",
         "ozark >= 0.1.5"
-      ]
+      ],
+      "d": "CLI tool for managing Supranim projects",
+      "m": "2.0.0",
+      "b": ""
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-16T00:26:51Z",
+  "generatedAt": "2026-09-15T18:25:07Z",
   "allDeps": {
     "packages": [
       "ansiparse",
+      "base32 <= 0.1.0",
       "bigints",
       "blackpaper",
       "checksums",
       "db_connector",
+      "emitter <= 0.1.0",
       "flatty",
-      "floof",
-      "htmlparser",
+      "jsony <= 0.1.0",
       "kapsis",
-      "libffi",
+      "libsodium <= 0.1.0",
+      "mimedb <= 0.1.0",
       "nancy",
       "nimsimd",
       "noise",
+      "nyml <= 0.1.0",
       "openparser",
+      "otp <= 0.1.0",
       "ozark",
+      "pkginfo <= 0.1.0",
       "pluginkit",
+      "qr <= 0.1.0",
       "semver",
+      "supranim <= 0.1.0",
       "termstyle",
       "threading",
+      "toktok <= 0.1.0",
+      "twofa <= 0.1.0",
       "valido",
-      "voodoo"
+      "voodoo",
+      "zmq <= 0.1.0"
     ],
     "urls": [
-      "error://nimcypher"
+      "error://enimsql <= 0.1.0",
+      "error://flysystem <= 0.1.0",
+      "error://nimcypher",
+      "error://powpow <= 0.1.0"
     ],
     "unresolved": []
   }

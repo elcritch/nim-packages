@@ -25,8 +25,6 @@
   "allDeps": {
     "packages": [
       "db_connector",
-      "htmlparser",
-      "libffi",
       "nimsimd",
       "openparser",
       "threading",

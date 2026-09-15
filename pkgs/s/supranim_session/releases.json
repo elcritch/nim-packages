@@ -48,8 +48,6 @@
     "packages": [
       "db_connector > 0.1.1",
       "e2ee <= 0.1.2",
-      "htmlparser > 0.1.1",
-      "libffi > 0.1.1",
       "nimsimd > 0.1.1",
       "openparser > 0.1.1",
       "ozark > 0.1.1",

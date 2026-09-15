@@ -129,7 +129,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-15T12:24:54Z",
+  "generatedAt": "2026-09-15T18:20:35Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -150,10 +150,7 @@
       "bigints > 0.2.2",
       "blackpaper > 0.2.2",
       "checksums > 0.2.2",
-      "floof > 0.2.2",
-      "htmlparser > 0.2.2",
       "kapsis > 0.2.2",
-      "libffi > 0.2.2",
       "nancy > 0.2.2",
       "nimsimd",
       "noise > 0.2.2",
