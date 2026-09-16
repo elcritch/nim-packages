@@ -14,6 +14,13 @@
       "r": []
     },
     {
+      "v": "0.6.0@b8287c72a82ef02a1edb7123c40bbf93dd96a9d7",
+      "r": [
+        "nimterop >= 0.6.13"
+      ],
+      "m": "1.4.4"
+    },
+    {
       "v": "0.5.2@7a19097a615f2d123b27a3fb72e90009c8c11862",
       "r": [
         "nimterop >= 0.6.13"
@@ -72,16 +79,16 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-16T12:27:47Z",
+  "generatedAt": "2026-09-16T18:28:56Z",
   "allDeps": {
     "packages": [
-      "cligen <= 0.5.2",
-      "graphemes <= 0.5.2",
-      "nimterop <= 0.5.2",
-      "regex <= 0.5.2",
-      "segmentation <= 0.5.2",
-      "unicodedb <= 0.5.2",
-      "unicodeplus <= 0.5.2"
+      "cligen <= 0.6.0",
+      "graphemes <= 0.6.0",
+      "nimterop <= 0.6.0",
+      "regex <= 0.6.0",
+      "segmentation <= 0.6.0",
+      "unicodedb <= 0.6.0",
+      "unicodeplus <= 0.6.0"
     ],
     "urls": [],
     "unresolved": []
