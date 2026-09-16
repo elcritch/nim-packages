@@ -128,6 +128,13 @@
       ]
     },
     {
+      "v": "2023.226.0@32eef2c7f9c7eefc4dde6be8918deb222742c6a4",
+      "r": [
+        "cligen >= 1.5.21",
+        "honeycomb >= 0.1.2"
+      ]
+    },
+    {
       "v": "2023.225.2@698daa21fc0a438ea4341080ce166293fe255c58",
       "r": [
         "cligen >= 1.5.21",
@@ -193,7 +200,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-16T00:31:52Z",
+  "generatedAt": "2026-09-16T06:25:30Z",
   "allDeps": {
     "packages": [
       "cligen",
