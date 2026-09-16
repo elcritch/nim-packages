@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nginwho",
   "fqn": "nginwho.pouriyajamshidi.github.com",
-  "current": "fedd34090dd963991abf3e4d8912c6ec9fffd623",
+  "current": "a70ee412c000b50da404dad855db2d50380a657f",
   "author": "pouriya jamshidi",
   "description": "nginwho is a lightweight and extremely fast nginx log parser, Cloudflare origin IP resolver and non-Cloudflare CIDRs blocker",
   "license": "MIT",
@@ -12,6 +12,12 @@
     "nginwho"
   ],
   "releases": [
+    {
+      "v": "2.4.1@15e24a1d2638fab1514fb7fb279bffd33c3283c7",
+      "r": [
+        "db_connector >= 0.1.0"
+      ]
+    },
     {
       "v": "2.4.0@eeb215afcc34a4b501dd1dd99e2265b5145e8571",
       "r": [
@@ -70,7 +76,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-15T18:21:18Z",
+  "generatedAt": "2026-09-16T00:34:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -86,7 +92,8 @@
       "v2.2.0",
       "v2.3.0",
       "v2.3.1",
-      "v2.4.0"
+      "v2.4.0",
+      "v2.4.1"
     ],
     "tagVersions": {
       "v0.7.0": "0.7.0",
@@ -96,9 +103,10 @@
       "v2.2.0": "2.2.0",
       "v2.3.0": "2.3.0",
       "v2.3.1": "2.3.1",
-      "v2.4.0": "2.4.0"
+      "v2.4.0": "2.4.0",
+      "v2.4.1": "2.4.1"
     },
-    "latest": "v2.4.0"
+    "latest": "v2.4.1"
   },
   "allDeps": {
     "packages": [
