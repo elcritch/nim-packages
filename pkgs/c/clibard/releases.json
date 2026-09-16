@@ -74,6 +74,16 @@
       "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-44ab28ef-clibard.nimble\ncannot resolve package name: gookie"
     },
     {
+      "v": "0.4.1@fbfadf0fbbf3e26e1d1fd942d175af4fdb8dcce8",
+      "r": [
+        "cligen",
+        "bard",
+        "error://gookie"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/clibard.thisago.github.com-fbfadf0f-clibard.nimble\ncannot resolve package name: gookie"
+    },
+    {
       "v": "0.5.0@25f0853d5bc74c65176fcc3db96caa47347798cd",
       "r": [
         "cligen",
@@ -129,7 +139,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-16T06:22:30Z",
+  "generatedAt": "2026-09-16T12:20:11Z",
   "allDeps": {
     "packages": [
       "bard",
