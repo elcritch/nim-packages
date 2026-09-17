@@ -147,6 +147,12 @@
       ]
     },
     {
+      "v": "2.3.16@621f6ffec47e473ed243fe5f42c6be27d1399768",
+      "r": [
+        "nimterop >= 0.6.13"
+      ]
+    },
+    {
       "v": "2.3.15@afd2d0e7ea5d47ba4cbba89a9d2f36a7109ad931",
       "r": [
         "nimterop >= 0.6.13"
@@ -167,7 +173,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-17T00:37:00Z",
+  "generatedAt": "2026-09-17T06:28:20Z",
   "allDeps": {
     "packages": [
       "cligen",

@@ -18,6 +18,13 @@
   ],
   "releases": [
     {
+      "v": "0.18.4@4c1a262aa861d887b450c350be196c231f40b7e6",
+      "r": [
+        "paravim >= 0.18.4"
+      ],
+      "k": []
+    },
+    {
       "v": "0.18.3@21697a82c2bcf82a0ff572386462ee35e47d4348",
       "r": [
         "paravim >= 0.18.3"
@@ -201,7 +208,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-17T00:38:28Z",
+  "generatedAt": "2026-09-17T06:29:23Z",
   "allDeps": {
     "packages": [
       "glm",

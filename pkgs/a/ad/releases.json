@@ -61,21 +61,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-17T00:26:45Z",
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "0.6.3",
-      "0.6.4",
-      "0.7",
-      "0.7.1",
-      "0.7.2"
-    ],
-    "latest": "0.7.2"
-  },
+  "generatedAt": "2026-09-17T06:20:31Z",
   "allDeps": {
     "packages": [
       "bignum > 0.6.4",

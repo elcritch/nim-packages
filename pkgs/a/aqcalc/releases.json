@@ -32,17 +32,11 @@
       "r": [
         "docopt >= 0.6.7"
       ]
-    },
-    {
-      "v": "0.1@f2fd061a1a0a43bad7ff056145feeac032dbb1ac",
-      "r": [
-        "docopt >= 0.6.7"
-      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-17T00:27:02Z",
+  "generatedAt": "2026-09-17T06:20:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
