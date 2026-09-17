@@ -315,14 +315,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-17T12:18:46Z",
-  "allDeps": {
-    "packages": [
-      "cligen > 0.4.5"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-09-17T18:17:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -378,5 +371,12 @@
       "v0.4.8": "0.4.8"
     },
     "latest": "0.7.8"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen > 0.4.5"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

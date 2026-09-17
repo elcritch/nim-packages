@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "json_schema_import",
   "fqn": "NimJsonSchemaImporter.Nycto.github.com",
-  "current": "4a026acbf2bd9a1f108cfeec9aa7f52f08c22575",
+  "current": "8e597fe13b77b217c548f390606ff73750d69cef",
   "author": "Nycto",
   "description": "Converts JSON schema definitions to nim types",
   "license": "MIT",
@@ -54,7 +54,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-17T12:25:15Z",
+  "generatedAt": "2026-09-17T18:21:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -145,17 +145,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-17T12:18:46Z",
-  "allDeps": {
-    "packages": [
-      "cligen > 0.7.0",
-      "mustache > 0.7.0",
-      "parsetoml > 0.7.0",
-      "semver > 0.7.0"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-09-17T18:17:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -194,5 +184,15 @@
       "v0.9.0": "0.9.0"
     },
     "latest": "v0.10.2"
+  },
+  "allDeps": {
+    "packages": [
+      "cligen > 0.7.0",
+      "mustache > 0.7.0",
+      "parsetoml > 0.7.0",
+      "semver > 0.7.0"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

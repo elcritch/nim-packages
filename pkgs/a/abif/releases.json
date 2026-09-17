@@ -71,19 +71,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-17T12:18:44Z",
-  "allDeps": {
-    "packages": [
-      "malebolgia > 0.2.0",
-      "nimsvg > 0.1.0",
-      "readfx > 0.2.0",
-      "zip > 0.2.0"
-    ],
-    "urls": [
-      "error://gzfast > 0.2.0"
-    ],
-    "unresolved": []
-  },
+  "generatedAt": "2026-09-17T18:17:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -95,5 +83,17 @@
       "0.3.0"
     ],
     "latest": "0.3.0"
+  },
+  "allDeps": {
+    "packages": [
+      "malebolgia > 0.2.0",
+      "nimsvg > 0.1.0",
+      "readfx > 0.2.0",
+      "zip > 0.2.0"
+    ],
+    "urls": [
+      "error://gzfast > 0.2.0"
+    ],
+    "unresolved": []
   }
 }

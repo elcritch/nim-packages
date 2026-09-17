@@ -502,18 +502,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-17T12:18:53Z",
-  "allDeps": {
-    "packages": [
-      "checksums > 0.27.0",
-      "cligen <= 0.18.1",
-      "db_connector > 0.25.1",
-      "dotenv > 0.16.0 & <= 0.20.0",
-      "progress <= 0.18.1"
-    ],
-    "urls": [],
-    "unresolved": []
-  },
+  "generatedAt": "2026-09-17T18:17:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -604,5 +593,16 @@
       "v0.32.1": "0.32.1"
     },
     "latest": "v0.32.1"
+  },
+  "allDeps": {
+    "packages": [
+      "checksums > 0.27.0",
+      "cligen <= 0.18.1",
+      "db_connector > 0.25.1",
+      "dotenv > 0.16.0 & <= 0.20.0",
+      "progress <= 0.18.1"
+    ],
+    "urls": [],
+    "unresolved": []
   }
 }

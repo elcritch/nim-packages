@@ -117,7 +117,22 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-17T12:18:55Z",
+  "generatedAt": "2026-09-17T18:17:11Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0"
+    },
+    "prerelease": [
+      "v0.1.0"
+    ]
+  },
   "allDeps": {
     "packages": [
       "bearssl > 0.1.0",
@@ -138,21 +153,6 @@
     "urls": [],
     "unresolved": [
       "gh:bung87/zstd"
-    ]
-  },
-  "forge": {
-    "archives": {
-      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
-      "zip": "/archive/refs/tags/{tag}.zip"
-    },
-    "releases": [
-      "v0.1.0"
-    ],
-    "tagVersions": {
-      "v0.1.0": "0.1.0"
-    },
-    "prerelease": [
-      "v0.1.0"
     ]
   }
 }
