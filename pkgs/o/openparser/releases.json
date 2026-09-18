@@ -10,6 +10,15 @@
   "srcDir": "src",
   "releases": [
     {
+      "v": "0.3.4@8bb1fd46841ad188d9a9d78c90f2c9de1b42c1e5^",
+      "r": [
+        "nimsimd >= 1.3.2",
+        "error://nimcypher >= 0.2.0"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/openparser.openpeeps.github.com-8bb1fd46-openparser.nimble\ncannot resolve package name: nimcypher"
+    },
+    {
       "v": "0.3.3@5bcb215591d744c32bc65a243aebbdac40575fac",
       "r": [
         "nimsimd >= 1.3.2",
@@ -56,16 +65,17 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-18T06:27:34Z",
+  "generatedAt": "2026-09-18T12:24:26Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
       "zip": "/archive/refs/tags/{tag}.zip"
     },
     "releases": [
-      "0.3.3"
+      "0.3.3",
+      "0.3.4"
     ],
-    "latest": "0.3.3"
+    "latest": "0.3.4"
   },
   "allDeps": {
     "packages": [

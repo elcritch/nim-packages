@@ -5,21 +5,24 @@
   "current": "56cb4de7706a5322c72ff64fb4fda2604f4fff84",
   "author": "Chris Watson",
   "description": "Connector for the GitHub API v3",
-  "license": "WTFPL",
+  "license": "MIT",
   "nim": "0.17.2",
-  "srcDir": "github_api",
+  "srcDir": "src",
   "skipDirs": [
     "test"
   ],
+  "bin": [
+    "github_api"
+  ],
   "releases": [
     {
-      "v": "0.1.0@8ec5ee390b13aed6f216e489d935694d4b5d0d4c",
+      "v": "0.1.0@0d0dec6e0c344ad99bddcb1e60ed66eb9488c3d8",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-18T06:23:05Z",
+  "generatedAt": "2026-09-18T12:20:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],
