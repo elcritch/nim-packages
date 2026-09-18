@@ -22,12 +22,6 @@
       ]
     },
     {
-      "v": "1.1.1@2801fcff08996f3eb79ddfe8ebcb6e0ff8c19d19",
-      "r": [
-        "vmath >= 1.0.0"
-      ]
-    },
-    {
       "v": "1.1.0@3f7e53bbb37628366fc63acad0367799a3a23d69",
       "r": [
         "vmath >= 1.0.0"
@@ -78,7 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-18T00:28:46Z",
+  "generatedAt": "2026-09-18T06:20:44Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
