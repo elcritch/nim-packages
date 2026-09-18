@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "impeller",
   "fqn": "impeller-nim.openpeeps.github.com",
-  "current": "6128204df72eafab1d3c0bee433919b786dff4c0",
+  "current": "4d22d0b4f8d69577b84f1d41deed3c9c8c92a6bc",
   "author": "George Lemon",
   "description": "Bindings to Flutter's 2D vector graphics renderer",
   "license": "MIT",
@@ -12,13 +12,21 @@
     {
       "v": "0.1.0@29037bedbbfaf84eff111e9d0e91d0d7a7b38094",
       "r": []
+    },
+    {
+      "v": "0.1.1@4d22d0b4f8d69577b84f1d41deed3c9c8c92a6bc^",
+      "r": [
+        "chroma"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:28:53Z",
+  "generatedAt": "2026-09-18T18:19:24Z",
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "chroma > 0.1.0"
+    ],
     "urls": [],
     "unresolved": []
   }

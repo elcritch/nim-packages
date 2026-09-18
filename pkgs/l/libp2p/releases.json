@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "libp2p",
   "fqn": "nim-libp2p.vacp2p.github.com",
-  "current": "84811c7deaf4a7c53c1d29673745030f3e177d95",
+  "current": "a1e8941b97204f086c015bd9c8bdf6bb95f1a4e5",
   "author": "Status Research & Development GmbH",
   "description": "LibP2P implementation",
   "license": "MIT",
@@ -16,6 +16,13 @@
     "docs"
   ],
   "releases": [
+    {
+      "v": "2.3.3@09507e00f25d60091e388f5b0ce9c62ded40c199",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
     {
       "v": "2.3.2@49fc8d9d63d4d4b68333f3e7d0e05c9f8a3b4fa4",
       "r": [],
@@ -416,7 +423,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-18T06:24:43Z",
+  "generatedAt": "2026-09-18T18:20:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -461,7 +468,8 @@
       "v2.2.2",
       "v2.3.0",
       "v2.3.1",
-      "v2.3.2"
+      "v2.3.2",
+      "v2.3.3"
     ],
     "tagVersions": {
       "v1.0.0": "1.0.0",
@@ -502,9 +510,10 @@
       "v2.2.2": "2.2.2",
       "v2.3.0": "2.3.0",
       "v2.3.1": "2.3.1",
-      "v2.3.2": "2.3.2"
+      "v2.3.2": "2.3.2",
+      "v2.3.3": "2.3.3"
     },
-    "latest": "v2.3.2"
+    "latest": "v2.3.3"
   },
   "allDeps": {
     "packages": [
