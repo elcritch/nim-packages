@@ -207,6 +207,15 @@
       "a": "Pietro Peterlongo"
     },
     {
+      "v": "0.1.6@166b3542220183c38458261126a80527c1a6196d",
+      "r": [
+        "tempfile >= 0.1.6",
+        "markdown >= 0.8.1",
+        "mustache >= 0.2.1"
+      ],
+      "a": "Pietro Peterlongo"
+    },
+    {
       "v": "0.1.5@4e9b8dac00b8b39d554ddad0c0fb78ede393deae",
       "r": [
         "tempfile >= 0.1.6",
@@ -263,7 +272,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-19T12:25:24Z",
+  "generatedAt": "2026-09-19T18:24:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -329,18 +338,18 @@
   },
   "allDeps": {
     "packages": [
-      "faststreams > 0.1.5 & <= 0.3.5",
+      "faststreams > 0.1.6 & <= 0.3.5",
       "fusion > 0.3.9",
       "jsony > 0.3.5",
       "markdown",
       "mustache <= 0.3.12",
       "parsetoml > 0.3.5",
-      "results > 0.1.5 & <= 0.3.5",
-      "serialization > 0.1.5 & <= 0.3.5",
-      "stew > 0.1.5 & <= 0.3.5",
+      "results > 0.1.6 & <= 0.3.5",
+      "serialization > 0.1.6 & <= 0.3.5",
+      "stew > 0.1.6 & <= 0.3.5",
       "tempfile <= 0.3.9",
-      "toml_serialization > 0.1.5 & <= 0.3.5",
-      "unittest2 > 0.1.5 & <= 0.3.5"
+      "toml_serialization > 0.1.6 & <= 0.3.5",
+      "unittest2 > 0.1.6 & <= 0.3.5"
     ],
     "urls": [],
     "unresolved": []

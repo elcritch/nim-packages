@@ -8,7 +8,6 @@
   "license": "MIT",
   "nim": "0.17.0",
   "skipDirs": [
-    "common",
     "nim-atk",
     "nim-cairo",
     "nim-gdk3",
@@ -25,13 +24,13 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@7e429ff9c95c8e6bd1e0414f562dae5328468d9f",
+      "v": "0.1.0@adeea8be88efacb5e7a1408f58ac6ce99a6583c1",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-19T12:26:44Z",
+  "generatedAt": "2026-09-19T18:25:18Z",
   "allDeps": {
     "packages": [],
     "urls": [],
