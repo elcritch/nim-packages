@@ -94,6 +94,12 @@
       ]
     },
     {
+      "v": "0.7@51896c3489c9ddece5659d81fee4cffcd1a9f5f6",
+      "r": [
+        "cligen >= 1.5.3"
+      ]
+    },
+    {
       "v": "0.6@ef81ba23b9ae4d0a142fd09bffee9f4a9368c07c",
       "r": [
         "cligen >= 1.5.2"
@@ -138,7 +144,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-19T00:31:50Z",
+  "generatedAt": "2026-09-19T06:21:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -179,7 +185,7 @@
   },
   "allDeps": {
     "packages": [
-      "adix > 0.6",
+      "adix > 0.7",
       "cligen"
     ],
     "urls": [],
