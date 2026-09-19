@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "jazzy",
   "fqn": "jazzy-framework.canermastan.github.com",
-  "current": "c6fdca7f5eff2b779bffc7d13ef2828b10d0b679",
+  "current": "d45d49d07a6d130b56c1070f723cf668094e276b",
   "author": "canermastan",
   "description": "Productive, developer-friendly web framework for Nim. Write less code, build more features.",
   "license": "MIT",
@@ -18,6 +18,30 @@
     "jazzy_cli": "jazzy"
   },
   "releases": [
+    {
+      "v": "0.5.3@c3cea55de9acc6168a56973ce820c79cee5b095c",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "k": [],
+      "o": {}
+    },
+    {
+      "v": "0.5.2@c484bdaaa1ea1fad83249f76017db97d85165f3c",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "k": [],
+      "o": {}
+    },
+    {
+      "v": "0.5.1@89bc6f4d0d7ec1026614468c6f9b0479326023eb",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "k": [],
+      "o": {}
+    },
     {
       "v": "0.5.0@9b0344568698e3fb48b3dcdeb1ca8b589cdd874a",
       "r": [],
@@ -192,7 +216,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-18T18:19:33Z",
+  "generatedAt": "2026-09-19T00:32:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
