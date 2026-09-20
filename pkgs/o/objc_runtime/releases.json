@@ -37,7 +37,10 @@
     },
     {
       "v": "0.1.5@8d21da6f97de38b6954465ac03385458c4bc6a33",
-      "r": []
+      "r": [
+        "darwin",
+        "regex"
+      ]
     },
     {
       "v": "0.1.4@548b33470c7c865278ed8d7116fbce4083bbbccf",
@@ -70,7 +73,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-19T18:25:17Z",
+  "generatedAt": "2026-09-20T00:38:12Z",
   "allDeps": {
     "packages": [
       "darwin",

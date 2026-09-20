@@ -225,11 +225,12 @@
     },
     {
       "v": "0.5.5@1478b896c1225c17f9a60f9cffbf4a69be052046",
-      "r": [
-        "cligen >= 1.6.0"
-      ],
-      "d": "Unix process&system query&formatting library&multi-command CLI in Nim",
-      "i": []
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "x": [],
+      "i": [],
+      "p": []
     },
     {
       "v": "0.5.4@cb04071359fddb05d5d1119d53a8cdd3f83a5b3a",
@@ -305,7 +306,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-19T18:26:16Z",
+  "generatedAt": "2026-09-20T00:39:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
