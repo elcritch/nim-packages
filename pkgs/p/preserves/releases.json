@@ -290,6 +290,18 @@
       "m": "1.4.8"
     },
     {
+      "v": "20230517@03876850e5e3ecd949809e29661fb2e769342ef1",
+      "r": [
+        "npeg"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ],
+      "m": "1.4.8"
+    },
+    {
       "v": "20230504@b9d8275624cbf3534b91a8e9efdaa57fc0ae29f3",
       "r": [
         "npeg"
@@ -408,7 +420,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-20T12:27:59Z",
+  "generatedAt": "2026-09-20T18:24:51Z",
   "allDeps": {
     "packages": [
       "npeg > 1.20260823 & <= 20240523"

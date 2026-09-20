@@ -1,1 +1,1 @@
-{"v":"#head@9da08dc76c842268bcd1888c2ed5bd2fb036a9dd","r":["results >= 0.5.1","celina >= 0.13.0","parsetoml >= 0.7.1","chronos >= 4.2.2","stew >= 0.2.0","editorconfig >= 0.1.1","regex >= 0.26.1","jsony >= 1.1.6"],"g":true,"f":{"matter":["gh:elcritch/matter >= 0.4.2"]}}
+{"v":"#head@a9d10bee24f0b517fcfd99457d69e3cd96590fc8","r":["results >= 0.5.1","celina >= 0.13.0","parsetoml >= 0.7.1","chronos >= 4.2.2","stew >= 0.2.0","editorconfig >= 0.1.1","regex >= 0.26.1","jsony >= 1.1.6"],"g":true,"f":{"matter":["gh:elcritch/matter >= 0.4.2"]}}
