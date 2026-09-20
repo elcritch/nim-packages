@@ -39,7 +39,9 @@
     },
     {
       "v": "0.2.4@5a93f2030726f969080ab46db08f31ceed50a994",
-      "r": []
+      "r": [
+        "gh:disruptek/testes >= 0.7.6 & < 1.0.0"
+      ]
     },
     {
       "v": "0.2.3@ab21d5edc1fdff30d6f962663464ba8bbbccf439",
@@ -78,7 +80,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-20T06:21:02Z",
+  "generatedAt": "2026-09-20T12:19:28Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -102,6 +104,8 @@
   "allDeps": {
     "packages": [],
     "urls": [],
-    "unresolved": []
+    "unresolved": [
+      "gh:disruptek/testes"
+    ]
   }
 }
