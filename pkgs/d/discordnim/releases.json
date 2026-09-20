@@ -45,13 +45,6 @@
       "m": "0.17.0"
     },
     {
-      "v": "1.7.0@7dad620f4255a98d008c1ffa6e54691202e56552",
-      "r": [
-        "zip >= 0.1.1"
-      ],
-      "m": "0.17.0"
-    },
-    {
       "v": "1.8.0@b75953a32e29b996313ed86ac6756db8b82cf1db",
       "r": [
         "zip >= 0.1.1"
@@ -99,7 +92,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-29T13:38:01Z",
+  "generatedAt": "2026-09-20T06:21:34Z",
   "allDeps": {
     "packages": [
       "websocket > 2.0.0",

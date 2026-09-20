@@ -9,9 +9,10 @@
   "nim": "0.18.1",
   "releases": [
     {
-      "v": "0.1.0@a04a1b885c12f97deeeb19a18cfd60eab707dc77",
+      "v": "0.1.0@b346f71d0761fc8a2cc47cb89b8a237f3279e3da",
       "r": [
-        "typography >= 0.2.0"
+        "typography >= 0.2.0",
+        "print >= 0.1.0"
       ]
     },
     {
@@ -31,7 +32,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-20T00:36:56Z",
+  "generatedAt": "2026-09-20T06:27:34Z",
   "allDeps": {
     "packages": [
       "bumpy",
