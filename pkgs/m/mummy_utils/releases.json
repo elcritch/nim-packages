@@ -40,12 +40,6 @@
       ]
     },
     {
-      "v": "0.0.7@5ccb0ab7317167107b45b2c449de608d1ecae989",
-      "r": [
-        "mummy >= 0.3.6"
-      ]
-    },
-    {
       "v": "0.0.6@0b27949d40a19497cd0c8218c03d8de1147010a1",
       "r": [
         "mummy >= 0.3.6"
@@ -84,7 +78,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:30:59Z",
+  "generatedAt": "2026-09-21T18:22:55Z",
   "allDeps": {
     "packages": [
       "crunchy",

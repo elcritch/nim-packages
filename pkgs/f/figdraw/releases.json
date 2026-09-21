@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "figdraw",
   "fqn": "figdraw.elcritch.github.com",
-  "current": "fe962f71a8271ee7f34ec9f084ad659ab7b1842c",
+  "current": "3e9ca52a06bd40acec392a972da619a9111a7a94",
   "author": "Jaremy Creechley",
   "description": "UI Engine for Nim",
   "license": "MIT",
@@ -10,7 +10,56 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.40.2@fe962f71a8271ee7f34ec9f084ad659ab7b1842c^",
+      "v": "0.41.0@3e9ca52a06bd40acec392a972da619a9111a7a94^",
+      "r": [
+        "sigils >= 0.31.0",
+        "pixie >= 5.0.1",
+        "chroma >= 0.2.7",
+        "bumpy",
+        "stack_strings",
+        "chronicles >= 0.10.3",
+        "sdfy >= 0.8.2",
+        "nimsimd >= 1.2.5",
+        "variant",
+        "patty",
+        "supersnappy",
+        "opengl",
+        "vmath",
+        "gh:planetis-m/vulkan #b223dc9"
+      ],
+      "f": {
+        "vulkan": [
+          "gh:planetis-m/vulkan #b223dc9"
+        ],
+        "lottie": [
+          "jsony"
+        ],
+        "harfbuzz": [
+          "gh:elcritch/harfbuzzy >= 0.2.4"
+        ],
+        "metal": [
+          "metalx #head"
+        ],
+        "surfer": [
+          "surfer >= 0.2.5",
+          "xkb #b4d50f4cccad1cd9e39d2f5a5e1fef2710edcc31"
+        ],
+        "siwin": [
+          "siwin >= 1.1.2"
+        ],
+        "sharedlib": [
+          "gh:elcritch/binny >= 0.5.22"
+        ],
+        "sdl2": [
+          "sdl2"
+        ],
+        "windy": [
+          "windy"
+        ]
+      }
+    },
+    {
+      "v": "0.40.2@fe962f71a8271ee7f34ec9f084ad659ab7b1842c",
       "r": [
         "pixie >= 5.0.1",
         "chroma >= 0.2.7",
@@ -2089,7 +2138,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-21T12:22:04Z",
+  "generatedAt": "2026-09-21T18:20:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -2107,7 +2156,8 @@
       "v0.39.1",
       "v0.40.0",
       "v0.40.1",
-      "v0.40.2"
+      "v0.40.2",
+      "v0.41.0"
     ],
     "tagVersions": {
       "v0.35.0": "0.35.0",
@@ -2121,27 +2171,41 @@
       "v0.39.1": "0.39.1",
       "v0.40.0": "0.40.0",
       "v0.40.1": "0.40.1",
-      "v0.40.2": "0.40.2"
+      "v0.40.2": "0.40.2",
+      "v0.41.0": "0.41.0"
     },
-    "latest": "v0.40.2"
+    "latest": "v0.41.0"
   },
   "allDeps": {
     "packages": [
+      "bearssl > 0.40.2",
+      "bigints > 0.40.2",
+      "bignum > 0.40.2",
       "bumpy",
+      "cbor > 0.40.2",
+      "cborious > 0.40.2",
       "chroma",
       "chronicles",
+      "chronos > 0.40.2",
       "classy",
+      "cligen > 0.40.2",
       "crunchy",
       "darwin",
+      "fastrpc > 0.40.2",
       "faststreams",
       "flatty",
       "fusion",
       "genny <= 0.31.7",
+      "gmp > 0.40.2",
+      "httputils > 0.40.2",
       "jnim",
       "json_serialization",
       "jsony",
+      "mcu_utils > 0.40.2",
       "mddoc",
       "metalx",
+      "msgpack4nim > 0.40.2",
+      "mummy > 0.40.2",
       "nayland",
       "nimboost",
       "nimfp",
@@ -2149,23 +2213,28 @@
       "nimsimd",
       "opengl",
       "patty",
+      "persistent_enums > 0.40.2",
       "pixie",
+      "progress > 0.40.2",
       "results",
       "sdfy",
       "sdl2",
       "serialization",
       "shady",
       "shakar",
+      "sigils > 0.40.2",
       "siwin",
       "stack_strings",
       "stew",
       "supersnappy",
       "surfer",
       "testutils",
+      "threading > 0.40.2",
       "unittest2",
       "urlly",
       "variant",
       "vmath",
+      "webby > 0.40.2",
       "windy",
       "winim",
       "with",
@@ -2177,8 +2246,12 @@
     "urls": [],
     "unresolved": [
       "gh:Chlumsky/msdfgen",
+      "gh:ehmry/nim-bigints",
       "gh:elcritch/binny",
       "gh:elcritch/harfbuzzy",
+      "gh:elcritch/mcu_utils",
+      "gh:elcritch/nim-cbor-serialization",
+      "gh:elcritch/siwin",
       "gh:nim-windowing/linux_input",
       "gh:planetis-m/vulkan",
       "gh:ShoYamanishi/SDFont",

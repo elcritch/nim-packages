@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "pharao",
   "fqn": "pharao.capocasa.github.com",
-  "current": "2cd1bf8753c8297211daf469800a637d38eaa811",
+  "current": "05afce85d71b48b123a11409c85b899c908433a9",
   "author": "Carlo Capocasa",
   "description": "Compile, run and serve Nim files on the fly in a www directory like PHP",
   "license": "MIT",
@@ -16,7 +16,14 @@
   ],
   "releases": [
     {
-      "v": "0.2.1@2cd1bf8753c8297211daf469800a637d38eaa811^",
+      "v": "0.3.0@05afce85d71b48b123a11409c85b899c908433a9^",
+      "r": [
+        "mummy >= 0.4.6",
+        "scf >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.2.1@2cd1bf8753c8297211daf469800a637d38eaa811",
       "r": [
         "mummy >= 0.4.6",
         "scf >= 0.1.0"
@@ -62,7 +69,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-07-04T12:36:06Z",
+  "generatedAt": "2026-09-21T18:25:08Z",
   "allDeps": {
     "packages": [
       "crunchy",
