@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "figdraw",
   "fqn": "figdraw.elcritch.github.com",
-  "current": "547daa7c4e99309ad8a12d99151de56ffa8de16b",
+  "current": "fe962f71a8271ee7f34ec9f084ad659ab7b1842c",
   "author": "Jaremy Creechley",
   "description": "UI Engine for Nim",
   "license": "MIT",
@@ -10,7 +10,55 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.40.1@547daa7c4e99309ad8a12d99151de56ffa8de16b^",
+      "v": "0.40.2@fe962f71a8271ee7f34ec9f084ad659ab7b1842c^",
+      "r": [
+        "pixie >= 5.0.1",
+        "chroma >= 0.2.7",
+        "bumpy",
+        "stack_strings",
+        "chronicles >= 0.10.3",
+        "sdfy >= 0.8.2",
+        "nimsimd >= 1.2.5",
+        "variant",
+        "patty",
+        "supersnappy",
+        "opengl",
+        "vmath",
+        "gh:planetis-m/vulkan #b223dc9"
+      ],
+      "f": {
+        "vulkan": [
+          "gh:planetis-m/vulkan #b223dc9"
+        ],
+        "lottie": [
+          "jsony"
+        ],
+        "harfbuzz": [
+          "gh:elcritch/harfbuzzy >= 0.2.4"
+        ],
+        "metal": [
+          "metalx #head"
+        ],
+        "surfer": [
+          "surfer >= 0.2.5",
+          "xkb #b4d50f4cccad1cd9e39d2f5a5e1fef2710edcc31"
+        ],
+        "siwin": [
+          "siwin >= 1.1.2"
+        ],
+        "sharedlib": [
+          "gh:elcritch/binny >= 0.5.22"
+        ],
+        "sdl2": [
+          "sdl2"
+        ],
+        "windy": [
+          "windy"
+        ]
+      }
+    },
+    {
+      "v": "0.40.1@547daa7c4e99309ad8a12d99151de56ffa8de16b",
       "r": [
         "pixie >= 5.0.1",
         "chroma >= 0.2.7",
@@ -2041,7 +2089,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-20T18:18:28Z",
+  "generatedAt": "2026-09-21T00:33:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -2058,7 +2106,8 @@
       "v0.39.0",
       "v0.39.1",
       "v0.40.0",
-      "v0.40.1"
+      "v0.40.1",
+      "v0.40.2"
     ],
     "tagVersions": {
       "v0.35.0": "0.35.0",
@@ -2071,9 +2120,10 @@
       "v0.39.0": "0.39.0",
       "v0.39.1": "0.39.1",
       "v0.40.0": "0.40.0",
-      "v0.40.1": "0.40.1"
+      "v0.40.1": "0.40.1",
+      "v0.40.2": "0.40.2"
     },
-    "latest": "v0.40.1"
+    "latest": "v0.40.2"
   },
   "allDeps": {
     "packages": [

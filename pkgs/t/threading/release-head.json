@@ -1,1 +1,1 @@
-{"v":"#head@ee77a27eca7042a2b68061d0bcee691e5b56aa10","r":[],"d":"New threading primitives for --mm:arc/orc: atomics, channels, smart pointers and wait groups.","m":"1.6.0"}
+{"v":"#head@653c8eb013ab1b0486c1ebf06e14d8b79843c385","r":[],"d":"New threading primitives for --mm:arc/orc: atomics, channels, smart pointers and wait groups.","m":"2.0.0"}

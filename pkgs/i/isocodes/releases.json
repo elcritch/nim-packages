@@ -33,12 +33,6 @@
       ]
     },
     {
-      "v": "1.7.1@8a4dfa11cc03563af4c32ca1cbd267334dead558",
-      "r": [
-        "jsony >= 1.0.3"
-      ]
-    },
-    {
       "v": "1.7.0@6da0e251d4cb1b49d532d00f80ba2cf491bcaf81",
       "r": [
         "jsony >= 1.0.3"
@@ -146,7 +140,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-12T13:20:37Z",
+  "generatedAt": "2026-09-21T00:34:55Z",
   "allDeps": {
     "packages": [
       "bump <= 0.3.1",

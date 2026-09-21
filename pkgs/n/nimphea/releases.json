@@ -12,40 +12,18 @@
     "tests",
     "docs",
     "nimphea-examples",
+    "templates",
     "cmake",
     "ci",
     "resources",
     ".github",
     "libDaisy"
   ],
-  "installDirs": [
-    "templates"
-  ],
   "releases": [
     {
-      "v": "2.0@09b2ec55a3891df0033f42351cd8ddf7d8818318",
-      "r": []
-    },
-    {
-      "v": "2.0.0@4a83280cdf46a802d2066cf79b37e235a33f2f9b",
-      "r": []
-    },
-    {
-      "v": "1.1.0@c1984dead29a3c9e0be1eede4ca41e7b0e3a28d0",
+      "v": "1.1.0@c1984dead29a3c9e0be1eede4ca41e7b0e3a28d0^",
       "r": [],
-      "h": true,
-      "x": [
-        "tests",
-        "docs",
-        "nimphea-examples",
-        "templates",
-        "cmake",
-        "ci",
-        "resources",
-        ".github",
-        "libDaisy"
-      ],
-      "i": []
+      "h": true
     },
     {
       "v": "1.0.0@dd095b793284db919b6396590a07c0903c791108",
@@ -65,13 +43,12 @@
         "cmake",
         "ci",
         "resources"
-      ],
-      "i": []
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-20T18:23:07Z",
+  "generatedAt": "2026-09-21T00:38:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
