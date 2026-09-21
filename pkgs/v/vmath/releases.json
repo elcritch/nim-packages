@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "vmath",
   "fqn": "vmath.treeform.github.com",
-  "current": "1b6080f4dc8114d2becaeb5f0944694f7e45794f",
+  "current": "bc260143102153b76328783e1c76c96e52c52a4b",
   "author": "Andre von Houck",
   "description": "Your single stop for vector math routines for 2d and 3d graphics.",
   "license": "MIT",
@@ -175,7 +175,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-21T00:44:26Z",
+  "generatedAt": "2026-09-21T06:39:46Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
