@@ -13,12 +13,6 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@ea7e5f09342e1a432bebe2b7c90a640b2e6aac76",
-      "r": [
-        "nimpy >= 0.1.1"
-      ]
-    },
-    {
       "v": "0.1.1@de122f0da63b620a8af7a2decf45fdda086e7333",
       "r": [
         "nimpy >= 0.1.1"
@@ -72,7 +66,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:18:40Z",
+  "generatedAt": "2026-09-22T00:28:26Z",
   "allDeps": {
     "packages": [
       "nimpy"
