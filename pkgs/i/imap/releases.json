@@ -14,10 +14,6 @@
       "r": []
     },
     {
-      "v": "0.2.2@d7d691538032b90f13a933fb512c487d57d790ee",
-      "r": []
-    },
-    {
       "v": "0.2.0@5c70028b70dc4f1581c47579f748f7fc8617b5dd",
       "r": [],
       "l": "GPL2",
@@ -32,7 +28,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:28:52Z",
+  "generatedAt": "2026-09-22T06:23:39Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -54,11 +54,6 @@
       "m": "2.0.0"
     },
     {
-      "v": "2.2.0@008dd38cd2f2dd774d4ff1746031f0df288d1c06",
-      "r": [],
-      "m": "2.0.0"
-    },
-    {
       "v": "2.1.0@d0b6925a429c83a4adcfd7b13d302f0dbe0a3a28",
       "r": [],
       "m": "2.0.0"
@@ -91,7 +86,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-22T00:38:44Z",
+  "generatedAt": "2026-09-22T06:27:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
