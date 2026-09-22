@@ -41,6 +41,15 @@
       ]
     },
     {
+      "v": "0.3.0@8859085ed2a24df2e92cadeb0200b117f054b566",
+      "r": [
+        "nimquery >= 1.2.2"
+      ],
+      "p": [
+        "googlesearch"
+      ]
+    },
+    {
       "v": "0.2.0@9e62747bf0e819add655005511ddcf3fb3ff2333",
       "r": [
         "nimquery >= 1.2.2"
@@ -70,7 +79,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-22T06:23:06Z",
+  "generatedAt": "2026-09-22T12:23:07Z",
   "allDeps": {
     "packages": [
       "nimquery"

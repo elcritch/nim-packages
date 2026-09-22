@@ -1,1 +1,1 @@
-{"v":"#head@513c499d6a6c72686b56ffc4be284de4ad2e10cc","r":["sdl3_nim >= 3.4.2.0","nimgl","sdl2_nim","stb_image","tinydialogs","glfw","gh:DanielBelmes/VulkanNim","gh:Anuken/staticglfw"],"p":[]}
+{"v":"#head@923c2871ddeea462f00452377673fa1df294f4e4","r":["sdl3_nim >= 3.4.2.0","nimgl","sdl2_nim","stb_image","tinydialogs","glfw","gh:DanielBelmes/VulkanNim","gh:Anuken/staticglfw"]}

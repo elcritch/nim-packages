@@ -1,1 +1,1 @@
-{"v":"#head@e81d53bf23a2f5632808cef1a3f59632ca8d9a5a","r":["nimwave","illwave","argparse"],"p":[]}
+{"v":"#head@11a8ffcd12702518cb8b127025cd361356e31b2c","r":["nimwave","illwave","argparse","regex >= 0.20.0"],"g":true}
