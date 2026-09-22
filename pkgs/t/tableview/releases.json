@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "tableview",
   "fqn": "tabview.telatin.www.github.com",
-  "current": "11a8ffcd12702518cb8b127025cd361356e31b2c",
+  "current": "f035c07b59430e9d27380e580d7c6e01fffa5588",
   "author": "Andrea Telatin",
   "description": "TUI table viewer library with interactive sort, search, filter and graph",
   "license": "MIT",
@@ -21,6 +21,16 @@
     "wordcount_demo": "wordcount"
   },
   "releases": [
+    {
+      "v": "0.6.0@f035c07b59430e9d27380e580d7c6e01fffa5588^",
+      "r": [
+        "nimwave",
+        "illwave",
+        "argparse",
+        "regex >= 0.20.0"
+      ],
+      "p": []
+    },
     {
       "v": "0.5.3@e81d53bf23a2f5632808cef1a3f59632ca8d9a5a",
       "r": [
@@ -151,13 +161,18 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-22T12:32:23Z",
+  "generatedAt": "2026-09-22T18:31:59Z",
   "allDeps": {
     "packages": [
       "ansiutils",
       "argparse",
+      "graphemes > 0.5.3",
       "illwave",
-      "nimwave"
+      "nimwave",
+      "regex > 0.5.3",
+      "segmentation > 0.5.3",
+      "unicodedb > 0.5.3",
+      "unicodeplus > 0.5.3"
     ],
     "urls": [],
     "unresolved": []

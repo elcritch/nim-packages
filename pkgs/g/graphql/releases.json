@@ -163,13 +163,13 @@
       ]
     },
     {
-      "v": "0.2.16@c83b51ab479c85d087b50c8991b8a74bf7445a03",
+      "v": "0.2.16@75d913ca4de8baaa1bfa7d914df74fa8685b985e",
       "r": [
         "faststreams",
         "stew",
         "json_serialization",
         "chronicles",
-        "zlib"
+        "gh:status-im/nim-miniz"
       ],
       "x": [
         "tests",
@@ -334,7 +334,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-22T12:23:12Z",
+  "generatedAt": "2026-09-22T18:23:01Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.2.24",
@@ -348,9 +348,11 @@
       "stew",
       "testutils > 0.1.0",
       "unittest2",
-      "zlib > 0.2.14"
+      "zlib > 0.2.16"
     ],
     "urls": [],
-    "unresolved": []
+    "unresolved": [
+      "gh:status-im/nim-miniz"
+    ]
   }
 }

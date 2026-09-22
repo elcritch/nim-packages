@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "tim",
   "fqn": "tim.openpeeps.github.com",
-  "current": "953f4e2e49f952509999efac3d04e91177ae991a",
+  "current": "3d38071b65b8b0b4d935c03b01db7a9f396c1b84",
   "author": "OpenPeeps",
   "description": "A super fast template engine for cool kids!",
   "license": "LGPL-3.0-or-later",
@@ -98,7 +98,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-22T12:32:47Z",
+  "generatedAt": "2026-09-22T18:32:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
