@@ -273,14 +273,6 @@
       ]
     },
     {
-      "v": "0.8.0@135f2d37a3af4ed365d1a2a8ea7473a56b848c5d",
-      "r": [
-        "msgpack4nim >= 0.3.1",
-        "stew >= 0.1.0",
-        "bytesequtils"
-      ]
-    },
-    {
       "v": "0.7.8@0c3be2e9912b3ee25611c2a04808963bdbefcaab",
       "r": [
         "msgpack4nim >= 0.3.1",
@@ -406,7 +398,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-23T00:31:49Z",
+  "generatedAt": "2026-09-23T06:27:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
