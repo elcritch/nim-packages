@@ -592,16 +592,6 @@
       ]
     },
     {
-      "v": "0.2.1@b65af4c4b86b66004b42b25f631fa3a3694a9553",
-      "r": [
-        "uri3",
-        "checksums",
-        "zippy",
-        "regex",
-        "gh:zendbit/nim_moustachu"
-      ]
-    },
-    {
       "v": "0.2.0@53fd7884713d2073636af27f4fc23ffa7f21e98d",
       "r": [
         "uri3",
@@ -624,7 +614,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-23T12:26:04Z",
+  "generatedAt": "2026-09-23T18:31:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
