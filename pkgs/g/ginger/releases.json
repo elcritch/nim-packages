@@ -194,6 +194,16 @@
       ]
     },
     {
+      "v": "0.3.8@bc2f5f93aa381b9f791205dfaf92d78f4c5a9016",
+      "r": [
+        "chroma >= 0.1.0",
+        "gh:Vindaar/seqmath >= 0.1.7",
+        "cairo >= 1.1.1",
+        "latexdsl >= 0.1.5",
+        "shell"
+      ]
+    },
+    {
       "v": "0.3.7@d950d7286fe3771ce5b72cc0d5651832551665d5",
       "r": [
         "chroma >= 0.1.0",
@@ -500,7 +510,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-22T18:22:46Z",
+  "generatedAt": "2026-09-23T00:29:39Z",
   "allDeps": {
     "packages": [
       "arraymancer > 0.2.12",

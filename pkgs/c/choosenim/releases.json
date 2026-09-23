@@ -300,7 +300,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-22T18:20:01Z",
+  "generatedAt": "2026-09-23T00:27:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -348,14 +348,18 @@
       "nimgen > 0.4.0 & <= 0.7.5",
       "nimterop > 0.4.0 & <= 0.7.5",
       "osinfo > 0.2.2",
+      "puppy > 0.2.2 & <= 0.8.7",
       "regex > 0.4.0 & <= 0.7.5",
       "sat",
       "segmentation > 0.4.0 & <= 0.7.5",
       "unicodedb > 0.4.0 & <= 0.7.5",
       "unicodeplus > 0.4.0 & <= 0.7.5",
       "untar <= 0.4.0",
+      "urlly > 0.2.2 & <= 0.8.7",
       "uuids > 0.2.2 & <= 0.8.7",
-      "zippy > 0.8.0"
+      "webby > 0.2.2 & <= 0.8.7",
+      "winim > 0.2.2 & <= 0.8.7",
+      "zippy > 0.2.2"
     ],
     "urls": [],
     "unresolved": [

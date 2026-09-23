@@ -37,17 +37,11 @@
       "v": "1.1.3@fb153a481cca75f55eb60f4a27630527c2dd247d",
       "r": [],
       "l": "gpl3-only"
-    },
-    {
-      "v": "1.1.4@7043442910e36581cdf6dfa53145765dbfa32f8e^",
-      "r": [],
-      "a": "Thiago Navarro",
-      "l": "mit"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:26:19Z",
+  "generatedAt": "2026-09-23T00:28:46Z",
   "allDeps": {
     "packages": [],
     "urls": [],
