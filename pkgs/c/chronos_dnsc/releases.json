@@ -40,11 +40,19 @@
         "chronos >= 4.0.2",
         "stew >= 0.1.0"
       ]
+    },
+    {
+      "v": "0.1.0@1f9c573b220b2c627a421c9f1eb72fb74d6fe63b",
+      "r": [
+        "dnsprotocol >= 0.2.1",
+        "chronos >= 4.0.2",
+        "stew >= 0.1.0"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-23T06:21:56Z",
+  "generatedAt": "2026-09-23T12:21:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

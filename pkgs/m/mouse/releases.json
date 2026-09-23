@@ -14,11 +14,6 @@
       "h": true
     },
     {
-      "v": "1.1@4ec74491be5b1f5856322b4d3c3ca5d1ea79c73b",
-      "r": [],
-      "h": true
-    },
-    {
       "v": "2.0@5bec52b1db9ab68900f280cce2368cf9307590c2",
       "r": []
     },
@@ -32,7 +27,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-31T00:51:15Z",
+  "generatedAt": "2026-09-23T12:27:34Z",
   "allDeps": {
     "packages": [
       "x11 > 2.0"
