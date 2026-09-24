@@ -72,16 +72,6 @@
       "p": []
     },
     {
-      "v": "0.1.6@750b0c635ddf72ef22f462e8c166b385e06faa4f",
-      "r": [],
-      "a": "Kyohei Uto",
-      "d": "fast markdown parser",
-      "m": "1.4.4",
-      "x": [],
-      "k": [],
-      "p": []
-    },
-    {
       "v": "0.1.7@0646991f659a8184f7169769913a7f10cccde747",
       "r": [],
       "a": "Kyohei Uto",
@@ -130,7 +120,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:33:04Z",
+  "generatedAt": "2026-09-24T18:25:20Z",
   "allDeps": {
     "packages": [
       "graphemes > 0.1.7",

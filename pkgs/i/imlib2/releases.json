@@ -8,10 +8,17 @@
   "license": "MIT",
   "nim": "1.2.6",
   "srcDir": "src",
-  "releases": [],
+  "releases": [
+    {
+      "v": "0.2.0@24cecd602d4dceedced007b4f9feea8d7ef582e9^",
+      "r": [
+        "x11 >= 1.2"
+      ]
+    }
+  ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-24T12:24:00Z",
+  "generatedAt": "2026-09-24T18:22:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -26,7 +33,9 @@
     "latest": "v0.2.0"
   },
   "allDeps": {
-    "packages": [],
+    "packages": [
+      "x11"
+    ],
     "urls": [],
     "unresolved": []
   }
