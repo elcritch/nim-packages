@@ -1,1 +1,1 @@
-{"v":"#head@5991a5651ae710b0c828e4615ced3a7b3c90da02","r":["kapsis >= 0.4.5","semver >= 1.2.3","openparser >= 0.3.1","checksums >= 0.2.2","voodoo >= 0.2.0","vancode >= 0.2.7","watchout >= 0.3.0","nimsimd >= 1.3.2"],"g":true}
+{"v":"#head@5d156b722c39391597d24f625cc956d6209f0e85","r":["kapsis >= 0.4.5","semver >= 1.2.3","openparser >= 0.3.1","checksums >= 0.2.2","voodoo","vancode >= 0.2.10","watchout >= 0.3.0","nimsimd >= 1.3.2"],"g":true}

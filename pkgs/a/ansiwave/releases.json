@@ -1726,22 +1726,6 @@
       ]
     },
     {
-      "v": "0.4.0@383a6159ce929b1f51543ad1774a7d0744d69ebd",
-      "r": [
-        "pararules >= 0.17.0",
-        "paramidi >= 0.6.0",
-        "paramidi_soundfonts >= 0.2.0",
-        "parasound >= 0.2.0",
-        "illwill >= 0.2.0",
-        "zippy >= 0.5.5"
-      ],
-      "k": [
-        "nim",
-        "ansiwave"
-      ],
-      "m": "1.4.4"
-    },
-    {
       "v": "0.4.0@9488f44baba0b09e5c6b822c23e7a66a666c23fe",
       "r": [
         "pararules >= 0.17.0",
@@ -1984,7 +1968,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-24T06:21:03Z",
+  "generatedAt": "2026-09-24T12:19:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

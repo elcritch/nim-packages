@@ -55,15 +55,6 @@
       }
     },
     {
-      "v": "0.5.0@e9d705485209b452b3e09a1ae6f8edab4295faaf",
-      "r": [],
-      "f": {
-        "chronicles": [
-          "chronicles"
-        ]
-      }
-    },
-    {
       "v": "0.6.0@4fa3b2a26aba81f4f66a6fcca7e3279dc6604100",
       "r": [],
       "f": {
@@ -102,7 +93,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-23T18:22:41Z",
+  "generatedAt": "2026-09-24T12:20:40Z",
   "allDeps": {
     "packages": [
       "chronicles",

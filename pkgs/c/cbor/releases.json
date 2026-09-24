@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "cbor",
   "fqn": "nim_cbor.~ehmry.git.sr.ht",
-  "current": "cca1d42e5f0cf683248b6d967407956ba165a0f2",
+  "current": "fdc920fb61c77ab256239633a40f31758f9df9ba",
   "author": "Emery Hemingway",
   "description": "Concise Binary Object Representation decoder and encoder (RFC8949).",
   "license": "Unlicense",
@@ -19,7 +19,7 @@
   ],
   "releases": [
     {
-      "v": "20250805@cca1d42e5f0cf683248b6d967407956ba165a0f2^",
+      "v": "20250805@cca1d42e5f0cf683248b6d967407956ba165a0f2",
       "r": [
         "gh:ehmry/nim-bigints >= 20231006"
       ]
@@ -173,7 +173,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-08T18:59:13Z",
+  "generatedAt": "2026-09-24T12:20:27Z",
   "allDeps": {
     "packages": [
       "bigints > 0.8.0 & <= 20230310",

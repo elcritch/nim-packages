@@ -67,8 +67,7 @@
       "segmentation <= 0.3.0",
       "termstyle > 0.3.0",
       "unicodedb <= 0.3.0",
-      "unicodeplus <= 0.3.0",
-      "x11"
+      "unicodeplus <= 0.3.0"
     ],
     "urls": [],
     "unresolved": [
