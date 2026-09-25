@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "chalk",
   "fqn": "chalk.crashappsec.github.com",
-  "current": "8543bf008665a4b86971bd7a121444baf1a58240",
+  "current": "3f639cf4a965b3b7f8278eee1a5509c136270c81",
   "author": "John Viega",
   "license": "GPLv3",
   "nim": "2.0.8",
@@ -417,7 +417,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-24T18:19:09Z",
+  "generatedAt": "2026-09-25T00:29:14Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -19,22 +19,18 @@
     },
     {
       "v": "0.2.2@6bf54de9a1fd9c074628b8336f42d43da5763d51",
-      "r": [
-        "timeit",
-        "weave",
-        "gnuplot"
-      ]
+      "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:33:12Z",
+  "generatedAt": "2026-09-25T00:34:23Z",
   "allDeps": {
     "packages": [
-      "gnuplot",
-      "synthesis",
-      "timeit",
-      "weave"
+      "gnuplot > 0.2.2",
+      "synthesis > 0.2.2",
+      "timeit > 0.2.2",
+      "weave > 0.2.2"
     ],
     "urls": [],
     "unresolved": []

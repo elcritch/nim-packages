@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "openparser",
   "fqn": "openparser.openpeeps.github.com",
-  "current": "a7a118cace7c54c68cdd43f61e943c75110c328b",
+  "current": "f8f464683d01532c299b2881c0fc94d40fae66dd",
   "author": "George Lemon",
   "description": "Tiny parsers and serializers for JSON, YAML, XML, TOML, CSV, BSON, Plist (XML+Binary), RSS, QR codes and more",
   "license": "MIT",
@@ -10,7 +10,16 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.3.6@a7a118cace7c54c68cdd43f61e943c75110c328b^",
+      "v": "0.3.7@f8f464683d01532c299b2881c0fc94d40fae66dd^",
+      "r": [
+        "nimsimd >= 1.3.2",
+        "error://nimcypher >= 0.2.0"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/openparser.openpeeps.github.com-f8f46468-openparser.nimble\ncannot resolve package name: nimcypher"
+    },
+    {
+      "v": "0.3.6@a7a118cace7c54c68cdd43f61e943c75110c328b",
       "r": [
         "nimsimd >= 1.3.2",
         "error://nimcypher >= 0.2.0"
@@ -83,7 +92,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-24T18:25:48Z",
+  "generatedAt": "2026-09-25T00:34:41Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
