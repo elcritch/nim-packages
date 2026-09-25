@@ -17,14 +17,6 @@
       "r": []
     },
     {
-      "v": "0.2.0@0022996589e8539a340603a4aa36503eb6d9ee3f",
-      "r": [],
-      "p": [
-        "translation.nim"
-      ],
-      "m": "0.18.0"
-    },
-    {
       "v": "0.1.0@09c18c6c1b3d552236dba78a2dbd0b22bc25efc9",
       "r": [
         "pylib"
@@ -38,7 +30,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-25T00:37:10Z",
+  "generatedAt": "2026-09-25T06:30:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -717,18 +717,6 @@
       ]
     },
     {
-      "v": "0.2.10@f703ffa601aab362280010069aad1f700243057d",
-      "r": [
-        "patty >= 0.3.4",
-        "vmath >= 1.2.0",
-        "bumpy >= 1.1.0",
-        "cdecl >= 0.7.5",
-        "macroutils",
-        "print",
-        "pixie"
-      ]
-    },
-    {
       "v": "0.2.9@c511fdbda5751216f44f7ed479408d783e396a25",
       "r": [
         "patty >= 0.3.4",
@@ -864,11 +852,11 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-22T18:20:48Z",
+  "generatedAt": "2026-09-25T06:22:29Z",
   "allDeps": {
     "packages": [
       "bumpy",
-      "cdecl > 0.2.8 & <= 0.2.10",
+      "cdecl > 0.2.8 & <= 0.2.9",
       "chroma <= 0.13.6",
       "crunchy <= 0.13.6",
       "flatty <= 0.13.6",
@@ -877,9 +865,9 @@
       "nimsimd <= 0.13.6",
       "patty",
       "pixie <= 0.13.6",
-      "pretty > 0.2.10",
-      "print <= 0.2.10",
-      "stack_strings > 0.2.10",
+      "pretty > 0.2.9",
+      "print <= 0.2.9",
+      "stack_strings > 0.2.9",
       "vmath",
       "zippy <= 0.13.6"
     ],

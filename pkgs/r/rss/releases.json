@@ -14,11 +14,6 @@
       "r": []
     },
     {
-      "v": "0.2@9026695a2ca3be296b27b994ccc92a56dec73bc8",
-      "r": [],
-      "d": "Nim RSS parser"
-    },
-    {
       "v": "1.0@2c99547409d9ae9a9c199c76847ccf70736c153d",
       "r": [],
       "d": "Nim RSS parser"
@@ -31,7 +26,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:35:37Z",
+  "generatedAt": "2026-09-25T06:28:35Z",
   "allDeps": {
     "packages": [],
     "urls": [],
