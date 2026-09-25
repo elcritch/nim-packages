@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimble",
   "fqn": "nimble.nim-lang.github.com",
-  "current": "9d6d6ed5f78cc868d8e5269543261e2d1a71c246",
+  "current": "33a6bc8e50a33222fce075143800fe5a715e8bfe",
   "author": "Dominik Picheta",
   "description": "Nim package manager.",
   "license": "BSD",
@@ -15,6 +15,11 @@
     "nimble"
   ],
   "releases": [
+    {
+      "v": "0.26.0@33a6bc8e50a33222fce075143800fe5a715e8bfe^",
+      "r": [],
+      "h": true
+    },
     {
       "v": "0.24.1@aa8e6ea09ecac774b6fad42552569ce07bef37ec",
       "r": [],
@@ -263,7 +268,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-25T12:26:00Z",
+  "generatedAt": "2026-09-25T18:23:31Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -295,7 +300,7 @@
       "v0.22.3",
       "v0.24.0",
       "v0.24.1",
-      "v0.6.2",
+      "v0.26.0",
       "v0.6.4",
       "v0.7.0",
       "v0.7.10",
@@ -336,7 +341,7 @@
       "v0.22.3": "0.22.3",
       "v0.24.0": "0.24.0",
       "v0.24.1": "0.24.1",
-      "v0.6.2": "0.6.2",
+      "v0.26.0": "0.26.0",
       "v0.6.4": "0.6.4",
       "v0.7.0": "0.7.0",
       "v0.7.10": "0.7.10",
@@ -352,7 +357,7 @@
       "v0.8.8": "0.8.8",
       "v0.9.0": "0.9.0"
     },
-    "latest": "v0.24.1",
+    "latest": "v0.26.0",
     "prerelease": [
       "latest"
     ]

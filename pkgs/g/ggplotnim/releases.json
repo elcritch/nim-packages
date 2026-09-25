@@ -293,6 +293,18 @@
       ]
     },
     {
+      "v": "0.5.1@8e99ebbfa6b8b00206f43410c05e3fd4a3d54727",
+      "r": [
+        "gh:Vindaar/seqmath >= 0.1.11",
+        "ginger 0.3.10",
+        "datamancer >= 0.2.0",
+        "arraymancer >= 0.7.5",
+        "shell >= 0.4.3",
+        "webview",
+        "scinim >= 0.1.0"
+      ]
+    },
+    {
       "v": "0.5.0@db54774d0229b8a5c1b87bdc4c30aaea3ebcf551",
       "r": [
         "gh:Vindaar/seqmath >= 0.1.11",
@@ -914,7 +926,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-25T12:22:54Z",
+  "generatedAt": "2026-09-25T18:20:48Z",
   "allDeps": {
     "packages": [
       "arraymancer",

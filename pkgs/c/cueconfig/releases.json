@@ -64,12 +64,6 @@
       "m": "2.2.6"
     },
     {
-      "v": "1.2@9d702a0ca7ea3a767126304945d4a37264331390",
-      "r": [],
-      "d": "Cue configuration with JSON fallback for Nim projects",
-      "m": "2.2.6"
-    },
-    {
       "v": "1.1.0@4f08388a345cbc4c44ab570887cbc69a8e1ac787",
       "r": [],
       "d": "Cue configuration with JSON fallback for Nim projects",
@@ -90,7 +84,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-25T12:21:16Z",
+  "generatedAt": "2026-09-25T18:19:15Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

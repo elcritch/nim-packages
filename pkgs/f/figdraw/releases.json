@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "figdraw",
   "fqn": "figdraw.elcritch.github.com",
-  "current": "2a80d968e5ed7e8c0544ef2ef71a96ed4de141ba",
+  "current": "090e43a449885d29420ae7a79c202ce806042016",
   "author": "Jaremy Creechley",
   "description": "UI Engine for Nim",
   "license": "MIT",
@@ -10,7 +10,57 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.42.0@2a80d968e5ed7e8c0544ef2ef71a96ed4de141ba^",
+      "v": "0.43.0@090e43a449885d29420ae7a79c202ce806042016^",
+      "r": [
+        "sigils >= 0.31.0",
+        "threading >= 0.2.1",
+        "pixie >= 5.0.1",
+        "chroma >= 0.2.7",
+        "bumpy",
+        "stack_strings",
+        "chronicles >= 0.10.3",
+        "sdfy >= 0.8.2",
+        "nimsimd >= 1.2.5",
+        "variant",
+        "patty",
+        "supersnappy",
+        "opengl",
+        "vmath",
+        "gh:planetis-m/vulkan #b223dc9"
+      ],
+      "f": {
+        "vulkan": [
+          "gh:planetis-m/vulkan #b223dc9"
+        ],
+        "lottie": [
+          "jsony"
+        ],
+        "harfbuzz": [
+          "gh:elcritch/harfbuzzy >= 0.2.4"
+        ],
+        "metal": [
+          "metalx #head"
+        ],
+        "surfer": [
+          "surfer >= 0.2.5",
+          "xkb #b4d50f4cccad1cd9e39d2f5a5e1fef2710edcc31"
+        ],
+        "siwin": [
+          "siwin >= 1.1.2"
+        ],
+        "sharedlib": [
+          "gh:elcritch/binny >= 0.5.22"
+        ],
+        "sdl2": [
+          "sdl2"
+        ],
+        "windy": [
+          "windy"
+        ]
+      }
+    },
+    {
+      "v": "0.42.0@2a80d968e5ed7e8c0544ef2ef71a96ed4de141ba",
       "r": [
         "sigils >= 0.31.0",
         "threading >= 0.2.1",
@@ -2188,7 +2238,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-25T12:22:23Z",
+  "generatedAt": "2026-09-25T18:20:20Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -2208,7 +2258,8 @@
       "v0.40.1",
       "v0.40.2",
       "v0.41.0",
-      "v0.42.0"
+      "v0.42.0",
+      "v0.43.0"
     ],
     "tagVersions": {
       "v0.35.0": "0.35.0",
@@ -2224,9 +2275,10 @@
       "v0.40.1": "0.40.1",
       "v0.40.2": "0.40.2",
       "v0.41.0": "0.41.0",
-      "v0.42.0": "0.42.0"
+      "v0.42.0": "0.42.0",
+      "v0.43.0": "0.43.0"
     },
-    "latest": "v0.42.0"
+    "latest": "v0.43.0"
   },
   "allDeps": {
     "packages": [
