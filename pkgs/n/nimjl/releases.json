@@ -169,6 +169,13 @@
       "m": "1.2.0"
     },
     {
+      "v": "0.5.0@026ddad87b154cd77a3a00c1f3508c9063d4aab3",
+      "r": [
+        "arraymancer"
+      ],
+      "m": "1.2.0"
+    },
+    {
       "v": "0.4.5@c92e3a833500c21c4b7f4d78165516d186d76349",
       "r": [
         "arraymancer"
@@ -220,7 +227,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-25T06:26:47Z",
+  "generatedAt": "2026-09-25T12:26:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
