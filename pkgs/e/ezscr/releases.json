@@ -137,6 +137,17 @@
       "k": []
     },
     {
+      "v": "2.1.0@08aa4d969453a3ef977166d501d6b5c7f1005241",
+      "r": [
+        "Nimscripter",
+        "cligen",
+        "yaml",
+        "util"
+      ],
+      "l": "gpl-3.0-only",
+      "k": []
+    },
+    {
       "v": "2.0.0@43748c061b8cc94e5346706b80eebd8acf464e8c",
       "r": [
         "Nimscripter",
@@ -162,7 +173,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-25T18:19:56Z",
+  "generatedAt": "2026-09-26T00:28:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
