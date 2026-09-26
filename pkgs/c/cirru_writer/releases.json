@@ -32,18 +32,11 @@
       "r": [
         "edn"
       ]
-    },
-    {
-      "v": "0.1.0@0a440964c5f9de0bfa02ab2683049f5b79c96997",
-      "r": [
-        "edn"
-      ],
-      "m": "1.4.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-26T12:17:45Z",
+  "generatedAt": "2026-09-26T18:16:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

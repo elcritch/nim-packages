@@ -211,17 +211,6 @@
       "j": []
     },
     {
-      "v": "0.5.5@b6d056789c282caa8f7a7f878d8ff5ef6717c6d0",
-      "r": [
-        "regex >= 0.14.1",
-        "cligen >= 0.9.45"
-      ],
-      "p": [
-        "nimterop/toast"
-      ],
-      "j": []
-    },
-    {
       "v": "0.5.4@de8db4619c38632eadf09e6c4d3ecaba0a23a59e",
       "r": [
         "regex >= 0.14.1",
@@ -444,7 +433,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-01T07:59:40Z",
+  "generatedAt": "2026-09-26T18:21:27Z",
   "allDeps": {
     "packages": [
       "cligen",
