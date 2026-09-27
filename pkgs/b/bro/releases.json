@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "bro",
   "fqn": "bro.openpeeps.github.com",
-  "current": "c39fa11c45dfd5504953694bee938d77a232044b",
+  "current": "1cb6f21133d6432a50bf91fbeef9de0651623a74",
   "author": "George Lemon",
   "description": "CSS preprocessor alternative to SassC/DartSass",
   "license": "LGPL-3.0-or-later",
@@ -20,14 +20,14 @@
   ],
   "releases": [
     {
-      "v": "0.3.0@7a90d549d6273500244397f9ea5ba3dfea6b17a7",
+      "v": "0.3.0@c39fa11c45dfd5504953694bee938d77a232044b",
       "r": [
-        "kapsis >= 0.4.5",
+        "kapsis >= 0.4.10",
         "semver >= 1.2.3",
         "openparser >= 0.3.1",
         "checksums >= 0.2.2",
-        "voodoo",
-        "vancode >= 0.2.10",
+        "voodoo >= 0.2.1",
+        "vancode >= 0.2.12",
         "watchout >= 0.3.0",
         "nimsimd >= 1.3.2"
       ]
@@ -35,7 +35,17 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-27T12:18:52Z",
+  "generatedAt": "2026-09-27T18:16:28Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.3.0"
+    ],
+    "latest": "0.3.0"
+  },
   "allDeps": {
     "packages": [
       "ansiparse",
