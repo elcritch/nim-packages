@@ -8,23 +8,12 @@
   "license": "MIT",
   "nim": "1.6.0",
   "srcDir": "src",
-  "releases": [
-    {
-      "v": "0.1.0@29610948cc37eb233346b3630e38b1b5a1b650e2",
-      "r": [
-        "with >= 0.5.0",
-        "templates"
-      ]
-    }
-  ],
+  "releases": [],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:10:58Z",
+  "generatedAt": "2026-09-27T00:31:07Z",
   "allDeps": {
-    "packages": [
-      "templates",
-      "with"
-    ],
+    "packages": [],
     "urls": [],
     "unresolved": []
   }

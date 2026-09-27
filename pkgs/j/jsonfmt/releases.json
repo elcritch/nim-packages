@@ -13,7 +13,7 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@5023eac97a07c9d0a36c5b92a1f63119dd25454f",
+      "v": "0.1.0@cd4c0b4d28a505d69f86527eed23f32eb31215e4",
       "r": [
         "argparse"
       ]
@@ -21,7 +21,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:29:17Z",
+  "generatedAt": "2026-09-27T00:34:43Z",
   "allDeps": {
     "packages": [
       "argparse"
