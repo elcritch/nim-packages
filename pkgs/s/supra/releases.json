@@ -102,6 +102,8 @@
       "error://nimcypher",
       "error://powpow <= 0.1.0"
     ],
-    "unresolved": []
+    "unresolved": [
+      "gh:supranim/tasks"
+    ]
   }
 }

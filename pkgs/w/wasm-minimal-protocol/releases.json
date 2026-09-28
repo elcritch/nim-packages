@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "wasm-minimal-protocol",
   "fqn": "wasm-minimal-protocol.nimpylib.github.com",
-  "current": "29c5e0e671f751d143dc0d9ac42aa55430f72b8a",
+  "current": "24b68fa49609b343e9b2ec40e2c1948f7a136407",
   "author": "litlighilit",
   "description": "A minimal protocol to write typst plugins.",
   "license": "MIT",
@@ -14,7 +14,7 @@
   ],
   "releases": [
     {
-      "v": "0.1.4@29c5e0e671f751d143dc0d9ac42aa55430f72b8a^",
+      "v": "0.1.4@24b68fa49609b343e9b2ec40e2c1948f7a136407^",
       "r": [
         "cbor_serialization"
       ]
@@ -40,7 +40,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-05T12:31:44Z",
+  "generatedAt": "2026-09-28T12:34:51Z",
   "allDeps": {
     "packages": [
       "cbor_serialization",
