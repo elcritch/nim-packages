@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimyottadb",
   "fqn": "nim-yottadb.ljoeckel.github.com",
-  "current": "7ab68e47d633ea0e48c16ce30b84bf416c069106",
+  "current": "5e27e312afd78497721de6cda1911e144284e910",
   "author": "Lothar Joeckel",
   "description": "Nim language implementation for the YottaDB database",
   "license": "MIT",
@@ -107,7 +107,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-27T18:22:07Z",
+  "generatedAt": "2026-09-28T00:40:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,33 +2,56 @@
   "cv": 19,
   "name": "hpack",
   "fqn": "nim-hpack.nitely.github.com",
-  "current": "cfe4862fd69b20eb039545f528a9ba3574cc28eb",
+  "current": "49d6e43319bdcf344b4430aaf971afdedf4e9ea4",
   "author": "Esteban C Borsani (@nitely)",
   "description": "HPACK (Header Compression for HTTP/2)",
   "license": "MIT",
-  "nim": "2.0.0",
+  "nim": "2.0.14",
   "srcDir": "src",
   "skipDirs": [
     "tests",
-    "gen"
+    "gen",
+    "bench"
   ],
   "releases": [
     {
-      "v": "0.4.1@75e7548f000bd4b64f8544cee27e089fa0d4fcb6",
+      "v": "0.5.0@49d6e43319bdcf344b4430aaf971afdedf4e9ea4^",
       "r": []
     },
     {
+      "v": "0.4.1@75e7548f000bd4b64f8544cee27e089fa0d4fcb6",
+      "r": [],
+      "x": [
+        "tests",
+        "gen"
+      ],
+      "m": "2.0.0"
+    },
+    {
       "v": "0.4.0@2ba2e206c636d917ba1066ec4124db867329ff23",
-      "r": []
+      "r": [],
+      "x": [
+        "tests",
+        "gen"
+      ],
+      "m": "2.0.0"
     },
     {
       "v": "0.3.3@b87257aeadceff19fc7bfc1238020113f429a399",
       "r": [],
+      "x": [
+        "tests",
+        "gen"
+      ],
       "m": "0.19.0"
     },
     {
       "v": "0.3.2@b81ce1cff34c4d76c02eff6c5decd23037dcb0fe",
       "r": [],
+      "x": [
+        "tests",
+        "gen"
+      ],
       "m": "0.19.0"
     },
     {
@@ -77,7 +100,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-27T18:19:09Z",
+  "generatedAt": "2026-09-28T00:35:54Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -92,7 +115,8 @@
       "v0.3.2",
       "v0.3.3",
       "v0.4.0",
-      "v0.4.1"
+      "v0.4.1",
+      "v0.5.0"
     ],
     "tagVersions": {
       "v0.1": "0.1",
@@ -103,9 +127,10 @@
       "v0.3.2": "0.3.2",
       "v0.3.3": "0.3.3",
       "v0.4.0": "0.4.0",
-      "v0.4.1": "0.4.1"
+      "v0.4.1": "0.4.1",
+      "v0.5.0": "0.5.0"
     },
-    "latest": "v0.4.1"
+    "latest": "v0.5.0"
   },
   "allDeps": {
     "packages": [],

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "libp2p",
   "fqn": "nim-libp2p.vacp2p.github.com",
-  "current": "edfbc7e6540351e1155f8ef4dfcbfdfab0ceefb5",
+  "current": "3adae6f24590df2814a0e2aad4c0c782f0f74afd",
   "author": "Status Research & Development GmbH",
   "description": "LibP2P implementation",
   "license": "MIT",
@@ -437,7 +437,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-27T18:20:13Z",
+  "generatedAt": "2026-09-28T00:37:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
