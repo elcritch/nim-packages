@@ -82,8 +82,8 @@
     {
       "v": "0.2.3@19e7e2bbb668d5961229b86d749c9e230c770ca2",
       "r": [],
-      "l": "ISC",
-      "m": "1.0.2"
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
     },
     {
       "v": "0.2.2@d90aa9f17e20b112e425e093a7f527d325f0fe4d",
@@ -112,7 +112,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-26T19:03:33Z",
+  "generatedAt": "2026-09-28T06:34:46Z",
   "allDeps": {
     "packages": [
       "getdns > 20220913 & <= 20240405"
