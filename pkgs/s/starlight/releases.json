@@ -2,10 +2,10 @@
   "cv": 19,
   "name": "starlight",
   "fqn": "starlight.akvilary.github.com",
-  "current": "74777226263fb2178a21d641bdde8ab3ea8903d2",
+  "current": "18a2cadcfd828a0185ea90ec461934b2a855b8c9",
   "releases": [
     {
-      "v": "0.2.0@74777226263fb2178a21d641bdde8ab3ea8903d2^",
+      "v": "0.2.0@74777226263fb2178a21d641bdde8ab3ea8903d2",
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "missing nimble file"
@@ -13,7 +13,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-25T06:29:30Z",
+  "generatedAt": "2026-09-28T18:28:16Z",
   "allDeps": {
     "packages": [],
     "urls": [],
