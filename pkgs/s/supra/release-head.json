@@ -1,1 +1,1 @@
-{"v":"#head@10d7ca99c5429574d0eab411bfa24706b7591f81","r":["db_connector >= 0.1.0","openparser >= 0.1.8","kapsis >= 0.4.9","flatty >= 0.4.0","valido >= 0.1.0","ozark >= 0.1.5"],"g":true,"d":"CLI tool for managing Supranim projects","m":"2.0.0"}
+{"v":"#head@1eac631fb479b5a4365f09da404ef47dae598750","r":["db_connector >= 0.1.0","openparser >= 0.1.8","kapsis >= 0.4.9","flatty >= 0.4.0","valido >= 0.1.0","ozark >= 0.1.5"],"g":true,"d":"CLI tool for managing Supranim projects","m":"2.0.0"}

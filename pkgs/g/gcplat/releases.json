@@ -70,11 +70,17 @@
         "jwt",
         "gh:disruptek/rest >= 1.0.0"
       ]
+    },
+    {
+      "v": "0.0.1@59d6557dd2f8528276bf2ffc7acb2796f121f756",
+      "r": [
+        "openapi 2.0.1"
+      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-29T12:10:50Z",
+  "generatedAt": "2026-09-29T18:08:30Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -91,12 +97,12 @@
   },
   "allDeps": {
     "packages": [
-      "bearssl",
+      "bearssl > 0.0.1",
       "foreach",
-      "jwt",
+      "jwt > 0.0.1",
       "npeg",
       "openapi",
-      "unittest2"
+      "unittest2 > 0.0.1"
     ],
     "urls": [],
     "unresolved": [

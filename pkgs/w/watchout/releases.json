@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "watchout",
   "fqn": "watchout.openpeeps.github.com",
-  "current": "4a57da801ac8b16246b745053724a29cf63af38f",
+  "current": "f8c6160e2f101297a919b588b88e1382f9a51909",
   "author": "George Lemon",
   "description": "A stupid simple filesystem monitor",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.3.2@4a57da801ac8b16246b745053724a29cf63af38f^",
+      "v": "0.3.2@4a57da801ac8b16246b745053724a29cf63af38f",
       "r": []
     },
     {
@@ -24,7 +24,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-22T18:33:12Z",
+  "generatedAt": "2026-09-29T18:17:41Z",
   "allDeps": {
     "packages": [],
     "urls": [],
