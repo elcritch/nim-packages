@@ -61,15 +61,6 @@
       "d": "HMAC hashing in Nim"
     },
     {
-      "v": "0.1.7@e0189985a12d1afc68ad7aebe7c905accdfbd9d1",
-      "r": [
-        "nimSHA2",
-        "sha1"
-      ],
-      "a": "Huy Doan",
-      "d": "HMAC hashing in Nim"
-    },
-    {
       "v": "0.1.8@6d26503d2cd9284a561182c91256819738df1b9b",
       "r": [
         "nimSHA2"
@@ -128,7 +119,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-26T18:51:46Z",
+  "generatedAt": "2026-09-29T22:01:39Z",
   "allDeps": {
     "packages": [
       "checksums > 0.3.1",
