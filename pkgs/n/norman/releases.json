@@ -61,6 +61,15 @@
       "m": "1.2.6"
     },
     {
+      "v": "2.1.2@14b29a3f558d83ddd5cf904d24543dd363976e85",
+      "r": [
+        "norm >= 2.1.1",
+        "cligen >= 1.1.0",
+        "dotenv >= 1.1.1"
+      ],
+      "m": "1.2.6"
+    },
+    {
       "v": "2.1.1@51db172d23e37f21a301b440d52a22ea45e6906c",
       "r": [
         "norm >= 2.1.1",
@@ -117,7 +126,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-29T04:03:16Z",
+  "generatedAt": "2026-09-29T12:14:39Z",
   "allDeps": {
     "packages": [
       "chronicles",

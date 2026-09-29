@@ -2,8 +2,32 @@
   "cv": 19,
   "name": "starlight",
   "fqn": "starlight.akvilary.github.com",
-  "current": "18a2cadcfd828a0185ea90ec461934b2a855b8c9",
+  "current": "ffa0cc22185858be3c928f73bc1e54efa8e2c8b2",
   "releases": [
+    {
+      "v": "0.5.0@ffa0cc22185858be3c928f73bc1e54efa8e2c8b2^",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "0.4.0@d12c13c8ae514b1eb94b4d7e2c5e5cc4d6b72d01",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "0.3.1@bf213e0e2eb9c099f11344dd7813c4ada7715cd8",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
+    {
+      "v": "0.3.0@c5ed0ab606d04e50f19fb63d565a42ba0562cc3c",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
+    },
     {
       "v": "0.2.0@74777226263fb2178a21d641bdde8ab3ea8903d2",
       "r": [],
@@ -13,7 +37,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-28T18:28:16Z",
+  "generatedAt": "2026-09-29T12:17:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],
