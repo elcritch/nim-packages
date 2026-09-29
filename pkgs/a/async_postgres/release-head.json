@@ -1,1 +1,1 @@
-{"v":"#head@07c5f32ded6f26b9e21f196c68d50ad4ee98e6bd","r":["nimcrypto >= 0.7.3","checksums >= 0.2.2","unicodedb >= 0.13.2","normalize >= 0.9.0"],"d":"Async PostgreSQL client","m":"2.2.4"}
+{"v":"#head@23240041efb0a2fdb842822485c663702fcee57e","r":["nimcrypto >= 0.7.3","checksums >= 0.2.2","unicodedb >= 0.13.2","normalize >= 0.9.0"],"d":"Async PostgreSQL client","m":"2.2.4"}
