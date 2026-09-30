@@ -52,16 +52,6 @@
       ]
     },
     {
-      "v": "0.4.2@cb38240ed985209403228cf84566cb341b15ec61",
-      "r": [
-        "jsonschema >= 0.2.1",
-        "asynctools >= 0.1.1"
-      ],
-      "p": [
-        "nimlsp"
-      ]
-    },
-    {
       "v": "0.4.1@869d78f57a87909537915c8570d72a81384666d1",
       "r": [
         "jsonschema >= 0.2.1",
@@ -156,7 +146,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-29T22:05:03Z",
+  "generatedAt": "2026-09-30T03:49:59Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
