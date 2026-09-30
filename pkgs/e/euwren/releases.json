@@ -28,6 +28,12 @@
       ]
     },
     {
+      "v": "0.13.0@e3a277207254a936ef84d895b05d4799ab429f66",
+      "r": [
+        "nimterop >= 0.3.6"
+      ]
+    },
+    {
       "v": "0.12.2@8b2830965c70900e2b1fa29ab87f66620308b99a",
       "r": [
         "nimterop >= 0.3.6"
@@ -132,7 +138,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-30T03:46:20Z",
+  "generatedAt": "2026-09-30T11:58:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
