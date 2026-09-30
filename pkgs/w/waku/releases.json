@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "waku",
   "fqn": "nwaku.waku-org.github.com",
-  "current": "02246ea78ccea8188ccabc40de53a20551ea101f",
+  "current": "5aad965d7ce6c14089b13918ecac6aa65ff41c85",
   "author": "Status Research & Development GmbH",
   "description": "Logos-delivery, Private P2P Messaging for Resource-Restricted Devices",
   "license": "MIT or Apache License 2.0",
@@ -1138,7 +1138,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-30T12:10:37Z",
+  "generatedAt": "2026-09-30T17:50:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -92,11 +92,6 @@
       "d": "A command-line YouTube player and more"
     },
     {
-      "v": "0.2.0@703dad0edb1a7d13a5607c59dc3ee68e4f786822",
-      "r": [],
-      "d": "A command-line YouTube player and more"
-    },
-    {
       "v": "0.1.0@8c631115d89f23b36469d80032893d935b3b54f9",
       "r": [],
       "d": "A command-line YouTube player and more"
@@ -104,7 +99,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-04T13:23:01Z",
+  "generatedAt": "2026-09-30T17:44:03Z",
   "allDeps": {
     "packages": [],
     "urls": [],

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "unittest2",
   "fqn": "nim-unittest2.status-im.github.com",
-  "current": "ce88334735c2406951152ccfc5573cac70d9c03c",
+  "current": "d163bc2f8b54ae71adf2cb8daf92d3649be0f467",
   "author": "Status Research & Development GmbH",
   "description": "unittest fork with support for parallel test execution",
   "license": "MIT",
@@ -88,7 +88,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-30T12:10:05Z",
+  "generatedAt": "2026-09-30T17:49:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

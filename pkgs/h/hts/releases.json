@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "hts",
   "fqn": "hts-nim.brentp.github.com",
-  "current": "b664c5d9c4cffaeeddad8b2abd91b41a0f2abce7",
+  "current": "50b64d8843f20326d113c1ef1f29dc773f32915b",
   "author": "Brent Pedersen",
   "description": "hts (bam/sam) for nim",
   "license": "MIT",
@@ -15,6 +15,10 @@
     "teloage.nim"
   ],
   "releases": [
+    {
+      "v": "0.3.32@50b64d8843f20326d113c1ef1f29dc773f32915b^",
+      "r": []
+    },
     {
       "v": "0.3.31@93ad65442b16d0191aa0c44803d10a6fb7cde9fa",
       "r": []
@@ -235,7 +239,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-30T12:00:26Z",
+  "generatedAt": "2026-09-30T17:41:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

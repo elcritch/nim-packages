@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "eth",
   "fqn": "nim-eth.status-im.github.com",
-  "current": "df77246a793a2cf016c00f9f503f7d0aac937f3a",
+  "current": "52d5420a4fc13cef79136dbaa524445a352c6591",
   "author": "Status Research & Development GmbH",
   "description": "Ethereum Common library",
   "license": "MIT",
@@ -135,7 +135,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-30T11:58:37Z",
+  "generatedAt": "2026-09-30T17:39:21Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

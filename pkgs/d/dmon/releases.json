@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "dmon",
   "fqn": "dmon-nim.elcritch.github.com",
-  "current": "da10f775be607deaa285463d631ce69f92585f56",
+  "current": "d46c83bdf268fa147f7fd111d7ff41374bb0a5bd",
   "author": "Jaremy Creechley",
   "description": "Library to monitor file changes in a folder. A port of Dmon.",
   "license": "BSD-2-Clause",
@@ -10,7 +10,20 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.5.1@da10f775be607deaa285463d631ce69f92585f56^",
+      "v": "0.5.2@16b20ea08fc7d3f54f1a47321836ced48ab00a14",
+      "r": [
+        "macosutils >= 0.3.2",
+        "winim >= 3.9.4",
+        "chroniclers >= 0.2.0"
+      ],
+      "f": {
+        "dev": [
+          "chronicles >= 0.10.0"
+        ]
+      }
+    },
+    {
+      "v": "0.5.1@da10f775be607deaa285463d631ce69f92585f56",
       "r": [
         "macosutils >= 0.3.2",
         "winim >= 3.9.4",
@@ -97,7 +110,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-09T12:21:15Z",
+  "generatedAt": "2026-09-30T17:38:59Z",
   "allDeps": {
     "packages": [
       "chroniclers > 0.4.0",
