@@ -8,10 +8,15 @@
   "license": "MIT",
   "nim": "1.4.6",
   "srcDir": "src",
-  "releases": [],
+  "releases": [
+    {
+      "v": "0.1.0@f4bd5e1873251c73683c438bb0092809bc6798ec",
+      "r": []
+    }
+  ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-30T17:40:22Z",
+  "generatedAt": "2026-09-30T21:59:33Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
