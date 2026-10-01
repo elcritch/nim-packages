@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nexus",
   "fqn": "nexus.jfilby.github.com",
-  "current": "7eb83be37a9f3995070daef0fb4a7553f382730c",
+  "current": "68a3112c927d1cdf8383a97d18b566c68d7b72a6",
   "author": "jfilby",
   "description": "Nexus Development Framework",
   "license": "Apache-2.0",
@@ -173,7 +173,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-01T03:55:12Z",
+  "generatedAt": "2026-10-01T12:31:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
