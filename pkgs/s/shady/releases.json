@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "shady",
   "fqn": "shady.treeform.github.com",
-  "current": "fc66679144717e715b2d4c397b5c515101e78be9",
+  "current": "c899f7cd17dbe7021d6e3aa2908e6de6549c47f1",
   "author": "Andre von Houck",
   "description": "Nim to GPU shader language compiler and supporting utilities.",
   "license": "MIT",
@@ -57,7 +57,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-01T12:35:03Z",
+  "generatedAt": "2026-10-01T22:30:24Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

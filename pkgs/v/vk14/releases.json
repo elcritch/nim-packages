@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "vk14",
   "fqn": "vk14.treeform.github.com",
-  "current": "9465abdfbcdb61ecd7eca371889641f653ae0780",
+  "current": "183cf440d6460d97c6b35d6346079d9982f8cd57",
   "author": "treeform",
   "description": "Vulkan 1.4 wrapper for Nim.",
   "license": "MIT",
@@ -18,7 +18,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-01T12:36:59Z",
+  "generatedAt": "2026-10-01T22:31:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

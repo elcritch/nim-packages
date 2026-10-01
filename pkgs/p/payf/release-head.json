@@ -1,1 +1,1 @@
-{"v":"#head@f5fa11b0d146fb4ba4ecb8848ddf34411aab8209","r":["cligen >= 1.6.0","dotenv >= 2.0.0"]}
+{"v":"#head@fac85c6b2fb3b55b5d5125d8f2e7b70b46f45d96","r":["cligen >= 1.6.0","dotenv >= 2.0.0","error://finz >= 0.1.0"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/payf.capocasa.github.com-fac85c6b-payf.nimble\ncannot resolve package name: finz"}

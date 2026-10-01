@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "payf",
   "fqn": "payf.capocasa.github.com",
-  "current": "f5fa11b0d146fb4ba4ecb8848ddf34411aab8209",
+  "current": "fac85c6b2fb3b55b5d5125d8f2e7b70b46f45d96",
   "author": "payf",
   "description": "FinTS CLI for SEPA instant transfers",
   "license": "MIT",
@@ -13,22 +13,37 @@
   ],
   "releases": [
     {
-      "v": "0.1.0@f5fa11b0d146fb4ba4ecb8848ddf34411aab8209^",
+      "v": "0.1.0@fac85c6b2fb3b55b5d5125d8f2e7b70b46f45d96^",
       "r": [
         "cligen >= 1.6.0",
-        "dotenv >= 2.0.0"
-      ]
+        "dotenv >= 2.0.0",
+        "error://finz >= 0.1.0"
+      ],
+      "S": "HasBrokenDep",
+      "E": "in file: /home/runner/work/nim-packages/nim-packages/pkgs/_tmp/payf.capocasa.github.com-fac85c6b-payf.nimble\ncannot resolve package name: finz"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-06-13T07:30:15Z",
+  "generatedAt": "2026-10-01T22:29:25Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "0.1.0"
+    ],
+    "latest": "0.1.0"
+  },
   "allDeps": {
     "packages": [
       "cligen",
       "dotenv"
     ],
-    "urls": [],
+    "urls": [
+      "error://finz"
+    ],
     "unresolved": []
   }
 }
