@@ -24,6 +24,13 @@
       ]
     },
     {
+      "v": "0.3.0@bb00fda67fe8bc9dd226fa92a9429f119e59f325",
+      "r": [
+        "chronicles >= 0.12.4",
+        "confutils >= 0.1.1"
+      ]
+    },
+    {
       "v": "0.2.1@f68a8312fad5988c333bf2946740e694854b5e0d",
       "r": [
         "puppy >= 1.4.0"
@@ -62,7 +69,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-02T11:56:55Z",
+  "generatedAt": "2026-10-02T17:30:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -70,6 +77,8 @@
     },
     "releases": [
       "pre/v0.3.0.alpha1",
+      "pre/v0.3.0a1",
+      "pre/v0.3.0a2",
       "v0.1.0",
       "v0.1.1",
       "v0.2.0",
@@ -77,6 +86,8 @@
     ],
     "tagVersions": {
       "pre/v0.3.0.alpha1": "0.3.0.",
+      "pre/v0.3.0a1": "0.3.0",
+      "pre/v0.3.0a2": "0.3.0",
       "v0.1.0": "0.1.0",
       "v0.1.1": "0.1.1",
       "v0.2.0": "0.2.0",
@@ -84,7 +95,9 @@
     },
     "latest": "v0.2.1",
     "prerelease": [
-      "pre/v0.3.0.alpha1"
+      "pre/v0.3.0.alpha1",
+      "pre/v0.3.0a1",
+      "pre/v0.3.0a2"
     ]
   },
   "allDeps": {

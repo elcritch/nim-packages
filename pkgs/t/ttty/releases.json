@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "ttty",
   "fqn": "ttty.capocasa.github.com",
-  "current": "bf9e550bc5040e683d89a1beef5896dc9fc66398",
+  "current": "455c4f67989a65bb8f36e62e5b330ee05dc51979",
   "author": "Carlo Capocasa",
   "description": "Headless ANSI VT grid renderer, with a real-xterm ground-truth oracle",
   "license": "MIT",
@@ -10,7 +10,13 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.5.3@bf9e550bc5040e683d89a1beef5896dc9fc66398^",
+      "v": "0.5.4@455c4f67989a65bb8f36e62e5b330ee05dc51979^",
+      "r": [
+        "x11 >= 1.2"
+      ]
+    },
+    {
+      "v": "0.5.3@bf9e550bc5040e683d89a1beef5896dc9fc66398",
       "r": [
         "x11 >= 1.2"
       ]
@@ -42,7 +48,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-05T06:32:48Z",
+  "generatedAt": "2026-10-02T17:39:44Z",
   "allDeps": {
     "packages": [
       "x11"

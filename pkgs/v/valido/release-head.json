@@ -1,1 +1,1 @@
-{"v":"#head@b8ffe5315bd2e1290bfd7662c1849479bf1844a1","r":["bigints >= 0.1.0","blackpaper >= 0.1.0","openparser >= 0.2.0"],"x":[]}
+{"v":"#head@66c566d69aa795e65db0d76ee0ca4b8b002b4fa3","r":["bigints >= 0.1.0","blackpaper >= 0.1.0","openparser >= 0.2.0","punycode >= 0.1.0","unicodedb >= 0.14.0"]}
