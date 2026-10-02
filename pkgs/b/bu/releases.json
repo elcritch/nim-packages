@@ -996,7 +996,13 @@
     },
     {
       "v": "0.18.3@171c69587869c88eb9eefa146672990d586aea64",
-      "r": [],
+      "r": [
+        "cligen >= 1.8.0",
+        "adix >= 0.6.4",
+        "nio >= 0.7.7",
+        "fitl >= 0.6.2",
+        "spfun >= 0.7.4"
+      ],
       "p": [
         "catz",
         "ft",
@@ -1048,7 +1054,22 @@
         "holes",
         "fsids",
         "chom",
-        "thermctl"
+        "thermctl",
+        "pid2",
+        "sr",
+        "tattr",
+        "wsz",
+        "noa",
+        "okpaths",
+        "nrel",
+        "dirq",
+        "funnel",
+        "stripe",
+        "bu/rs",
+        "wgt",
+        "bu/zipf",
+        "niom",
+        "ac"
       ]
     },
     {
@@ -5223,7 +5244,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-01T22:23:43Z",
+  "generatedAt": "2026-10-02T03:49:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

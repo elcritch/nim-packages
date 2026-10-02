@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "chronos",
   "fqn": "nim-chronos.status-im.github.com",
-  "current": "471810b76d8782506fc6ab1a87ff19d177a92386",
+  "current": "c679d2901faf905e9228275863eb5d670695409b",
   "author": "Status Research & Development GmbH",
   "description": "Networking framework with async/await support",
   "license": "MIT or Apache License 2.0",
@@ -107,13 +107,8 @@
     },
     {
       "v": "4.0.5@785fcf4ddec1101a3df1f044d6331504d7ab95c6",
-      "r": [
-        "results",
-        "stew",
-        "bearssl >= 0.2.7",
-        "httputils",
-        "unittest2"
-      ]
+      "r": [],
+      "x": []
     },
     {
       "v": "4.0.4@0646c444fce7c7ed08ef6f2c9a7abfd172ffe655",
@@ -188,7 +183,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-31T18:19:10Z",
+  "generatedAt": "2026-10-02T03:49:27Z",
   "allDeps": {
     "packages": [
       "bearssl <= 4.2.5",

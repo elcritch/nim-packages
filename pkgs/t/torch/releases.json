@@ -50,11 +50,16 @@
     },
     {
       "v": "0.2.0@139a14e74dfd524ec6c86b9d25e2096ac25fc00c",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "x": [],
-      "y": []
+      "r": [
+        "fragments >= 0.1.16"
+      ],
+      "x": [
+        "docker"
+      ],
+      "y": [
+        ".gitlab-ci.yml"
+      ],
+      "m": "0.18.1"
     },
     {
       "v": "0.1.24@d06667144ede01741c1fd282663e7dcb60049a79",
@@ -277,7 +282,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-01T22:31:28Z",
+  "generatedAt": "2026-10-02T03:56:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
