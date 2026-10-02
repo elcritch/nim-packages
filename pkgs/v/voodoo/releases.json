@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "voodoo",
   "fqn": "voodoo.openpeeps.github.com",
-  "current": "adddcb2bca49917874ed464ea78ede1a3a76a895",
+  "current": "c762099ffbfc0171995d79e9f93ea1787753d845",
   "author": "George Lemon",
   "description": "Working with Nim's macros is just Voodoo",
   "license": "MIT",
@@ -10,7 +10,11 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.2.1@adddcb2bca49917874ed464ea78ede1a3a76a895^",
+      "v": "0.2.2@c762099ffbfc0171995d79e9f93ea1787753d845^",
+      "r": []
+    },
+    {
+      "v": "0.2.1@adddcb2bca49917874ed464ea78ede1a3a76a895",
       "r": []
     },
     {
@@ -20,7 +24,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-15T18:26:00Z",
+  "generatedAt": "2026-10-02T12:06:15Z",
   "allDeps": {
     "packages": [],
     "urls": [],

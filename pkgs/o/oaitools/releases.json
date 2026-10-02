@@ -16,6 +16,12 @@
       ]
     },
     {
+      "v": "0.2.4@90d35f290f69beb628c41ef0536238fda664d37c",
+      "r": [
+        "xmltools >= 0.1.5"
+      ]
+    },
+    {
       "v": "0.2.3@8c7e12f49512606228c09cbaa64ce75e85d44b3a",
       "r": [
         "xmltools >= 0.1.5"
@@ -48,7 +54,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-02T03:53:59Z",
+  "generatedAt": "2026-10-02T12:01:59Z",
   "allDeps": {
     "packages": [
       "classy",

@@ -34,6 +34,12 @@
       ]
     },
     {
+      "v": "0.1.4@417f3314507796f48f1990265a62e87a7a941074",
+      "r": [
+        "packets >= 2.0.0"
+      ]
+    },
+    {
       "v": "0.1.3@c2217632fca50fe3fa23b43ece390d5d234b0cb1",
       "r": [
         "packets >= 1.0.4"
@@ -54,7 +60,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-02T03:48:13Z",
+  "generatedAt": "2026-10-02T11:52:52Z",
   "allDeps": {
     "packages": [
       "packedjson",
