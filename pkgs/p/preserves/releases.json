@@ -122,6 +122,18 @@
       ]
     },
     {
+      "v": "20240522@1fee87590940761e288cf9ab3c7270832403b719",
+      "r": [
+        "npeg >= 1.2.1",
+        "gh:ehmry/nim-bigints >= 20231006"
+      ],
+      "p": [
+        "preserves/preserves_schema_nim",
+        "preserves/private/preserves_encode",
+        "preserves/schemac"
+      ]
+    },
+    {
       "v": "20240422@fd498c6457cb9ad2f3179daa40da69eec00326dd",
       "r": [
         "npeg >= 1.2.1",
@@ -408,7 +420,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-02T17:36:40Z",
+  "generatedAt": "2026-10-02T21:57:01Z",
   "allDeps": {
     "packages": [
       "npeg > 1.20260823 & <= 20240523"

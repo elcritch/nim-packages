@@ -49,21 +49,21 @@
     },
     {
       "v": "0.1.0@6ce8b9e72cee0dab7358434ad413f93ba09a3712",
-      "r": [
-        "amqpstats >= 0.1.0",
-        "simplestatsdclient"
-      ]
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file",
+      "o": {}
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:35:33Z",
+  "generatedAt": "2026-10-02T21:57:19Z",
   "allDeps": {
     "packages": [
-      "amqpstats",
-      "packedjson",
-      "packets",
-      "simplestatsdclient"
+      "amqpstats > 0.1.0",
+      "packedjson > 0.1.0",
+      "packets > 0.1.0",
+      "simplestatsdclient > 0.1.0"
     ],
     "urls": [],
     "unresolved": []

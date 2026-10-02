@@ -2238,7 +2238,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-02T17:29:36Z",
+  "generatedAt": "2026-10-02T21:52:50Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -2355,7 +2355,6 @@
       "gh:elcritch/harfbuzzy",
       "gh:elcritch/mcu_utils",
       "gh:elcritch/nim-cbor-serialization",
-      "gh:elcritch/siwin",
       "gh:nim-windowing/linux_input",
       "gh:planetis-m/vulkan",
       "gh:ShoYamanishi/SDFont",
