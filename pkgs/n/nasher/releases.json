@@ -14,10 +14,120 @@
   "releases": [
     {
       "v": "1.1.3@2765e32047e25bb5ca3284a3dfba48bf93881ecf^",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file",
-      "p": []
+      "r": [
+        "neverwinter >= 1.7.3",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0",
+        "regex >= 0.25.0",
+        "glob #ab6087b",
+        "checksums"
+      ]
+    },
+    {
+      "v": "1.1.2@0900db2ffe66f965b07d0ccac96b177635f2328a",
+      "r": [
+        "neverwinter >= 1.7.3",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0",
+        "regex >= 0.25.0",
+        "glob #ab6087b",
+        "checksums"
+      ]
+    },
+    {
+      "v": "1.1.1@b0ae8968119487d114077acbfa41044d6684d4e5",
+      "r": [
+        "neverwinter >= 1.7.3",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0",
+        "glob #head",
+        "checksums"
+      ]
+    },
+    {
+      "v": "1.1.0@b78c593681a1b258192454a12f5e90ab6a78dc88",
+      "r": [
+        "neverwinter >= 1.7.3",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0",
+        "glob #head",
+        "checksums"
+      ]
+    },
+    {
+      "v": "1.0.0@cefdb23d88d9f9900e4c4cc3f6a12a4ec55a74d8",
+      "r": [
+        "neverwinter >= 1.7.3",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0",
+        "glob #head",
+        "checksums"
+      ]
+    },
+    {
+      "v": "0.22.0@7894f6008f0fba71a57ad48987a46dbf9ccf58eb",
+      "r": [
+        "neverwinter >= 1.7.3",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0",
+        "glob #head",
+        "checksums"
+      ]
+    },
+    {
+      "v": "0.21.0@f5b74397b5ba4190318963b5dfffd4f92c467a80",
+      "r": [
+        "neverwinter >= 1.6.3",
+        "glob >= 0.11.1",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0"
+      ],
+      "m": "1.6.14"
+    },
+    {
+      "v": "0.20.2@4065ab4effee6804eaeb0639fcf3384683ed9de5",
+      "r": [
+        "neverwinter >= 1.6.3",
+        "glob >= 0.11.1",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.20.1@a872d9a6b7f4d992212fd57419ff0918f9f6c483",
+      "r": [
+        "neverwinter >= 1.5.5",
+        "glob >= 0.11.1",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.20.0@b7c124513fdaa847c951f64f00ccd9a1c2463834",
+      "r": [
+        "neverwinter >= 1.5.5",
+        "glob >= 0.11.1",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.19.0@61b49927f1804db334c0a2f96603c614d558fcec",
+      "r": [
+        "neverwinter >= 1.5.5",
+        "glob >= 0.11.1",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0"
+      ]
+    },
+    {
+      "v": "0.18.2@836e6084def3a4dc61ffde8f8eed509a17789421",
+      "r": [
+        "neverwinter >= 1.5.5",
+        "glob >= 0.11.1",
+        "nwnt >= 1.3.3",
+        "blarg >= 0.1.0"
+      ]
     },
     {
       "v": "0.18.1@94df06a7aa97487c7e3059709f2aacd8b8035281",
@@ -531,7 +641,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-03T15:48:44Z",
+  "generatedAt": "2026-10-03T21:32:42Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -573,20 +683,20 @@
   },
   "allDeps": {
     "packages": [
-      "blarg > 0.17.4 & <= 0.18.1",
-      "checksums <= 0.18.1",
-      "db_connector <= 0.18.1",
-      "docopt <= 0.18.1",
-      "glob <= 0.18.1",
-      "graphemes <= 0.18.1",
-      "neverwinter <= 0.18.1",
-      "nwnt > 0.13.0 & <= 0.18.1",
-      "regex <= 0.18.1",
-      "segmentation <= 0.18.1",
-      "taskpools <= 0.18.1",
-      "unicodedb <= 0.18.1",
-      "unicodeplus <= 0.18.1",
-      "unittest2 <= 0.18.1"
+      "blarg > 0.17.4",
+      "checksums",
+      "db_connector",
+      "docopt",
+      "glob",
+      "graphemes",
+      "neverwinter",
+      "nwnt > 0.13.0",
+      "regex",
+      "segmentation",
+      "taskpools",
+      "unicodedb",
+      "unicodeplus",
+      "unittest2"
     ],
     "urls": [],
     "unresolved": []

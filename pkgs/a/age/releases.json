@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "age",
   "fqn": "age.attakei.github.com",
-  "current": "fe91b04c1d6e842e1ed3c776f3bc28bd145399e3",
+  "current": "0a09618278a8c92a930ca21c8965038c24650962",
   "author": "Kazuya Takei",
   "description": "Portable version-bumping tool",
   "license": "Apache-2.0",
@@ -16,6 +16,16 @@
     "age"
   ],
   "releases": [
+    {
+      "v": "0.11.0@0a09618278a8c92a930ca21c8965038c24650962^",
+      "r": [
+        "cligen >= 1.5.0",
+        "mustache >= 0.4.3",
+        "parsetoml >= 0.7.2",
+        "regex >= 0.26.3",
+        "semver >= 1.2.0"
+      ]
+    },
     {
       "v": "0.10.2@972e0f2702354747c6b748ed304a15b9aa82a1a7",
       "r": [
@@ -145,7 +155,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-03T15:42:12Z",
+  "generatedAt": "2026-10-03T20:36:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -156,6 +166,7 @@
       "v0.10.0",
       "v0.10.1",
       "v0.10.2",
+      "v0.11.0",
       "v0.2.0",
       "v0.2.1",
       "v0.3.0",
@@ -172,6 +183,7 @@
       "v0.10.0": "0.10.0",
       "v0.10.1": "0.10.1",
       "v0.10.2": "0.10.2",
+      "v0.11.0": "0.11.0",
       "v0.2.0": "0.2.0",
       "v0.2.1": "0.2.1",
       "v0.3.0": "0.3.0",
@@ -183,14 +195,19 @@
       "v0.8.0": "0.8.0",
       "v0.9.0": "0.9.0"
     },
-    "latest": "v0.10.2"
+    "latest": "v0.11.0"
   },
   "allDeps": {
     "packages": [
       "cligen > 0.7.0",
+      "graphemes > 0.10.2",
       "mustache > 0.7.0",
       "parsetoml > 0.7.0",
-      "semver > 0.7.0"
+      "regex > 0.10.2",
+      "segmentation > 0.10.2",
+      "semver > 0.7.0",
+      "unicodedb > 0.10.2",
+      "unicodeplus > 0.10.2"
     ],
     "urls": [],
     "unresolved": []
