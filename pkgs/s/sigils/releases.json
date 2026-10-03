@@ -235,6 +235,31 @@
       }
     },
     {
+      "v": "0.27.1@74eb8731df74f088bfc91624b015e6ec7733e183",
+      "r": [
+        "variant >= 0.2.12",
+        "threading >= 0.2.1",
+        "stack_strings"
+      ],
+      "f": {
+        "chronos": [
+          "chronos >= 4.2.0"
+        ],
+        "ipc": [
+          "cborious"
+        ],
+        "mummy": [
+          "mummy"
+        ],
+        "siwin": [
+          "gh:elcritch/siwin #refactor-window-events"
+        ],
+        "cbor": [
+          "cborious"
+        ]
+      }
+    },
+    {
       "v": "0.27.0@51a392b4209cd0c4cc017387dd4a7d0ad073b315",
       "r": [
         "variant >= 0.2.12",
@@ -1058,6 +1083,16 @@
       "m": "2.0.12"
     },
     {
+      "v": "0.8.4@5bfc55d11313e7448f64bdc7a2893dc3f3e8d8c0",
+      "r": [
+        "variant >= 0.2.12",
+        "threading #master",
+        "stack_strings",
+        "patty >= 0.3.4"
+      ],
+      "m": "2.0.12"
+    },
+    {
       "v": "0.8.2@64fe5dc30d50b21e535983a41b7acb794441382f",
       "r": [
         "variant >= 0.2.12",
@@ -1092,7 +1127,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-02T21:57:46Z",
+  "generatedAt": "2026-10-03T03:43:45Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -1129,47 +1164,47 @@
       "bearssl > 0.25.3",
       "bigints > 0.16.0",
       "bignum > 0.16.0",
-      "bumpy > 0.27.0",
+      "bumpy > 0.27.1",
       "cbor > 0.16.0",
       "cborious > 0.16.0",
-      "chroma > 0.27.0",
+      "chroma > 0.27.1",
       "chronos > 0.25.3",
-      "classy > 0.27.0",
+      "classy > 0.27.1",
       "cligen > 0.25.3 & <= 0.27.0",
       "crunchy > 0.18.2",
       "fastrpc > 0.25.3 & <= 0.27.0",
-      "flatty > 0.27.0",
-      "fusion > 0.27.0",
+      "flatty > 0.27.1",
+      "fusion > 0.27.1",
       "gmp > 0.16.0",
       "httputils > 0.25.3",
-      "jnim > 0.27.0",
+      "jnim > 0.27.1",
       "mcu_utils > 0.25.3 & <= 0.27.0",
-      "mddoc > 0.27.0",
+      "mddoc > 0.27.1",
       "msgpack4nim > 0.16.0",
       "mummy > 0.18.2",
-      "nimboost > 0.27.0",
-      "nimfp > 0.27.0",
-      "nimgl > 0.27.0",
+      "nimboost > 0.27.1",
+      "nimfp > 0.27.1",
+      "nimgl > 0.27.1",
       "nimsimd > 0.18.2",
-      "opengl > 0.27.0",
+      "opengl > 0.27.1",
       "patty > 0.7.2",
       "persistent_enums > 0.25.3 & <= 0.27.0",
-      "pixie > 0.27.0",
+      "pixie > 0.27.1",
       "progress > 0.25.3 & <= 0.27.0",
       "results > 0.16.0",
-      "sdl2 > 0.27.0",
-      "shady > 0.27.0",
-      "siwin > 0.27.0",
+      "sdl2 > 0.27.1",
+      "shady > 0.27.1",
+      "siwin > 0.27.1",
       "stack_strings > 0.8.2",
       "stew > 0.16.0",
       "threading > 0.7.2",
       "unittest2 > 0.16.0",
       "variant > 0.7.2",
-      "vmath > 0.27.0",
+      "vmath > 0.27.1",
       "webby > 0.18.2",
-      "winim > 0.27.0",
-      "with > 0.27.0",
-      "x11 > 0.27.0",
+      "winim > 0.27.1",
+      "with > 0.27.1",
+      "x11 > 0.27.1",
       "zippy > 0.18.2"
     ],
     "urls": [],
@@ -1177,6 +1212,7 @@
       "gh:ehmry/nim-bigints",
       "gh:elcritch/mcu_utils",
       "gh:elcritch/nim-cbor-serialization",
+      "gh:elcritch/siwin",
       "gh:planetis-m/vulkan",
       "gh:yglukhov/android"
     ]

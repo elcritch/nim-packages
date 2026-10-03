@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "zmq",
   "fqn": "nim-zmq.nim-lang.github.com",
-  "current": "736363079edfcd9668d8f88a0f56837a692648fb",
+  "current": "a56af54f599337a8f5d4934fcff7554c74f77854",
   "author": "Andreas Rumpf",
   "description": "ZeroMQ wrapper",
   "license": "MIT",
@@ -72,7 +72,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-02T21:59:39Z",
+  "generatedAt": "2026-10-03T03:46:32Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
