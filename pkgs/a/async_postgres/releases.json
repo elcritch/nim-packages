@@ -2,42 +2,25 @@
   "cv": 19,
   "name": "async_postgres",
   "fqn": "async-postgres.fox0430.github.com",
-  "current": "80f1b86dea8cce0ebf2a9707de55315fd72c5eee",
+  "current": "f343a31b19b95dd97e6b6af918cc7aea0e43f030",
   "author": "fox0430",
-  "description": "Async PostgreSQL client library",
+  "description": "Async PostgreSQL client",
   "license": "MIT",
-  "nim": "2.2.0",
+  "nim": "2.2.4",
   "releases": [
     {
-      "v": "0.1.0@a613a8dc1532d12d71e49cc7d13422d8dcbe2016",
+      "v": "0.4.0@f343a31b19b95dd97e6b6af918cc7aea0e43f030^",
       "r": [
-        "chronos >= 4.0.0",
-        "nimcrypto >= 0.6.0",
-        "checksums >= 0.2.0"
+        "nimcrypto >= 0.7.3",
+        "checksums >= 0.2.2",
+        "unicodedb >= 0.13.2",
+        "normalize >= 0.9.0"
       ]
-    },
-    {
-      "v": "0.2.0@df334e06f669e4ae3116d3f6b1d6f45d0f803523",
-      "r": [
-        "nimcrypto >= 0.6.0",
-        "checksums >= 0.2.0"
-      ],
-      "d": "Async PostgreSQL client",
-      "m": "2.2.4"
-    },
-    {
-      "v": "0.3.0@42d13f0fa8a36022f9f79d9cdc07c424b991af20",
-      "r": [
-        "nimcrypto >= 0.6.0",
-        "checksums >= 0.2.0"
-      ],
-      "d": "Async PostgreSQL client",
-      "m": "2.2.4"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-03T03:33:33Z",
+  "generatedAt": "2026-10-03T11:05:02Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -45,24 +28,22 @@
     },
     "releases": [
       "v0.2.0",
-      "v0.3.0"
+      "v0.3.0",
+      "v0.4.0"
     ],
     "tagVersions": {
       "v0.2.0": "0.2.0",
-      "v0.3.0": "0.3.0"
+      "v0.3.0": "0.3.0",
+      "v0.4.0": "0.4.0"
     },
-    "latest": "v0.3.0"
+    "latest": "v0.4.0"
   },
   "allDeps": {
     "packages": [
-      "bearssl <= 0.1.0",
       "checksums",
-      "chronos <= 0.1.0",
-      "httputils <= 0.1.0",
       "nimcrypto",
-      "results <= 0.1.0",
-      "stew <= 0.1.0",
-      "unittest2 <= 0.1.0"
+      "normalize",
+      "unicodedb"
     ],
     "urls": [],
     "unresolved": []

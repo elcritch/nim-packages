@@ -6,18 +6,18 @@
   "author": "bung87",
   "description": "A new awesome nimble package",
   "license": "MIT",
-  "nim": "1.1.1",
+  "nim": "1.0.2",
   "srcDir": "src",
   "backend": "js",
   "releases": [
     {
-      "v": "0.1.0@32c207c6c669b9a79cd89b9fb58c82fa1ec55087",
+      "v": "0.1.0@92c126840852ad3c047049b41c12cd16012c72b8",
       "r": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-03T03:35:36Z",
+  "generatedAt": "2026-10-03T11:06:29Z",
   "allDeps": {
     "packages": [],
     "urls": [],
