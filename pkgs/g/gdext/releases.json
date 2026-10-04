@@ -173,12 +173,6 @@
       "E": "ambiguous nimble file"
     },
     {
-      "v": "0.2.6@459b427e965fb66d16a4a9f10e1c79cac7129402",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "ambiguous nimble file"
-    },
-    {
       "v": "0.2.5@1d2a8b622debbbf715a57f450251065b09249b98",
       "r": [],
       "S": "HasUnknownNimbleFile",
@@ -217,7 +211,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-03T21:04:22Z",
+  "generatedAt": "2026-10-04T04:02:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

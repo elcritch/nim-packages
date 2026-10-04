@@ -1,1 +1,1 @@
-{"v":"#head@0a09618278a8c92a930ca21c8965038c24650962","r":["cligen >= 1.5.0","mustache >= 0.4.3","parsetoml >= 0.7.2","regex >= 0.26.3","semver >= 1.2.0"]}
+{"v":"#head@d981b26c00df5748e3bfa2eec0b5b89cd2bf4eed","r":["cligen >= 1.5.0","mustache >= 0.4.3","parsetoml >= 0.7.2","regex >= 0.26.3","semver >= 1.2.0"],"g":true}

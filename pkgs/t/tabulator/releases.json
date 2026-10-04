@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "tabulator",
   "fqn": "nim-tabulator.erykjj.github.com",
-  "current": "2909bee55418e80d8a35aa007a626f72f59b0e96",
+  "current": "ee2c65b6e00e9c7d2d26f990274146c9b66758bc",
   "author": "Eryk J.",
   "description": "Nim library for generating plain-text tables (with Unicode and ANSI code support)",
   "license": "MIT",
@@ -17,6 +17,10 @@
   ],
   "releases": [
     {
+      "v": "1.0.0@d62f66d38ce1efe27d11020809328ffe192a8c11",
+      "r": []
+    },
+    {
       "v": "0.7.0@2e7edc58aadc4dd3c47e66a73f78adc1c57c3dc1",
       "r": []
     },
@@ -29,7 +33,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-03T22:02:42Z",
+  "generatedAt": "2026-10-04T04:09:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -37,13 +41,15 @@
     },
     "releases": [
       "v0.5.0",
-      "v0.7.0"
+      "v0.7.0",
+      "v1.0.0"
     ],
     "tagVersions": {
       "v0.5.0": "0.5.0",
-      "v0.7.0": "0.7.0"
+      "v0.7.0": "0.7.0",
+      "v1.0.0": "1.0.0"
     },
-    "latest": "v0.7.0"
+    "latest": "v1.0.0"
   },
   "allDeps": {
     "packages": [],

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "hpack",
   "fqn": "nim-hpack.nitely.github.com",
-  "current": "49d6e43319bdcf344b4430aaf971afdedf4e9ea4",
+  "current": "88a8988e8f8cd2fb342bb1cd682e5bb5794971eb",
   "author": "Esteban C Borsani (@nitely)",
   "description": "HPACK (Header Compression for HTTP/2)",
   "license": "MIT",
@@ -15,7 +15,7 @@
   ],
   "releases": [
     {
-      "v": "0.5.0@49d6e43319bdcf344b4430aaf971afdedf4e9ea4^",
+      "v": "0.5.0@49d6e43319bdcf344b4430aaf971afdedf4e9ea4",
       "r": []
     },
     {
@@ -100,7 +100,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-03T21:18:18Z",
+  "generatedAt": "2026-10-04T04:03:22Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
