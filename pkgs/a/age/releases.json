@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "age",
   "fqn": "age.attakei.github.com",
-  "current": "95495b923bca431f406d81e8220f0686e1aac9fa",
+  "current": "e9bc73f9b74fc8479db2fcf8c07402fe9110594e",
   "author": "Kazuya Takei",
   "description": "Portable version-bumping tool",
   "license": "Apache-2.0",
@@ -155,7 +155,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-04T16:25:34Z",
+  "generatedAt": "2026-10-04T20:53:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
