@@ -657,8 +657,17 @@
     },
     {
       "v": "1.0.2@8aa66cea7dca7b28f50d0c8531f0065c0702a821",
-      "r": [],
-      "x": [],
+      "r": [
+        "chronos >= 3.0.1",
+        "npeg",
+        "rx_nim",
+        "zippy"
+      ],
+      "x": [
+        "tests",
+        "examples"
+      ],
+      "m": "1.2.0",
       "k": [],
       "o": {}
     },
@@ -697,7 +706,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-04T04:08:13Z",
+  "generatedAt": "2026-10-04T11:59:08Z",
   "allDeps": {
     "packages": [
       "asynctest > 1.0.12 & <= 1.0.18",

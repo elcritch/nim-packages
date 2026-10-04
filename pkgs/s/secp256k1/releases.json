@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "secp256k1",
   "fqn": "nim-secp256k1.status-im.github.com",
-  "current": "d8f1288b7c72f00be5fc2c5ea72bf5cae1eafb15",
+  "current": "93749407888a70dcd984c0f08d3ca4ed9e41ad7f",
   "author": "Zahary Karadjov",
   "description": "A wrapper for the libsecp256k1 C library",
   "license": "Apache2",
@@ -116,11 +116,25 @@
         "vendor"
       ],
       "m": "1.6.0"
+    },
+    {
+      "v": "0.7.0.8.0@93749407888a70dcd984c0f08d3ca4ed9e41ad7f^",
+      "r": [
+        "nimcrypto >= 0.7.0",
+        "results >= 0.5.0",
+        "stew >= 0.5.0"
+      ],
+      "a": "Status Research & Development GmbH",
+      "l": "Apache License 2.0",
+      "i": [
+        "vendor"
+      ],
+      "m": "1.6.18"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:35:58Z",
+  "generatedAt": "2026-10-04T11:59:11Z",
   "allDeps": {
     "packages": [
       "nimcrypto > 0.1.2",

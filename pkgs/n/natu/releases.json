@@ -35,12 +35,6 @@
       ]
     },
     {
-      "v": "0.2.0@9a084328391e7e733e147b318b542a7bc9c28235",
-      "r": [
-        "trick >= 0.1.6"
-      ]
-    },
-    {
       "v": "0.1.2@0125215d00d3571f2bac60eef0988700aabeffb0",
       "r": [],
       "m": "1.2.0",
@@ -61,7 +55,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-04T04:05:01Z",
+  "generatedAt": "2026-10-04T11:54:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
