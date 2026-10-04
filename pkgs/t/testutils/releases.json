@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "testutils",
   "fqn": "nim-testutils.status-im.github.com",
-  "current": "94e9a5ef199a08ba0085691eafafee73cce215f6",
+  "current": "617f418c129cd47c041d41434674e2bc29744975",
   "author": "Status Research & Development GmbH",
   "description": "A unittest framework",
   "license": "Apache License 2.0",
@@ -18,7 +18,15 @@
   ],
   "releases": [
     {
-      "v": "0.8.4@94e9a5ef199a08ba0085691eafafee73cce215f6^",
+      "v": "0.8.5@617f418c129cd47c041d41434674e2bc29744975^",
+      "r": [
+        "results >= 0.5.0",
+        "stew >= 0.5.0",
+        "unittest2 >= 0.2.0"
+      ]
+    },
+    {
+      "v": "0.8.4@94e9a5ef199a08ba0085691eafafee73cce215f6",
       "r": [
         "results >= 0.5.0",
         "stew >= 0.5.0",
@@ -165,7 +173,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-04T04:09:30Z",
+  "generatedAt": "2026-10-04T16:33:27Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -183,7 +191,8 @@
       "v0.8.1",
       "v0.8.2",
       "v0.8.3",
-      "v0.8.4"
+      "v0.8.4",
+      "v0.8.5"
     ],
     "tagVersions": {
       "v0.5.2": "0.5.2",
@@ -192,9 +201,10 @@
       "v0.8.1": "0.8.1",
       "v0.8.2": "0.8.2",
       "v0.8.3": "0.8.3",
-      "v0.8.4": "0.8.4"
+      "v0.8.4": "0.8.4",
+      "v0.8.5": "0.8.5"
     },
-    "latest": "v0.8.4"
+    "latest": "v0.8.5"
   },
   "allDeps": {
     "packages": [

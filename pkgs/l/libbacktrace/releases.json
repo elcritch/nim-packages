@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "libbacktrace",
   "fqn": "nim-libbacktrace.status-im.github.com",
-  "current": "95f1bbfe696b4b5c768f7cc52c2597cd782f1e7d",
+  "current": "c49596cf009634aab612555783e343a589707a4c",
   "author": "Status Research & Development GmbH",
   "description": "Nim wrapper for libbacktrace",
   "license": "MIT or Apache License 2.0",
@@ -26,7 +26,13 @@
   ],
   "releases": [
     {
-      "v": "0.2.0@95f1bbfe696b4b5c768f7cc52c2597cd782f1e7d^",
+      "v": "0.2.1@c49596cf009634aab612555783e343a589707a4c^",
+      "r": [],
+      "i": [],
+      "j": []
+    },
+    {
+      "v": "0.2.0@95f1bbfe696b4b5c768f7cc52c2597cd782f1e7d",
       "r": [],
       "i": [],
       "j": []
@@ -139,7 +145,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-04T11:53:29Z",
+  "generatedAt": "2026-10-04T16:29:05Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -147,13 +153,17 @@
     },
     "releases": [
       "v0.0.9",
-      "v0.1.0"
+      "v0.1.0",
+      "v0.2.0",
+      "v0.2.1"
     ],
     "tagVersions": {
       "v0.0.9": "0.0.9",
-      "v0.1.0": "0.1.0"
+      "v0.1.0": "0.1.0",
+      "v0.2.0": "0.2.0",
+      "v0.2.1": "0.2.1"
     },
-    "latest": "v0.1.0"
+    "latest": "v0.2.1"
   },
   "allDeps": {
     "packages": [],
