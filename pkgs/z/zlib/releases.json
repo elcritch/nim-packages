@@ -2,38 +2,69 @@
   "cv": 19,
   "name": "zlib",
   "fqn": "nim-zlib.status-im.github.com",
-  "current": "c9e64574438e69f3dd9b64da048f9fffc89e2809",
+  "current": "7b1d6ed291df9fddcbb5cf16c1968c2b8c6e5a90",
   "author": "Status Research & Development GmbH",
   "description": "zlib wrapper in nim",
   "license": "Apache License 2.0",
-  "nim": "1.6.0",
+  "nim": "1.6.16",
   "skipDirs": [
     "tests"
   ],
   "releases": [
     {
+      "v": "0.3.0@7b1d6ed291df9fddcbb5cf16c1968c2b8c6e5a90^",
+      "r": [
+        "results >= 0.5.1"
+      ]
+    },
+    {
+      "v": "0.2.1@439a446a7e807936e508f544426db6280d33152e",
+      "r": [
+        "stew >= 0.1.0",
+        "results >= 0.5.1"
+      ],
+      "m": "1.6.0"
+    },
+    {
       "v": "0.2.0@90af6756ddc45f8117ae206a94046d3042f955b5",
       "r": [
         "stew >= 0.1.0",
         "results >= 0.5.1"
-      ]
+      ],
+      "m": "1.6.0"
     },
     {
       "v": "0.1.0@62b75dc5f85ca4b828094490217dababdfdc1898",
       "r": [
         "stew >= 0.1.0",
         "results >= 0.5.1"
-      ]
+      ],
+      "m": "1.6.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T19:10:29Z",
+  "generatedAt": "2026-10-05T23:58:39Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.2.1",
+      "v0.3.0"
+    ],
+    "tagVersions": {
+      "v0.2.1": "0.2.1",
+      "v0.3.0": "0.3.0"
+    },
+    "latest": "v0.3.0"
+  },
   "allDeps": {
     "packages": [
       "results",
-      "stew",
-      "unittest2"
+      "stew <= 0.2.1",
+      "unittest2 <= 0.2.1"
     ],
     "urls": [],
     "unresolved": []

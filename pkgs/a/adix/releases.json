@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "adix",
   "fqn": "adix.c-blake.github.com",
-  "current": "8a69ad140285ec973f3cc5427f76f3cd39af5cf4",
+  "current": "a28b36de519203deca6a8bdd59c1736f67289691",
   "author": "Charles Blake",
   "description": "An Adaptive Index Library for Nim",
   "license": "MIT/ISC",
@@ -315,7 +315,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-05T13:30:22Z",
+  "generatedAt": "2026-10-05T23:44:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

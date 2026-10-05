@@ -2,43 +2,60 @@
   "cv": 19,
   "name": "unittest2",
   "fqn": "nim-unittest2.status-im.github.com",
-  "current": "b982a2f3a4f2a615d4fa90845e4f72d0f1206504",
+  "current": "19701632b4f287b3012a5e435a9d829b0f66c605",
   "author": "Status Research & Development GmbH",
   "description": "unittest fork with support for parallel test execution",
   "license": "MIT",
-  "nim": "1.6.0",
+  "nim": "2.0.6",
   "releases": [
     {
-      "v": "0.2.5@26f2ef3ae0ec72a2a75bfe557e02e88f6a31c189",
+      "v": "0.3.0@19701632b4f287b3012a5e435a9d829b0f66c605^",
       "r": []
+    },
+    {
+      "v": "0.2.6@299d1db9f758e24cf9bccd85f40a40fb1c17f480",
+      "r": [],
+      "m": "1.6.0"
+    },
+    {
+      "v": "0.2.5@26f2ef3ae0ec72a2a75bfe557e02e88f6a31c189",
+      "r": [],
+      "m": "1.6.0"
     },
     {
       "v": "0.2.4@8b51e99b4a57fcfb31689230e75595f024543024",
-      "r": []
+      "r": [],
+      "m": "1.6.0"
     },
     {
       "v": "0.2.3@845b6af28b9f68f02d320e03ad18eccccea7ddb9",
-      "r": []
+      "r": [],
+      "m": "1.6.0"
     },
     {
       "v": "0.2.2@7a7e93e854cb2e7ada458a15c280ed3104aca0de",
-      "r": []
+      "r": [],
+      "m": "1.6.0"
     },
     {
       "v": "0.2.1@262b697f38d6b6f1e7462d3b3ab81d79b894e336",
-      "r": []
+      "r": [],
+      "m": "1.6.0"
     },
     {
       "v": "0.2.0@333e74fa2dbb1c767898873138ba1567c524da47",
-      "r": []
+      "r": [],
+      "m": "1.6.0"
     },
     {
       "v": "0.1.0@2300fa9924a76e6c96bc4ea79d043e3a0f27120c",
-      "r": []
+      "r": [],
+      "m": "1.6.0"
     },
     {
       "v": "0.0.9@299bc9a5741f1cd34e5014187e66d904b2f00b37",
-      "r": []
+      "r": [],
+      "m": "1.6.0"
     },
     {
       "v": "0.0.8@0b44f30d9b9792b7bf52467837a4033a49f92675",
@@ -88,7 +105,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-05T13:41:29Z",
+  "generatedAt": "2026-10-05T23:57:19Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -97,14 +114,18 @@
     "releases": [
       "v0.0.6",
       "v0.2.4",
-      "v0.2.5"
+      "v0.2.5",
+      "v0.2.6",
+      "v0.3.0"
     ],
     "tagVersions": {
       "v0.0.6": "0.0.6",
       "v0.2.4": "0.2.4",
-      "v0.2.5": "0.2.5"
+      "v0.2.5": "0.2.5",
+      "v0.2.6": "0.2.6",
+      "v0.3.0": "0.3.0"
     },
-    "latest": "v0.2.5"
+    "latest": "v0.3.0"
   },
   "allDeps": {
     "packages": [],

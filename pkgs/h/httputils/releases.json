@@ -2,23 +2,32 @@
   "cv": 19,
   "name": "httputils",
   "fqn": "nim-http-utils.status-im.github.com",
-  "current": "dabe04d7473062872d100921c08aba3ede11a360",
+  "current": "97eafdb8852c52beeedcf49e1c8d16e4b559d331",
   "author": "Status Research & Development GmbH",
   "description": "HTTP request/response helpers & parsing procedures",
   "license": "Apache License 2.0",
-  "nim": "1.6.18",
+  "nim": "2.0.14",
   "skipDirs": [
     "tests",
     "Nim"
   ],
   "releases": [
     {
+      "v": "0.6.0@97eafdb8852c52beeedcf49e1c8d16e4b559d331^",
+      "r": [
+        "results >= 0.5.0",
+        "stew >= 0.6.0",
+        "unittest2 >= 0.3.0"
+      ]
+    },
+    {
       "v": "0.5.1@7d771ca337bd3bf563f6834569d2a06085ac21f1",
       "r": [
         "results >= 0.5.0",
         "stew >= 0.5.0",
         "unittest2 >= 0.2.0"
-      ]
+      ],
+      "m": "1.6.18"
     },
     {
       "v": "0.5.0@1e11ab929058e43c825d92006660c84caea9b1c0",
@@ -77,7 +86,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-05T13:34:26Z",
+  "generatedAt": "2026-10-05T23:49:13Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -87,15 +96,17 @@
       "v0.4.1",
       "v0.4.2",
       "v0.4.3",
-      "v0.5.1"
+      "v0.5.1",
+      "v0.6.0"
     ],
     "tagVersions": {
       "v0.4.1": "0.4.1",
       "v0.4.2": "0.4.2",
       "v0.4.3": "0.4.3",
-      "v0.5.1": "0.5.1"
+      "v0.5.1": "0.5.1",
+      "v0.6.0": "0.6.0"
     },
-    "latest": "v0.5.1"
+    "latest": "v0.6.0"
   },
   "allDeps": {
     "packages": [

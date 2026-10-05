@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nat_traversal",
   "fqn": "nim-nat-traversal.status-im.github.com",
-  "current": "860e18c37667b5dd005b94c63264560c35d88004",
+  "current": "61528158af1bca8943e83174a3e615a0a10b1826",
   "author": "Status Research & Development GmbH",
   "description": "miniupnp client wrapper",
   "license": "Apache License 2.0 or MIT",
@@ -10,17 +10,31 @@
   "skipDirs": [
     "examples"
   ],
+  "installDirs": [
+    "vendor"
+  ],
   "releases": [
     {
       "v": "0.0.1@a7ce8970b1460f7a4c5821c90d9e0fccfee25cbd",
       "r": [
         "results"
-      ]
+      ],
+      "i": []
+    },
+    {
+      "v": "0.1.0@61528158af1bca8943e83174a3e615a0a10b1826^",
+      "r": [
+        "results"
+      ],
+      "h": true,
+      "d": "miniupnpc and libnatpmp wrapper",
+      "m": "1.6.16",
+      "x": []
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:31:07Z",
+  "generatedAt": "2026-10-05T23:51:17Z",
   "allDeps": {
     "packages": [
       "results"

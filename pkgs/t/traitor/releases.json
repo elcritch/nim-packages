@@ -27,6 +27,12 @@
       ]
     },
     {
+      "v": "0.2.16@f8a4a7fddcd96b360c8c94bc5219bb7b1f89f961",
+      "r": [
+        "micros >= 0.1.5"
+      ]
+    },
+    {
       "v": "0.2.15@c1f9a4a16b7ec4752492e6351a77dd8703ef5cbc",
       "r": [
         "micros >= 0.1.5"
@@ -124,7 +130,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-05T13:41:12Z",
+  "generatedAt": "2026-10-05T23:57:02Z",
   "allDeps": {
     "packages": [
       "micros > 0.1.0"

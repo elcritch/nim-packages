@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "zxcvbn",
   "fqn": "nim-zxcvbn.status-im.github.com",
-  "current": "d827fdc9968a4f06bba587dc38df2b20399f8cf5",
+  "current": "2dcdb1760bb1457d8bdd8cbe14c757696cd50ab5",
   "author": "Status Research & Development GmbH",
   "description": "Nim bindings for the zxcvbn-c password strenght estimator",
   "license": "Apache License 2.0",
@@ -16,17 +16,23 @@
       "r": [
         "testutils"
       ]
+    },
+    {
+      "v": "0.2.0@2dcdb1760bb1457d8bdd8cbe14c757696cd50ab5^",
+      "r": [],
+      "d": "Nim bindings for the zxcvbn-c password strength estimator",
+      "m": "1.6.16"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:39:43Z",
+  "generatedAt": "2026-10-05T23:58:41Z",
   "allDeps": {
     "packages": [
-      "results",
-      "stew",
-      "testutils",
-      "unittest2"
+      "results <= 0.1.0",
+      "stew <= 0.1.0",
+      "testutils <= 0.1.0",
+      "unittest2 <= 0.1.0"
     ],
     "urls": [],
     "unresolved": []

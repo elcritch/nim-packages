@@ -2,21 +2,29 @@
   "cv": 19,
   "name": "faststreams",
   "fqn": "nim-faststreams.status-im.github.com",
-  "current": "ad3f69fbb97025dabadc01a01b5c42da04dd564d",
+  "current": "5bdef9939b483435a61aa91a6422c1a9852127b4",
   "author": "Status Research & Development GmbH",
   "description": "Nearly zero-overhead input/output streams for Nim",
   "license": "Apache License 2.0",
-  "nim": "1.6.18",
+  "nim": "2.0.14",
   "skipDirs": [
     "tests"
   ],
   "releases": [
     {
+      "v": "0.6.0@5bdef9939b483435a61aa91a6422c1a9852127b4^",
+      "r": [
+        "stew >= 0.6.0",
+        "unittest2 >= 0.3.0"
+      ]
+    },
+    {
       "v": "0.5.2@059bc2f52546ac14b583639c33372c14b1d46fa3",
       "r": [
         "stew >= 0.5.0",
         "unittest2 >= 0.2.5"
-      ]
+      ],
+      "m": "1.6.18"
     },
     {
       "v": "0.5.1@50889cd16ec8771106cdd0eeea460039e8571e06",
@@ -61,7 +69,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-05T13:33:13Z",
+  "generatedAt": "2026-10-05T23:47:43Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -72,16 +80,18 @@
       "v0.4.1",
       "v0.5.0",
       "v0.5.1",
-      "v0.5.2"
+      "v0.5.2",
+      "v0.6.0"
     ],
     "tagVersions": {
       "v0.3.0": "0.3.0",
       "v0.4.1": "0.4.1",
       "v0.5.0": "0.5.0",
       "v0.5.1": "0.5.1",
-      "v0.5.2": "0.5.2"
+      "v0.5.2": "0.5.2",
+      "v0.6.0": "0.6.0"
     },
-    "latest": "v0.5.2"
+    "latest": "v0.6.0"
   },
   "allDeps": {
     "packages": [
