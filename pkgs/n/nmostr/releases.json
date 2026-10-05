@@ -37,17 +37,6 @@
       ]
     },
     {
-      "v": "0.0.15@4cd310dc1f5f0098249b3fdc93524fb92aabc24c",
-      "r": [
-        "jsony >= 1.1 & < 2.0",
-        "secp256k1 >= 0.6.0.3.1",
-        "stew",
-        "crunchy >= 0.1.8",
-        "weave >= 0.4.10",
-        "gh:alaviss/union >= 0.1.5"
-      ]
-    },
-    {
       "v": "0.0.14@89a66cca9f118079e67fa6bc3b85c75877d52480",
       "r": [
         "jsony >= 1.1 & < 2.0",
@@ -575,7 +564,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-04T21:00:00Z",
+  "generatedAt": "2026-10-05T03:51:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -594,7 +583,7 @@
       "nimsimd",
       "results",
       "secp256k1 > 0.0.6",
-      "stack_strings > 0.0.15",
+      "stack_strings > 0.0.14",
       "stew",
       "synthesis > 0.0.9",
       "unittest2",

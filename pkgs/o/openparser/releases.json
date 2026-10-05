@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "openparser",
   "fqn": "openparser.openpeeps.github.com",
-  "current": "6a23239f9ce18aa9a3c7a0e9a75e5228af38429c",
+  "current": "8981833ade0169f0a491bf8bf5c8ed088e1de468",
   "author": "George Lemon",
   "description": "Tiny parsers and serializers for JSON, YAML, XML, TOML, CSV, BSON, Plist (XML+Binary), RSS, QR codes and more",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.3.8@6a23239f9ce18aa9a3c7a0e9a75e5228af38429c^",
+      "v": "0.3.8@6a23239f9ce18aa9a3c7a0e9a75e5228af38429c",
       "r": [
         "nimsimd >= 1.3.2",
         "error://nimcypher >= 0.2.0"
@@ -101,7 +101,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-04T21:00:23Z",
+  "generatedAt": "2026-10-05T03:51:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
