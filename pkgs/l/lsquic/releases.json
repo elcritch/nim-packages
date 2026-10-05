@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "lsquic",
   "fqn": "nim-lsquic.vacp2p.github.com",
-  "current": "bfefc15de7ebf7d115333fb1d79d30b432c366f5",
+  "current": "7e07a5e63ab8e9e0eed9c500b344af38041713c8",
   "author": "Status Research & Development GmbH",
   "description": "Nim wrapper around the lsquic library",
   "license": "MIT",
@@ -292,7 +292,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-05T03:49:34Z",
+  "generatedAt": "2026-10-05T13:35:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

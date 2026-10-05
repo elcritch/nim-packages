@@ -60,6 +60,31 @@
       }
     },
     {
+      "v": "0.30.0@8d7f00edae632ffe8be88cd2d3dfac6c4d651559",
+      "r": [
+        "variant >= 0.2.12",
+        "threading >= 0.2.1",
+        "stack_strings"
+      ],
+      "f": {
+        "chronos": [
+          "chronos >= 4.2.0"
+        ],
+        "ipc": [
+          "cborious"
+        ],
+        "mummy": [
+          "mummy"
+        ],
+        "siwin": [
+          "siwin"
+        ],
+        "cbor": [
+          "cborious"
+        ]
+      }
+    },
+    {
       "v": "0.28.2@6c4b63e3606898f086539b0fa3d2c8f4336e336f",
       "r": [
         "variant >= 0.2.12",
@@ -1102,7 +1127,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-05T03:52:51Z",
+  "generatedAt": "2026-10-05T13:39:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

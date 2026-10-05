@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "wings",
   "fqn": "wings.binhonglee.github.com",
-  "current": "134284ffb295246876fac62b1dddaef3407371ff",
+  "current": "85cfd0ca5144ed73a8f2511165cd4c7b8f306469",
   "author": "BinHong Lee",
   "description": "A simple cross language struct and enum file generator.",
   "license": "MIT",
@@ -94,7 +94,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-05T03:54:26Z",
+  "generatedAt": "2026-10-05T13:42:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
