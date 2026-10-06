@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "libp2p",
   "fqn": "nim-libp2p.vacp2p.github.com",
-  "current": "dc44aee87c27f841303193e5f55ad38b424cebf4",
+  "current": "4764fef250f62efacbd4df918be5e0757d66e261",
   "author": "Status Research & Development GmbH",
   "description": "LibP2P implementation",
   "license": "MIT",
@@ -17,7 +17,21 @@
   ],
   "releases": [
     {
+      "v": "2.4.1@8768d4dadcd55de1c23a0056a9b3facdd55c9bbb",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
       "v": "2.4.0@b2c2473a0974506ddd2c50d20995fc4284f39900",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": []
+    },
+    {
+      "v": "2.3.7@ac074ac538f44fa0c94528853bd05a1b43fbb6c0",
       "r": [],
       "S": "HasUnknownNimbleFile",
       "E": "ambiguous nimble file",
@@ -437,7 +451,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-06T12:50:17Z",
+  "generatedAt": "2026-10-06T22:25:36Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -457,8 +471,6 @@
       "v1.15.1",
       "v1.15.2",
       "v1.15.3",
-      "v1.4.0",
-      "v1.5.0",
       "v1.6.0",
       "v1.7.0",
       "v1.7.1",
@@ -483,7 +495,9 @@
       "v2.3.4",
       "v2.3.5",
       "v2.3.6",
-      "v2.4.0"
+      "v2.3.7",
+      "v2.4.0",
+      "v2.4.1"
     ],
     "tagVersions": {
       "v1.10.0": "1.10.0",
@@ -499,8 +513,6 @@
       "v1.15.1": "1.15.1",
       "v1.15.2": "1.15.2",
       "v1.15.3": "1.15.3",
-      "v1.4.0": "1.4.0",
-      "v1.5.0": "1.5.0",
       "v1.6.0": "1.6.0",
       "v1.7.0": "1.7.0",
       "v1.7.1": "1.7.1",
@@ -525,9 +537,11 @@
       "v2.3.4": "2.3.4",
       "v2.3.5": "2.3.5",
       "v2.3.6": "2.3.6",
-      "v2.4.0": "2.4.0"
+      "v2.3.7": "2.3.7",
+      "v2.4.0": "2.4.0",
+      "v2.4.1": "2.4.1"
     },
-    "latest": "v2.4.0"
+    "latest": "v2.4.1"
   },
   "allDeps": {
     "packages": [

@@ -6,36 +6,43 @@
   "author": "Jacek Sieka",
   "description": "Status Research & Development GmbH",
   "license": "MIT",
-  "nim": "1.6.0",
+  "nim": "1.6.18",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.1.0@3bfb0451bbf42c41526970c05416f433cb97ef0f",
-      "r": [
-        "results",
-        "unittest2"
-      ]
-    },
-    {
-      "v": "0.1.1@6a6929edaf365bf032f00e5cd197d0eeb7a0467e",
+      "v": "0.1.1@039a037973af30955c9255763053aeb3947c99e3",
       "r": [
         "results >= 0.5.0",
         "unittest2 >= 0.2.0"
-      ],
-      "m": "1.6.18"
+      ]
     },
     {
-      "v": "0.2.0@c4a3f68afa88d9117bea9aa13a13cd2db94c782c",
+      "v": "0.1.0@6dd93feb60f4cded3c05e7af7209cf63fb677893",
       "r": [
-        "results >= 0.5.0",
-        "unittest2 >= 0.3.0"
+        "results",
+        "unittest2"
       ],
-      "m": "2.0.6"
+      "m": "1.6.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-06T12:50:35Z",
+  "generatedAt": "2026-10-06T22:25:46Z",
+  "forge": {
+    "archives": {
+      "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
+      "zip": "/archive/refs/tags/{tag}.zip"
+    },
+    "releases": [
+      "v0.1.0",
+      "v0.1.1"
+    ],
+    "tagVersions": {
+      "v0.1.0": "0.1.0",
+      "v0.1.1": "0.1.1"
+    },
+    "latest": "v0.1.1"
+  },
   "allDeps": {
     "packages": [
       "results",
