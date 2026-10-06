@@ -5,25 +5,33 @@
   "current": "81dbb412bcf5621d346d16f8f97a248b32119dad",
   "author": "Davide Galilei",
   "description": "A wrapper to Tesseract OCR library for Nim",
-  "license": "MIT",
+  "license": "Unlicense",
   "srcDir": "src",
   "releases": [
     {
-      "v": "0.2.0@d805d41fe9be35dce8e078e716217727ffc7dd97",
+      "v": "0.3.0@81dbb412bcf5621d346d16f8f97a248b32119dad^",
       "r": [
         "pixie"
       ]
     },
     {
+      "v": "0.2.0@d805d41fe9be35dce8e078e716217727ffc7dd97",
+      "r": [
+        "pixie"
+      ],
+      "l": "MIT"
+    },
+    {
       "v": "0.1.0@fe160aa3bfbbbe039d4a9192fb5643c465889f47",
       "r": [
         "pixie"
-      ]
+      ],
+      "l": "MIT"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-05T23:52:51Z",
+  "generatedAt": "2026-10-06T04:39:18Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
