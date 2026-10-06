@@ -112,6 +112,22 @@
       ]
     },
     {
+      "v": "4.6.2@06d125740e2a84f1ae0f876a4d2e061ef3604b13",
+      "r": [
+        "checksums >= 0.1.0",
+        "cligen >= 1.6.14",
+        "illwill #2fe96f5c5a6e216e84554d92090ce3d47460667a",
+        "regex #head",
+        "httpx >= 0.3.7",
+        "microasynchttpserver >= 0.11.0",
+        "httpbeast >= 0.4.2",
+        "nimja 0.8.7",
+        "websocket >= 0.5.2",
+        "websocketx >= 0.1.2",
+        "nimcrypto >= 0.3.9"
+      ]
+    },
+    {
       "v": "4.6.1@689e3e4aa03174b219d3a54e73c7915c1617fbbc",
       "r": [
         "checksums >= 0.1.0",
@@ -500,6 +516,23 @@
     },
     {
       "v": "2.9.7@bed3612d0d7b6ad9791b6403c8d3ebe5b609a8b7",
+      "r": [
+        "cligen >= 1.6.14",
+        "illwill >= 0.3.1",
+        "regex #199e696a1b0e0db72e2e5a657926e5b944e6ae2d",
+        "httpx >= 0.3.7",
+        "microasynchttpserver >= 0.11.0",
+        "httpbeast >= 0.4.2",
+        "nimja >= 0.8.7",
+        "websocket >= 0.5.2",
+        "websocketx >= 0.1.2",
+        "nimcrypto >= 0.3.9",
+        "oauth >= 0.10",
+        "nimpy >= 0.2.0"
+      ]
+    },
+    {
+      "v": "2.9.2@7089cf54d1c4df58ac0fe6a1bf85d4f1e01cb9c2",
       "r": [
         "cligen >= 1.6.14",
         "illwill >= 0.3.1",
@@ -1105,7 +1138,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-06T04:36:54Z",
+  "generatedAt": "2026-10-06T12:48:55Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

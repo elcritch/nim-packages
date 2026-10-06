@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "bro",
   "fqn": "bro.openpeeps.github.com",
-  "current": "0f696ec2b61526d26f2a287bd3c50ec1b0108066",
+  "current": "8c89c3e5fcc35725f8d9f4522622afdec1a8ba2e",
   "author": "George Lemon",
   "description": "CSS preprocessor alternative to SassC/DartSass",
   "license": "LGPL-3.0-or-later",
@@ -35,7 +35,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-06T04:34:32Z",
+  "generatedAt": "2026-10-06T12:45:58Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

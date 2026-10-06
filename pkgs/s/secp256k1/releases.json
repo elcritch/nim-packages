@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "secp256k1",
   "fqn": "nim-secp256k1.status-im.github.com",
-  "current": "4e1ccd554777e4f9f790176bcffd8009a75fd2b7",
+  "current": "37be37f5099c136f94d5891deb8284a754b70b5a",
   "author": "Status Research & Development GmbH",
   "description": "A wrapper for the libsecp256k1 C library",
   "license": "Apache License 2.0",
@@ -15,7 +15,7 @@
   ],
   "releases": [
     {
-      "v": "0.8.0.8.0@4e1ccd554777e4f9f790176bcffd8009a75fd2b7^",
+      "v": "0.8.0.8.0@4e1ccd554777e4f9f790176bcffd8009a75fd2b7",
       "r": [
         "nimcrypto >= 0.7.0",
         "results >= 0.5.0",
@@ -34,7 +34,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-06T04:40:48Z",
+  "generatedAt": "2026-10-06T12:54:04Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

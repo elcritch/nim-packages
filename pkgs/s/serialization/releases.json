@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "serialization",
   "fqn": "nim-serialization.status-im.github.com",
-  "current": "04c08d3095df8da4b3e91d912d75dae3facd21ef",
+  "current": "fba899844919674c80ede27a4e96eaa9e26fac2f",
   "author": "Status Research & Development GmbH",
   "description": "A modern and extensible serialization framework for Nim",
   "license": "Apache License 2.0",
@@ -148,7 +148,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-06T04:40:52Z",
+  "generatedAt": "2026-10-06T12:54:07Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

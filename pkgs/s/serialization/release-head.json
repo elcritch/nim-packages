@@ -1,1 +1,1 @@
-{"v":"#head@04c08d3095df8da4b3e91d912d75dae3facd21ef","r":["faststreams >= 0.5.0","stew >= 0.5.0","unittest2 >= 0.2.0"]}
+{"v":"#head@fba899844919674c80ede27a4e96eaa9e26fac2f","r":["faststreams >= 0.6.0","stew >= 0.6.0","unittest2 >= 0.3.0"],"m":"2.0.16"}

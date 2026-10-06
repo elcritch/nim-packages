@@ -1,1 +1,1 @@
-{"v":"#head@87504d0e58cb1203243c661275a5d5ac06cc6fc5","r":["nimcrypto >= 0.7.0","results >= 0.5.0","stew >= 0.5.0","taskpools >= 0.2.2"],"i":["blscurve","vendor"],"j":["blscurve.nim"],"m":"2.0.14"}
+{"v":"#head@3bf34027a2eff87e5fe8418bc97f09219452823a","r":["nimcrypto >= 0.7.0","results >= 0.5.0","stew >= 0.5.0","taskpools >= 0.2.2"],"i":["blscurve","vendor"],"j":["blscurve.nim"],"m":"2.0.14"}

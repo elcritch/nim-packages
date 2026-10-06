@@ -10,16 +10,6 @@
   "srcDir": "src",
   "releases": [
     {
-      "v": "1.1.0@921a3f6606180aa0ce8e0f83b5ab83f3ecfbe3cb",
-      "r": [
-        "flatty >= 0.3.4",
-        "zippy >= 0.10.12",
-        "nimsimd >= 1.2.9",
-        "pretty >= 0.1.0",
-        "gh:ferus-web/nim-gmp >= 0.1.0"
-      ]
-    },
-    {
       "v": "1.0.44@cce910b5012172072538f7b0787ec9c2cea5151d",
       "r": [
         "flatty >= 0.3.4",
@@ -112,7 +102,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-06T04:38:05Z",
+  "generatedAt": "2026-10-06T12:50:37Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -141,8 +131,6 @@
       "zippy"
     ],
     "urls": [],
-    "unresolved": [
-      "gh:ferus-web/nim-gmp"
-    ]
+    "unresolved": []
   }
 }

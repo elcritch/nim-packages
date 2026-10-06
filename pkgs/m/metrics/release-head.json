@@ -1,1 +1,1 @@
-{"v":"#head@2026339330a392522c43e8c0cf68f8f677af6715","r":["chronos >= 4.0.3","results >= 0.5.0","stew >= 0.5.2","unittest2 >= 0.2.0"]}
+{"v":"#head@8e79532e752e4c8d4d13b1c268b3ea15d83dbc4c","r":["chronos >= 4.0.3","results >= 0.5.0","stew >= 0.5.2","unittest2 >= 0.3.0"],"m":"2.0.6"}

@@ -1,1 +1,1 @@
-{"v":"#head@d3b67712a3334ab4ded2809cc793e9cd7fed5fae","r":["nimblas >= 0.3.1","nimlapack >= 0.3.1","nimcuda >= 0.2.0","nimcl >= 0.1.3","clblast >= 0.0.2","stb_image","zip","untar"]}
+{"v":"#head@dcc220c8e3066fe0c89de4e0debc20ea2cb349d6","r":["nimblas >= 0.3.1","nimlapack >= 0.3.1","nimcuda >= 0.2.0","nimcl >= 0.1.3","clblast >= 0.0.2","stb_image","zip","untar"]}
