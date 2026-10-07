@@ -69,6 +69,12 @@
       ]
     },
     {
+      "v": "0.7.2@0c6522728579fd5e01071b29a6e26ca9eedf67f2",
+      "r": [
+        "arraymancer >= 0.7.0"
+      ]
+    },
+    {
       "v": "0.7.1@f1e21fdc15e4b314ad73894f0ceb1db81f2303ba",
       "r": [
         "arraymancer >= 0.7.0"
@@ -221,7 +227,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-07T12:44:34Z",
+  "generatedAt": "2026-10-07T22:47:10Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

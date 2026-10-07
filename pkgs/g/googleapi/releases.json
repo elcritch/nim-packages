@@ -35,13 +35,6 @@
       "a": "treeform"
     },
     {
-      "v": "0.1.1@bbb68569afa2938fb2503ef6f79551216e3294a3",
-      "r": [
-        "quickjwt >= 0.1.0"
-      ],
-      "a": "treeform"
-    },
-    {
       "v": "0.1.0@e2153b7ffe9c916656bf78ba05fa9e683265710e",
       "r": [
         "quickjwt >= 0.1.0"
@@ -51,7 +44,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-07T12:41:21Z",
+  "generatedAt": "2026-10-07T22:43:57Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -69,10 +62,10 @@
   },
   "allDeps": {
     "packages": [
-      "bearssl > 0.1.1",
-      "jwt > 0.1.1",
-      "quickjwt <= 0.1.1",
-      "unittest2 > 0.1.1"
+      "bearssl > 0.1.0",
+      "jwt > 0.1.0",
+      "quickjwt <= 0.1.0",
+      "unittest2 > 0.1.0"
     ],
     "urls": [],
     "unresolved": [
