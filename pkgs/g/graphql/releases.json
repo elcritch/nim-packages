@@ -8,12 +8,11 @@
   "license": "Apache License 2.0",
   "nim": "1.2.0",
   "skipDirs": [
-    "tests",
-    "resources"
+    "tests"
   ],
   "releases": [
     {
-      "v": "0.1.0@3c1591119ed14a5fd5424feb544145a5d9eb9742",
+      "v": "0.1.0@269e12ff6eb81503a4b25bc280d8aa74a861847d",
       "r": [
         "faststreams",
         "stew"
@@ -335,7 +334,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-06T22:23:20Z",
+  "generatedAt": "2026-10-07T04:03:59Z",
   "allDeps": {
     "packages": [
       "bearssl > 0.2.24",

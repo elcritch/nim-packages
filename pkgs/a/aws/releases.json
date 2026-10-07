@@ -38,6 +38,13 @@
       ]
     },
     {
+      "v": "0.1.4@da9f5918e7a58170481c4dc7884d29eb3302a837",
+      "r": [
+        "colors >= 0.1.0",
+        "jsony_plus >= 0.1.0"
+      ]
+    },
+    {
       "v": "0.1.5@2312f8a27f1bc86c267a54e3cc831b297798b77c",
       "r": [
         "colors >= 0.1.0",
@@ -75,7 +82,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-06T22:19:23Z",
+  "generatedAt": "2026-10-07T04:00:15Z",
   "allDeps": {
     "packages": [
       "colors",

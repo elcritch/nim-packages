@@ -1,1 +1,1 @@
-{"v":"#head@bd0c0cfe05464ac6a865c869c685e697c23639eb","r":["chronos >= 4.2.2","json_rpc >= 0.6.0","with >= 0.5.0","chronicles >= 0.12.2","serialization >= 0.5.2","json_serialization >= 0.4.4","stew >= 0.5.0","regex >= 0.26.3","unittest2 >= 0.2.5"],"g":true,"m":"2.2.12"}
+{"v":"#head@487ab875fe86548da10ca361a2dceb6a3858eaf8","r":["chronos >= 4.2.2","json_rpc >= 0.6.0","with >= 0.5.0","chronicles >= 0.12.2","serialization >= 0.5.2","json_serialization >= 0.4.4","stew >= 0.5.0","regex >= 0.26.3","unittest2 >= 0.2.5"],"g":true,"m":"2.2.12"}
