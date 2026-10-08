@@ -83,6 +83,17 @@
       ]
     },
     {
+      "v": "1.5.0@441efcab5f74fbb7b3e1e4a5fd70c60dc2d7e5fa",
+      "r": [
+        "gh:inv2004/illwill",
+        "zippy",
+        "asciigraph",
+        "parsetoml",
+        "gh:inv2004/jsony #non_quoted_key"
+      ],
+      "m": "1.6.10"
+    },
+    {
       "v": "1.4.5@94aca7dd9f63fc9e24df76611698ec10db73bd70",
       "r": [
         "gh:inv2004/illwill",
@@ -591,7 +602,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-07T22:51:11Z",
+  "generatedAt": "2026-10-08T04:31:51Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

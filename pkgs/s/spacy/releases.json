@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "spacy",
   "fqn": "spacy.treeform.github.com",
-  "current": "521be7bb29f6eb2b3c38c6c171eaf48f1b528701",
+  "current": "5d77384202a7b4377423310b94e75ef987c1dcb9",
   "author": "Spacy",
   "description": "Spatial data structures for Nim.",
   "license": "MIT",
@@ -43,7 +43,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-07T22:50:03Z",
+  "generatedAt": "2026-10-08T04:30:08Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
