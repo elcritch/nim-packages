@@ -42,6 +42,13 @@
       ]
     },
     {
+      "v": "0.1.2@5c3689600d1dac3e65d99856c17773422c99331b",
+      "r": [
+        "random >= 0.5.3"
+      ],
+      "m": "0.17.3"
+    },
+    {
       "v": "0.1.1@6d7858289be32827e6bec7b246b26c9328e19342",
       "r": [
         "random >= 0.5.3"
@@ -58,7 +65,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-08T04:13:52Z",
+  "generatedAt": "2026-10-08T12:47:26Z",
   "allDeps": {
     "packages": [
       "random"

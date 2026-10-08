@@ -2,9 +2,9 @@
   "cv": 19,
   "name": "debra",
   "fqn": "nim-debra.elijahr.github.com",
-  "current": "741c633636d7eff5a5da52f1c3165557dbfc599a",
-  "author": "elijahr <elijahr+debra@gmail.com>",
-  "description": "DEBRA+ safe memory reclamation for lock-free data structures",
+  "current": "e4b8df260027a46037afba0b9298b25f6889b836",
+  "author": "Elijah Shaw-Rutschman",
+  "description": "Compatibility facade for lockfree/smr/nebr — DEBRA+ safe memory reclamation",
   "license": "MIT",
   "nim": "2.2.10",
   "srcDir": "src",
@@ -13,39 +13,57 @@
   ],
   "releases": [
     {
+      "v": "0.11.0@e4b8df260027a46037afba0b9298b25f6889b836^",
+      "r": [
+        "typestates >= 0.12.0",
+        "unittest2 >= 0.2.0",
+        "gh:elijahr/lockfree >= 0.1.0"
+      ]
+    },
+    {
       "v": "0.10.0@8cb4ded299117de55f5d3455d987f80ca5161845",
       "r": [
         "typestates >= 0.12.0",
         "unittest2 >= 0.2.0"
-      ]
+      ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures"
     },
     {
       "v": "0.9.0@175efe15dcda2e50315e9ede95a5e995bbc988f5",
       "r": [
         "typestates >= 0.12.0",
         "unittest2 >= 0.2.0"
-      ]
+      ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures"
     },
     {
       "v": "0.8.0@8c59f190b57f0e29572fb4077bd8105e31700437",
       "r": [
         "typestates >= 0.10.0",
         "unittest2 >= 0.2.0"
-      ]
+      ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures"
     },
     {
       "v": "0.7.3@6425d48ae97189c6f0d3a75ea45ad7e8baa5ca1c",
       "r": [
         "typestates >= 0.7.1",
         "unittest2 >= 0.2.0"
-      ]
+      ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures"
     },
     {
       "v": "0.7.2@58f3b0e44d4910476f82bdaa833150ca825b00dc",
       "r": [
         "typestates >= 0.7.1",
         "unittest2 >= 0.2.0"
-      ]
+      ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures"
     },
     {
       "v": "0.7.1@1c8d7932588d52ea5e0143fe9603ec091c84d88d",
@@ -53,6 +71,8 @@
         "typestates >= 0.7.1",
         "unittest2 >= 0.2.0"
       ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures",
       "m": "2.2.0"
     },
     {
@@ -61,6 +81,8 @@
         "typestates >= 0.7.1",
         "unittest2 >= 0.2.0"
       ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures",
       "m": "2.2.0"
     },
     {
@@ -69,6 +91,8 @@
         "typestates >= 0.6.0",
         "unittest2 >= 0.2.0"
       ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures",
       "m": "2.2.0"
     },
     {
@@ -77,6 +101,8 @@
         "typestates >= 0.6.0",
         "unittest2 >= 0.2.0"
       ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures",
       "m": "2.2.0"
     },
     {
@@ -85,6 +111,8 @@
         "typestates >= 0.2.1",
         "unittest2 >= 0.2.0"
       ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures",
       "m": "2.2.0"
     },
     {
@@ -93,6 +121,8 @@
         "typestates >= 0.2.1",
         "unittest2 >= 0.2.0"
       ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures",
       "m": "2.2.0"
     },
     {
@@ -101,6 +131,8 @@
         "typestates >= 0.2.1",
         "unittest2 >= 0.2.0"
       ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures",
       "m": "2.2.0"
     },
     {
@@ -109,6 +141,8 @@
         "typestates >= 0.2.1",
         "unittest2 >= 0.2.0"
       ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures",
       "m": "2.2.0"
     },
     {
@@ -117,6 +151,8 @@
         "typestates >= 0.2.1",
         "unittest2 >= 0.2.0"
       ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures",
       "m": "2.2.0"
     },
     {
@@ -125,12 +161,14 @@
         "typestates >= 0.2.1",
         "unittest2 >= 0.2.0"
       ],
+      "a": "elijahr <elijahr+debra@gmail.com>",
+      "d": "DEBRA+ safe memory reclamation for lock-free data structures",
       "m": "2.2.0"
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-07T22:42:24Z",
+  "generatedAt": "2026-10-08T12:50:00Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -140,6 +178,7 @@
       "v0.1.0",
       "v0.1.1",
       "v0.10.0",
+      "v0.11.0",
       "v0.2.0",
       "v0.3.0",
       "v0.3.1",
@@ -157,6 +196,7 @@
       "v0.1.0": "0.1.0",
       "v0.1.1": "0.1.1",
       "v0.10.0": "0.10.0",
+      "v0.11.0": "0.11.0",
       "v0.2.0": "0.2.0",
       "v0.3.0": "0.3.0",
       "v0.3.1": "0.3.1",
@@ -170,7 +210,7 @@
       "v0.8.0": "0.8.0",
       "v0.9.0": "0.9.0"
     },
-    "latest": "v0.10.0"
+    "latest": "v0.11.0"
   },
   "allDeps": {
     "packages": [
@@ -178,6 +218,8 @@
       "unittest2"
     ],
     "urls": [],
-    "unresolved": []
+    "unresolved": [
+      "gh:elijahr/lockfree"
+    ]
   }
 }

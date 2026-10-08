@@ -2,20 +2,29 @@
   "cv": 19,
   "name": "lockfreequeues",
   "fqn": "lockfreequeues.elijahr.github.com",
-  "current": "9c176a762a0805f3a8292383f4ef4dccbc69e9ab",
+  "current": "120fdc74c1dab57395ca5a96e1d827d7795ebcff",
   "author": "Elijah Shaw-Rutschman",
-  "description": "Lock-free queue implementations for Nim.",
+  "description": "Compatibility facade for lockfree — lock-free queues for Nim.",
   "license": "MIT",
   "nim": "2.2.0",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "5.1.0@120fdc74c1dab57395ca5a96e1d827d7795ebcff^",
+      "r": [
+        "unittest2",
+        "typestates >= 0.7.2",
+        "gh:elijahr/lockfree >= 0.1.0"
+      ]
+    },
     {
       "v": "4.2.0@922aecedbc55482567b0e7ece9fe245f9f095b03",
       "r": [
         "unittest2",
         "typestates >= 0.7.2",
         "debra >= 0.7.0"
-      ]
+      ],
+      "d": "Lock-free queue implementations for Nim."
     },
     {
       "v": "4.1.0@a57eaec642269da98e718b0af60f9f8a59c85b9c",
@@ -23,7 +32,8 @@
         "unittest2",
         "typestates >= 0.6.0",
         "debra >= 0.5.0"
-      ]
+      ],
+      "d": "Lock-free queue implementations for Nim."
     },
     {
       "v": "4.0.0@f910881f42ae99b0fa1d450ca2bcb5dc497d5b79",
@@ -31,7 +41,8 @@
         "unittest2",
         "typestates >= 0.3.1",
         "debra >= 0.4.0"
-      ]
+      ],
+      "d": "Lock-free queue implementations for Nim."
     },
     {
       "v": "3.2.0@078f07204ccc66ad00976f15cb51d6b9d11f1da7",
@@ -39,56 +50,67 @@
         "unittest2",
         "typestates >= 0.3.1",
         "debra >= 0.3.0"
-      ]
+      ],
+      "d": "Lock-free queue implementations for Nim."
     },
     {
       "v": "3.1.0@bc565f51944b19924eca22cb2a1b8fa2f2f30540",
       "r": [],
+      "d": "Lock-free queue implementations for Nim.",
       "m": "2.0.0"
     },
     {
       "v": "3.0.0@4caa6bc304205e35021249ba5202d1da53e7f8fb",
       "r": [],
+      "d": "Lock-free queue implementations for Nim.",
       "m": "1.2.0"
     },
     {
       "v": "2.1.0@b02e862ed14f1c2a9a53563844158c90edca580b",
       "r": [],
+      "d": "Lock-free queue implementations for Nim.",
       "m": "1.2.0"
     },
     {
       "v": "2.0.6@fca895f65b61a5f13bdda6f54c92f8870c0b088d",
       "r": [],
+      "d": "Lock-free queue implementations for Nim.",
       "m": "1.2.0"
     },
     {
       "v": "2.0.5@6124c69c5e118f7970bf4b573756cad8dbd9d0a9",
       "r": [],
+      "d": "Lock-free queue implementations for Nim.",
       "m": "1.2.0"
     },
     {
       "v": "2.0.4@dcaa4bf1c8b32483701d08b222dc6c2c6baa7d60",
       "r": [],
+      "d": "Lock-free queue implementations for Nim.",
       "m": "1.2.0"
     },
     {
       "v": "2.0.3@4b6bb8497ad9f63c65b56251dca9c023010fa773",
       "r": [],
+      "d": "Lock-free queue implementations for Nim.",
       "m": "1.2.0"
     },
     {
       "v": "2.0.2@e3aac9eb180cbc3db18cee390affcac3468967bb",
       "r": [],
+      "d": "Lock-free queue implementations for Nim.",
       "m": "1.2.0"
     },
     {
       "v": "2.0.1@bcb255c32f97c339640d91b539b7933f4073c594",
       "r": [],
+      "d": "Lock-free queue implementations for Nim.",
       "m": "1.2.0"
     },
     {
       "v": "2.0.0@d0dfab30272f46f613eecbf0bb22c34c89147cbd",
       "r": [],
+      "d": "Lock-free queue implementations for Nim.",
       "m": "1.2.0"
     },
     {
@@ -106,7 +128,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-08T04:22:54Z",
+  "generatedAt": "2026-10-08T12:53:29Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -115,22 +137,26 @@
     "releases": [
       "v4.0.0",
       "v4.1.0",
-      "v4.2.0"
+      "v4.2.0",
+      "v5.1.0"
     ],
     "tagVersions": {
       "v4.0.0": "4.0.0",
       "v4.1.0": "4.1.0",
-      "v4.2.0": "4.2.0"
+      "v4.2.0": "4.2.0",
+      "v5.1.0": "5.1.0"
     },
-    "latest": "v4.2.0"
+    "latest": "v5.1.0"
   },
   "allDeps": {
     "packages": [
-      "debra > 3.1.0",
+      "debra > 3.1.0 & <= 4.2.0",
       "typestates > 3.1.0",
       "unittest2 > 3.1.0"
     ],
     "urls": [],
-    "unresolved": []
+    "unresolved": [
+      "gh:elijahr/lockfree"
+    ]
   }
 }

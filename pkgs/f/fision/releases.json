@@ -2330,6 +2330,7 @@
       "gh:disruptek/cutelog",
       "gh:disruptek/nimcrypto",
       "gh:disruptek/testes",
+      "gh:elijahr/lockfree",
       "gh:HugoGranstrom/cdt",
       "gh:iffy/asynctools",
       "gh:jackmott/easygl",

@@ -746,6 +746,18 @@
       "o": {}
     },
     {
+      "v": "0.6.1@4c2f8a819a86fab8a88cebb2e4b2964a4d7c4aef",
+      "r": [
+        "with",
+        "macroutils"
+      ],
+      "m": "1.2.4",
+      "b": "",
+      "k": [],
+      "p": [],
+      "o": {}
+    },
+    {
       "v": "0.6.0@bbc389c10850f768308e74d414386407e2a9e3a2",
       "r": [
         "with",
@@ -926,7 +938,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-08T04:20:55Z",
+  "generatedAt": "2026-10-08T12:52:06Z",
   "allDeps": {
     "packages": [
       "benchy > 0.11.1",

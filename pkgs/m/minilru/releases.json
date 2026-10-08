@@ -2,19 +2,27 @@
   "cv": 19,
   "name": "minilru",
   "fqn": "nim-minilru.status-im.github.com",
-  "current": "6869fcf686d6681d4c541dd437e10a10f5420722",
+  "current": "a9ff348bbf6a9dfa7ba3737d67462d3c3ed17305",
   "author": "Jacek Sieka",
   "description": "Status Research & Development GmbH",
   "license": "MIT",
-  "nim": "1.6.18",
+  "nim": "2.0.6",
   "srcDir": "src",
   "releases": [
+    {
+      "v": "0.2.0@a9ff348bbf6a9dfa7ba3737d67462d3c3ed17305^",
+      "r": [
+        "results >= 0.5.0",
+        "unittest2 >= 0.3.0"
+      ]
+    },
     {
       "v": "0.1.1@039a037973af30955c9255763053aeb3947c99e3",
       "r": [
         "results >= 0.5.0",
         "unittest2 >= 0.2.0"
-      ]
+      ],
+      "m": "1.6.18"
     },
     {
       "v": "0.1.0@6dd93feb60f4cded3c05e7af7209cf63fb677893",
@@ -27,7 +35,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-08T04:23:30Z",
+  "generatedAt": "2026-10-08T12:53:56Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -35,13 +43,15 @@
     },
     "releases": [
       "v0.1.0",
-      "v0.1.1"
+      "v0.1.1",
+      "v0.2.0"
     ],
     "tagVersions": {
       "v0.1.0": "0.1.0",
-      "v0.1.1": "0.1.1"
+      "v0.1.1": "0.1.1",
+      "v0.2.0": "0.2.0"
     },
-    "latest": "v0.1.1"
+    "latest": "v0.2.0"
   },
   "allDeps": {
     "packages": [

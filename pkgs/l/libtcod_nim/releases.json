@@ -9,8 +9,9 @@
   "nim": "0.18.1",
   "srcDir": "libtcod",
   "installDirs": [
-    "src151",
-    "src170"
+    "src15",
+    "src17",
+    "src112"
   ],
   "installFiles": [
     "libtcod.nim"
@@ -25,8 +26,16 @@
       "j": []
     },
     {
-      "v": "0.99@35d771e1c03abbfed392a452bc0d8b14bfbfc25c",
+      "v": "1.112.0@8c443ae4b9ce80f4632a0ffdfd3f3a43dd893232",
       "r": []
+    },
+    {
+      "v": "0.99@35d771e1c03abbfed392a452bc0d8b14bfbfc25c",
+      "r": [],
+      "i": [
+        "src151",
+        "src170"
+      ]
     },
     {
       "v": "0.98.1@ed11a68f9cae49237466da5ff4efb0636e9571a4",
@@ -79,13 +88,13 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-08T04:22:38Z",
+  "generatedAt": "2026-10-08T12:53:17Z",
   "allDeps": {
     "packages": [
       "sdl1 > 0.97 & <= 0.98.1",
-      "sdl2_nim > 0.99",
-      "winim > 0.99",
-      "x11 > 0.99"
+      "sdl2_nim > 1.112.0",
+      "winim > 1.112.0",
+      "x11 > 1.112.0"
     ],
     "urls": [],
     "unresolved": []
