@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "lockfreequeues",
   "fqn": "lockfreequeues.elijahr.github.com",
-  "current": "c92cb7b83f2c99a4bcb0bcdb043b8811286fd8a0",
+  "current": "0691f069124ea1f7b3280ef1ae56a7024b8d9080",
   "author": "Elijah Shaw-Rutschman",
   "description": "Compatibility facade for lockfree — lock-free queues for Nim.",
   "license": "MIT",
@@ -128,7 +128,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-08T22:58:44Z",
+  "generatedAt": "2026-10-09T04:23:03Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
