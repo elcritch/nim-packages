@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "nimlangserver",
   "fqn": "langserver.nim-lang.github.com",
-  "current": "58168102d92d5742c39ab692aeb7bdbd7cf8df9a",
+  "current": "089bb5e8a0617203f524a0c51a4f5933ad2dbdcf",
   "author": "The core Nim team",
   "description": "Nim language server for IDEs",
   "license": "MIT",
@@ -14,6 +14,14 @@
     "nimlangserver"
   ],
   "releases": [
+    {
+      "v": "1.16.0@fdfb8b1830374f7243755501c4b34ec6c5e7ace7",
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "ambiguous nimble file",
+      "x": [],
+      "p": []
+    },
     {
       "v": "1.14.0@64239660c8ee4484b16e0ef0d1c0bf2e58b0bd2c",
       "r": [],
@@ -119,7 +127,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-09T12:40:14Z",
+  "generatedAt": "2026-10-09T22:21:52Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -131,6 +139,7 @@
       "v1.10.2",
       "v1.12.0",
       "v1.14.0",
+      "v1.16.0",
       "v1.2.0",
       "v1.4.0",
       "v1.6.0",
@@ -142,13 +151,14 @@
       "v1.10.2": "1.10.2",
       "v1.12.0": "1.12.0",
       "v1.14.0": "1.14.0",
+      "v1.16.0": "1.16.0",
       "v1.2.0": "1.2.0",
       "v1.4.0": "1.4.0",
       "v1.6.0": "1.6.0",
       "v1.8.0": "1.8.0",
       "v1.8.1": "1.8.1"
     },
-    "latest": "v1.14.0",
+    "latest": "v1.16.0",
     "prerelease": [
       "latest"
     ]

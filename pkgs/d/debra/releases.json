@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "debra",
   "fqn": "nim-debra.elijahr.github.com",
-  "current": "239104eb52c850e05c4621026c2bfafb0e6afb22",
+  "current": "e8b3b1622d3cc57ff42b2060bd8c36622dbd265e",
   "author": "Elijah Shaw-Rutschman",
   "description": "Compatibility facade for lockfree/smr/nebr — DEBRA+ safe memory reclamation",
   "license": "MIT",
@@ -168,7 +168,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-09T12:36:05Z",
+  "generatedAt": "2026-10-09T22:17:39Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "lockfreequeues",
   "fqn": "lockfreequeues.elijahr.github.com",
-  "current": "0691f069124ea1f7b3280ef1ae56a7024b8d9080",
+  "current": "ae536b64b87207a0bf44f70384f83990ab4e0c4f",
   "author": "Elijah Shaw-Rutschman",
   "description": "Compatibility facade for lockfree — lock-free queues for Nim.",
   "license": "MIT",
@@ -28,9 +28,12 @@
     },
     {
       "v": "4.1.0@a57eaec642269da98e718b0af60f9f8a59c85b9c",
-      "r": [],
-      "S": "HasUnknownNimbleFile",
-      "E": "missing nimble file"
+      "r": [
+        "unittest2",
+        "typestates >= 0.6.0",
+        "debra >= 0.5.0"
+      ],
+      "d": "Lock-free queue implementations for Nim."
     },
     {
       "v": "4.0.0@f910881f42ae99b0fa1d450ca2bcb5dc497d5b79",
@@ -125,7 +128,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-09T12:38:40Z",
+  "generatedAt": "2026-10-09T22:20:17Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
