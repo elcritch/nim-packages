@@ -28,12 +28,9 @@
     },
     {
       "v": "4.1.0@a57eaec642269da98e718b0af60f9f8a59c85b9c",
-      "r": [
-        "unittest2",
-        "typestates >= 0.6.0",
-        "debra >= 0.5.0"
-      ],
-      "d": "Lock-free queue implementations for Nim."
+      "r": [],
+      "S": "HasUnknownNimbleFile",
+      "E": "missing nimble file"
     },
     {
       "v": "4.0.0@f910881f42ae99b0fa1d450ca2bcb5dc497d5b79",
@@ -128,7 +125,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-09T04:23:03Z",
+  "generatedAt": "2026-10-09T12:38:40Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
