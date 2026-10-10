@@ -4,13 +4,13 @@
   "fqn": "cpuwhat.awr1.github.com",
   "current": "a7db6be3849f5371df370be1062b7553febb20ea",
   "author": "A. W. Rohan",
-  "description": "Utilities for Advanced CPU Operations",
+  "description": "Assorted utilities for advanced CPU operations",
   "license": "ISC",
   "nim": "1.0.0",
   "srcDir": "source",
   "releases": [
     {
-      "v": "0.1.0@ba0da88fe43a66357ba22b1f673c7486a94d476d",
+      "v": "0.1.0@798668aeafc57d24f8f72783ec2f6accc325a114",
       "r": []
     },
     {
@@ -23,7 +23,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:25:28Z",
+  "generatedAt": "2026-10-10T16:56:51Z",
   "allDeps": {
     "packages": [
       "cligen > 0.1.0",
