@@ -93,6 +93,16 @@
       "m": "0.17.0"
     },
     {
+      "v": "0.2.0@5e784f09ef3ea5ef3b428d667ca195c47f34db51",
+      "r": [
+        "c2nim >= 0.9.13"
+      ],
+      "x": [
+        "tests"
+      ],
+      "m": "0.17.2"
+    },
+    {
       "v": "0.1.5@6d0abefe8a3c3bb060941cd664fc66dc3cefbd21",
       "r": [
         "c2nim >= 0.9.13"
@@ -160,7 +170,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-10T04:11:48Z",
+  "generatedAt": "2026-10-10T11:56:54Z",
   "allDeps": {
     "packages": [
       "c2nim",

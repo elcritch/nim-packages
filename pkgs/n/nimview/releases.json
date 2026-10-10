@@ -79,15 +79,6 @@
       "p": []
     },
     {
-      "v": "0.2.3@d42ec4198726d228d0d7f30b559433c0648b0234",
-      "r": [
-        "nimpy >= 0.1.1",
-        "nake >= 1.9.0"
-      ],
-      "m": "1.2.10",
-      "p": []
-    },
-    {
       "v": "0.2.2@522eb32424b915a38f3960441c18a076b38d5a7f",
       "r": [
         "nimpy >= 0.1.1",
@@ -139,7 +130,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-10T04:12:24Z",
+  "generatedAt": "2026-10-10T11:57:16Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -174,7 +165,7 @@
       "nake",
       "nimpy",
       "webview <= 0.2.2",
-      "ws > 0.2.3"
+      "ws > 0.2.2"
     ],
     "urls": [],
     "unresolved": [

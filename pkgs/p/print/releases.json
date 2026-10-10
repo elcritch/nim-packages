@@ -14,6 +14,11 @@
       "r": []
     },
     {
+      "v": "1.0.1@1066127918e0bedc5b66a6a3571db6a5aacad4ee",
+      "r": [],
+      "a": "treeform"
+    },
+    {
       "v": "1.0.0@98346282168ff99fc3656e28026c09bd77108c40",
       "r": [],
       "a": "treeform",
@@ -34,7 +39,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-10T04:13:47Z",
+  "generatedAt": "2026-10-10T11:58:06Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",

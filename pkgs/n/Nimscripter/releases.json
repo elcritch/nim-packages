@@ -40,12 +40,6 @@
       ]
     },
     {
-      "v": "1.1.1@eb571a73ade5e4b7bd725d82f9672d224e9130b0",
-      "r": [
-        "gh:disruptek/assume >= 0.7.1"
-      ]
-    },
-    {
       "v": "1.1.0@710ea3ff8ddea7e3cf6e0771f6e6eb628ee2bb49",
       "r": [
         "gh:disruptek/assume >= 0.7.1"
@@ -201,7 +195,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-09-23T18:18:05Z",
+  "generatedAt": "2026-10-10T11:51:59Z",
   "allDeps": {
     "packages": [],
     "urls": [],
