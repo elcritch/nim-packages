@@ -64,6 +64,14 @@
       "m": "1.2.6"
     },
     {
+      "v": "1.1.0@f8fd8f735f7c43b53fbf5ef50d8f146814c8b2fc",
+      "r": [
+        "yaml >= 0.12.0",
+        "cligen >= 0.9.32"
+      ],
+      "m": "1.0.0"
+    },
+    {
       "v": "1.0.0@a190e36841e57e3139c381aa36f70a5d56a20bc3",
       "r": [
         "yaml >= 0.12.0",
@@ -74,7 +82,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-09T22:20:45Z",
+  "generatedAt": "2026-10-10T04:10:34Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
