@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "norm",
   "fqn": "norm.moigagoo.github.com",
-  "current": "dc502f46e7424f37d1396aa715d683059de5ad37",
+  "current": "580654e86415db8fb04253da9fd7e88b478c4763",
   "author": "Constantine Molchanov",
   "description": "Nim ORM for SQLite and PostgreSQL.",
   "license": "MIT",
@@ -343,12 +343,6 @@
       "x": []
     },
     {
-      "v": "1.0.9@52dc7fdfcb451c92ad29e75b8312c8d8c4429ff0",
-      "r": [],
-      "m": "0.19.4",
-      "x": []
-    },
-    {
       "v": "1.0.8@a77193702c3afbd321aa4138ebe920cc12f2aa12",
       "r": [],
       "d": "ORM that doesn't try to outsmart you.",
@@ -424,7 +418,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-08-04T07:06:07Z",
+  "generatedAt": "2026-10-10T21:14:05Z",
   "allDeps": {
     "packages": [
       "chronicles <= 1.0.4",

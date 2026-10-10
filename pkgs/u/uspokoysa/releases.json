@@ -17,17 +17,11 @@
       "r": [
         "nigui 0.2.5"
       ]
-    },
-    {
-      "v": "0.2.0@57be76666f4e40b98e0d29d6dc3eef9989063d3c^",
-      "r": [
-        "nigui 0.2.5"
-      ]
     }
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-05-27T12:38:26Z",
+  "generatedAt": "2026-10-10T21:17:09Z",
   "allDeps": {
     "packages": [
       "nigui"

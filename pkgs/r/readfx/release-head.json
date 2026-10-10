@@ -1,1 +1,1 @@
-{"v":"#head@efd1cf31d2be26e6e345f7096c9276b7fefe7d2a","r":["error://gzfast >= 0.2.2"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/r/readfx/.worktree/readfx.nimble\ncannot resolve package name: gzfast"}
+{"v":"#head@ddb95ca0cec2d182174f7d03e03193fe89bf2174","r":["error://gzfast >= 0.2.2"],"S":"HasBrokenDep","E":"in file: /home/runner/work/nim-packages/nim-packages/pkgs/r/readfx/.worktree/readfx.nimble\ncannot resolve package name: gzfast"}

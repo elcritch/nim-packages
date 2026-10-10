@@ -2,7 +2,7 @@
   "cv": 19,
   "name": "eth",
   "fqn": "nim-eth.status-im.github.com",
-  "current": "65103204746d05d5ec2be33bc42697e9c9ff4e6b",
+  "current": "655c241f4c2f2e122270fba93c3604e45af4fe24",
   "author": "Status Research & Development GmbH",
   "description": "Ethereum Common library",
   "license": "MIT",
@@ -11,6 +11,26 @@
     "tests"
   ],
   "releases": [
+    {
+      "v": "0.9.2@65103204746d05d5ec2be33bc42697e9c9ff4e6b",
+      "r": [
+        "chronicles >= 0.12.4",
+        "chronos >= 4.0.1",
+        "confutils >= 0.1.1",
+        "metrics >= 0.2.0",
+        "minilru >= 0.1.1",
+        "nat_traversal",
+        "nimcrypto >= 0.7.0",
+        "results >= 0.5.0",
+        "secp256k1 >= 0.7.0",
+        "snappy",
+        "sqlite3_abi >= 3.53.4.1",
+        "stew >= 0.5.0",
+        "stint >= 0.8.0",
+        "testutils >= 0.8.5",
+        "unittest2 >= 0.2.0"
+      ]
+    },
     {
       "v": "0.9.1@c3d1ad4f570f4529cb71e73095a44f0504e581a3",
       "r": [
@@ -135,7 +155,7 @@
   ],
   "releaseCacheVersion": 19,
   "tags": true,
-  "generatedAt": "2026-10-10T16:57:19Z",
+  "generatedAt": "2026-10-10T21:10:11Z",
   "forge": {
     "archives": {
       "tar.gz": "/archive/refs/tags/{tag}.tar.gz",
@@ -143,13 +163,15 @@
     },
     "releases": [
       "v0.9.0",
-      "v0.9.1"
+      "v0.9.1",
+      "v0.9.2"
     ],
     "tagVersions": {
       "v0.9.0": "0.9.0",
-      "v0.9.1": "0.9.1"
+      "v0.9.1": "0.9.1",
+      "v0.9.2": "0.9.2"
     },
-    "latest": "v0.9.1"
+    "latest": "v0.9.2"
   },
   "allDeps": {
     "packages": [
